@@ -70,6 +70,21 @@
 			- [[dinsdag 29 mei 1984]]
 		- 1985
 			- [[woensdag 2 januari 1985]]
+			- [[zondag 20 januari 1985]]
+			- [[zondag 27 januari 1985]]
+			- [[zondag 3 februari 1985]]
+			- [[zondag 10 februari 1985]]
+			- [[zaterdag 16 februari 1985]]
+			- [[maandag 25 februari 1985]]
+			- [[zondag 5 mei 1985]]
+			- [[dinsdag 14 mei 1985]]
+			- [[maandag 20 mei 1985]]
+			- [[woensdag 22 mei 1985]]
+			- [[woensdag 10 juli 1985]]
+			- [[zondag 22 september 1985]]
+			- [[donderdag 28 september 1985]]
+			- [[maandag 23 december 1985]]
+			- [[maandag 30 december 1985]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]

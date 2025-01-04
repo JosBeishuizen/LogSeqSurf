@@ -1,0 +1,2 @@
+# 1230 maandag 30 december 1985
+17.45 uur. Weer een kleine mijlpaal in Cathrien's ontwikkeling: afgelopen zaterdag draaide ze zich voor het eerst om van rug naar buik. En nog wel in Ermelo bij Vader en Moeder, die natuurlijk heel trots waren.
