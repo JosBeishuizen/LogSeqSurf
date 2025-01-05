@@ -95,7 +95,7 @@
 			- [[donderdag 26 februari 1987]]
 			- [[zondag 14 juni 1987]]
 			- [[zaterdag 18 juli 1987]]
-			- [[0720 maandag 20 juli 1987]]
+			- [[maandag 20 juli 1987]]
 			- [[0721 dinsdag 21 juli 1987]]
 			- [[0722 woensdag 22 juli 1987]]
 			- [[0723 donderdag 23 juli 1987]]
