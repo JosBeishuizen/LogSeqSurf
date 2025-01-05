@@ -1,0 +1,6 @@
+# 1126 donderdag 26 november 1987
+Je raakt op zeker moment in een spiraal: je komt er niet toe iets op te schrijven en vergeet vervolgens hoe belangrijk het is om af en toe door deze aantekeningen weer wat orde op zaken te stellen. Terug naar het ½10 regime! Soms vergeet je gewoon afspraken die je met jezelf hebt gemaakt. Als ik ‘s morgens op de VU kom zeg ik dikwijls tegen mezelf: je weet toch hoe je moet beginnen: planten water, psalm lezen, planning maken. Plannen en zaken opschrijven die in je opkomen. Allemaal heel belangrijk. Sipke vertelde dat Piaget altijd met een klein bloknootje op zak liep. Precies.
+  
+Wie is God? Is Hij het niet die je steeds weer uit de put haalt? Vaak via andere mensen om je heen. Je moet hem wel een beetje de kans geven om je uit de put te halen. Je moet er in ieder geval mee zitten. Waarom voorkomt Hij niet dat je in de put valt? Waarom voorkomt je vriend of vriendin niet dat je soms in de put valt? Dat kan hij of zij niet, ook al wil hij of zij dat zo graag. Is God dan niet almachtig? Ja, want hij kan iedereen altijd uit de put halen. Hij blijft daarmee doorgaan tot iedereen eruit is. Zo moet het zitten.
+  
+Sara is vanochtend met de papfles begonnen. Ze let steeds meer om haar omgeving en lacht veel, ook om Cathrien. 

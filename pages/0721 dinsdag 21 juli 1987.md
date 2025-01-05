@@ -1,0 +1,2 @@
+# 0721 dinsdag 21 juli 1987
+Nacht en ochtend gingen goed. Sara heeft heel goed geslapen en gedronken. Om 12 uur en 4 uur wakker gemaakt. Vanochtend een beetje gehuild in de slaap. Veel gelachen bij het ontwaken. Ze ligt al een beetje naar de blauwe doek te kijken. Aan C. verteld dat de poes dood is, weg, komt niet meer terug, was ziek en moe, etc.  

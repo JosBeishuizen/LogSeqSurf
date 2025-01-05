@@ -1,0 +1,2 @@
+# 0826 woensdag 26 augustus 1987
+Hard gewerkt aan het liber amicorum voor SF. Weinig te melden. Tot 4 uur in de ochtend doorgegaan aan mijn eigen stuk over de leerlingcomponent van intelligentie tutoriële systemen. Niet veel gemerkt/onthouden van wat er mij heen gebeurde.  

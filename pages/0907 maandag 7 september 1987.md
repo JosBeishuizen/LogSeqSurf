@@ -1,0 +1,5 @@
+# 0907 maandag 7 september 1987
+Een leuk spelletje dat je met Cathrien kunt doen: Wat kun je kopen bij Oom Kees? Worst? Ja. Kaas? Ja. Appels? Als Cathrien goed oplet zegt ze dan: “Nee, hè?”. Ze vindt het erg leuk en wil steeds dat je doorgaat.
+Sara is zo gemakkelijk dat ik moet uitkijken haar niet te weinig aandacht te geven. Ze vindt het juist zo leuk om te keutelen en te lachen. Ze hoeft geen speen in bed en ook het popje mist ze niet (?) Ik ben geneigd om het er steeds bij te leggen, maar Anne vindt vast gewoontes, zoals bij Cathrien, dwingend en daarom onplezierig.
+De maandag begonnen met werkoverleg met de equipe van het proefstation. Elise te Woerd fungeert als stoorzender van het type Anke van Tuyl. Vergt veel geduld waarover ik op dat moment niet beschik. Soms heb ik het gevoel veel botter te moeten worden zodat ik meer aantijgingen over me heen kan laten gaan. Heel moeilijk, zo niet onmogelijk.
+Anne vindt dat ik te weinig tijd aan de kinderen besteed. Omdat ik overal te weinig tijd aan besteed zal dit wel kloppen. Wat te doen? Andere baan zoeken? Gewicht neemt opzienbaren toe. Eet ik lood? 

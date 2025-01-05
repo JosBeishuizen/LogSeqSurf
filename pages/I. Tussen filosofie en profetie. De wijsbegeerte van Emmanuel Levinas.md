@@ -1,0 +1,7 @@
+# I. Tussen filosofie en profetie. De wijsbegeerte van Emmanuel Levinas
+### Biografie 
+Geboren in 1906 in Litauen. Opgegroeid tussen de Hebreeuwse Bijbel een Poesjkin en Tolstoj. 1923 Straatsburg filosofie. Definitief gevestigd in Frankrijk. 1928-1929 Freiburg bij Husserl en Heidegger. 1930 proefschrift. In 1939 genaturaliseerd. Militaire dienst. 1941-1945 krijgsgevangene. Leiding van school die leraren Frans opleidt voor Joodse lagere en middelbare scholen. 1961 Totalité et Infini. Hoogleraar aan de universiteit van Poitiers, 1967 universiteit van Parijs-Nanterre. 1975 eredoctor theologie Leiden. 1995 Parijs overleden.
+### Bronnen: dialogische filosofie en fenomenologie
+De basis is voor Levinas de Hebreeuwse Bijbel. Met Rosenzweig en Rosenstock-Huessey tussen de twee wereldoorlogen tegen het Duitse idealisme, de dominerende positie van het ik. Buber: de ik-het verhouding. Hij stelt daartegenover het primaat van de dialoog. 
+Het vroege werk van Levinas is nog geheel in de lijn van de officiële filosofie. Husserl noemt zijn filosofie egologie. Maar Levinas richt zich vooral tegen Heidegger. Het werk van Levinas geldt terecht als uiterst moeilijk. 
+### Het uitgangspunt: de presentie van de Ander

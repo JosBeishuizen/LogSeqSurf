@@ -1,0 +1,3 @@
+- 's Ochtends is de eerste gedachte oefenen. Lukt nog steeds aardig.
+- Het zwemmen begint al een dagelijks genoegen te worden. Zeker als we daarna nog even een kop koffie bij Geert en Linda drinken.
+- Vandaag het hele rondje langs Nieuw Rande gelopen zonder de stok te gebruiken. Weer een stapje vooruit ten opzichte van gisteren en eergisteren.

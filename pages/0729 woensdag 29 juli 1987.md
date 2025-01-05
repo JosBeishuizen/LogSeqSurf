@@ -1,0 +1,3 @@
+# 0729 woensdag 29 juli 1987
+8.18: klaar voor de start 
+23.55: nog even een notitie. Vanavond smakelijke vakantieverhalen en foto's van Florence en Alfred. Wat lijkt zo'n soort vakantie toch lang geleden (84 ook in Scanno). Vandaag liep de planning niet helemaal naar wens. Reactie A.D. de Groot reuze opkikker. Vond het verhaal interessant, instructief en helder. Dat is andere koek dan W. Koops! Morgen de hele dag zonder afspraken. Weinig dingen gebeurd of gelezen die tot nadenken stemmen. Nieuws: akkoord over kruisraketten hangt in de lucht. Misschien een keerpunt ten goede. 

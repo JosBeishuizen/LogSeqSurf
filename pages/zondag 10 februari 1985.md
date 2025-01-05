@@ -1,0 +1,9 @@
+# 0210 zondag 10 februari 1985
+17:35
+
+Poes zit op schoot te spinnen (en springt er, alsof ik een  foto wil maken, net af, terwijl ik dit opschrijf) en ik begin aan de wekelijkse bijdrage aan dit dagboek of wel weekboek. De routine zit er nu aardig in. Ik zat van de week op de fiets te bedenken dat angst voor veel gedrag van mensen (inclusief dat van mezelf) verantwoordelijk gesteld kan worden. Angst kan ertoe leiden dat iemand onbeweeglijk wordt. Letterlijk in de zin van thuis blijven en voor de t.v. gaan zitten en agressief reageren op elke poging van anderen om de passiviteit te doorbreken (het rinkelen van de telefoon is al genoeg). Onbeweeglijkheid ook in figuurlijke zin: vasthouden aan oude meningen, niet willen veranderen, overmatige starheid, etc. Fascisme, een vijandige houding tegenover andere bevolkingsgroepen, etc., het kan allemaal worden herleid tot angst. Is angst gerechtvaardigd? Dat lijkt me moeilijk te  ontkennen. De samenleving boezemt allerlei soorten van angst in. Bladen als De Telegraaf met opgeklopte misdaadverhalen dragen hiertoe bij evenals politici als Reagan met hun verhalen over de zich bewapenende vijand. Het nationaal-socialisme creëerde destijds een beeld van de Joden dat inhield dat ze de westerse economie en cultuur bedreigden. Mensen zijn snel geneigd zoiets zonder bewijs voetstoots te geloven. Mensen laten zich gemakkelijk angst aanjagen. Ook cijfers over werkloosheid, ontslagen, bedrijfssluitingen en faillissementen zullen veel mensen beangstigen. De werkenden omdat ze bang zijn hun baan te verliezen. De werklozen omdat ze bang zijn niet meer in het arbeidsproces te kunnen terugkeren. Passiviteit kan het gevolg zijn maar ook je afkeren van de maatschappij (de hele klerezooi kan me gestolen worden). 
+
+
+
+Hoe komt het dat mensen zich zo gemakkelijk laten beangstigen? Wal
+

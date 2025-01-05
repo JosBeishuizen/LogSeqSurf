@@ -1,0 +1,2 @@
+# 0802 zondag 2 augustus 1987
+Zaterdagavond geen aantekeningen gemaakt, dan nu: 5 voor 6 in de ochtend. Saar huilt, Anne gaat haar eruit halen. Ze slaapt nu steeds door van 12 tot ± ½ 6. Geworstel met artikel voor themanummer is voorbij (hoop ik). Nu verder met Fokkema en de vakgroep. Moet niet al te veel werk zijn. Kaart van tante Antje: is de bloemenbon wel aangekomen? 12:05 Saar in bed. Artikel Fokkema en de vakgroep af! Morgen weer volgens urenschema. Nog opnemen: SF's stelling: wat je kunt uitleggen moet je ook uitleggen. 

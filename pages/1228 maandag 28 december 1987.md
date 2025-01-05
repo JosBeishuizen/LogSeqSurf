@@ -1,0 +1,6 @@
+# 1228 maandag 28 december 1987
+Ermelo. Rustige dagen aan het eind van 1987. Sara lacht steeds meer. Het wordt echt een vrolijke meid. Ze begint wat meer verschillende klanken uit te stoten en lijkt iets doelgerichter te werk te gaan. Ze draait zich om van buik naar rug. Op de buik liggen begint ze enthousiast met armen en benen te stampen. Verder nog weinig mijlpalen op motorisch gebied.
+  
+Er zijn dit jaar voor de Kerst ontzettend veel beroemdheden overleden: Simon Carmiggelt, Joop den Uyl, Geert van Oorschot, Anton Pieck, kardinaal Alfrink. Het lijkt erop dat de donkere dagen ron de kortste dag toch veel mensen de moed doen opgeven. Depressieve mensen worden meen ik soms behandeld door ze voor een flinke hoeveelheid T.L.-buizen te zetten.
+  
+De maand december was turbulent. Crisis in het Proefstation-team. Samenwerking met de mensen uit Utrecht loopt moeizaam door verschil in opvatting over wat onderzoek is. Twee dagen ziek in bed gelegen. Anne-Carien misschien in verwachting, of liever: zeker in verwachting maar misschien niet meer na een fikse bloeding. We waren eerst geschrokken, toen blij en nu in onzekerheid. Woensdag definitief uitsluitsel. De dagen hier in Ermelo zijn goed voor ‘t hervinden van ‘t evenwicht. 

@@ -1,0 +1,6 @@
+- Vorig jaar op 31 december werd Egmond en groeiend probleem. Pompen, nieuwe pomp kopen, kijken of de panelen voldoende energie leverden om de pompen 24/7 aan het werk te houden. We weten hoe het is afgelopen.
+- Zondagavond brachten Tjeerd en Kathleen brieven mee naar de leesclub die ze in de jaren 80 in Chili van ons hadden ontvangen. Bijzonder om de verhalen over de geboorte van Cathrien en de eerste vakantie met Cathrien in Retranchement terug te lezen. Ik ga er een paar fragmenten in dit dagboek opnemen.
+  :LOGBOOK:
+  CLOCK: [2025-01-01 Wed 00:39:26]--[2025-01-01 Wed 00:39:30] =>  00:00:04
+  :END:
+- Een rustige Oudejaarsavond hier in Diepenveen. Hoewel het hier nog flink aan het knallen is, misschien wel meer dan in Amsterdam. Met Sophie en Marjolijn gegeten bij Geert en Linda. Na de maaltijd kwamen Paul, Ton en Veronique en Richard op de koffie. Bij de brandende houtkachel verhalen van vroeger in Deventer opgehaald. Rond half 10 weer naar ons tuinhuis. Hier twee afleveringen van the Diplomat gezien, spannend. Om 12 uur elkaar gezoend en naar bed gegaan.

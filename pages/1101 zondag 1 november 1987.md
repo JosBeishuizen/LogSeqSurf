@@ -1,0 +1,6 @@
+# 1101 zondag 1 november 1987
+'t Schrijven van half 10 nog niet gelukt. Brieven van oom Jan Hendrik en tante Jelly uit de jaren dertig en veertig gelezen en moeder gebeld. De brieven bevatten leuke passages: over de zaak (diefstallen en ongelukken), een radio die vader en moeder van oom JH kochten, de geboorte van Dirk de Grooth en Jan Willem, Meindert en Gretha als kleine kinderen.
+  
+Moeder klonk zoals steeds opgewekt. Meindert had de garagedeur in de grondverf gezet. Verder gezeur over de bedden boven. Ze gaan er nu echt uit. Moeder heeft wat dat betreft haar zin niet gekregen. 
+  
+Vanochtend Ina op bezoek. Vertelde dat Ton en zij uit elkaar gegroeid waren. Ze bleek Ton nog behoed te hebben voor zitten blijven door hem na een fatale onvoldoende overgehaald te hebben een brief naar de docent te schrijven met het oog op een herkansing. Ze heeft er veel aan gedaan maar toch niet kunnen voorkomen dat Ton zich meer en meer afsloot. Ton is zeer gesloten. Een Van Remmen kwaal. Vanavond praten ze met elkaar. 'k Hoop dat Ina hem het een en ander duidelijk kan maken. 't Is zo'n pittige tante, eigenlijk heel geschikt voor Ton. Vanmiddag een vanouds gezellig bezoek aan de fam. Boelens gebracht. Deze week afspraak maken voor voorjaarstripje. 

@@ -1,0 +1,1 @@
+- 23.45 uur. Vader van twee dochters (vavatweedo) sinds afgelopen woensdagochtend. Sara, vier dagen oud, lijkt heel rustig: ze slaapt lekker, poept en drinkt goed en lijkt zich goed op haar gemak te voelen in de nieuwe wereld. Even een korte terugblik.
