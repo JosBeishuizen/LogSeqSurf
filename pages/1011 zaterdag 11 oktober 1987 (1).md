@@ -1,0 +1,6 @@
+# 1011 zaterdag 11 oktober 1987
+Nieuw verdriet, zei moeder vanavond door de telefoon: Harry gaat scheiden. En gelukkig dat Vader dit niet meer hoefde meemaken. Hij kon zich moeilijk in zo'n situatie inleven. Hoeveel te meer zal ze hem nu missen, nu ze dit moet doormaken. Moeder, Janny en wijzelf hier (en vast ook de anderen) hebben vaak gedacht: hoe houdt Nel het uit. Kennelijk is het haar toch niet gelukt. Ze is vrij ontoegankelijk en ging ook niet in op Janny's vragen hieromtrent. Aiai wat een droefenis. Morgenavond nagaan hoe het zit. Hopelijk is Harry openhartig. Ik ga hem in ieder geval proberen duidelijk te maken dat hij zijn eigen situatie nuchter onder ogen moet zien en zich niet moet verliezen in zinsbegoocheling of zelfbeklag.
+  
+Sara is gelukkig weer de oude. Veel gelach, gekeutel en enthousiasme. Vanochtend bijna niet gehuild bij het aantrekken van de kleren na het bad. Hopelijk heeft ze nu flink wat afweerstoffen opgebouwd.
+  
+Vanmiddag naar HvH. Cathrien heeft opeens een nieuwe liefde: de pop die ik van de Italianen cadeau kreeg, nu Christien gedoopt. De hele dag meegezeuld. Vanmiddag dolle pret met de neven. Al met al een geslaagd bezoek. 

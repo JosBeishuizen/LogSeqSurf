@@ -1,0 +1,2 @@
+# 0924 donderdag 24 september 1987
+Nog niet het juiste werkritme te pakken. Moeder maakte vanavond door de telefoon een ontroerend flinke indruk. Giroles van Janny gehad. Op het strookje van een overschrijving voor de oogarts suggereerde Janny zoiets te schrijven als: consult Tammo. Moeder schiet in de lach: Hoe weet Ten Pierik nu wie Tammo is! Janny legt uit dat moeder het strookje zelf moet houden. Gisteren met Jan W en T gewandeld bij Lunteren. Bij de Van Weezels thee gedronken. ‘t Lijkt of moeder zich er goed doorheen slaat. 
