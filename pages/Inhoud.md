@@ -16,11 +16,11 @@
 		- [[Monday 30 December 2024]]
 		- [[Tuesday 31 December 2024]]
 - Aantekeningen
-  collapsed:: true
 	- Hoe bouw je een database in LogSeq op?
 	- [[MooieTekst]]
 	- [[Recensie Prophet Song]]
 	- [[Queries]]
+	- [[Test]]
 - Activiteiten
 	- Reviews
 	  collapsed:: true
@@ -90,6 +90,7 @@
 			- [[maandag 23 december 1985]]
 			- [[maandag 30 december 1985]]
 		- 1987
+		  collapsed:: true
 			- [[donderdag 1 januari 1987]]
 			- [[dinsdag 20 januari 1987]]
 			- [[donderdag 26 februari 1987]]
