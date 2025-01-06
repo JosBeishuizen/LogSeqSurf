@@ -46,3 +46,6 @@ display: none;
 .editor-inner .uniline-block:is(.h1,.h2), .ls-block :is(h1,h2) {
 
   	border-bottom: none;}
+
+@media only screen
+  and (min-width : 1824px){}
