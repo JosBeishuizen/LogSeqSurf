@@ -48,4 +48,4 @@ display: none;
   	border-bottom: none;}
 
 @media only screen
-  and (min-resolution: 300dpi){}
+  and (min-resolution: 100dpi){}

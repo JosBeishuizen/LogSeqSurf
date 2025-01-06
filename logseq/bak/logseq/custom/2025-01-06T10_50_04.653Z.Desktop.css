@@ -8,7 +8,6 @@ body {
 :root {
 
     --ls-page-title-size: 1.5em;
-    --ls-page-title-color: #8be9f2;
 
 }
 
@@ -19,7 +18,7 @@ display: none;
 display: none;
 }
 
-.light-theme .ls-block h2 {
+.light-theme .ls-block h3 {
 
  color: black;
 
@@ -40,6 +39,13 @@ display: none;
 
 }
 
+.dark-theme .ls-block h3 {
+  color: orange !important;
+ }
+
 .editor-inner .uniline-block:is(.h1,.h2), .ls-block :is(h1,h2) {
 
   	border-bottom: none;}
+
+@media only screen
+  and (min-resolution: 300dpi){}
