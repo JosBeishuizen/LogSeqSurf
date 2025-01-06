@@ -10,7 +10,7 @@
  ;; Available options:
  ;; - :now for NOW/LATER style (default)
  ;; - :todo for TODO/DOING style
- :preferred-workflow :now
+ :preferred-workflow :todo
 
  ;; Exclude directories/files.
  ;; Example usage:
@@ -132,7 +132,7 @@
  ;; 2. Set "Jun 3rd, 2021" as the home page without the right sidebar:
  ;; :default-home {:page "Jun 3rd, 2021"}
  ;; 3. Set "home" as the home page and display multiple pages in the right sidebar:
- ;; :default-home {:page "Inhoud", :sidebar ["Inhoud"]}
+ ;; :default-home {:page "home", :sidebar ["Page A" "Page B"]}
 
  ;; Set the default location for storing notes.
  ;; Default value: "pages"
@@ -208,7 +208,7 @@
  ;; The "NEXT" query returns tasks with "NOW", "LATER", or "TODO" status.
  :default-queries
  {:journals
-  [{:title "🔨 NOW"
+  [{:title "Te doen"
     :query [:find (pull ?h [*])
             :in $ ?start ?today
             :where
@@ -281,7 +281,7 @@
 
  ;; Configure the threshold for linked references before collapsing.
  ;; Default value: 100
- :ref/linked-references-collapsed-threshold 0
+ :ref/linked-references-collapsed-threshold 50
 
  ;; Graph view configuration.
  ;; Example usage:
@@ -420,6 +420,7 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :journal/page-title-format "EEEE d MMMM yyyy"
- :feature/enable-whiteboards? false
- :feature/enable-flashcards? false
- :graph/settings {:journal? true}}
+ :ui/show-brackets? false
+ :feature/enable-timetracking? false
+ :feature/enable-journals? false
+ :feature/enable-whiteboards? false}
