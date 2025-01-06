@@ -47,10 +47,5 @@ display: none;
 
   	border-bottom: none;}
 
-@media only screen {
-  :root {
-    font-size: 20px;
-    line-height: 1.6;
-    font-weight: 200;
-  }
-}
+@media only screen
+  and (min-resolution: 100dpi){}
