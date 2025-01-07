@@ -25,10 +25,9 @@
 	- [[MooieTekst]]
 	- [[Recensie Prophet Song]]
 	- [[Queries]]
-	  ]
+	- [[Abonnementen]]
 - Activiteiten
 	- Reviews
-	  collapsed:: true
 		- [[D-22-00513]]
 		- [[D-22-00543]]
 		- [[D-22-00834]]
