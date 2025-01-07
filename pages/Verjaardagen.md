@@ -1,6 +1,6 @@
-- Chrétien Felser 1949
+- DONE Chrétien Felser 1949
   SCHEDULED: <2025-01-02 Thu .+1y>
-- Florence Drenth
+- DONE Florence Drenth
   SCHEDULED: <2025-01-04 Sat .+1y>
 - Lot van Remmen 1990
   SCHEDULED: <2025-01-09 Thu .+1y>
