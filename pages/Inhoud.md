@@ -15,6 +15,8 @@
 		- [[Sunday 29 December 2024]]
 		- [[Monday 30 December 2024]]
 		- [[Tuesday 31 December 2024]]
+- Planning
+	- [[Verjaardagen]]
 - Aantekeningen
 	- Hoe bouw je een database in LogSeq op?
 	- [[MooieTekst]]
