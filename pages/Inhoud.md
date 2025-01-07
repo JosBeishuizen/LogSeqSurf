@@ -1,11 +1,12 @@
 - Vandaag
 	- Januari
-	  collapsed:: true
 		- [[Wednesday 1 January 2025]]
 		- [[Thursday 2 January 2025]]
 		- [[Friday 3 January 2025]]
 		- [[Saturday 4 January 2025]]
 		- [[Sunday 5 January 2025]]
+		- [[Monday 6 January 2025]]
+		- [[Tuesday 7 January 2025]]
 	- Oktober
 	  collapsed:: true
 		- [[Thursday 31 October 2024]]
@@ -17,6 +18,7 @@
 		- [[Tuesday 31 December 2024]]
 - Planning
 	- [[Verjaardagen]]
+	- [[Reviews]]
 - Aantekeningen
 	- Hoe bouw je een database in LogSeq op?
 	- [[MooieTekst]]
