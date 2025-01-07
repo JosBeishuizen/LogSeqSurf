@@ -28,6 +28,7 @@
 	- [[Abonnementen]]
 - Activiteiten
 	- Reviews
+	  collapsed:: true
 		- [[D-22-00513]]
 		- [[D-22-00543]]
 		- [[D-22-00834]]
@@ -111,12 +112,12 @@
 			- [[woensdag 29 juli 1987]]
 			- [[donderdag 30 juli 1987]]
 			- [[vrijdag 31 juli 1987]]
-			- [[0801 zaterdag 1 augustus 1987]]
-			- [[0802 zondag 2 augustus 1987]]
-			- [[0803 maandag 3 augustus 1987]]
-			- [[0804 dinsdag 4 augustus 1987]]
-			- [[0805 woensdag 5 augustus 1987]]
-			- [[0806 donderdag 6 augustus 1987]]
+			- [[zaterdag 1 augustus 1987]]
+			- [[zondag 2 augustus 1987]]
+			- [[maandag 3 augustus 1987]]
+			- [[dinsdag 4 augustus 1987]]
+			- [[woensdag 5 augustus 1987]]
+			- [[donderdag 6 augustus 1987]]
 			- [[0807 vrijdag 7 augustus 1987]]
 			- [[0808 zaterdag 8 augustus 1987]]
 			- [[0809 zondag 9 augustus 1987]]
