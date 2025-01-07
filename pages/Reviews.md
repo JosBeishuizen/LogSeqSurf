@@ -1,6 +1,6 @@
 - EDUREV-D-24-01050
   DEADLINE: <2025-01-15 Wed>
-	- TODO lezen 5 - 15
+	- DONE lezen 5 - 15
 	  DEADLINE: <2025-01-07 Tue>
 	- TODO lezen 5 - 29
 	  DEADLINE: <2025-01-08 Wed>
