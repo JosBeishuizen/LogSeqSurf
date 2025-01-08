@@ -31,6 +31,7 @@
 	- [[Abonnementen]]
 - Activiteiten
 	- Reviews
+	  collapsed:: true
 		- [[D-22-00513]]
 		- [[D-22-00543]]
 		- [[D-22-00834]]
@@ -51,6 +52,7 @@
 	  collapsed:: true
 		- [[Kerstkaarten]]
 	- Studie
+	  collapsed:: true
 		- Levinas
 		  collapsed:: true
 			- Levinas - aantekeningen
@@ -123,10 +125,10 @@
 			- [[vrijdag 7 augustus 1987]]
 			- [[zaterdag 8 augustus 1987]]
 			- [[zondag 9 augustus 1987]]
-			- [[0810 maandag 10 augustus 1987]]
-			- [[0811 dinsdag 11 augustus 1987]]
-			- [[0812 woensdag 12 augustus 1987]]
-			- [[0813 donderdag 13 augustus 1987]]
+			- [[maandag 10 augustus 1987]]
+			- [[dinsdag 11 augustus 1987]]
+			- [[woensdag 12 augustus 1987]]
+			- [[donderdag 13 augustus 1987]]
 			- [[0814 vrijdag 14 augustus 1987]]
 			- [[0815 zaterdag 15 augustus 1987]]
 			- [[0816 zondag 16 augustus 1987]]
