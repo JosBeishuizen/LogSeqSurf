@@ -8,6 +8,7 @@
 		- [[Sunday 5 January 2025]]
 		- [[Monday 6 January 2025]]
 		- [[Tuesday 7 January 2025]]
+		- [[Wednesday 8 January 2025]]
 	- Oktober
 	  collapsed:: true
 		- [[Thursday 31 October 2024]]
@@ -18,8 +19,10 @@
 		- [[Monday 30 December 2024]]
 		- [[Tuesday 31 December 2024]]
 - Planning
+  collapsed:: true
 	- [[Verjaardagen]]
 	- [[Reviews]]
+	- [[Klima]]
 - Aantekeningen
 	- Hoe bouw je een database in LogSeq op?
 	- [[MooieTekst]]
@@ -28,7 +31,6 @@
 	- [[Abonnementen]]
 - Activiteiten
 	- Reviews
-	  collapsed:: true
 		- [[D-22-00513]]
 		- [[D-22-00543]]
 		- [[D-22-00834]]
@@ -118,9 +120,9 @@
 			- [[dinsdag 4 augustus 1987]]
 			- [[woensdag 5 augustus 1987]]
 			- [[donderdag 6 augustus 1987]]
-			- [[0807 vrijdag 7 augustus 1987]]
-			- [[0808 zaterdag 8 augustus 1987]]
-			- [[0809 zondag 9 augustus 1987]]
+			- [[vrijdag 7 augustus 1987]]
+			- [[zaterdag 8 augustus 1987]]
+			- [[zondag 9 augustus 1987]]
 			- [[0810 maandag 10 augustus 1987]]
 			- [[0811 dinsdag 11 augustus 1987]]
 			- [[0812 woensdag 12 augustus 1987]]

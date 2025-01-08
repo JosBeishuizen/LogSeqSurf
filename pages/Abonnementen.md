@@ -1,6 +1,6 @@
 - Media
   | Object | Prijs | per maand | per jaar |
-  | :--- | ---: | :----: | :----: |
+  | :--- | ---: |  :----:  | :----: |
   | Trouw | € 28.95 | x ||
   | NRC | € 36.00 | x ||
   | Parool | € 33.95 | x ||
