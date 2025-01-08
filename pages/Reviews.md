@@ -2,7 +2,7 @@
   DEADLINE: <2025-01-15 Wed>
 	- DONE lezen 5 - 15
 	  DEADLINE: <2025-01-07 Tue>
-	- TODO lezen 5 - 29
+	- DONE lezen 5 - 29
 	  DEADLINE: <2025-01-08 Wed>
 	- TODO punten noteren
 	  DEADLINE: <2025-01-09 Thu>
