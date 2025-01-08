@@ -1,7 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap");
 
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap");
+
+  
 body {
- font-family: 'Bitter', sans-serif;
+ font-family: 'Ubuntu', sans-serif;
 
 }
 
@@ -26,17 +29,12 @@ display: none;
 
 .dark-theme .ls-block h2 {
  font-size: medium;
- color: #8be9f2;
+ color: #59CCFF;
  margin-top: 0.0em !important;
  margin-bottom: 0.0em !important;
  line-height: 1.1em !important;
-
- font-size: 16px !important;
-
  margin:2px 0px 2px 0px !important;
-
  padding: 1px 0px 2px 0px !important;
-
 }
 
 .dark-theme .ls-block h3 {
@@ -47,5 +45,9 @@ display: none;
 
   	border-bottom: none;}
 
-@media only screen
-  and (min-resolution: 100dpi){}
+.cp__sidebar-main-content h1.title {
+
+
+color: #59CCFF;
+
+}
