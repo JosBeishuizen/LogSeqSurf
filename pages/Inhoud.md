@@ -24,6 +24,7 @@
 	- [[Reviews]]
 	- [[Klima]]
 - Aantekeningen
+  collapsed:: true
 	- Hoe bouw je een database in LogSeq op?
 	- [[MooieTekst]]
 	- [[Recensie Prophet Song]]
@@ -52,6 +53,7 @@
 	  collapsed:: true
 		- [[Kerstkaarten]]
 	- Studie
+	  collapsed:: true
 		- Levinas
 			- Levinas - aantekeningen
 				- [[Hypostase]]
@@ -127,9 +129,9 @@
 			- [[dinsdag 11 augustus 1987]]
 			- [[woensdag 12 augustus 1987]]
 			- [[donderdag 13 augustus 1987]]
-			- [[0814 vrijdag 14 augustus 1987]]
-			- [[0815 zaterdag 15 augustus 1987]]
-			- [[0816 zondag 16 augustus 1987]]
+			- [[vrijdag 14 augustus 1987]]
+			- [[zaterdag 15 augustus 1987]]
+			- [[zondag 16 augustus 1987]]
 			- [[0817 maandag 17 augustus 1987]]
 			- [[0818 dinsdag 18 augustus 1987]]
 			- [[0819 woensdag 19 augustus 1987]]
