@@ -15,9 +15,16 @@
 - Verzekeringen
   | Object | Prijs | per maand | per jaar |
   | :--- | ---: |  :----:  | :----: |
-  | Trouw | € 28.95 | x ||
+  | Ziektekosten Anne | | x ||
+  | Ziektekosten Jos ||||
+  | Auto ||||
+  | WAO ||||
+  | Opstal ||||
+  | Inboedel ||||
+  | Egmond ||||
+-
 - Diversen
   | Object | Prijs | per maand | per jaar |
   | :--- | ---: |  :----:  | :----: |
-  | Trouw | € 28.95 | x ||
+  | ANWB | | ||
 -

@@ -1,0 +1,7 @@
+- Beloop
+- Spieren bovenbeen
+- Knie buigen
+- Autorijden
+- Indoor roeimachine
+- Fietsen
+-
