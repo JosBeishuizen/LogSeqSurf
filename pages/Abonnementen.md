@@ -9,6 +9,15 @@
   | KPN ||||
   | Tel. Anne ||||
   | Tel. Jos ||||
+  | Usenet ||||
+  | Gingko ||||
+  | Obsidian Sync ||||
 - Verzekeringen
+  | Object | Prijs | per maand | per jaar |
+  | :--- | ---: |  :----:  | :----: |
+  | Trouw | € 28.95 | x ||
 - Diversen
+  | Object | Prijs | per maand | per jaar |
+  | :--- | ---: |  :----:  | :----: |
+  | Trouw | € 28.95 | x ||
 -
