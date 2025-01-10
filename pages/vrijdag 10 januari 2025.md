@@ -12,4 +12,6 @@
 - De Dapperstraat van J.C. Bloem
 - ![🎧 De_Dapperstraat_J.C._Bloem.mp3](../assets/De_Dapperstraat_J.C._Bloem.mp3)
 - Ik ben lekker stout van Annie M.G. Schmidt
+- ![🎧 Ik ben lekker stout - Annie M.G.mp3](../assets/Ik ben lekker stout - Annie M.G.mp3)
+- Morgen van Remco Campert
 -
