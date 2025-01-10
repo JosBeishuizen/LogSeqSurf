@@ -3,4 +3,5 @@
 - De foto's in haar kamer vertellen wie en hoe ze was
 - ![2025-01-10-14-56-05.jpeg](../assets/2025-01-10-14-56-05.jpeg)
 - ![2025-01-10-14-56-28.jpeg](../assets/2025-01-10-14-56-28.jpeg)
+- ![2025-01-10-14-56-43.jpeg](../assets/2025-01-10-14-56-43.jpeg)
 -
