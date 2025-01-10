@@ -22,6 +22,7 @@
 	- [[Verjaardagen]]
 	- [[Reviews]]
 - Aantekeningen
+  collapsed:: true
 	- Hoe bouw je een database in LogSeq op?
 	- [[MooieTekst]]
 	- [[Recensie Prophet Song]]
