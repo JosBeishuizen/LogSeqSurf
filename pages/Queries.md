@@ -5,7 +5,7 @@ query-table:: true
    :where 
      [?b :block/page ?p]
      [?b :block/refs ?t]
-     [?t :block/title "blabla"]
+     [?t :block/name "☀️"]
  ]
  :result-transform ( fn [result] [(rand-nth result)] )
  :collapsed? false
