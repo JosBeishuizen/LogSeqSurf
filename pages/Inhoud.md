@@ -8,7 +8,6 @@
 		- [[Sunday 5 January 2025]]
 		- [[Monday 6 January 2025]]
 		- [[Tuesday 7 January 2025]]
-		- [[Wednesday 8 January 2025]]
 	- Oktober
 	  collapsed:: true
 		- [[Thursday 31 October 2024]]
@@ -19,17 +18,14 @@
 		- [[Monday 30 December 2024]]
 		- [[Tuesday 31 December 2024]]
 - Planning
-  collapsed:: true
 	- [[Verjaardagen]]
 	- [[Reviews]]
-	- [[Klima]]
 - Aantekeningen
 	- Hoe bouw je een database in LogSeq op?
 	- [[MooieTekst]]
 	- [[Recensie Prophet Song]]
 	- [[Queries]]
 	- [[Abonnementen]]
-	- [[Vragen orthopeed]]
 - Activiteiten
 	- Reviews
 	  collapsed:: true
@@ -53,8 +49,8 @@
 	  collapsed:: true
 		- [[Kerstkaarten]]
 	- Studie
-	  collapsed:: true
 		- Levinas
+		  collapsed:: true
 			- Levinas - aantekeningen
 				- [[Hypostase]]
 			- Theo de Boer - Tussen filosofie en profetie
@@ -122,16 +118,16 @@
 			- [[dinsdag 4 augustus 1987]]
 			- [[woensdag 5 augustus 1987]]
 			- [[donderdag 6 augustus 1987]]
-			- [[vrijdag 7 augustus 1987]]
-			- [[zaterdag 8 augustus 1987]]
-			- [[zondag 9 augustus 1987]]
-			- [[maandag 10 augustus 1987]]
-			- [[dinsdag 11 augustus 1987]]
-			- [[woensdag 12 augustus 1987]]
-			- [[donderdag 13 augustus 1987]]
-			- [[vrijdag 14 augustus 1987]]
-			- [[zaterdag 15 augustus 1987]]
-			- [[zondag 16 augustus 1987]]
+			- [[0807 vrijdag 7 augustus 1987]]
+			- [[0808 zaterdag 8 augustus 1987]]
+			- [[0809 zondag 9 augustus 1987]]
+			- [[0810 maandag 10 augustus 1987]]
+			- [[0811 dinsdag 11 augustus 1987]]
+			- [[0812 woensdag 12 augustus 1987]]
+			- [[0813 donderdag 13 augustus 1987]]
+			- [[0814 vrijdag 14 augustus 1987]]
+			- [[0815 zaterdag 15 augustus 1987]]
+			- [[0816 zondag 16 augustus 1987]]
 			- [[0817 maandag 17 augustus 1987]]
 			- [[0818 dinsdag 18 augustus 1987]]
 			- [[0819 woensdag 19 augustus 1987]]
