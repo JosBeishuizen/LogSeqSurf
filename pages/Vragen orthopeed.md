@@ -1,7 +1,7 @@
-- Beloop
-- Spieren bovenbeen
-- Knie buigen
+- Toestand
+	- Spieren bovenbeen
+	- Knie buigen
+	- Naar buiten buigen
 - Autorijden
 - Indoor roeimachine
 - Fietsen
--
