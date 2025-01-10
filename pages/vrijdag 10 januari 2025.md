@@ -11,7 +11,7 @@
 -
 - <audio controls src="https://u.pcloud.link/publink/show?code=XZuNnJ5ZVspg7k1mGfRAI8FWnvY6t5E4oT7k"> </audio>
 -
-- [:audio {:controls true :src "https://cdn.simplecast.com/audio/bdb43d4d-bd1d-4fbc-bd60-40f1e3299aa3/episodes/a6363455-0a0e-460f-8074-75f4f5e84775/audio/620d2586-389b-44c7-80ad-25703fd52094/default_tc.mp3"}]
+- [:audio {:controls true :src ""}]
 -
 -
 -
