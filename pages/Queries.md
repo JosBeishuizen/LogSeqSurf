@@ -1,4 +1,4 @@
-query-table:: false
+query-table:: true
 #+BEGIN_QUERY
 {:title "🎲"
  :query [:find (pull ?b [*])
