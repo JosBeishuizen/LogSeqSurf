@@ -1,0 +1,8 @@
+- Toestand
+	- Spieren bovenbeen
+	- Knie naar de borst
+	- Zijwaarts buigen
+- Toestemming
+	- Autorijden
+	- Indoor roeimachine
+	- Fietsen

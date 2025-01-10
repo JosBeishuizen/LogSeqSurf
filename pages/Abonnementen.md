@@ -9,6 +9,22 @@
   | KPN ||||
   | Tel. Anne ||||
   | Tel. Jos ||||
+  | Usenet ||||
+  | Gingko ||||
+  | Obsidian Sync ||||
 - Verzekeringen
+  | Object | Prijs | per maand | per jaar |
+  | :--- | ---: |  :----:  | :----: |
+  | Ziektekosten Anne | | x ||
+  | Ziektekosten Jos ||||
+  | Auto ||||
+  | WAO ||||
+  | Opstal ||||
+  | Inboedel ||||
+  | Egmond ||||
+-
 - Diversen
+  | Object | Prijs | per maand | per jaar |
+  | :--- | ---: |  :----:  | :----: |
+  | ANWB | | ||
 -
