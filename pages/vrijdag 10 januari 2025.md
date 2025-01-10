@@ -7,6 +7,7 @@
 - ![2025-01-10-14-56-55.jpeg](../assets/2025-01-10-14-56-55.jpeg)
 - ![2025-01-10-14-57-08.jpeg](../assets/2025-01-10-14-57-08.jpeg)
 -
--
+- Appelboompjes van Vasalis
 - ![🎧 Appelboompjes_Vasalis.mp3](../assets/Appelboompjes_Vasalis.mp3)
--
+- De Dappa
+- ![🎧 De_Dapperstraat_J.C._Bloem.mp3](../assets/De_Dapperstraat_J.C._Bloem.mp3)
