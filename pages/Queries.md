@@ -1,5 +1,5 @@
 query-sort-by:: block
-query-table:: false
+query-table:: true
 query-sort-desc:: true
 query-properties:: [:block]
 #+BEGIN_QUERY
