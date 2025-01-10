@@ -2,4 +2,5 @@
 - Gerrie laat een grote lege plek achter. Anne bezocht haar elke maandag, Cathrien vaak op dinsdag, Sara op woensdag, Toon op vrijdag. Ze heeft in november nog een paar weken hier gelogeerd toen in haar appartement de voor- en achtergevel werden vervangen.
 - De foto's in haar kamer vertellen wie en hoe ze was
 - ![2025-01-10-14-56-05.jpeg](../assets/2025-01-10-14-56-05.jpeg)
+- ![2025-01-10-14-56-28.jpeg](../assets/2025-01-10-14-56-28.jpeg)
 -
