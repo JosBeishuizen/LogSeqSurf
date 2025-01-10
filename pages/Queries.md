@@ -11,3 +11,6 @@ query-table:: true
  :collapsed? true
 }
 #+END_QUERY
+
+- ((☀️))
+-
