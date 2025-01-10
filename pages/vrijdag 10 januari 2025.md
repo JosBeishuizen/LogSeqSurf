@@ -6,7 +6,7 @@
 - ![2025-01-10-14-56-43.jpeg](../assets/2025-01-10-14-56-43.jpeg)
 - ![2025-01-10-14-56-55.jpeg](../assets/2025-01-10-14-56-55.jpeg)
 - ![2025-01-10-14-57-08.jpeg](../assets/2025-01-10-14-57-08.jpeg)
-- [:audio {:controls true :src "../assets/"Appelboompjes Vasalis.mp3"}]
+- ![](audio "Appelboompjes Vasalis.mp3")
 -
 -
 -
