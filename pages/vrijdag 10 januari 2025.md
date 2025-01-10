@@ -9,5 +9,7 @@
 -
 - Appelboompjes van Vasalis
 - ![🎧 Appelboompjes_Vasalis.mp3](../assets/Appelboompjes_Vasalis.mp3)
-- De Dappa
+- De Dapperstraat van J.C. Bloem
 - ![🎧 De_Dapperstraat_J.C._Bloem.mp3](../assets/De_Dapperstraat_J.C._Bloem.mp3)
+- Ik ben lekker stout van Annie M.G. Schmidt
+-
