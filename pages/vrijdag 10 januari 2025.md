@@ -1,1 +1,4 @@
-- Vannacht is onze Gerrie overleden, 91 jaar oud. Ze is rustig in bed in haar slaap overleden.
+- Vannacht is onze Gerrie overleden, 91 jaar oud. Ze is rustig in bed in haar slaap overleden. De dekens lagen netjes opgemaakt over haar heen. Dan hoop je toch dat ze mag rusten in vrede.
+- Gerrie laat een grote lege plek achter. Anne bezocht haar elke maandag, Cathrien vaak op dinsdag, Sara op woensdag, Toon op vrijdag. Ze heeft in november nog een paar weken hier gelogeerd toen in haar appartement de voor- en achtergevel werden vervangen.
+- De foto's in haar kamer vertellen wie en hoe ze was
+-
