@@ -18,11 +18,12 @@
 		- [[Monday 30 December 2024]]
 		- [[Tuesday 31 December 2024]]
 - Planning
+  collapsed:: true
 	- [[Verjaardagen]]
 	- [[Reviews]]
 - Aantekeningen
 	- Hoe bouw je een database in LogSeq op?
-	- [[MooieTekst]]
+	- [[blabla]]
 	- [[Recensie Prophet Song]]
 	- [[Queries]]
 	- [[Abonnementen]]
@@ -49,6 +50,7 @@
 	  collapsed:: true
 		- [[Kerstkaarten]]
 	- Studie
+	  collapsed:: true
 		- Levinas
 		  collapsed:: true
 			- Levinas - aantekeningen
