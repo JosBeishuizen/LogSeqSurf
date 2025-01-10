@@ -1,0 +1,2 @@
+# 0810 maandag 10 augustus 1987
+Vanochtend: Anne en Cathrien naar O. om boodschappen te doen, ik Saar in bed gedaan. Daarna een fietstochtje naar Brecklenkamp. Vanmiddag eerst in de zon thee gedronken, daarna fietstochtje door Duitsland gemaakt. Cathrien op tafel in bad.  
