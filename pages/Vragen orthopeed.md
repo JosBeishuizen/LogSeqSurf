@@ -1,6 +1,6 @@
 - Toestand
 	- Spieren bovenbeen
-	- Knie naar de
+	- Knie naar de borst
 	- Zijwaarts buigen
 - Toestemming
 	- Autorijden
