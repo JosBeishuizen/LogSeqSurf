@@ -1,1 +1,1 @@
-- Van nacht
+- Vannacht is onze Gerrie overleden, 91 jaar oud. Ze is rustig in bed in haar slaap overleden.
