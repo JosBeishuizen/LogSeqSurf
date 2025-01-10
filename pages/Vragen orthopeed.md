@@ -1,7 +1,7 @@
 - Toestand
 	- Spieren bovenbeen
-	- Knie buigen
-	- Naar buiten buigen
+	- Knie naar de
+	- Zijwaarts buigen
 - Toestemming
 	- Autorijden
 	- Indoor roeimachine
