@@ -6,4 +6,5 @@
 - Herinneringsboek Gerrie 90 in 2023
 - Mulisch/Ischa Meijer
 - Lasagne
-- Huisvesting socialisme
+- Huisvesting socialisme AJC
+- Podium Klassiek
