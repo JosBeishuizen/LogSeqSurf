@@ -9,4 +9,6 @@
 - ![Appelboompjes van Vasalis](audio ../assets/Appelboompjes_Vasalis.mp3)
 - https://www.kozco.com/tech/piano2-CoolEdit.mp3
 -
+- [:audio {:controls true :src "../assets/Appelboompjes_Vasalis.mp3"}]
+-
 -
