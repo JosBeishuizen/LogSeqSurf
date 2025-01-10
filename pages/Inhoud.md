@@ -22,12 +22,12 @@
 	- [[Verjaardagen]]
 	- [[Reviews]]
 - Aantekeningen
-  collapsed:: true
 	- Hoe bouw je een database in LogSeq op?
 	- [[MooieTekst]]
 	- [[Recensie Prophet Song]]
 	- [[Queries]]
 	- [[Abonnementen]]
+	- [[Herinneringen aan Gerrie]]
 - Activiteiten
 	- Reviews
 	  collapsed:: true
