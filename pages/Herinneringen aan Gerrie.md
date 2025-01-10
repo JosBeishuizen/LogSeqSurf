@@ -2,4 +2,8 @@
 - Nieuwe pui, geen tocht: tocht had ook wel iets
 - Concert Brel Ella Fitzgerald
 - Om twee uur koken
--
+- Herman van der Zand/Slimste mens
+- Herinneringsboek Gerrie 90 in 2023
+- Mulisch/Ischa Meijer
+- Lasagne
+- Huisvesting socialisme
