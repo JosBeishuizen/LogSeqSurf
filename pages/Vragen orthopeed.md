@@ -2,6 +2,7 @@
 	- Spieren bovenbeen
 	- Knie buigen
 	- Naar buiten buigen
-- Autorijden
-- Indoor roeimachine
-- Fietsen
+- Toestemming
+	- Autorijden
+	- Indoor roeimachine
+	- Fietsen
