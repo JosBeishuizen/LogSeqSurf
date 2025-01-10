@@ -157,7 +157,7 @@
 		- 2025
 			- [[woensdag 1 januari 2025]]
 			- [[vrijdag 3 januari 2025]]
-			-
+			- [[vrijdag 10 januari 2025]]
 	- Poëzie
 	  collapsed:: true
 		- Gerrit Achterberg
