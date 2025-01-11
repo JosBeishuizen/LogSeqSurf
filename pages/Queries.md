@@ -16,8 +16,9 @@ query-properties:: [:block]
 #+END_QUERY
 
 -
-- {{query (#tag1)}}
+- {{query ()}}
   query-table:: false
+-
 -
 -
 -
