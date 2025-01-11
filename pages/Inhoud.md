@@ -71,7 +71,8 @@
 				- [[5 Voorbij winst en verlies. Over identiteit en ontwrichting]]
 				- [[6 De onteigende getuige. Over mystiek, taak en getuigenis]]
 		- Veerkamp
-			-
+			- [[14. Het boek Openbaring]]
+			- [[15. Besluit]]
 - Geheugen
 	- Dagboek
 	  collapsed:: true
