@@ -16,6 +16,6 @@ query-properties:: [:block]
 #+END_QUERY
 
 -
-- {{query (task now)}}
+- {{query ()}}
   query-table:: false
 -
