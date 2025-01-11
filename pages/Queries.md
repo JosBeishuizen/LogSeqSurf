@@ -16,8 +16,9 @@ query-properties:: [:block]
 #+END_QUERY
 
 -
-- {{query ()}}
+- {{query (fiets)}}
   query-table:: false
+-
 -
 -
 -
