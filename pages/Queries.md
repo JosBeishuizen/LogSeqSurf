@@ -16,8 +16,9 @@ query-properties:: [:block]
 #+END_QUERY
 
 -
-- {{query (task )}}
+- {{query (name idee)}}
   query-table:: false
+-
 -
 -
 -
