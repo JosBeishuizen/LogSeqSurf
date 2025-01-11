@@ -1,5 +1,6 @@
 - Vandaag
 	- Januari
+	  collapsed:: true
 		- [[Wednesday 1 January 2025]]
 		- [[Thursday 2 January 2025]]
 		- [[Friday 3 January 2025]]
@@ -11,9 +12,18 @@
 		- [[Thursday 9 January 2025]]
 		- [[Friday 10 January 2025]]
 		- [[Saturday 11 January 2025]]
+	- Februari
+	- Maart
+	- April
+	- Mei
+	- Juni
+	- Juli
+	- Augustus
+	- September
 	- Oktober
 	  collapsed:: true
 		- [[Thursday 31 October 2024]]
+	- November
 	- December
 	  collapsed:: true
 		- [[Sunday 08 December 2024]]
