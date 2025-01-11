@@ -56,7 +56,6 @@
 	  collapsed:: true
 		- [[Kerstkaarten]]
 	- Studie
-	  collapsed:: true
 		- Levinas
 		  collapsed:: true
 			- Levinas - aantekeningen
@@ -73,6 +72,7 @@
 				- [[6 De onteigende getuige. Over mystiek, taak en getuigenis]]
 - Geheugen
 	- Dagboek
+	  collapsed:: true
 		- 1959
 		  collapsed:: true
 			- [[maandag 25 mei 1959]]
