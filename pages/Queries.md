@@ -17,5 +17,6 @@ query-properties:: [:block]
 
 - {{query (property naam idee)}}
   query-table:: false
+- {{query "0808"}}
 -
 -
