@@ -15,8 +15,10 @@ query-properties:: [:block]
 }
 #+END_QUERY
 
-- {{query (name:: idee)}}
-  query-table:: true
+- {{query (property name idee)}}
+  query-table:: false
+-
+-
 -
 -
 -
