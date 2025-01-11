@@ -8,7 +8,9 @@
 		- [[Monday 6 January 2025]]
 		- [[Tuesday 7 January 2025]]
 		- [[Wednesday 8 January 2025]]
-		-
+		- [[Thursday 9 January 2025]]
+		- [[Friday 10 January 2025]]
+		- [[Saturday 11 January 2025]]
 	- Oktober
 	  collapsed:: true
 		- [[Thursday 31 October 2024]]
