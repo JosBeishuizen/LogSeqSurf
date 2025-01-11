@@ -16,4 +16,5 @@ query-properties:: [:block]
 #+END_QUERY
 
 -
+- {{query (}}
 -
