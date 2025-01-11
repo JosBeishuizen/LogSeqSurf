@@ -17,4 +17,5 @@ query-properties:: [:block]
 
 -
 - {{query (name idee)}}
+  query-table:: false
 -
