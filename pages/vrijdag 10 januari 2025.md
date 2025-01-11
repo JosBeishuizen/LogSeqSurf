@@ -15,4 +15,4 @@
 - ![🎧 Ik ben lekker stout - Annie M.G.mp3](../assets/Ik ben lekker stout - Annie M.G.mp3)
 - Morgen van Remco Campert
 - ![🎧 Morgen - Remco Campert.mp3](../assets/Morgen - Remco Campert.mp3)
--
+- Reactie van Ada op het nieuws van Gers overlijden: zielig voor ons.
