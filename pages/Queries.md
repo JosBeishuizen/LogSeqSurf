@@ -8,7 +8,7 @@ query-properties:: [:block]
    :where 
      [?b :block/page ?p]
      [?b :block/refs ?t]
-     [?t :block/name "tag1"]
+     [?t :block/name "idee"]
  ]
  :result-transform ( fn [result] [(rand-nth result)] )
  :collapsed? true
