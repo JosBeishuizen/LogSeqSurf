@@ -8,15 +8,16 @@ query-properties:: [:block]
    :where 
      [?b :block/page ?p]
      [?b :block/refs ?t]
-     [?t :block/name "idee"]
+     [?t :block/naam "idee"]
  ]
  :result-transform ( fn [result] [(rand-nth result)] )
  :collapsed? true
 }
 #+END_QUERY
 
-- {{query (property name idee)}}
+- {{query (property naam idee)}}
   query-table:: false
+-
 -
 -
 -
