@@ -70,6 +70,8 @@
 				- [[4 Gewekt door het Oneindige - een religie zonder God]]
 				- [[5 Voorbij winst en verlies. Over identiteit en ontwrichting]]
 				- [[6 De onteigende getuige. Over mystiek, taak en getuigenis]]
+		- Veerkamp
+			-
 - Geheugen
 	- Dagboek
 	  collapsed:: true
