@@ -19,14 +19,3 @@ query-properties:: [:block]
   query-table:: false
 -
 -
--
--
--
--
--
--
--
--
--
--
--
