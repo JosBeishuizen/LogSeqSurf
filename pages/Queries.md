@@ -16,5 +16,5 @@ query-properties:: [:block]
 #+END_QUERY
 
 -
-- {{query (task later)}}
+- {{query (name idee)}}
 -
