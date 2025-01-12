@@ -80,6 +80,18 @@
 				- [[5 Voorbij winst en verlies. Over identiteit en ontwrichting]]
 				- [[6 De onteigende getuige. Over mystiek, taak en getuigenis]]
 		- Veerkamp
+			- [[01. In het begin was het boek]]
+			- [[02. Twee zienswijzen, twee ordeningen]]
+			- [[03. Het ontstaan van het Grote Verhaal]]
+			- [[05. De Tora]]
+			- [[06. Omwentelingen in het Oosten sinds het laatste kwart van de vierde eeuw v.Chr.]]
+			- [[07. Juda in de Hellenistische tijd]]
+			- [[08. Het conflict met het Hellenisme]]
+			- [[09. Het mislukken van de politiek]]
+			- [[10. Het Grote Verhaal onder de volkeren - Septuaginta en Alexandrië]]
+			- [[11. Het volk en de volkeren]]
+			- [[12. De Judese Oorlog]]
+			- [[13. Grote Verhalen - De vier Evangeliën]]
 			- [[14. Het boek Openbaring]]
 			- [[15. Besluit]]
 - Geheugen
