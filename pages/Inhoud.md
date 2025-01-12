@@ -194,6 +194,7 @@
 			- [[vrijdag 10 januari 2025]]
 	- Poëzie
 		- Gerrit Achterberg
+		  collapsed:: true
 			- [[Achterberg Gerrit - Hulshorst]]
 			- [[Achterberg Gerrit - Vervulling]]
 			- [[Achterberg Gerrit - Woord]]
@@ -221,7 +222,6 @@
 			- [[Brands Wim - Ansichtkaart]]
 			- [[Brands Wim - De jas]]
 		- Cees Buddingh'
-		  collapsed:: true
 			- [[Buddingh' Cees - Herfst met Kastanjes]]
 		- Remco Campert
 		  collapsed:: true
@@ -241,6 +241,7 @@
 		  collapsed:: true
 			- [[Clifton Lucille - Won’t you celebrate with me]]
 		- Rutger Kopland
+		  collapsed:: true
 			- [[Kopland Rutger - Aan het grensland]]
 			- [[Kopland Rutger - Een lege plek om te blijven XIV]]
 			- [[Kopland Rutger - Een psalm]]
