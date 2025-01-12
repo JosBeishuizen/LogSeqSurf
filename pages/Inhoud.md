@@ -66,6 +66,7 @@
 		- [[Kerstkaarten]]
 	- Studie
 		- Levinas
+		  collapsed:: true
 			- Levinas - aantekeningen
 				- [[Hypostase]]
 			- Theo de Boer - Tussen filosofie en profetie
@@ -79,6 +80,7 @@
 				- [[5 Voorbij winst en verlies. Over identiteit en ontwrichting]]
 				- [[6 De onteigende getuige. Over mystiek, taak en getuigenis]]
 		- Veerkamp
+		  collapsed:: true
 			- [[01. In het begin was het boek]]
 			- [[02. Twee zienswijzen, twee ordeningen]]
 			- [[03. Het ontstaan van het Grote Verhaal]]
