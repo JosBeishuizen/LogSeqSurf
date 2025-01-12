@@ -247,6 +247,7 @@
 			- [[Kopland Rutger - Voorjaarsgedicht]]
 			- [[Kopland Rutger - Aan het grensland]]
 			- [[Kopland Rutger - Een lege plek om te blijven XIV]]
+			- [[Kopland Rutger - Het kiezen van een ansichtkaart]]
 			-
 		- Huub Oosterhuis
 		  collapsed:: true
