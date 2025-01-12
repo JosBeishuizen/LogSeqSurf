@@ -1,4 +1,4 @@
-- [Tekst plus commentaar](file:///storage/emulated/0/Documents/LogSeqSurf/assets/20220724 MALEACHI_comm j+ac.docx)
+- [Tekst plus commentaar](https://u.pcloud.link/publink/show?code=XZ1agJ5ZGaaqy5CrjdjC56rfd7ugP7BjBBn7)
 - ### Maleachi: Algemene inleiding
   
   "Het is eigenlijk niet mogelijk om de profeten met plezier te lezen. Hun woorden schuren, ... "
