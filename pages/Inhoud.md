@@ -66,6 +66,7 @@
 	  collapsed:: true
 		- [[Kerstkaarten]]
 	- Studie
+	  collapsed:: true
 		- [[Maleachi]]
 		- Levinas
 		  collapsed:: true
@@ -188,6 +189,7 @@
 			- [[maandag 30 december 2024]]
 			- [[dinsdag 31 december 2024]]
 		- 2025
+		  collapsed:: true
 			- [[woensdag 1 januari 2025]]
 			- [[vrijdag 3 januari 2025]]
 			- [[vrijdag 10 januari 2025]]
