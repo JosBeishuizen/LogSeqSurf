@@ -241,14 +241,15 @@
 		  collapsed:: true
 			- [[Clifton Lucille - Won’t you celebrate with me]]
 		- Rutger Kopland
-			- [[Kopland Rutger - Een psalm]]
-			- [[Kopland Rutger - G]]
-			- [[Kopland Rutger - Portret]]
-			- [[Kopland Rutger - Voorjaarsgedicht]]
 			- [[Kopland Rutger - Aan het grensland]]
 			- [[Kopland Rutger - Een lege plek om te blijven XIV]]
+			- [[Kopland Rutger - Een psalm]]
+			- [[Kopland Rutger - G]]
 			- [[Kopland Rutger - Het kiezen van een ansichtkaart]]
 			- [[Kopland Rutger - Onder de appelboom]]
+			- [[Kopland Rutger - Portret]]
+			- [[Kopland Rutger - Psalm]]
+			- [[Kopland Rutger - Voorjaarsgedicht]]
 		- Huub Oosterhuis
 		  collapsed:: true
 			- [[Oosterhuis Huub - Deze dag]]
