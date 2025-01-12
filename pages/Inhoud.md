@@ -248,7 +248,7 @@
 			- [[Kopland Rutger - Aan het grensland]]
 			- [[Kopland Rutger - Een lege plek om te blijven XIV]]
 			- [[Kopland Rutger - Het kiezen van een ansichtkaart]]
-			-
+			- [[Kopland Rutger - Onder de appelboom]]
 		- Huub Oosterhuis
 		  collapsed:: true
 			- [[Oosterhuis Huub - Deze dag]]
