@@ -245,6 +245,8 @@
 			- [[Kopland Rutger - G]]
 			- [[Kopland Rutger - Portret]]
 			- [[Kopland Rutger - Voorjaarsgedicht]]
+			- [[Kopland Rutger - Aan het grensland]]
+			- [[Kopland Rutger - Een lege plek om te blijven XIV]]
 			-
 		- Huub Oosterhuis
 		  collapsed:: true
