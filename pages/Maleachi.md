@@ -9,6 +9,7 @@
   Het verhaal doet je ook terugdenken aan het verhaal van Kaïn en Abel. Abels offer werd aanvaard, dat van Kaïn niet. Ik herinner me nog die schoolplaat waarbij de rook van het offer van Abel recht omhoog ging en de rook van Kaïns offer horizontaal verwaaide. 
   
   Kennelijk gaat het hier om iets fundamentelers dan zomaar een mislukt offer. Hoe zit dit?
+-
 - ### Maleachi: Specifieke inleiding
   
   Nog twee vragen: wat is een offer en waarom dit boek in de Bijbel.
