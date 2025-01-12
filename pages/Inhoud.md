@@ -65,6 +65,7 @@
 	  collapsed:: true
 		- [[Kerstkaarten]]
 	- Studie
+		- [[Maleachi]]
 		- Levinas
 		  collapsed:: true
 			- Levinas - aantekeningen
