@@ -66,7 +66,6 @@
 		- [[Kerstkaarten]]
 	- Studie
 		- Levinas
-		  collapsed:: true
 			- Levinas - aantekeningen
 				- [[Hypostase]]
 			- Theo de Boer - Tussen filosofie en profetie
