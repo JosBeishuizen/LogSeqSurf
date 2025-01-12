@@ -1,4 +1,4 @@
--
+- [Tekst plus commentaar](../assets/20220724 MALEACHI_comm j+ac.docx)
 - ### Maleachi: Algemene inleiding
   
   "Het is eigenlijk niet mogelijk om de profeten met plezier te lezen. Hun woorden schuren, ... "
