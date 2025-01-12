@@ -1,6 +1,5 @@
 - Vandaag
 	- Januari
-	  collapsed:: true
 		- [[Wednesday 1 January 2025]]
 		- [[Thursday 2 January 2025]]
 		- [[Friday 3 January 2025]]
@@ -12,6 +11,7 @@
 		- [[Thursday 9 January 2025]]
 		- [[Friday 10 January 2025]]
 		- [[Saturday 11 January 2025]]
+		- [[Sunday 12 January 2025]]
 	- Februari
 	- Maart
 	- April
