@@ -36,14 +36,15 @@
 	- [[Verjaardagen]]
 	- [[Reviews]]
 - Aantekeningen
-  collapsed:: true
 	- Hoe bouw je een database in LogSeq op?
 	- [[MooieTekst]]
 	- [[Recensie Prophet Song]]
 	- [[Queries]]
 	- [[Abonnementen]]
 	- [[Herinneringen aan Gerrie]]
+	- [[Testje]]
 - Activiteiten
+  collapsed:: true
 	- Reviews
 	  collapsed:: true
 		- [[D-22-00513]]
@@ -99,7 +100,6 @@
 			- [[15. Besluit]]
 - Geheugen
 	- Dagboek
-	  collapsed:: true
 		- 1959
 		  collapsed:: true
 			- [[maandag 25 mei 1959]]
@@ -131,7 +131,6 @@
 			- [[maandag 23 december 1985]]
 			- [[maandag 30 december 1985]]
 		- 1987
-		  collapsed:: true
 			- [[donderdag 1 januari 1987]]
 			- [[dinsdag 20 januari 1987]]
 			- [[donderdag 26 februari 1987]]
@@ -184,11 +183,11 @@
 			- [[dinsdag 8 september 1987]]
 			- [[zaterdag 12 september 1987]]
 		- 2024
-		  collapsed:: true
 			- [[zondag 29 december 2024]]
 			- [[maandag 30 december 2024]]
 			- [[dinsdag 31 december 2024]]
 		- 2025
+		  collapsed:: true
 			- [[woensdag 1 januari 2025]]
 			- [[vrijdag 3 januari 2025]]
 			- [[vrijdag 10 januari 2025]]
@@ -222,6 +221,7 @@
 			- [[Brands Wim - Ansichtkaart]]
 			- [[Brands Wim - De jas]]
 		- Cees Buddingh'
+		  collapsed:: true
 			- [[Buddingh' Cees - Herfst met Kastanjes]]
 		- Remco Campert
 		  collapsed:: true
