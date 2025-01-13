@@ -1,4 +1,5 @@
 - Vandaag
+  collapsed:: true
 	- Januari
 	  collapsed:: true
 		- [[Wednesday 1 January 2025]]
@@ -32,9 +33,9 @@
 		- [[Monday 30 December 2024]]
 		- [[Tuesday 31 December 2024]]
 - Planning
-  collapsed:: true
 	- [[Verjaardagen]]
 	- [[Reviews]]
+	- [[Financiën]]
 - Aantekeningen
 	- Hoe bouw je een database in LogSeq op?
 	- [[MooieTekst]]
