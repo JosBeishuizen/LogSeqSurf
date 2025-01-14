@@ -198,9 +198,10 @@
 			- [[zondag 1 november 1987]]
 			- [[dinsdag 3 november 1987]]
 			- [[woensdag 4 november 1987]]
-			- [[1106 vrijdag 6 november 1987]]
-			- [[1126 donderdag 26 november 1987]]
-			-
+			- [[vrijdag 6 november 1987]]
+			- [[donderdag 26 november 1987]]
+			- [[1201 dinsdag 1 december 1987]]
+			- [[
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
