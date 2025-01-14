@@ -37,6 +37,7 @@
 	- [[Reviews]]
 	- [[Financiën]]
 - Aantekeningen
+  collapsed:: true
 	- Hoe bouw je een database in LogSeq op?
 	- [[MooieTekst]]
 	- [[Recensie Prophet Song]]
@@ -46,6 +47,7 @@
 	- [[Testje]]
 - Activiteiten
 	- Reviews
+	  collapsed:: true
 		- [[D-22-00513]]
 		- [[D-22-00543]]
 		- [[D-22-00834]]
@@ -130,7 +132,6 @@
 			- [[maandag 23 december 1985]]
 			- [[maandag 30 december 1985]]
 		- 1987
-		  collapsed:: true
 			- [[donderdag 1 januari 1987]]
 			- [[dinsdag 20 januari 1987]]
 			- [[donderdag 26 februari 1987]]
@@ -182,6 +183,14 @@
 			- [[maandag 7 september 1987]]
 			- [[dinsdag 8 september 1987]]
 			- [[zaterdag 12 september 1987]]
+			- [[0913 zondag 13 september 1987]]
+			- [[0915 dinsdag 15 september 1987]]
+			- [[0917 donderdag 17 september 1987]]
+			- [[0919 zaterdag 19 september 1987]]
+			- [[0922 dinsdag 22 september 1987]]
+			- [[0924 donderdag 24 september 1987]]
+			- [[0927 zondag 27 september 1987]]
+			- [[0928 maandag 28 september 1987]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
