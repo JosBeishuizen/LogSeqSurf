@@ -183,7 +183,7 @@
 			- [[maandag 7 september 1987]]
 			- [[dinsdag 8 september 1987]]
 			- [[zaterdag 12 september 1987]]
-			- [[0913 zondag 13 september 1987]]
+			- [[zondag 13 september 1987]]
 			- [[0915 dinsdag 15 september 1987]]
 			- [[0917 donderdag 17 september 1987]]
 			- [[0919 zaterdag 19 september 1987]]
@@ -191,6 +191,13 @@
 			- [[0924 donderdag 24 september 1987]]
 			- [[0927 zondag 27 september 1987]]
 			- [[0928 maandag 28 september 1987]]
+			- [[1005 maandag 5 oktober 1987]]
+			- [[1011 zaterdag 11 oktober 1987]]
+			- [[1023 vrijdag 23 oktober 1987]]
+			- [[1031 zaterdag 31 oktober 1987]]
+			- [[1101 zondag 1 november 1987]]
+			- [[1103 dinsdag 3 november 1987]]
+			- [[1104 woensdag 4 november 1987]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
