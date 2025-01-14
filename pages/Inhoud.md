@@ -45,9 +45,7 @@
 	- [[Herinneringen aan Gerrie]]
 	- [[Testje]]
 - Activiteiten
-  collapsed:: true
 	- Reviews
-	  collapsed:: true
 		- [[D-22-00513]]
 		- [[D-22-00543]]
 		- [[D-22-00834]]
