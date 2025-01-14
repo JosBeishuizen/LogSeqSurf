@@ -200,8 +200,9 @@
 			- [[woensdag 4 november 1987]]
 			- [[vrijdag 6 november 1987]]
 			- [[donderdag 26 november 1987]]
-			- [[1201 dinsdag 1 december 1987]]
-			- [[
+			- [[dinsdag 1 december 1987]]
+			- [[maandag 28 december 1987]]
+			- [[donderdag 31 december 1987]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
