@@ -1,4 +1,5 @@
 - Vandaag
+  collapsed:: true
 	- Januari
 	  collapsed:: true
 		- [[Wednesday 1 January 2025]]
@@ -40,6 +41,7 @@
 	- [[Reviews]]
 	- [[Financiën]]
 - Aantekeningen
+  collapsed:: true
 	- [[MooieTekst]]
 	- [[Recensie Prophet Song]]
 	- [[Abonnementen]]
