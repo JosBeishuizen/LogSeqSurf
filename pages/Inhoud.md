@@ -305,4 +305,6 @@
 		- [[Frittata met courgette en ciabatta]]
 		- [[Gevulde courgettes]]
 		- [[Granola]]
-		-
+		- [[Groene zomersalade met geitenkaas]]
+		- [[Hutspot]]
+		- [[Kip met basilicum en groente]]
