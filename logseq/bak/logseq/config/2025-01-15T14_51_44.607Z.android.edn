@@ -83,7 +83,7 @@
  ;; Display all scheduled and deadline blocks for the next 14 days:
  ;; :scheduled/future-days 14
  ;; Default value: 7
- ;; :scheduled/future-days 7
+ :scheduled/future-days 3
 
  ;; Specify the first day of the week.
  ;; Available options:
@@ -208,7 +208,7 @@
  ;; The "NEXT" query returns tasks with "NOW", "LATER", or "TODO" status.
  :default-queries
  {:journals
-  [{:title "🔨 NOW"
+  [{:title "Te doen"
     :query [:find (pull ?h [*])
             :in $ ?start ?today
             :where
@@ -421,4 +421,7 @@
  :file/name-format :triple-lowbar
  :journal/page-title-format "EEEE d MMMM yyyy"
  :ui/show-brackets? false
- :feature/enable-timetracking? false}
+ :feature/enable-timetracking? false
+ :feature/enable-journals? true
+ :feature/enable-whiteboards? false
+ :feature/enable-flashcards? false}
