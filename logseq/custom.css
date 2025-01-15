@@ -52,3 +52,8 @@ display: none;
 color: #59CCFF;
 
 }
+
+.asset-container > img {
+  max-height: 128px;
+  width: auto;
+}
