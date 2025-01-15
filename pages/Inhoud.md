@@ -217,7 +217,7 @@
 			- [[woensdag 1 januari 2025]]
 			- [[vrijdag 3 januari 2025]]
 			- [[vrijdag 10 januari 2025]]
-			- [[maandag 13 januari]]
+			- [[maandag 13 januari 2025]]
 	- Poëzie
 	  collapsed:: true
 		- Gerrit Achterberg
@@ -320,4 +320,6 @@
 		- [[Quiche]]
 		- [[Rigatoni met zoete tomaten, aubergine en mozarella]]
 		- [[Risotto]]
-		-
+		- [[Salade met bleekselderij en walnoten]]
+		- [[Vijfschaft]]
+		- [[Zoete aardappel met feta]]
