@@ -37,14 +37,15 @@
 	- [[Reviews]]
 	- [[Financiën]]
 - Aantekeningen
-  collapsed:: true
-	- Hoe bouw je een database in LogSeq op?
 	- [[MooieTekst]]
 	- [[Recensie Prophet Song]]
-	- [[Queries]]
 	- [[Abonnementen]]
 	- [[Herinneringen aan Gerrie]]
+- Digitaal
+	- Hoe bouw je een database in LogSeq op?
 	- [[Testje]]
+	- [[Queries]]
+	- [[Templates]]
 - Activiteiten
 	- Reviews
 	  collapsed:: true
@@ -132,6 +133,7 @@
 			- [[maandag 23 december 1985]]
 			- [[maandag 30 december 1985]]
 		- 1987
+		  collapsed:: true
 			- [[donderdag 1 januari 1987]]
 			- [[dinsdag 20 januari 1987]]
 			- [[donderdag 26 februari 1987]]
@@ -214,6 +216,7 @@
 			- [[vrijdag 10 januari 2025]]
 			- [[maandag 13 januari]]
 	- Poëzie
+	  collapsed:: true
 		- Gerrit Achterberg
 		  collapsed:: true
 			- [[Achterberg Gerrit - Hulshorst]]
