@@ -317,4 +317,7 @@
 		- [[Pasta alla Norma]]
 		- [[Pasta met spinazie en gorgonzola]]
 		- [[Pompoensoep]]
+		- [[Quiche]]
+		- [[Rigatoni met zoete tomaten, aubergine en mozarella]]
+		- [[Risotto]]
 		-
