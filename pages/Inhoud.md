@@ -298,4 +298,7 @@
 	- Recepten
 		- [[Aardappelsalade met gerookte forel]]
 		- [[Aardperentaart met peren]]
+		- [[Bietensoep met appel en balsamicoazijn]]
+		- [[Bloemkool met mosterd en kaas]]
+		- [[Bonensalade met tonijn]]
 		-
