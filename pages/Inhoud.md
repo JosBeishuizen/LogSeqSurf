@@ -308,4 +308,8 @@
 		- [[Groene zomersalade met geitenkaas]]
 		- [[Hutspot]]
 		- [[Kip met basilicum en groente]]
+		- [[Lasagne]]
+		- [[Lentil salad with sweet potatoes]]
+		- [[Linzenpompoensoep]]
+		- [[Linzensoep]]
 		-
