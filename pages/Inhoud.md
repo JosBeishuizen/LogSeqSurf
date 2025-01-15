@@ -301,4 +301,5 @@
 		- [[Bietensoep met appel en balsamicoazijn]]
 		- [[Bloemkool met mosterd en kaas]]
 		- [[Bonensalade met tonijn]]
+		- [[Eenvoudige soep]]
 		-
