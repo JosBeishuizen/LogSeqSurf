@@ -8,7 +8,6 @@
   template-including-parent:: false
 	- ## <% time %>
 - Journal
-  template:: Dag template
+  template:: journaltemplate
   template-including-parent:: false
-	-
-		- ## [🔻]([[<% yesterday %>]]) [🔺]([[<% tomorrow %>]]) ⛅ , °
+	- ## [🔻]([[<% yesterday %>]]) [🔺]([[<% tomorrow %>]]) ⛅ , °
