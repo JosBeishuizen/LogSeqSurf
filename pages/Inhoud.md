@@ -296,4 +296,5 @@
 			- [[Vasalis - De zomerwei des ochtends vroeg]]
 			- [[Vasalis - Tijd]]
 	- Recepten
+		- [[Aardappelsalade met gerookte forel]]
 		-
