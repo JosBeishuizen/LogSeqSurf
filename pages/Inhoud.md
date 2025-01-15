@@ -1,5 +1,6 @@
 - Vandaag
 	- Januari
+	  collapsed:: true
 		- [[Wednesday 1 January 2025]]
 		- [[Thursday 2 January 2025]]
 		- [[Friday 3 January 2025]]
@@ -65,6 +66,7 @@
 	  collapsed:: true
 		- [[Kerstkaarten]]
 	- Studie
+	  collapsed:: true
 		- [[Maleachi]]
 		- Levinas
 		  collapsed:: true
@@ -98,7 +100,6 @@
 			- [[15. Besluit]]
 - Geheugen
 	- Dagboek
-	  collapsed:: true
 		- 1959
 		  collapsed:: true
 			- [[maandag 25 mei 1959]]
@@ -130,7 +131,6 @@
 			- [[maandag 23 december 1985]]
 			- [[maandag 30 december 1985]]
 		- 1987
-		  collapsed:: true
 			- [[donderdag 1 januari 1987]]
 			- [[dinsdag 20 januari 1987]]
 			- [[donderdag 26 februari 1987]]
