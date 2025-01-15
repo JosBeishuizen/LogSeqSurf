@@ -53,7 +53,6 @@
 	- [[Templates]]
 - Activiteiten
 	- Reviews
-	  collapsed:: true
 		- [[D-22-00513]]
 		- [[D-22-00543]]
 		- [[D-22-00834]]
@@ -106,6 +105,7 @@
 			- [[14. Het boek Openbaring]]
 			- [[15. Besluit]]
 - Geheugen
+  collapsed:: true
 	- Dagboek
 		- 1959
 		  collapsed:: true
