@@ -312,4 +312,9 @@
 		- [[Lentil salad with sweet potatoes]]
 		- [[Linzenpompoensoep]]
 		- [[Linzensoep]]
+		- [[Mexicaanse salade]]
+		- [[Pasta alla carbonara]]
+		- [[Pasta alla Norma]]
+		- [[Pasta met spinazie en gorgonzola]]
+		- [[Pompoensoep]]
 		-
