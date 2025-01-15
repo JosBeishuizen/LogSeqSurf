@@ -4,7 +4,7 @@
   SCHEDULED: <2025-01-04 Sat .+1y>
 - DONE Lot van Remmen 1990
   SCHEDULED: <2025-01-09 Thu .+1y>
-- Annette Thijs
+- DONE Annette Thijs
   SCHEDULED: <2025-01-15 Wed .+1y>
 - Elzemien Warnink
   SCHEDULED: <2025-01-19 Sun .+1y>
