@@ -1,8 +1,10 @@
-/* @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap'
-*/
+@import url("https://fonts.googleapis.com/css2?family=Bitter:wght@400&display=swap");
+
 @import url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap");
+
+  
 body {
- font-family: 'Ubuntu', sans-serif;
+ font-family: 'Bitter', sans-serif;
 
 }
 
@@ -27,7 +29,8 @@ display: none;
 
 .dark-theme .ls-block h2 {
  font-size: medium;
- color: #8be9f2;
+ font-weight: normal;
+ color: #59CCFF;
  margin-top: 0.0em !important;
  margin-bottom: 0.0em !important;
  line-height: 1.1em !important;
@@ -46,6 +49,6 @@ display: none;
 .cp__sidebar-main-content h1.title {
 
 
-color: #8be9f2;
+color: #59CCFF;
 
 }
