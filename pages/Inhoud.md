@@ -45,7 +45,7 @@
 	- [[Recensie Prophet Song]]
 	- [[Abonnementen]]
 	- [[Herinneringen aan Gerrie]]
-	- Foto's Gerrie
+	- [[Foto's Gerrie]]
 - Digitaal
 	- Hoe bouw je een database in LogSeq op?
 	- [[Testje]]

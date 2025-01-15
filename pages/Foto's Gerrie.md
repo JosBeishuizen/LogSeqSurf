@@ -1,0 +1,2 @@
+- **23:39** [[quick capture]]: ![vak02071](../assets/vak02071.jpg)
+-
