@@ -1,3 +1,3 @@
 - **23:39** [[quick capture]]: ![vak02071](../assets/vak02071.jpg)
-- **23:42** [[quick capture]]:  https://u.pcloud.link/publink/show?code=XZU4aJ5ZnAT1elnTq9pySCQOgyU9XLrCqDnk
+- **23:42** [[
 - **23:43** [[quick capture]]: ![vak02083](../assets/vak02083.jpg)
