@@ -1,7 +1,5 @@
 - Vandaag
-  collapsed:: true
 	- Januari
-	  collapsed:: true
 		- [[Wednesday 1 January 2025]]
 		- [[Thursday 2 January 2025]]
 		- [[Friday 3 January 2025]]
@@ -14,6 +12,9 @@
 		- [[Friday 10 January 2025]]
 		- [[Saturday 11 January 2025]]
 		- [[Sunday 12 January 2025]]
+		- [[Monday 13 January 2025]]
+		- [[Tuesday 14 January 2025]]
+		-
 	- Februari
 	- Maart
 	- April
@@ -33,6 +34,7 @@
 		- [[Monday 30 December 2024]]
 		- [[Tuesday 31 December 2024]]
 - Planning
+  collapsed:: true
 	- [[Verjaardagen]]
 	- [[Reviews]]
 	- [[Financiën]]
