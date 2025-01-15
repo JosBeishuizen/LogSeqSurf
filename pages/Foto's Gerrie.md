@@ -1,3 +1,5 @@
 - **23:39** [[quick capture]]: ![vak02071](../assets/vak02071.jpg)
 - **23:43** [[quick capture]]: ![vak02083](../assets/vak02083.jpg)
-- **23:49** [[quick capture]]: ![vak02082](../assets/vak02082.jpg)**23:52** [[quick capture]]: ![101-0147_IMG](../assets/101-0147_IMG.JPG)
+- **23:49** [[quick capture]]: ![vak02082](../assets/vak02082.jpg)
+- **23:52** [[quick capture]]: ![101-0147_IMG](../assets/101-0147_IMG.JPG)
+-
