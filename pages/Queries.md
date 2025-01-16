@@ -18,9 +18,8 @@ query-properties:: [:block]
 - {{query (property naam idee)}}
   query-table:: false
   collapsed:: true
-- {{query (property tags boek)}}
+- {{query #Cultuur }}
   query-table:: true
-  collapsed:: true
 -
 -
 -
