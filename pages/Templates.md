@@ -1,11 +1,3 @@
-- Film
-  template:: Cultuur
-  template-including-parent:: false
-	- Titel::
-	  Type:: 
-	  Gezien-op:: 
-	  Opm::
-	  Cijfer::
 - Entry
   template:: Actieregel
   template-including-parent:: false
@@ -19,3 +11,5 @@
 	- Titel:
 	- Gelezen op:
 	- Opm:
+- #Cultuur
+  template:: Cultuur
