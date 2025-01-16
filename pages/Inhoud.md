@@ -74,7 +74,6 @@
 	- Sociaal
 	  collapsed:: true
 		- [[Kerstkaarten]]
-		- [[Afscheid van Gerrie]]
 	- Studie
 	  collapsed:: true
 		- [[Maleachi]]
@@ -275,8 +274,6 @@
 		- Lucille Clifton
 		  collapsed:: true
 			- [[Clifton Lucille - Won’t you celebrate with me]]
-		- Kafavis
-			- [[K.P. Kafavis - Ithaka]]
 		- Rutger Kopland
 		  collapsed:: true
 			- [[Kopland Rutger - Aan het grensland]]
