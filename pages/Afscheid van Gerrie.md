@@ -45,5 +45,5 @@
 - Dus
 	- Intro Anne
 	  logseq.order-list-type:: number
-	- Over de belevenissen al veel gehoord van de kinderen, verwoord door Cathrien. Graag wil ik aan de hand van een paar regels uit een bekend gedicht van
+	- Over de belevenissen al veel gehoord van de kinderen, verwoord door Cathrien. Graag wil ik aan de hand van een paar regels uit een bekend gedicht van Kafavis
 	  logseq.order-list-type:: number
