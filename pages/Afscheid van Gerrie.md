@@ -5,3 +5,5 @@
 	- Cathrien met de viool
 		- Julia Bobek
 	- Berend
+- Gisteravond zaten we gezellig te eten bij de Pettirosso. Op mijn vraag wie er goede voornemens maakte aan het begin van het nieuwe jaar zeiden de kinderen alle drie nee, Anne, Joan en ik ja en Gerrie ook nee. Uit een soort recalcitrantie, gaf Gerrie als verklaring. In 2006
+- Toespraak bij
