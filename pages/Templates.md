@@ -15,7 +15,7 @@
   template:: Cultuur
   template-including-parent:: false
 	- Titel::
-	  Type:: 
+	  Tags:: 
 	  Gezien-op:: 
 	  Opm::
 	  Cijfer::
