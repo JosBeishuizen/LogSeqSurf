@@ -7,8 +7,9 @@
 	- Berend
 - Gisteravond zaten we gezellig te eten bij de Pettirosso. Op mijn vraag wie er goede voornemens maakte aan het begin van het nieuwe jaar zeiden de kinderen alle drie nee, Anne, Joan en ik ja en Gerrie ook nee. Uit een soort recalcitrantie, gaf Gerrie als verklaring. In 2006
 - Toespraak bij Gerrie's 80ste verjaardag
+  collapsed:: true
 	- Ik begin met een gedicht van Kafavis, vertaald door Hans Warren en Mario Molengraaf
-	- _Als je de tocht aanvaardt naar Ithaka 
+	- Als je de tocht aanvaardt naar Ithaka 
 	  wens dat de weg dan lang mag zijn, 
 	  vol avonturen, vol ervaringen._
 	- Dat er veel zomermorgens zullen komen 
@@ -28,7 +29,7 @@
 	  verder heeft het je niets te bieden meer.
 	- En vind je het er wat pover, Ithaka bedroog je niet. 
 	  Zo wijs geworden, met zoveel ervaring, zul je al 
-	  begrepen hebben wat Ithaka's beduiden._
+	  begrepen hebben wat Ithaka's beduiden.
 	- Heeft dit iets met Gerrie te maken? Ja, om vijf redenen:
 	- 1. Gerrie is als wandelaar iemand van de weg en niet van het doel.
 		- Gerrie houdt van wandelen, samen met Daan en de kinderen, in de stad en om het Naardermeer heen. Dat wandelen houdt haar jong en vitaal.
@@ -41,3 +42,8 @@
 	- 5. Gerrie houdt van zomermorgens en aantrekkelijke dingen om aan te schaffen.
 		- De goede dingen van het leven, je weet ze te waarderen en te vinden. Die zomermorgens in Italië, waar ikzelf ook weer enorm naar verlang, daar weet je van te genieten.
 	- Genieten van het hier en nu, actief met anderen en jezelf op zoek gaan naar nieuwe avonturen, het doel in de gaten houden maar leven in het hier en nu, dat zijn maar enkele van je mooie eigenschappen waarmee je niet alleen 80 maar ook 90 of 100 kan worden. Dat wens ik je van harte toe.
+- Dus
+	- Intro Anne
+	  logseq.order-list-type:: number
+	- Over de belevenissen al veel gehoord van de kinderen, verwoord door Cathrien. Graag wil ik aan de hand van een paar regels uit een bekend gedicht van
+	  logseq.order-list-type:: number
