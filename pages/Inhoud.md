@@ -41,6 +41,7 @@
 	- [[Reviews]]
 	- [[Financiën]]
 - Aantekeningen
+  collapsed:: true
 	- [[MooieTekst]]
 	- [[Recensie Prophet Song]]
 	- [[Abonnementen]]
@@ -73,6 +74,7 @@
 	- Sociaal
 	  collapsed:: true
 		- [[Kerstkaarten]]
+		- [[Afscheid van Gerrie]]
 	- Studie
 	  collapsed:: true
 		- [[Maleachi]]
@@ -106,6 +108,7 @@
 			- [[14. Het boek Openbaring]]
 			- [[15. Besluit]]
 - Geheugen
+  collapsed:: true
 	- Cultuur
 		- [[Cultuur]]
 	- Dagboek
@@ -272,6 +275,8 @@
 		- Lucille Clifton
 		  collapsed:: true
 			- [[Clifton Lucille - Won’t you celebrate with me]]
+		- Kafavis
+			- [[K.P. Kafavis - Ithaka]]
 		- Rutger Kopland
 		  collapsed:: true
 			- [[Kopland Rutger - Aan het grensland]]
