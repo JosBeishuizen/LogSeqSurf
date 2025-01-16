@@ -6,11 +6,6 @@
   template:: journaltemplate
   template-including-parent:: false
 	- ## ⛅ , °
-- #Boek
-  template:: Boek
-	- Titel:
-	- Gelezen op:
-	- Opm:
 - #Cultuur
   template:: Cultuur
   template-including-parent:: false

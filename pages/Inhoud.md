@@ -108,7 +108,6 @@
 - Geheugen
 	- Cultuur
 		- [[Cultuur]]
-		- [[Boek]]
 	- Dagboek
 		- 1959
 		  collapsed:: true
