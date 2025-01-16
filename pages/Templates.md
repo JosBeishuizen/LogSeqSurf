@@ -10,4 +10,8 @@
 - Journal
   template:: journaltemplate
   template-including-parent:: false
-	- ## [🔻](<% yesterday %>) [🔺](<% tomorrow %>) ⛅ , °
+	- ## ⛅ , °
+- #Boek
+	- Titel:
+	- Gelezen op:
+	- Opm:
