@@ -17,7 +17,10 @@ query-properties:: [:block]
 
 - {{query (property naam idee)}}
   query-table:: false
-- {{query #boek }}
+- {{query "#boek" }}
+  query-table:: true
+  collapsed:: true
+-
 -
 -
 -
