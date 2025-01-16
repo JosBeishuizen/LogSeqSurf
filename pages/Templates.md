@@ -13,3 +13,7 @@
 	- Opm:
 - #Cultuur
   template:: Cultuur
+  template-including-parent:: false
+  tite
+- :
+-
