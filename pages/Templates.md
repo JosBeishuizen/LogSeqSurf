@@ -14,6 +14,10 @@
 - #Cultuur
   template:: Cultuur
   template-including-parent:: false
-	-
+	- Titel::
+	  Type:: 
+	  Gezien-op:: 
+	  Opm::
+	  Cijfer::
 -
 -
