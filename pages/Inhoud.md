@@ -41,6 +41,7 @@
 	- [[Reviews]]
 	- [[Financiën]]
 - Aantekeningen
+  collapsed:: true
 	- [[MooieTekst]]
 	- [[Recensie Prophet Song]]
 	- [[Abonnementen]]
@@ -73,6 +74,7 @@
 	- Sociaal
 	  collapsed:: true
 		- [[Kerstkaarten]]
+		-
 	- Studie
 	  collapsed:: true
 		- [[Maleachi]]
@@ -106,6 +108,7 @@
 			- [[14. Het boek Openbaring]]
 			- [[15. Besluit]]
 - Geheugen
+  collapsed:: true
 	- Cultuur
 		- [[Cultuur]]
 	- Dagboek
