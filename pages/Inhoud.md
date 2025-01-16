@@ -276,7 +276,7 @@
 		  collapsed:: true
 			- [[Clifton Lucille - Won’t you celebrate with me]]
 		- Kafavis
-			-
+			- [[K.P. Kafavis - Ithaka]]
 		- Rutger Kopland
 		  collapsed:: true
 			- [[Kopland Rutger - Aan het grensland]]

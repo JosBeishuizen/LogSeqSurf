@@ -47,3 +47,48 @@
 	  logseq.order-list-type:: number
 	- Over de belevenissen al veel gehoord van de kinderen, verwoord door Cathrien. Graag wil ik aan de hand van een paar regels uit een bekend gedicht van Kafavis
 	  logseq.order-list-type:: number
+		- Wens dat de weg dan lang mag zijn.
+		  Dat er veel zomermorgens zullen komen  
+		  waarop je, met grote vreugde en genot  
+		  zult binnenvaren in onbekende havens,  
+		  pleisteren in Phoenicische handelssteden  
+		  om daar aantrekkelijke dingen aan te schaffen  
+		  van parelmoer, koraal, barnsteen en ebbehout,  
+		  ook opwindende geurstoffen van alle soorten,  
+		  opwindende geurstoffen zoveel je krijgen kunt;  
+		  dat je talrijke steden in Egypte aan zult doen  
+		  om veel, heel veel te leren van de wijzen.
+		- Houd Ithaka wel altijd in gedachten.
+		  Daar aan te komen is je doel.  
+		  Maar overhaast je reis in geen geval.  
+		  't Is beter dat die vele jaren duurt,  
+		  zodat je als oude man pas bij het eiland  
+		  het anker uitwerpt, rijk aan wat je onderweg verwierf,  
+		  zonder te hopen dat Ithaka je rijkdom schenken zal.  
+		  Ithaka gaf je de mooie reis.  
+		  Was het er niet, dan was je nooit vertrokken,  
+		  verder heeft het je niets te bieden meer.
+		- En vind je het er wat pover, Ithaka bedroog je niet.
+		  Zo wijs geworden, met zoveel ervaring, zul je al  
+		  begrepen hebben wat Ithaka's beduiden.
+	- Eigenlijk beschrijft deze passage de levenshouding van Gerrie waarvan we zo zijn gaan houden
+	  logseq.order-list-type:: number
+		- logseq.order-list-type:: number
+		  1. Gerrie hield van wandelen, en was meer bezig met de weg dan met het doel
+			- logseq.order-list-type:: number
+		- logseq.order-list-type:: number
+		  2. Gerrie kan zich verheugen over wat komt.
+			- Gelukkig zijn er veel dingen waarop je je verheugt. Een gezamenlijke vakantie in Italië, Sinterklaas vieren in Bussum, een mooi boek dat thuis ligt te wachten.
+			  logseq.order-list-type:: number
+		- logseq.order-list-type:: number
+		  3. Gerrie houdt het doel wel scherp in de gaten.
+			- Het doel van een rechtvaardige samenleving waarin de welvaart eerlijk is verdeeld, dat heb je altijd scherp op het netvlies. Wanneer misstanden het bereiken van dat doel in de weg staan, dat stel je ze aan de kaak, onverschrokken en zonder compromissen.
+			  logseq.order-list-type:: number
+		- logseq.order-list-type:: number
+		  4. Gerrie houdt van avonturen en ervaringen
+			- Niet alleen buiten maar ook in huis. De computer is een bijzonder avontuur, een vertrekpunt voor weer nieuwe ervaringen en avonturen in het wereldwijde web.
+			  logseq.order-list-type:: number
+		- logseq.order-list-type:: number
+		  5. Gerrie houdt van zomermorgens en aantrekkelijke dingen om aan te schaffen.
+			- De goede dingen van het leven, je weet ze te waarderen en te vinden. Die zomermorgens in Italië, waar ikzelf ook weer enorm naar verlang, daar weet je van te genieten.
+			  logseq.order-list-type:: number
