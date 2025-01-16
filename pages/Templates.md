@@ -1,8 +1,9 @@
-- #Film
+- Film
   template:: Film
-	- Titel:
-	- Gezien op:
-	- Opm:
+	- Titel:: 
+	  Gezien-op:: 
+	  Opm::
+	  Cijfer::
 - Entry
   template:: Actieregel
   template-including-parent:: false
