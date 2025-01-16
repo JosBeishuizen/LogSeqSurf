@@ -74,7 +74,7 @@
 	- Sociaal
 	  collapsed:: true
 		- [[Kerstkaarten]]
-		-
+		- [[Afscheid van Gerrie]]
 	- Studie
 	  collapsed:: true
 		- [[Maleachi]]

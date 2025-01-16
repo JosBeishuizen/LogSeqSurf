@@ -1,0 +1,7 @@
+- Ger kwam in de zomer van 1986 in ons gezin
+- Ik kende haar al van De Jeugd Vliegt Uit
+- Ger kende al snel de kenmerkende eigenschappen van de kinderen
+	- Ik heet gewoon Sara
+	- Cathrien met de viool
+		- Julia Bobek
+	- Berend

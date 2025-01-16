@@ -18,10 +18,10 @@ query-properties:: [:block]
 - {{query (property naam idee)}}
   query-table:: false
   collapsed:: true
-- {{query (property tags boek)}}
+- {{query (tags boek)}}
   query-table:: true
   collapsed:: true
--
+- {{query (and "Ger" "Berend")}}
 -
 -
 -
