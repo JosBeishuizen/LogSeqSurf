@@ -12,6 +12,7 @@
   template-including-parent:: false
 	- ## ⛅ , °
 - #Boek
+  template:: Boek
 	- Titel:
 	- Gelezen op:
 	- Opm:
