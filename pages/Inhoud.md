@@ -15,7 +15,8 @@
 		- [[Monday 13 January 2025]]
 		- [[Tuesday 14 January 2025]]
 		- [[Wednesday 15 January 2025]]
-		-
+		- [[Thursday 16 January 2025]]
+		- [[Friday 17 January 2025]]
 	- Februari
 	- Maart
 	- April
