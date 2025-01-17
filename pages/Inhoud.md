@@ -46,6 +46,7 @@
 	- [[Abonnementen]]
 	- [[Herinneringen aan Gerrie]]
 	- [[Foto's Gerrie]]
+	- [[Afscheid van Gerrie]]
 - Digitaal
 	- Hoe bouw je een database in LogSeq op?
 	- [[Testje]]
