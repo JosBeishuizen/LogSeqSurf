@@ -108,7 +108,6 @@
 			- [[14. Het boek Openbaring]]
 			- [[15. Besluit]]
 - Geheugen
-  collapsed:: true
 	- Cultuur
 		- [[Cultuur]]
 	- Dagboek
@@ -225,6 +224,7 @@
 			- [[vrijdag 3 januari 2025]]
 			- [[vrijdag 10 januari 2025]]
 			- [[maandag 13 januari 2025]]
+			-
 	- Poëzie
 	  collapsed:: true
 		- Gerrit Achterberg
