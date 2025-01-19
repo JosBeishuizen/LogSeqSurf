@@ -110,7 +110,7 @@
 - Geheugen
 	- Cultuur
 		- [[Te Zien]]
-		- [[Cultuur]]
+		- [[Gezien]]
 	- Dagboek
 		- 1959
 		  collapsed:: true

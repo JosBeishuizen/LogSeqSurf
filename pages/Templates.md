@@ -6,7 +6,7 @@
   template:: journaltemplate
   template-including-parent:: false
 	- ## ⛅ , °
-- #Cultuur
+- #Gezien
   template:: Cultuur
   template-including-parent:: false
 	- Titel::
