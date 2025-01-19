@@ -11,9 +11,9 @@ Cijfer:: 10
   Cijfer:: 7
 - Titel:: Klima - Rechter tussen twee vuren
   Tags:: boek
-  Gezien-op: : 
-  Opm::
-  Cijfer::
+  Gezien-op:: Winter 2024/2025
+  Opm:: Vier redenen om het boek te lezen: 1. Tijdsbeeld: Praag, incl de Praagse lente en de Russische reactie. 2. Dilemma: plichtsgetrouw versus rechtvaardig. 3. Ontwikkeling van de hoofdpersoon. 4. Psychologie: scènes uit een huwelijk.
+  Cijfer:: 9
 -
 -
 -
