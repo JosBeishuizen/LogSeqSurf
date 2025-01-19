@@ -9,7 +9,11 @@ Cijfer:: 10
   Gezien-op:: 2025-01-17
   Opm:: Mooi concert met Residentie Orkest en pianist Nikola Meeuwissen. Pianoconcert van  Chopin, stuk van Pärt (Oriënt Occident), 2e Symphonie van Saint-Saens. Nieuwe concertzaal. Mooi concert, pianoconcert een beetje vlak
   Cijfer:: 7
--
+- Titel::
+  Tags:: 
+  Gezien-op:: 
+  Opm::
+  Cijfer::
 -
 -
 -
