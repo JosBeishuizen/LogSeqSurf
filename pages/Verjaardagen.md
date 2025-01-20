@@ -34,3 +34,4 @@
   SCHEDULED: <2025-02-22 Sat .+1y>
 - Corry
   SCHEDULED: <2025-02-24 Mon .+1y>
+- Marie Jeanne
