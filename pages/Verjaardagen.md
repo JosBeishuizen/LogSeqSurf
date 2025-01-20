@@ -16,5 +16,8 @@
   SCHEDULED: <2025-01-24 Fri .+1y>
 - Robert Beishuizen
   SCHEDULED: <2025-01-26 Sun .+1y>
+- Joke Bakker
+  SCHEDULED: <2025-02-05 Wed .+1y>
 - Sietske van der Veen
   SCHEDULED: <2025-02-06 Thu .+1y>
+-

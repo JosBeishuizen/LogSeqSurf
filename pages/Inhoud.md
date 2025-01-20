@@ -1,4 +1,5 @@
 - Vandaag
+  collapsed:: true
 	- Januari
 	  collapsed:: true
 		- [[Wednesday 1 January 2025]]
