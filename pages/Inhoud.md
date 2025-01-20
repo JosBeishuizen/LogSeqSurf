@@ -110,6 +110,9 @@
 			- [[15. Besluit]]
 			- [[16. Wat is er van het Grote Verhaal geworden?]]
 			- [[17 'Apostolische Vaders']]
+			- [[20. Samenvatting]]
+			- [[Het Johannes-project -- Dick Boer]]
+			- [[Indeling Oude Testament]]
 	- Lezen
 		- [[Roll]]
 - Geheugen
