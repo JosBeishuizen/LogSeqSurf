@@ -24,4 +24,5 @@
   SCHEDULED: <2025-02-06 Thu .+1y>
 - Tineke Lybaart
   SCHEDULED: <2025-02-07 Fri .+1y>
--
+- Janny 1939
+  SCHEDULED: <2025-02-17 Mon .+1y>
