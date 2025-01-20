@@ -35,3 +35,6 @@
 - Corry
   SCHEDULED: <2025-02-24 Mon .+1y>
 - Marie Jeanne
+  SCHEDULED: <2025-02-26 Wed .+1y>
+- Sam
+  SCHEDULED: <2025-02-27 Thu .+1y>
