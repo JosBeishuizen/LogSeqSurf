@@ -23,3 +23,5 @@
 - Sietske van der Veen 1992
   SCHEDULED: <2025-02-06 Thu .+1y>
 - Tineke Lybaart
+  SCHEDULED: <2025-02-07 Fri .+1y>
+-
