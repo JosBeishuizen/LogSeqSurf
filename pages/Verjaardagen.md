@@ -30,4 +30,5 @@
   SCHEDULED: <2025-02-17 Mon .+1y>
 - David
   SCHEDULED: <2025-02-20 Thu .+1y>
--
+- Jeroen
+  SCHEDULED: <2025-02-22 Sat .+1y>
