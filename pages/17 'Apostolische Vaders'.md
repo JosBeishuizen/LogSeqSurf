@@ -1,0 +1,1 @@
+- Het begin van dit proces, het heilshistorisch (naar Jezus toe) lezen van de Hebreeuwse Bijbel, in sommige geschriften in het Nieuwe Testament: in de pastorale brieven 1 en 2 Timotheüs, Titus en 1 Petrus. Sommige teksten kwamen niet in het Nieuwe Testament terecht omdat ze niet door een van de apostelen zijn geschreven
