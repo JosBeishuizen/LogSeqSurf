@@ -37,7 +37,6 @@
 		- [[Monday 30 December 2024]]
 		- [[Tuesday 31 December 2024]]
 - Planning
-  collapsed:: true
 	- [[Verjaardagen]]
 	- [[Reviews]]
 	- [[Financiën]]
@@ -76,15 +75,16 @@
 	  collapsed:: true
 		- [[Kerstkaarten]]
 	- Studie
-	  collapsed:: true
 		- [[Maleachi]]
 		- Levinas
-		  collapsed:: true
 			- Levinas - aantekeningen
+			  collapsed:: true
 				- [[Hypostase]]
 			- Theo de Boer - Tussen filosofie en profetie
+			  collapsed:: true
 				- [[I. Tussen filosofie en profetie. De wijsbegeerte van Emmanuel Levinas]]
 			- Van Riessen - Van zichzelf bevrijd
+			  collapsed:: true
 				- [[0 Inleiding]]
 				- [[1 Zich ontdoen van zichzelf. De creativiteit van de kenosis]]
 				- [[2 Levinas in gesprek met Heidegger]]
@@ -93,6 +93,7 @@
 				- [[5 Voorbij winst en verlies. Over identiteit en ontwrichting]]
 				- [[6 De onteigende getuige. Over mystiek, taak en getuigenis]]
 		- Veerkamp
+		  collapsed:: true
 			- [[01. In het begin was het boek]]
 			- [[02. Twee zienswijzen, twee ordeningen]]
 			- [[03. Het ontstaan van het Grote Verhaal]]
@@ -107,6 +108,8 @@
 			- [[13. Grote Verhalen - De vier Evangeliën]]
 			- [[14. Het boek Openbaring]]
 			- [[15. Besluit]]
+	- Lezen
+		- [[Roll]]
 - Geheugen
 	- Cultuur
 		- [[Te Zien]]
@@ -221,6 +224,7 @@
 			- [[maandag 30 december 2024]]
 			- [[dinsdag 31 december 2024]]
 		- 2025
+		  collapsed:: true
 			- [[woensdag 1 januari 2025]]
 			- [[vrijdag 3 januari 2025]]
 			- [[vrijdag 10 januari 2025]]
