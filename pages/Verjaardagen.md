@@ -40,3 +40,4 @@
   SCHEDULED: <2025-02-27 Thu .+1y>
 - Kathleen
   SCHEDULED: <2025-03-08 Sat .+1y>
+- Jan
