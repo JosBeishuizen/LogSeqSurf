@@ -6,7 +6,7 @@
   SCHEDULED: <2025-01-09 Thu .+1y>
 - DONE Annette Thijs
   SCHEDULED: <2025-01-15 Wed .+1y>
-- Elzemien Warnink
+- DONE Elzemien Warnink
   SCHEDULED: <2025-01-19 Sun .+1y>
 - Geert van Remmen 1958
   SCHEDULED: <2025-01-20 Mon .+1y>
