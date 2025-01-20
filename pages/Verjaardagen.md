@@ -17,6 +17,7 @@
 - Robert Beishuizen
   SCHEDULED: <2025-01-26 Sun .+1y>
 - Roos 2000
+  SCHEDULED: <2025-01-27 Mon .+1y>
 - Joke Bakker
   SCHEDULED: <2025-02-05 Wed .+1y>
 - Sietske van der Veen
