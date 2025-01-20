@@ -1,4 +1,5 @@
 - Vandaag
+  collapsed:: true
 	- Januari
 	  collapsed:: true
 		- [[Wednesday 1 January 2025]]
@@ -42,6 +43,7 @@
 	- [[Reviews]]
 	- [[Financiën]]
 - Aantekeningen
+  collapsed:: true
 	- [[MooieTekst]]
 	- [[Recensie Prophet Song]]
 	- [[Abonnementen]]
@@ -108,6 +110,7 @@
 			- [[14. Het boek Openbaring]]
 			- [[15. Besluit]]
 - Geheugen
+  collapsed:: true
 	- Cultuur
 		- [[Te Zien]]
 		- [[Gezien]]
