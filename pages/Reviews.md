@@ -6,5 +6,5 @@
 	  DEADLINE: <2025-01-08 Wed>
 	- DONE punten noteren
 	  DEADLINE: <2025-01-09 Thu>
-	- TODO uitschrijven en versturen
+	- DONE uitschrijven en versturen
 	  DEADLINE: <2025-01-10 Fri>
