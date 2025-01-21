@@ -5,7 +5,7 @@
 - Journal
   template:: journaltemplate
   template-including-parent:: false
-	- ## ⛅ , °
+	- ## ⛅ , ° <%weatherc Amsterdam%>
 - #Gezien
   template:: Cultuur
   template-including-parent:: false
