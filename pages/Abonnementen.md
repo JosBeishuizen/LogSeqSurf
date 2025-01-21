@@ -1,4 +1,6 @@
 naam:: Trouw
+type:: media
+prijs:: € 28.95
 
 	-
 	-
