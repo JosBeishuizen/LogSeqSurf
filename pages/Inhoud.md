@@ -77,6 +77,7 @@
 	  collapsed:: true
 		- [[Kerstkaarten]]
 	- Studie
+	  collapsed:: true
 		- [[Maleachi]]
 		- Levinas
 			- Levinas - aantekeningen
