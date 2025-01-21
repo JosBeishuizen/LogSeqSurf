@@ -15,9 +15,10 @@ query-properties:: [:block]
 }
 #+END_QUERY
 
-- {{query [[ekklesia]]}}
+- {{query [[ekklesia]] }}
   query-table:: false
   collapsed:: true
+-
 -
 - {{query [[Cultuur]]}}
   query-table:: true
