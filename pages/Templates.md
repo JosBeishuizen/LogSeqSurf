@@ -16,6 +16,11 @@
 	  Cijfer::
 - #Abo
   template:: Abo
-  template-including-patent:: false
-	-
+  template-including-parent:: false
+	- naam:: 
+	  type:: 
+	  prijs::
+	  per-maand:: 
+	  per-jaar::
+-
 -
