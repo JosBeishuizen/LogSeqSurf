@@ -48,6 +48,7 @@
 	- [[Herinneringen aan Gerrie]]
 	- [[Foto's Gerrie]]
 	- [[Afscheid van Gerrie]]
+	- [[Alzheimerlijst]]
 - Digitaal
 	- Hoe bouw je een database in LogSeq op?
 	- [[Testje]]
