@@ -16,4 +16,6 @@
 	  Cijfer::
 - #Abo
   template:: Abo
+  template-including-patent:: false
+	-
 -
