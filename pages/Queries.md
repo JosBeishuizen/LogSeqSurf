@@ -1,7 +1,8 @@
 - {{query (property naam idee)}}
   query-table:: false
   collapsed:: true
-- ```
+- collapsed:: true
+  ```
   #+BEGIN_QUERY
   {:title "🎲"
    :query [:find (pull ?b [*])
@@ -15,3 +16,4 @@
   }
   #+END_QUERY
   ```
+	-
