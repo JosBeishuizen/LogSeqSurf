@@ -77,7 +77,6 @@
 	  collapsed:: true
 		- [[Kerstkaarten]]
 	- Studie
-	  collapsed:: true
 		- [[Maleachi]]
 		- Levinas
 			- Levinas - aantekeningen
@@ -110,6 +109,8 @@
 			- [[13. Grote Verhalen - De vier Evangeliën]]
 			- [[14. Het boek Openbaring]]
 			- [[15. Besluit]]
+			- [[16. Wat is er van het Grote Verhaal geworden?]]
+			- [[17 'Apostolische Vaders']]
 	- Lezen
 		- [[Roll]]
 - Geheugen
