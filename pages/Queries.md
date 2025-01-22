@@ -2,7 +2,6 @@
   query-table:: false
   collapsed:: true
 - collapsed:: true
-  ```
   #+BEGIN_QUERY
   {:title "🎲"
    :query [:find (pull ?b [*])
@@ -15,5 +14,3 @@
    :collapsed? true
   }
   #+END_QUERY
-  ```
-	-
