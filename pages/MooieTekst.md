@@ -10,6 +10,7 @@ Mochten ook wij een nieuwe dag zien lichten, voor onze kinderen en nieuw begin
   tags:: idee
   Mooie gedachte 2
 - naam:: idee
+  tags:: idee
   Mooie gedachte 3
 -
 -
