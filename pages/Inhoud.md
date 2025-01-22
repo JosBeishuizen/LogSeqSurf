@@ -38,7 +38,6 @@
 		- [[Monday 30 December 2024]]
 		- [[Tuesday 31 December 2024]]
 - Planning
-	- [[Verjaardagen]]
 	- [[Reviews]]
 	- [[Financiën]]
 - Aantekeningen
@@ -74,8 +73,8 @@
 		- [[D-24-01050]]
 		- [[De vragen van Alexander]]
 	- Sociaal
-	  collapsed:: true
 		- [[Kerstkaarten]]
+		- [[Verjaardagen]]
 	- Studie
 		- [[Maleachi]]
 		- Levinas
