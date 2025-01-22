@@ -9,6 +9,8 @@ Mochten ook wij een nieuwe dag zien lichten, voor onze kinderen en nieuw begin
   Mooie gedachte 2
 - tags:: ☀️
   Mooie gedachte 3
+- tags:: ☀️
+  [[Huub Oosterhuis over Levinas]]
 -
 -
 -
