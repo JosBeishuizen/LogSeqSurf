@@ -2,8 +2,9 @@
   query-table:: false
   collapsed:: true
 - query-table:: false
+  collapsed:: true
   #+BEGIN_QUERY
-  {:title "🎲"
+  {:title "☀️"
    :query [:find (pull ?b [*])
      :where 
        [?b :block/page ?p]
