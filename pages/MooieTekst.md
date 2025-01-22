@@ -6,5 +6,7 @@ tags:: ☀️
 - tags:: ☀️
   [[Als ik moe ben]]
 - tags:: ☀️
+  [[Confronteren met jouw mening]]
+-
 -
 -
