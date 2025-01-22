@@ -5,10 +5,8 @@
 - Journal
   template:: journaltemplate
   template-including-parent:: false
-	- ## ⛅ , °
-	- collapsed:: true
-	  #+BEGIN_QUERY
-	  {:title "☀️"
+	- #+BEGIN_QUERY
+	  {:title "⛅ , °"
 	   :query [:find (pull ?b [*])
 	     :where 
 	       [?b :block/page ?p]

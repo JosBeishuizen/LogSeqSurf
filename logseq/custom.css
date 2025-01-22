@@ -57,3 +57,9 @@ color: #59CCFF;
   max-height: 200px;
   width: auto;
 }
+
+div[data-collapsed] div.block-properties {
+
+    display: none;
+
+}
