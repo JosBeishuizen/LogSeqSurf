@@ -11,7 +11,7 @@
        [?t :block/name "idee"]
    ]
    :result-transform ( fn [result] [(rand-nth result)] )
-  :
+  : breadcrumb 
    :collapsed? false
   }
   #+END_QUERY
