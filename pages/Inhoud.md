@@ -224,15 +224,17 @@
 			- [[maandag 28 december 1987]]
 			- [[donderdag 31 december 1987]]
 		- 1988
-			- [[0101 vrijdag 1 januari 1988]]
-			- [[0102 zaterdag 2 januari 1988]]
-			- [[0103 zondag 3 januari 1988]]
+			- [[vrijdag 1 januari 1988]]
+			- [[zaterdag 2 januari 1988]]
+			- [[zondag 3 januari 1988]]
 			- [[0104 maandag 4 januari 1988]]
 			- [[0106 woensdag 6 januari 1988]]
 			- [[0110 zondag 10 januari 1988]]
 			- [[0112 dinsdag 12 januari 1988]]
 			- [[0117 zondag 17 januari 1988]]
-			-
+			- [[0118 maandag 18 januari 1988]]
+			- [[0120 woensdag 20 januari 1988]]
+			- [[0130 zaterdag 30 januari 1988]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
