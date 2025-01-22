@@ -11,6 +11,7 @@
        [?t :block/name "idee"]
    ]
    :result-transform ( fn [result] [(rand-nth result)] )
+  :
    :collapsed? false
   }
   #+END_QUERY
