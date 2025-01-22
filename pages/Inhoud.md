@@ -41,8 +41,6 @@
 	- [[Reviews]]
 	- [[Financiën]]
 - Aantekeningen
-  collapsed:: true
-	- [[MooieTekst]]
 	- [[Recensie Prophet Song]]
 	- [[Abonnementen]]
 	- [[Herinneringen aan Gerrie]]
@@ -51,6 +49,7 @@
 	- [[Alzheimerlijst]]
 - Digitaal
   collapsed:: true
+	- [[MooieTekst]]
 	- Hoe bouw je een database in LogSeq op?
 	- [[Testje]]
 	- [[Queries]]
@@ -74,9 +73,6 @@
 		- [[D-24-00510]]
 		- [[D-24-01050]]
 		- [[De vragen van Alexander]]
-	- Sociaal
-		- [[Kerstkaarten]]
-		- [[Verjaardagen]]
 	- Studie
 		- [[Maleachi]]
 		- Levinas
@@ -224,11 +220,12 @@
 			- [[maandag 28 december 1987]]
 			- [[donderdag 31 december 1987]]
 		- 1988
+		  collapsed:: true
 			- [[vrijdag 1 januari 1988]]
 			- [[zaterdag 2 januari 1988]]
 			- [[zondag 3 januari 1988]]
-			- [[0104 maandag 4 januari 1988]]
-			- [[0106 woensdag 6 januari 1988]]
+			- [[maandag 4 januari 1988]]
+			- [[woensdag 6 januari 1988]]
 			- [[0110 zondag 10 januari 1988]]
 			- [[0112 dinsdag 12 januari 1988]]
 			- [[0117 zondag 17 januari 1988]]
@@ -236,12 +233,10 @@
 			- [[0120 woensdag 20 januari 1988]]
 			- [[0130 zaterdag 30 januari 1988]]
 		- 2024
-		  collapsed:: true
 			- [[zondag 29 december 2024]]
 			- [[maandag 30 december 2024]]
 			- [[dinsdag 31 december 2024]]
 		- 2025
-		  collapsed:: true
 			- [[woensdag 1 januari 2025]]
 			- [[vrijdag 3 januari 2025]]
 			- [[vrijdag 10 januari 2025]]
@@ -353,5 +348,10 @@
 		- [[Salade met bleekselderij en walnoten]]
 		- [[Vijfschaft]]
 		- [[Zoete aardappel met feta]]
+	- Sociaal
+	  collapsed:: true
+		- [[Kerstkaarten]]
+		- [[Verjaardagen]]
 	- Mooie teksten
+		- [[MooieTekst]]
 		- [[Huub Oosterhuis over Levinas]]
