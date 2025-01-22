@@ -4,8 +4,10 @@ tags:: idee
 Mochten ook wij een nieuwe dag zien lichten, voor onze kinderen en nieuw begin
 
 - naam:: idee
+  tags:: idee
   Mooie gedachte 1
 - naam:: idee
+  tags:: idee
   Mooie gedachte 2
 - naam:: idee
   Mooie gedachte 3
