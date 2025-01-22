@@ -2,6 +2,7 @@
   query-table:: false
   collapsed:: true
 - query-table:: false
+  collapsed:: true
   #+BEGIN_QUERY
   {:title "🎲"
    :query [:find (pull ?b [*])
@@ -11,6 +12,6 @@
        [?t :block/name "idee"]
    ]
    :result-transform ( fn [result] [(rand-nth result)] )
-   :collapsed? true
+   :collapsed? false
   }
   #+END_QUERY
