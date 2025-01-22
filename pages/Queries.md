@@ -1,6 +1,5 @@
-- {{query (property naam idee)}}
+- {{query (property tags "☀️")}}
   query-table:: false
-  collapsed:: true
 - query-table:: false
   #+BEGIN_QUERY
   {:title "☀️"
