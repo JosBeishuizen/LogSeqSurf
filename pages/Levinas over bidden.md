@@ -1,0 +1,1 @@
+- Bidden is je ziel uitstorten, uit je eigen leefwereld treden, je uitstrekken naar de wereld die lijdt, naar God die lijdt. God is met hen die lijden en bidden is niet anders dan God nabij zijn in Zijn lijden, het lijden dat Hij ervaart met en door ons.
