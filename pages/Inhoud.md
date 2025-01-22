@@ -114,7 +114,6 @@
 	- Lezen
 		- [[Roll]]
 - Geheugen
-  collapsed:: true
 	- Cultuur
 		- [[Te Zien]]
 		- [[Gezien]]
@@ -340,3 +339,5 @@
 		- [[Salade met bleekselderij en walnoten]]
 		- [[Vijfschaft]]
 		- [[Zoete aardappel met feta]]
+	- Mooie teksten
+		- [[Huub Oosterhuis over Levinas]]
