@@ -8,5 +8,7 @@ tags:: ☀️
 - tags:: ☀️
   [[Confronteren met jouw mening]]
 - tags:: ☀️
+  [[Dr Crescenzo over Epicurus]]
+-
 -
 -
