@@ -1,5 +1,4 @@
-# ☀️ Happy Thoughts
-http://www.bakadesuyo.com/2012/08/here-are-the-things-that-are-proven-to-make-y/
+- http://www.bakadesuyo.com/2012/08/here-are-the-things-that-are-proven-to-make-y/
 - ## Dankbaarheid, dankbaarheid, dankbaarheid
 - Winnaars van een bronzen medaille zijn gelukkiger dan winnaars van een zilveren medaille.
 - Schrijf elke avond drie goede dingen op die je de afgelopen dag zijn overkomen
