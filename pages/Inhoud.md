@@ -229,7 +229,9 @@
 			- [[0103 zondag 3 januari 1988]]
 			- [[0104 maandag 4 januari 1988]]
 			- [[0106 woensdag 6 januari 1988]]
-			-
+			- [[0110 zondag 10 januari 1988]]
+			- [[0112 dinsdag 12 januari 1988]]
+			- [[0117 zondag 17 januari 1988]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
