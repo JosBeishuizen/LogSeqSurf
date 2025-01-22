@@ -3,9 +3,10 @@ naam:: idee
 tags:: idee
 Mochten ook wij een nieuwe dag zien lichten, voor onze kinderen en nieuw begin
 
-- naam:: idee
+- Mooie gedachte 1
+  naam:: idee
   tags:: idee
-  Mooie gedachte 1
+  id:: 677bc073-f07e-4e04-9017-769b745aeace
 - naam:: idee
   tags:: idee
   Mooie gedachte 2
