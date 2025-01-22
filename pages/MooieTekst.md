@@ -16,3 +16,5 @@ tags:: ☀️
 - tags:: ☀️
   [[Huub Oosterhuis over liefde]]
 - tags:: ☀️
+  [[Jij bent de God die mij gegeven is]]
+-
