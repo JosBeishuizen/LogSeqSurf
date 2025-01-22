@@ -1,0 +1,4 @@
+# 1119 zaterdag 19 november 1988
+Zaterdagochtend 9.25 uur. Op de radio een kleine cursus verstekzagen voor de doe-het-zelver. Sara en Cathrien spelen beneden. Sara heeft veel meer plezier in het leven gekregen nu ze goed kan lopen. Ook de onderlinge ruzies zijn een stuk minder geworden. A.C. wil in Amstelveen naar huizen gaan kijken. Zoekt wat meer rust en groen in de directe omgeving. Gemiddeld 40 kg borrelnootjes per jaar, 40 - 70% vet. Waar moet het naar toe?
+  
+Ik probeer tijdens het werken wat meer "afstands"-momenten in te bouwen voor terugblik en planning. Kost heel veel moeite, probleem van ontevredenheid na afloop proberen terug te dringen. Achteraf denk je vaak: teveel tijd besteed aan niet inhoudelijke zaken (computer, administratie, opruimen). Terugblik en planning is heel nuttig, maar het lukt gewoon niet steeds. Kennelijk een soort achilleshiel in mijn manier van werken. Toch proberen door te zetten! Dit weekend iets over Berend opschrijven.  

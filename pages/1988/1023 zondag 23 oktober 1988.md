@@ -1,0 +1,2 @@
+# 1023 zondag 23 oktober 1988
+23.30 uur in bed, spannende aflevering van De Octopus. Moeilijk om een goede lijn te bepalen t.o. Sara en Cathrien. Sara kan zeer recalcitrant zijn. Ik word dan ook krotaf en een beetje bokkig. Ze merkt het wel. Bij Cathrien gaat het weer heel anders. Die kan blijven doorzeuren zodat je je geduld verliest. Toch is ze in het algemeen ontzettend lief en gezellig, ook tijdens het klussen.  

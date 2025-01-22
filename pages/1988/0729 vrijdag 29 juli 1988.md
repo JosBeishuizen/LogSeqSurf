@@ -1,0 +1,5 @@
+# 0729 vrijdag 29 juli 1988
+Als je het gevoel hebt dat de tijd door je vingers glipt, dan is er iets niet in orde met je tijdsbesteding. In “de Toverber” van Thomas Mann staat een mooie discussie over tijdsbeleving. In strijd met de common sense opvatting wordt verdedigd dat de tijd erg langzaam gaat als je veel te doen hebt en vlug als je je verveelt.
+Vandaag een prima werkdag gehad. Hoewel de verborgen wonderen van de Macintosh nog steeds een reuze bekoring vormen heb ik er vandaag gelukkig weerstand aan kunnen bieden. Deze week al veel te veel tijd in gestoken.
+Nog zo’n 14 dagen voor de komst van de baby. ‘t Is weer reuze spannend. Gek dat je nu nog niets weet van wat hopelijk over korte tijd ons derde kind zal zijn.
+Het houdt Cathrien wel bezig maar tot nu toe niet zo sterk als toen Sara eraan kwam. C. is natuurlijk zelf ook in verwachting. Gisteren deelde ze mee dat haar baby met Sinterklaas komt. Af en toe heeft ze het over de seizoenen. “Als het winter is …”. Sara is gelukkig helemaal op haar gemak op haar nieuwe kamertje op zolder. Morgen de w.c. verven, kastje voor Sara kopen, band om A.C. haar fiets en naar Sam en Marga.
