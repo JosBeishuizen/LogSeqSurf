@@ -224,6 +224,9 @@
 			- [[maandag 28 december 1987]]
 			- [[donderdag 31 december 1987]]
 		- 1988
+			- [[0101 vrijdag 1 januari 1988]]
+			- [[0102 zaterdag 2 januari 1988]]
+			- [[0103 zondag 3 januari 1988]]
 			-
 		- 2024
 		  collapsed:: true
