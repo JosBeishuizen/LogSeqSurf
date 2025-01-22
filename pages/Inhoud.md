@@ -41,6 +41,7 @@
 	- [[Reviews]]
 	- [[Financiën]]
 - Aantekeningen
+  collapsed:: true
 	- [[MooieTekst]]
 	- [[Recensie Prophet Song]]
 	- [[Abonnementen]]
@@ -49,6 +50,7 @@
 	- [[Afscheid van Gerrie]]
 	- [[Alzheimerlijst]]
 - Digitaal
+  collapsed:: true
 	- Hoe bouw je een database in LogSeq op?
 	- [[Testje]]
 	- [[Queries]]
@@ -94,6 +96,7 @@
 				- [[5 Voorbij winst en verlies. Over identiteit en ontwrichting]]
 				- [[6 De onteigende getuige. Over mystiek, taak en getuigenis]]
 		- Veerkamp
+		  collapsed:: true
 			- [[01. In het begin was het boek]]
 			- [[02. Twee zienswijzen, twee ordeningen]]
 			- [[03. Het ontstaan van het Grote Verhaal]]
@@ -220,6 +223,7 @@
 			- [[dinsdag 1 december 1987]]
 			- [[maandag 28 december 1987]]
 			- [[donderdag 31 december 1987]]
+		- 1988
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
