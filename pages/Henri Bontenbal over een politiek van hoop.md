@@ -1,0 +1,6 @@
+- ___37e jaargang nr. 4 (maart 2023)_  
+  ___thema:_ _**Let’s talk about Sacks**_
+- Henri Bontenbal  
+  **Een politiek van hoop**
+- In het kerstreces bekeek ik de documentaire ‘The Swedish Theory of Love’. In deze documentaire uit 2015 schetst filmmaker Erik Gandini een somber beeld van de Zweedse samenleving. De Zweedse welvaartsstaat verzorgt haar burgers van de wieg tot het graf, zorgt voor gelijke kansen voor iedereen en faciliteert dat de Zweden onafhankelijk van elkaar kunnen leven. Maar dit individualisme heeft een donkere keerzijde: de helft van de bevolking woont alleen en een kwart van de Zweden sterft in eenzaamheid.
+-
