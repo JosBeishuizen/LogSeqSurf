@@ -1,4 +1,5 @@
 - Series
 	- Netflix: Asura: prettig bedachtzaam karakterdrama vol empathie van Hirokazu Kore-eda
 	- One hundred years of solitude
-	- A man 9n the
+	- A man on the inside
+		- https://www.vprogids.nl/cinema/series/lees/artikelen/2024/A-Man-on-the-Inside-met-Ted-Danson-op-Netflix-zo-gemoedelijk-als-een-warm-dekentje.html
