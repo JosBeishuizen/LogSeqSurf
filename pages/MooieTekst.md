@@ -6,8 +6,7 @@
 - tags:: ☀️
   
   [[Confronteren met jouw mening]]
-- tags:: ☀️
-  [[De Crescenzo over Epicurus]]
+-
 - tags:: ☀️
   [[Henri Bontenbal over een politiek van hoop]]
 - tags:: ☀️
