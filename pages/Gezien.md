@@ -14,11 +14,11 @@ Cijfer:: 10
   Gezien-op:: Winter 2024/2025
   Opm:: Vier redenen om het boek te lezen: 1. Tijdsbeeld: Praag, incl de Praagse lente en de Russische reactie. 2. Dilemma: plichtsgetrouw versus rechtvaardig. 3. Ontwikkeling van de hoofdpersoon. 4. Psychologie: scènes uit een huwelijk.
   Cijfer:: 9
-- Titel::
-  Tags:: 
-  Gezien-op:: 
-  Opm::
-  Cijfer::
+- Titel:: One Day
+  Tags:: Serie
+  Gezien-op:: jan 2025
+  Opm:: 14 keer 15 juli. Twee studenten die elkaar op een feestje ontmoeten. Ze worden vrienden maar krijgen geen relatie. Pas later trouwen ze. De verschillende karakters worden goed uitgebeeld. 
+  Cijfer:: 9
 -
 -
 -
