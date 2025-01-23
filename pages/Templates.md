@@ -5,7 +5,6 @@
 - Journal
   template:: journaltemplate
   template-including-parent:: false
-  collapsed:: true
 	- ## ⛅ , °
 	- collapsed:: true
 	  #+BEGIN_QUERY
