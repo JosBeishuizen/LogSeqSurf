@@ -63,3 +63,31 @@ div[data-collapsed] div.block-properties {
     display: none;
 
 }
+
+/* Minimal style for queries --------------------------------- */
+
+/* Tag a block with #minimal-query to hide all query controls */
+
+[data-refs-self*="minimal-query"] .custom-query .fade-link                                  {display: none;}
+
+[data-refs-self*="minimal-query"] .custom-query > .flex > .content                          {display: none;}
+
+[data-refs-self*="minimal-query"] .custom-query .initial > div > .flex.flex-row .ui__toggle {display: none;}
+
+[data-refs-self*="minimal-query"] .custom-query                                             {margin-top: 0;}
+
+[data-refs-self*="minimal-query"] .custom-query .initial>div>.flex.flex-row                 {margin-top: 0;}
+
+/* Hide query builder and "live query" label --------------------- */
+
+[data-refs-self*="minimal-query"] .custom-query > .cp__query-builder                        {display: none;}
+
+[data-refs-self*="minimal-query"] .custom-query > .th                                       {display: none;}
+
+/* To hide the tag use the following or add
+
+hide-dotted-tags.css and add a dot to the tag,
+
+for example #.minimal-query */
+
+a.tag[data-ref*="minimal-query"] {display: none;}
