@@ -10,9 +10,9 @@
   SCHEDULED: <2025-01-19 Sun .+1y>
 - DONE Geert van Remmen 1958
   SCHEDULED: <2025-01-20 Mon .+1y>
-- Teun Borst 1951
+- DONE Teun Borst 1951
   SCHEDULED: <2025-01-21 Tue .+1y>
-- Toon Banen 1987
+- TODO Toon Banen 1987
   SCHEDULED: <2025-01-24 Fri .+1y>
 - Robert Beishuizen
   SCHEDULED: <2025-01-26 Sun .+1y>
