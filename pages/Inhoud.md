@@ -48,7 +48,6 @@
 	- [[Afscheid van Gerrie]]
 	- [[Alzheimerlijst]]
 - Digitaal
-  collapsed:: true
 	- [[MooieTekst]]
 	- Hoe bouw je een database in LogSeq op?
 	- [[Testje]]
