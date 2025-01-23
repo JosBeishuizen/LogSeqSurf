@@ -1,6 +1,4 @@
-tags:: ☀️
-[[Huub Oosterhuis over Levinas]]
-
+-
 - tags:: ☀️
   Albert Verwey: Wie waarlijk leeft, heeft in zijn hart een onvernietigbare veer, een stille kracht, die elke weerstand tart”.
 - tags:: ☀️
@@ -13,7 +11,7 @@ tags:: ☀️
 - tags:: ☀️
   [[Henri Bontenbal over een politiek van hoop]]
 - tags:: ☀️
-  
+  tags:: minimal-query
   [[Happy Thoughts]]
 - tags:: ☀️
   [[Huub Oosterhuis over liefde]]
