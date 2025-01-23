@@ -6,12 +6,14 @@ tags:: ☀️
 - tags:: ☀️
   [[Als ik moe ben]]
 - tags:: ☀️
+  
   [[Confronteren met jouw mening]]
 - tags:: ☀️
   [[De Crescenzo over Epicurus]]
 - tags:: ☀️
   [[Henri Bontenbal over een politiek van hoop]]
 - tags:: ☀️
+  
   [[Happy Thoughts]]
 - tags:: ☀️
   [[Huub Oosterhuis over liefde]]
