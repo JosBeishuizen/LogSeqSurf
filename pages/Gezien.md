@@ -14,7 +14,11 @@ Cijfer:: 10
   Gezien-op:: Winter 2024/2025
   Opm:: Vier redenen om het boek te lezen: 1. Tijdsbeeld: Praag, incl de Praagse lente en de Russische reactie. 2. Dilemma: plichtsgetrouw versus rechtvaardig. 3. Ontwikkeling van de hoofdpersoon. 4. Psychologie: scènes uit een huwelijk.
   Cijfer:: 9
--
+- Titel::
+  Tags:: 
+  Gezien-op:: 
+  Opm::
+  Cijfer::
 -
 -
 -
