@@ -5,7 +5,9 @@
 - Journal
   template:: journaltemplate
   template-including-parent:: false
-	- #+BEGIN_QUERY
+	- ## ⛅ , °
+	- collapsed:: true
+	  #+BEGIN_QUERY
 	  {:title "⛅ , °"
 	   :query [:find (pull ?b [*])
 	     :where 
