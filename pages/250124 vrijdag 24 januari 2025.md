@@ -1,0 +1,3 @@
+- Hoi Wies, even bijpraten. Vandaag wordt je vader 38 jaar! Gelukkig is hij gezond en opgewekt als altijd. Je boft wel met zulke lieve ouders en zulke lieve zusje en broer.
+- Gisteren hebben oma en ik weer bij jullie opgepast. Was weer heel gezellig.
+-
