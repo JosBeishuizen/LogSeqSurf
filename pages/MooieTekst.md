@@ -17,4 +17,10 @@ Albert Verwey: Wie waarlijk leeft, heeft in zijn hart een onvernietigbare veer, 
 - tags:: ☀️
   [[Stoa 1. Overdenking van het slechte]]
 - tags:: ☀️
--
+  [[Als ik moe ben]]
+- tags:: ☀️
+  [[Als ik sterk ben]]
+- tags:: ☀️
+  [[Huub Oosterhuis over Levinas]]
+- tags:: ☀️
+  [[Mandela over onze diepste angst]]

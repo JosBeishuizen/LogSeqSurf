@@ -38,9 +38,11 @@
 		- [[Monday 30 December 2024]]
 		- [[Tuesday 31 December 2024]]
 - Planning
+  collapsed:: true
 	- [[Reviews]]
 	- [[Financiën]]
 - Aantekeningen
+  collapsed:: true
 	- [[Recensie Prophet Song]]
 	- [[Abonnementen]]
 	- [[Herinneringen aan Gerrie]]
@@ -48,6 +50,7 @@
 	- [[Afscheid van Gerrie]]
 	- [[Alzheimerlijst]]
 - Digitaal
+  collapsed:: true
 	- [[MooieTekst]]
 	- Hoe bouw je een database in LogSeq op?
 	- [[Testje]]
@@ -73,6 +76,7 @@
 		- [[D-24-01050]]
 		- [[De vragen van Alexander]]
 	- Studie
+	  collapsed:: true
 		- [[Maleachi]]
 		- Levinas
 			- Levinas - aantekeningen
@@ -115,6 +119,7 @@
 		- [[Te Zien]]
 		- [[Gezien]]
 	- Dagboek
+	  collapsed:: true
 		- 1959
 		  collapsed:: true
 			- [[maandag 25 mei 1959]]
