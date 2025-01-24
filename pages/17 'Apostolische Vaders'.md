@@ -1,3 +1,14 @@
 - Het begin van dit proces, het heilshistorisch (naar Jezus toe) lezen van de Hebreeuwse Bijbel, in sommige geschriften in het Nieuwe Testament: in de pastorale brieven 1 en 2 Timotheüs, Titus en 1 Petrus. Sommige teksten kwamen niet in het Nieuwe Testament terecht omdat ze niet door een van de apostelen zijn geschreven. De auteurs van deze teksten worden Apostolische Vaders genoemd.
 - ## 17.1. Ignatius van Antiochië
+- Ignatius was in het eerste decennium van de tweede eeuw bisschop van Antiochië. Beschuldigd van oproer, gevangengenomen, naar Rome. Tijdens zijn transport schreef hij brieven aan gemeenten in Klein-Azië en ontmoette hij vertegenwoordigers. Ignatius zet de lijn van Paulus door. Maar er is een belangrijk verschil. Paulus verkondigt zijn evangelie vanuit het Grote Verhaal van Israël. Bij Ignatius zijn er nauwelijks nog verbanden met het Grote Verhaal van Israël. Hij stelt:
+- Het is absurd te spreken van Jezus Christus
+  en tegelijk het Jodendom aan te houden.
+  Het christendom is niet van geloven in het Jodendom,
+  maar het Jodendom in het Christendom,
+  opdat iedere ging die op God vertrouwt, bijeengebracht wordt.
+- Voor Ignatius wijzen de teksten van de Hebreeuwse Bijbel op Jezus Christus (heilshistorisch lezen). Paulus deed precies het omgekeerde: hij verkondigde het evangelie vanuit de Schrift. De benadering van Ignatius leidt er uiteindelijk toe dat het evangelie ook zonder Tenach kan bestaan. Volgens Ignatius sluiten de Joodse levenswijze en de christelijke levenswijze elkaar uit.
+- In Rome verwachtte Ignatius het martelaarschap: te worden ter dood veroordeeld en voor de wilde beesten geworpen. En zo Jezus na te volgen. Het Romeinse Rijk en de keizer waren voor hem de grote vijand.
+- Ignatius streeft eenheid onder de gemeenten na. Dat vergt een strakke organisatie en partijtrouw. Eén orthodoxe manier van de Bijbel lezen: heilshistorisch. Deze manier van argumenteren is een opmaat voor algemene vijandschap tussen christenen en Joden.
+- ## 17.2. Pseudo-Barnabas en de 'brief aan Diognètos'
+- De brief van Barnabas, ook bekend als Pseudo-Barnabas, gaat en stap verder.
 -
