@@ -7,6 +7,7 @@
   template-including-parent:: false
 	- ## ⛅ , °
 	- tags:: minimal-query
+	  collapsed:: true
 	  #+BEGIN_QUERY 
 	  {:title "⛅ , °"
 	   :query [:find (pull ?b [*])
