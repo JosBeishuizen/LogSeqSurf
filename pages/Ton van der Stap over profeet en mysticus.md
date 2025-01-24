@@ -12,7 +12,7 @@
 - Beide houdingen, die van de profeten en die van de mystieken, zijn juist.
   Wanneer loopt het mis? Als die twee niet meer naar elkaar luisteren.
   En zeker, als ze elkaar gaan veroordelen.
-  Dan verzandt  profetie in dogmatisme en door niets gedragen actie.;
+  Dan verzandt de profetie in dogmatisme en door niets gedragen actie.;
   luistert de mystiek niet meer maar de profeten, dan droogt ze op tot burgerlijke vroomheid.
 - het artikel besluit met:
   Wij weten genoeg. Wij doen ook vaak heel veel. Maar we moeten ook onze ziel verzorgen.
