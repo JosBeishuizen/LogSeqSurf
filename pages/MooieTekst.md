@@ -1,10 +1,6 @@
 -
-- tags:: ☀️
-  Albert Verwey: Wie waarlijk leeft, heeft in zijn hart een onvernietigbare veer, een stille kracht, die elke weerstand tart”.
+- Albert Verwey: Wie waarlijk leeft, heeft in zijn hart een onvernietigbare veer, een stille kracht, die elke weerstand tart”
 -
-- tags:: ☀️
-  
-  [[Confronteren met jouw mening]]
 -
 - tags:: ☀️
   [[Henri Bontenbal over een politiek van hoop]]
@@ -14,6 +10,5 @@
   [[Huub Oosterhuis over liefde]]
 - tags:: ☀️
   [[Jij bent de God die mij gegeven is]]
-- tags:: ☀️
-  [[Levinas over bidden]]
+- tags:]]
 -

@@ -6,8 +6,7 @@
   template:: journaltemplate
   template-including-parent:: false
 	- ## ⛅ , °
-	- collapsed:: true
-	  #+BEGIN_QUERY 
+	- #+BEGIN_QUERY 
 	  {:title "Dagelijkse Gedachte"
 	   :query [:find (pull ?b [*])
 	     :where 
@@ -16,8 +15,7 @@
 	       [?t :block/name "☀️"]
 	   ]
 	   :result-transform ( fn [result] [(rand-nth result)] )
-	  :breadcrumb-show? true
-	   :collapsed? false
+	   :collapsed? true
 	  }
 	  #+END_QUERY
 - #Gezien
