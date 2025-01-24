@@ -363,3 +363,4 @@
 		- [[Ton van der Stap over profeet en mysticus]]
 		- [[Als ik sterk ben]]
 		- [[Wat is sabbat]]
+		- [[Stoa 1. Overdenking van het slechte]]
