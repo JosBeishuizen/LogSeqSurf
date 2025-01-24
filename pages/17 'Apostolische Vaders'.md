@@ -11,5 +11,5 @@
 - Ignatius streeft eenheid onder de gemeenten na. Dat vergt een strakke organisatie en partijtrouw. Eén orthodoxe manier van de Bijbel lezen: heilshistorisch. Deze manier van argumenteren is een opmaat voor algemene vijandschap tussen christenen en Joden.
 - ## 17.2. Pseudo-Barnabas en de 'brief aan Diognètos'
 - TODO De brief van Barnabas, ook bekend als Pseudo-Barnabas, gaat en stap verder. Het verbond (tussen God en zijn volk) is van ons een niet van hen. Kijk maar naar het verhaal van het gouden kalf. Daar hebben zij het verbond verbroken. Op grond van zijn uitleg van de Tenach concludeert Barnabas dat de Joden onterfd zijn. Dat niet alleen, ook de sabbat (zaterdag) wordt als feestdag vervangen door de zondag. Hetzelfde geldt voor de tempel. In Jeruzalem is de tempel door de Romeinen verwoest. De messiaanse gemeente is de nieuwe geestelijke tempel, gebouwd voor de heer. In plaats van een messiaanse gemeente van Joden en gojiem (zoals Paulus wilde) hebben we een christelijke gemeente die het uit principe zonder Joden wil stellen. Het Grote Verhaal van Israël wordt niet afgeschaft maar blijft nodig om het christendom de authenticiteit te verschaffen waarmee het zich afzette tegen de antieke religie.
-- De brief aan Diognètos wil opheldering
+- De brief aan Diognètos wil opheldering verkrijgen over het verschil tussen Jodendom en christendom.
 -
