@@ -5,3 +5,6 @@
 		- https://www.vprogids.nl/cinema/series/lees/artikelen/2024/A-Man-on-the-Inside-met-Ted-Danson-op-Netflix-zo-gemoedelijk-als-een-warm-dekentje.html
 - Films
 	- Nesjomme
+- Muziek
+	- John Dowland - Lachrimae Antiquae
+	- Benjamin Britten - Vioolconcert
