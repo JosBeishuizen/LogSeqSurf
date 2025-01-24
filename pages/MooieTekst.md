@@ -24,3 +24,13 @@ Albert Verwey: Wie waarlijk leeft, heeft in zijn hart een onvernietigbare veer, 
   [[Huub Oosterhuis over Levinas]]
 - tags:: ☀️
   [[Mandela over onze diepste angst]]
+- tags:: ☀️
+  [[Natalia Ginzburg over de dood]]
+- tags:: ☀️
+  [[Natalia Ginzburg over geloven in God]]
+- tags:: ☀️
+  [[Huub Oosterhuis - Nieuwe Dag]]
+- tags:: ☀️
+  [[Martin van Amerongen - Nooit komen rampen eenzaam als verspieders]]
+- tags:: ☀️
+  [[Ton van der Stap over profeet en mysticus]]
