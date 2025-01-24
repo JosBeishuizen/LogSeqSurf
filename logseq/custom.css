@@ -27,8 +27,7 @@ display: none;
 
 }
 
-.dark-theme .ls-block h2 {
- font-size: medium;
+.dark-theme .ls-block h2 {: medium;
  font-weight: normal;
  color: #59CCFF;
  margin-top: 0.0em !important;
@@ -43,7 +42,19 @@ display: none;
  }
 
 .editor-inner .uniline-block:is(.h1,.h2), .ls-block :is(h1,h2) {
+font-weight: normal;
 
+ color: #59CCFF;
+
+ margin-top: 0.0em !important;
+
+ margin-bottom: 0.0em !important;
+
+ line-height: 1.1em !important;
+
+ margin:2px 0px 2px 0px !important;
+
+ 
   	border-bottom: none;}
 
 .cp__sidebar-main-content h1.title {
