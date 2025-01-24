@@ -42,6 +42,7 @@ font-size: 16px;
  }
 
 .editor-inner .uniline-block:is(.h1,.h2), .ls-block :is(h1,h2) {
+    font-size: 16px;
   	border-bottom: none;}
 
 .cp__sidebar-main-content h1.title {

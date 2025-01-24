@@ -22,14 +22,18 @@ display: none;
  color: black;
 }
 
+.ls-block h2{
+    font-size: 80%;
+}
+
 .dark-theme .ls-block h2 {: medium;
-font-size: 12px;
+font-size: 16px;
  font-weight: normal;
  color: #59CCFF;
  margin-top: 0.0em !important;
  margin-bottom: 0.0em !important;
  line-height: 1.1em !important;
- margin:2px 0px 2px 0px !important;
+ margin:1px 0px 1px 0px !important;
  padding: 1px 0px 2px 0px !important;
 }
 
