@@ -10,5 +10,5 @@
 - In Rome verwachtte Ignatius het martelaarschap: te worden ter dood veroordeeld en voor de wilde beesten geworpen. En zo Jezus na te volgen. Het Romeinse Rijk en de keizer waren voor hem de grote vijand.
 - Ignatius streeft eenheid onder de gemeenten na. Dat vergt een strakke organisatie en partijtrouw. Eén orthodoxe manier van de Bijbel lezen: heilshistorisch. Deze manier van argumenteren is een opmaat voor algemene vijandschap tussen christenen en Joden.
 - ## 17.2. Pseudo-Barnabas en de 'brief aan Diognètos'
-- De brief van Barnabas, ook bekend als Pseudo-Barnabas, gaat en stap verder. Het verbond (tussen
+- De brief van Barnabas, ook bekend als Pseudo-Barnabas, gaat en stap verder. Het verbond (tussen God en zijn volk) is van ons een niet van hen. Kijk maar naar het verhaal van het gouden kalf. Daar hebben zij het verbond verbroken. Op grond van zijn uitleg van de Tenach concludeert Barnabas dat de Joden onterfd zijn. Dat niet alleen, ook de sabbat (zaterdag) wordt als feestdag vervangen door de zondag. Hetzelfde geldt voor de tempel. In Jeruzalem is de tempel door de Romeinen verwoest. De messiaanse gemeente is de nieuwe geestelijke tempel, gebouwd voor de heer. In plaats van een messiaanse gemeente
 -
