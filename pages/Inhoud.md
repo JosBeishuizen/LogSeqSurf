@@ -119,7 +119,6 @@
 		- [[Te Zien]]
 		- [[Gezien]]
 	- Dagboek
-	  collapsed:: true
 		- 1959
 		  collapsed:: true
 			- [[maandag 25 mei 1959]]
@@ -247,6 +246,8 @@
 			- [[vrijdag 10 januari 2025]]
 			- [[maandag 13 januari 2025]]
 			- [[zaterdag 18 januari 2025]]
+		- Dagboek voor Wiesje
+			-
 	- Poëzie
 	  collapsed:: true
 		- Gerrit Achterberg
