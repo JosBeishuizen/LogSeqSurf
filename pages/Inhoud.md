@@ -248,6 +248,10 @@
 			- [[zaterdag 18 januari 2025]]
 		- Dagboek voor Wiesje
 			- [[240923 maandag 23 september 2024]]
+			- [[240928 zaterdag 28 september 2024]]
+			- [[241017 donderdag 17 oktober 2024]]
+			- [[241115 vrijdag 15 november 2024]]
+			- [[241215 zondag 15 december 2012]]
 			-
 	- Poëzie
 	  collapsed:: true
