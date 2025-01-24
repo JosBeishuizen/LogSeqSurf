@@ -22,10 +22,6 @@ display: none;
  color: black;
 }
 
-.ls-block h2{
-    font-size: 80%;
-}
-
 .dark-theme .ls-block h2 {: medium;
 font-size: 16px;
  font-weight: normal;
