@@ -6,10 +6,9 @@
   template:: journaltemplate
   template-including-parent:: false
 	- ## ⛅ , °
-	- tags:: minimal-query
-	  collapsed:: true
+	- collapsed:: true
 	  #+BEGIN_QUERY 
-	  {:title "⛅ , °"
+	  {:title "Dagelijkse Gedachte"
 	   :query [:find (pull ?b [*])
 	     :where 
 	       [?b :block/page ?p]

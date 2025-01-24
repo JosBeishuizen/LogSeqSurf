@@ -9,7 +9,6 @@
 - tags:: ☀️
   [[Henri Bontenbal over een politiek van hoop]]
 - tags:: ☀️
-  tags:: minimal-query
   [[Happy Thoughts]]
 - tags:: ☀️
   [[Huub Oosterhuis over liefde]]
