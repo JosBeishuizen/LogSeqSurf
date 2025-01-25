@@ -36,5 +36,7 @@
 	  per-maand:: 
 	  per-jaar::
 - #Quote
+  template:: Quote
+  template-including-parent:: false
 	- <randomblock quote>
 -
