@@ -247,12 +247,7 @@
  ;;  ["js" "Javascript"]
  ;;  ["md" "Markdown"]
  ;;  ]
- 
- 
- 
-
  :commands [
-
   ["iframe" [[:editor/input "{{{iframe }}}" {:backward-pos 3}]]]
 
   ["iframe-wikipedia" [[:editor/input "{{{iframe https://en.wikipedia.org/wiki/}}}" {:backward-pos 3}]]]
@@ -280,10 +275,7 @@
  ;; becomes
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
  :macros {"i" "[:span {:class ti} \"&#x$1 \" ]"
- 
-
  "iframe" "<iframe src=\"$1\" style=\"width:calc(100% - 4px);height:650px\"></iframe>" 
-
 }
 
  ;; Configure the default expansion level for linked references.

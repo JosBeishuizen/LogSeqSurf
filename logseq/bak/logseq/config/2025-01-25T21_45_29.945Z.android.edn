@@ -20,7 +20,7 @@
  ;; Define the default journal page template.
  ;; Enter the template name between the quotes.
  :default-templates
- {:journals ""}
+ {:journals "journaltemplate"}
 
  ;; Set a custom date format for the journal page title.
  ;; Default value: "MMM do, yyyy"
@@ -83,7 +83,7 @@
  ;; Display all scheduled and deadline blocks for the next 14 days:
  ;; :scheduled/future-days 14
  ;; Default value: 7
- ;; :scheduled/future-days 7
+ :scheduled/future-days 3
 
  ;; Specify the first day of the week.
  ;; Available options:
@@ -146,7 +146,7 @@
  ;; Default value: "whiteboards"
  ;; :whiteboards-directory "whiteboards"
 
- ;; Enabling this option converts
+ ;; Enabling this option conv imports 
  ;; [[Grant Ideas]] to [[file:./grant_ideas.org][Grant Ideas]] for org-mode.
  ;; For more information, visit https://github.com/logseq/logseq/issues/672
  ;; :org-mode/insert-file-link? false
@@ -213,7 +213,7 @@
             :in $ ?start ?today
             :where
             [?h :block/marker ?marker]
-            [(contains? #{"NOW" "DOING"} ?marker)]
+            [(contains? #{"NOW" "TODO" "DOING"} ?marker)]
             [?h :block/page ?p]
             [?p :block/journal? true]
             [?p :block/journal-day ?d]
@@ -247,7 +247,21 @@
  ;;  ["js" "Javascript"]
  ;;  ["md" "Markdown"]
  ;;  ]
- :commands []
+ 
+ 
+ 
+
+ :commands [
+
+  ["iframe" [[:editor/input "{{{iframe }}}" {:backward-pos 3}]]]
+
+  ["iframe-wikipedia" [[:editor/input "{{{iframe https://en.wikipedia.org/wiki/}}}" {:backward-pos 3}]]]
+
+  ["iframe-google" [[:editor/input "{{{iframe https://www.google.com/search?q=}}}" {:backward-pos 3}]]]
+
+  ["iframe-google-images" [[:editor/input "{{{iframe https://www.google.com/search?tbm=isch&q=}}}" {:backward-pos 3}]]]
+
+ ]
 
  ;; Enable collapsing blocks with titles but no children.
  ;; By default, only blocks with children can be collapsed.
@@ -265,7 +279,12 @@
  ;; input "{{poem red,blue}}"
  ;; becomes
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
- :macros {}
+ :macros {"i" "[:span {:class ti} \"&#x$1 \" ]"
+ 
+
+ "iframe" "<iframe src=\"$1\" style=\"width:calc(100% - 4px);height:650px\"></iframe>" 
+
+}
 
  ;; Configure the default expansion level for linked references.
  ;; For example, consider the following block hierarchy:
@@ -299,7 +318,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["Inhoud"]
+ :favorites ["Templates" "Inhoud"]
 
  ;; Set flashcards interval.
  ;; Expected value:
