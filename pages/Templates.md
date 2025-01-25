@@ -6,8 +6,19 @@
   template:: journaltemplate
   template-including-parent:: false
 	- ## ⛅ , °
-	- [[Quote]]
-	  collapsed:: true
+	- collapsed:: true
+	  #+BEGIN_QUERY 
+	  {:title "Citaat"
+	   :query [:find (pull ?b [*])
+	     :where 
+	       [?b :block/page ?p]
+	       [?b :block/refs ?t]
+	       [?t :block/name "☀️"]
+	   ]
+	   :result-transform ( fn [result] [(rand-nth result)] )
+	   :collapsed? true
+	  }
+	  #+END_QUERY
 - #Gezien
   template:: Cultuur
   template-including-parent:: false
