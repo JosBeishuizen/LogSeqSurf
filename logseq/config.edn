@@ -265,7 +265,7 @@
  ;; input "{{poem red,blue}}"
  ;; becomes
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
- :macros {}
+ :macros {"i" "[:span {:class ti} \"&#x$1 \" ]"}
 
  ;; Configure the default expansion level for linked references.
  ;; For example, consider the following block hierarchy:
