@@ -50,7 +50,6 @@
 	- [[Afscheid van Gerrie]]
 	- [[Alzheimerlijst]]
 - Digitaal
-  collapsed:: true
 	- [[MooieTekst]]
 	- Hoe bouw je een database in LogSeq op?
 	- [[Testje]]
@@ -247,6 +246,7 @@
 			- [[maandag 13 januari 2025]]
 			- [[zaterdag 18 januari 2025]]
 		- Dagboek voor Wiesje
+		  collapsed:: true
 			- [[240923 maandag 23 september 2024]]
 			- [[240928 zaterdag 28 september 2024]]
 			- [[241017 donderdag 17 oktober 2024]]
@@ -364,6 +364,7 @@
 		- [[Kerstkaarten]]
 		- [[Verjaardagen]]
 	- Mooie teksten
+		- [[Quote]]
 		- [[MooieTekst]]
 		- [[Huub Oosterhuis over Levinas]]
 		- [[Als ik moe ben]]
