@@ -17,7 +17,7 @@
   :LOGBOOK:
   * State "DONE" from "TODO" [2025-01-24 Fri 07:03]
   :END:
-- Robert Beishuizen
+- DONE Robert Beishuizen
   SCHEDULED: <2025-01-26 Sun .+1y>
 - Roos 2000
   SCHEDULED: <2025-01-27 Mon .+1y>
