@@ -430,7 +430,7 @@
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
- ;; :block-hidden-properties #{:tags}
+ ;;:block-hidden-properties #{:tags}
  :journal/page-title-format "EEEE d MMMM yyyy"
  :ui/show-brackets? false
  :feature/enable-timetracking? false
