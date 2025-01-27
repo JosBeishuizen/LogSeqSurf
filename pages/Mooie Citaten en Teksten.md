@@ -65,3 +65,4 @@ Albert Verwey: Wie waarlijk leeft, heeft in zijn hart een onvernietigbare veer, 
   God geve me de kalmte om te dingen te aanvaarden waaraan ik niets kan veranderen, de moed om de dingen te veranderen die ik kan veranderen en de wijsheid om te allen tijde het verschil tussen beide te zien. - Epictetus
 - tags:: ☀️
   Hoop is niet hetzelfde als optimisme. Het is niet de overtuiging dat iets goed afloopt, maar de zekerheid dat iets zin heeft, ongeacht hoe het afloopt. - Vaclav Havel
+-
