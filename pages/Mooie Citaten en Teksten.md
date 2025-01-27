@@ -54,5 +54,5 @@ Albert Verwey: Wie waarlijk leeft, heeft in zijn hart een onvernietigbare veer, 
 - tags:: ☀️
   [[Bij U, ik ben altijd bij U]]
 - tags::☀️
-  [[☀️ Dit jaar ga ik alles anders doen! - Peter van Straaten]]
+  [[Peter van Straaten - Dit jaar ga ik alles anders doen!]]
 -
