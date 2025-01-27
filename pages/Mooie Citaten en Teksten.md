@@ -69,3 +69,5 @@ Albert Verwey: Wie waarlijk leeft, heeft in zijn hart een onvernietigbare veer, 
   I am not a saint, unless you think of a saint as a sinner who keeps on trying - Nelson Mandela
 - tags:: ☀️
   [[I believe in the sun, even when it doesn’t shine. I believe in love, even when I don’t feel it. I believe in God, even when He is silent.]]
+- tags:: ☀️
+  If there is no struggle, there is no progress. Those who profess to favor freedom, and deprecate agitation, are men who want crops without plowing up the ground, they want rain without thunder and lightning. Frederick
