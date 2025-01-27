@@ -29,7 +29,7 @@
            [(clojure.string/starts-with? ?name "🇱🇺")]]
   :table-view? false
   :breadcrumb-show? false
-  
+  :collapsed? false
   }
   #+END_QUERY
 -
