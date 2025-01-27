@@ -29,6 +29,7 @@
            [?p :block/name ?name]
            [(clojure.string/starts-with? ?name "🇱🇺")]]
   :table-view? false
+  :
   }
   #+END_QUERY
 -
