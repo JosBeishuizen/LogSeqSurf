@@ -1,8 +1,10 @@
 - {{query (tags "🇱🇺")}}
   query-table:: false
   collapsed:: true
-- query-table:: false
-  tags:: minimal-query
+- query-sort-by:: page
+  query-table:: false
+  query-sort-desc:: false
+  collapsed:: true
   #+BEGIN_QUERY
   {:title "☀️"
    :query [:find (pull ?p [*])
@@ -10,7 +12,8 @@
            [?p :block/name ?name]
            [(clojure.string/starts-with? ?name "🇱🇺")]
    ]
-   :result-transform ( fn [result] [(rand-nth result)] )
+   :result-transform ( fn [result] [(rand-nth result)]
+  :table
   :breadcrumb-show? true
    :collapsed? false
   }
