@@ -50,3 +50,4 @@ Albert Verwey: Wie waarlijk leeft, heeft in zijn hart een onvernietigbare veer, 
 - tags:: ☀️
   [[Albert Camus - Fatsoen]]
 - tags:: ☀️
+  [[☀️ Being courageous does not mean never being scared; it means acting as you know you must even though you are undeniably afraid. - Desmond Tutu]]
