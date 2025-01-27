@@ -118,6 +118,7 @@
 		- [[Te Zien]]
 		- [[Gezien]]
 	- Dagboek
+	  collapsed:: true
 		- 1959
 		  collapsed:: true
 			- [[maandag 25 mei 1959]]
@@ -363,8 +364,7 @@
 	  collapsed:: true
 		- [[Kerstkaarten]]
 		- [[Verjaardagen]]
-	- Mooie teksten
-		- [[Quote]]
+	- Mooie tekstenll
 		- [[MooieTekst]]
 		- [[Huub Oosterhuis over Levinas]]
 		- [[Als ik moe ben]]
@@ -377,3 +377,4 @@
 		- [[Als ik sterk ben]]
 		- [[Wat is sabbat]]
 		- [[Stoa 1. Overdenking van het slechte]]
+		-
