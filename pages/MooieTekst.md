@@ -37,4 +37,10 @@ Albert Verwey: Wie waarlijk leeft, heeft in zijn hart een onvernietigbare veer, 
   [[Ton van der Stap over profeet en mysticus]]
 - tags:: ☀️
   [[Wat is sabbat]]
--
+- tags:: ☀️
+  [[Stoa 2. Rolmodellen]]
+- tags:: ☀️
+  [[Stoa 3. Plaats het in perspectief]]
+- tags:: ☀️
+  [[Stoa 4. Vrijwillig ongemak]]
+- tags:: ☀️
