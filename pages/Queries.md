@@ -1,7 +1,7 @@
 - {{query (tags "🇱🇺")}}
   query-table:: false
 - query-sort-by:: page
-  query-sort-desc:: true
+  query-sort-desc:: false
   #+BEGIN_QUERY
   {:title "Pages that start with 🇱🇺"
    :query [:find (pull ?p [*])
@@ -18,8 +18,12 @@
   {:title "🇱🇺"
   :query [:find (pull ?p [*])
        :where
-      
-  ]}
+       [?p :block/name ?name]
+       [(clojure.string/starts-with? ?name "🇱🇺")]
+  ]
+  :result-transform ( fn [result] [(rand-nth result)] )
+  }
   #+END_QUERY
+-
 -
 -
