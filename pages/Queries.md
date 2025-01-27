@@ -8,7 +8,7 @@
      :where 
        [?b :block/page ?p]
        [?b :block/refs ?t]
-       [?t :block/name "☀️"]
+       [?t :block/name "🇱🇺"]
    ]
    :result-transform ( fn [result] [(rand-nth result)] )
   :breadcrumb-show? true
