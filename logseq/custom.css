@@ -53,7 +53,7 @@ color: #59CCFF;
 div[data-collapsed] div.block-properties {
     display: none;
 }
-
+div
 /* Minimal style for queries --------------------------------- */
 
 /* Tag a block with #minimal-query to hide all query controls */
@@ -81,8 +81,3 @@ hide-dotted-tags.css and add a dot to the tag,
 for example #.minimal-query */
 
 a.tag[data-ref*="minimal-query"] {display: none;}
-div[data-collapsed] div.block-properties {
-
-    display: none;
-
-}
