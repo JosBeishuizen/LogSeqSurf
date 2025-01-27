@@ -49,9 +49,6 @@
 	- [[Afscheid van Gerrie]]
 	- [[Alzheimerlijst]]
 - Digitaal
-	- [[Mooie Citaten en Teksten]]
-	- Hoe bouw je een database in LogSeq op?
-	- [[Testje]]
 	- [[Queries]]
 	- [[Templates]]
 - Activiteiten
