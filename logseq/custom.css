@@ -81,3 +81,8 @@ hide-dotted-tags.css and add a dot to the tag,
 for example #.minimal-query */
 
 a.tag[data-ref*="minimal-query"] {display: none;}
+div[data-collapsed] div.block-properties {
+
+    display: none;
+
+}
