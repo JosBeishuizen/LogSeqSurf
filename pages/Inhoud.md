@@ -364,7 +364,7 @@
 	  collapsed:: true
 		- [[Kerstkaarten]]
 		- [[Verjaardagen]]
-	- Mooie tekstenll
+	- Mooie teksten
 		- [[MooieTekst]]
 		- [[Huub Oosterhuis over Levinas]]
 		- [[Als ik moe ben]]
