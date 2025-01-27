@@ -67,3 +67,5 @@ Albert Verwey: Wie waarlijk leeft, heeft in zijn hart een onvernietigbare veer, 
   Hoop is niet hetzelfde als optimisme. Het is niet de overtuiging dat iets goed afloopt, maar de zekerheid dat iets zin heeft, ongeacht hoe het afloopt. - Vaclav Havel
 - tags:: ☀️
   I am not a saint, unless you think of a saint as a sinner who keeps on trying - Nelson Mandela
+- tags:: ☀️
+  [[☀️ I believe in the sun, even when it doesn’t shine. I believe in love, even when I don’t feel it. I believe in God, even when He is silent.]]
