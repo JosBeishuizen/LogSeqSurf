@@ -379,3 +379,4 @@
 		- [[Stoa 1. Overdenking van het slechte]]
 		- [[Stoa 2. Rolmodellen]]
 		- [[Stoa 3. Plaats het in perspectief]]
+		- [[☀️ 4. Vrijwillig ongemak]]
