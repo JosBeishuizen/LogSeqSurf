@@ -436,4 +436,4 @@
  :feature/enable-journals? true
  :feature/enable-whiteboards? false
  :feature/enable-flashcards? false}
- :block-hidden-properties #{tags}
+ :block-hidden-properties #{:tags}
