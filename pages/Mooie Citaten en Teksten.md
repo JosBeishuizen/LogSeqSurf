@@ -58,4 +58,5 @@ Albert Verwey: Wie waarlijk leeft, heeft in zijn hart een onvernietigbare veer, 
 - tags::☀️
   [[Peter van Straaten - Dit jaar ga ik alles anders doen!]]
 - tags::☀️
+  Geluk is slechts een bijwerking. Je kunt beter onderzoeken waar je je thuis voelt. Op welke plek voel je je het meest jezelf?
 -
