@@ -55,4 +55,6 @@ Albert Verwey: Wie waarlijk leeft, heeft in zijn hart een onvernietigbare veer, 
   [[Bij U, ik ben altijd bij U]]
 - tags::☀️
   [[Peter van Straaten - Dit jaar ga ik alles anders doen!]]
+- tags:: ☀️
+  [[Epicurus -Elke ochtend gaat de vriendschap de wereld rond om de mensen wakker te schudden opdat ze zich in elkaar kunnen verheugen]]
 -
