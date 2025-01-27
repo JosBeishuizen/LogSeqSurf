@@ -18,9 +18,20 @@
 	   :collapsed? false
 	  }
 	  #+END_QUERY
--
+- collapsed:: true
+  #+BEGIN_QUERY 
+  {:title "Citaat"
+   :query [:find (pull ?b [*])
+     :where
+       []
+       [clojure.string/starts-with? ?name "🇱🇺")]
+   ]
+   :result-transform ( fn [result] [(rand-nth result)] )
+   :collapsed? true
+  }
+  #+END_QUERY
 - query-sort-by:: page
-  query-sort-desc:: false
+  query-sort-desc:: true
   #+BEGIN_QUERY
   {:title "Pages that start with 🇱🇺"
    :query [:find (pull ?p [*])
