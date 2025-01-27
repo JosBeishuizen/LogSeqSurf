@@ -1,4 +1,4 @@
-- {{query (property tags "☀️")}}
+- {{query (tags "🇱🇺")}}
   query-table:: false
   collapsed:: true
 - query-table:: false
@@ -15,3 +15,4 @@
    :collapsed? false
   }
   #+END_QUERY
+-
