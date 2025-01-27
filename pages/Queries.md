@@ -13,7 +13,7 @@
            [(clojure.string/starts-with? ?name "🇱🇺")]
    ]
    :result-transform ( fn [result] [(rand-nth result)]
-  :table
+  :table-view? false 
   :breadcrumb-show? true
    :collapsed? false
   }
