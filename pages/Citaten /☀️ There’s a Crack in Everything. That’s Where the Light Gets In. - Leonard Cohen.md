@@ -1,0 +1,2 @@
+# ☀️ There’s a Crack in Everything. That’s Where the Light Gets In. - Leonard Cohen
+https://corporate-sustainability.org/article/theres-a-crack-in-everything-thats-where-the-light-gets-in/#:~:text=The%20words%20in%20this%20essay's,is%20that%20everything%20is%20flawed

@@ -1,0 +1,2 @@
+# ☀️ Angst beteugelen - Albert Camus
+Het is onze opdracht als mens om de paar beginselen te vinden waarmee we de peilloze angst van de vrije ziel kunnen beteugelen. We moeten herstellen wat verscheurd is, de rechtvaardigheid weer voorstelbaar maken in een wereld die zo duidelijk onrechtvaardig is, en zorgen dat vreugde weer betekenis krijgt voor de volkeren die door de ellende van deze eeuw zijn vergiftigd.

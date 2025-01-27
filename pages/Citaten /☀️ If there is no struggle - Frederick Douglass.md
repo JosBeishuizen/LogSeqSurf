@@ -1,0 +1,2 @@
+# ☀️ If there is no struggle - Frederick Douglass
+If there is no struggle, there is no progress. Those who profess to favor freedom, and deprecate agitation, are men who want crops without plowing up the ground, they want rain without thunder and lightning.

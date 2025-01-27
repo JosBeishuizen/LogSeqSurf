@@ -1,0 +1,2 @@
+# ☀️ Kindness - Roald Dahl
+I think probably kindness is my number one attribute in a human being. I'll put it before any of the things like courage or bravery or generosity or anything else... Kindness - that simple word. To be kind - it covers everything, to my mind. If you're kind that's it.

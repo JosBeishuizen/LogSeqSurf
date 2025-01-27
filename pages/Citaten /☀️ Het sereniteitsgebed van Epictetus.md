@@ -1,0 +1,2 @@
+# ☀️ Het sereniteitsgebed van Epictetus
+God geve me de kalmte om te dingen te aanvaarden waaraan ik niets kan veranderen, de moed om de dingen te veranderen die ik kan veranderen en de wijsheid om te allen tijde het verschil tussen beide te zien.

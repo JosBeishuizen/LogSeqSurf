@@ -1,0 +1,4 @@
+# ☀️ Moed houden - Huub Oosterhuis
+Ik wil iedereen op het hart drukken de moed niet te verliezen. En dat is heel moeilijk. Maar, dat is ook de kern van het geloof, dat je de moed niet opgeeft, dat je volhardt in dat visioen. Dat je je dat niet laat ontnemen. Ja, en dan moet je veel zingen. Want zingen komt het dichtste bij het visioen. Je kan zingen wat je soms niet kan zeggen, hè. Als je het zegt dan klinkt het protserig maar als je het zingt dan, tot je eigen verbazing, doet het iets met je wat iets anders niet doet. Het tilt je op, het houdt je staande, hoop ik.
+
+https://youtu.be/rpJ6-CrN92M?si=FF91bU9mfKCSsOQv
