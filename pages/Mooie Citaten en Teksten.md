@@ -61,3 +61,6 @@ Albert Verwey: Wie waarlijk leeft, heeft in zijn hart een onvernietigbare veer, 
   Geluk is slechts een bijwerking. Je kunt beter onderzoeken waar je je thuis voelt. Op welke plek voel je je het meest jezelf?
 - tags:: ☀️
   [[Epicurus - Het quadrifarmacon]]
+- tags:: ☀️
+  God geve me de kalmte om te dingen te aanvaarden waaraan ik niets kan veranderen, de moed om de dingen te veranderen die ik kan veranderen en de wijsheid om te allen tijde het verschil tussen beide te zien. - Epictetus
+-
