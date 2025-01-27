@@ -21,7 +21,6 @@
 -
 - query-sort-by:: page
   query-sort-desc:: false
-  collapsed:: true
   #+BEGIN_QUERY
   {:title "Pages that start with 🇱🇺"
    :query [:find (pull ?p [*])
@@ -29,7 +28,7 @@
            [?p :block/name ?name]
            [(clojure.string/starts-with? ?name "🇱🇺")]]
   :table-view? false
-  :
+  :breadcrumb-show? false
   }
   #+END_QUERY
 -
