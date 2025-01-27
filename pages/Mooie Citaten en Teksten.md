@@ -55,8 +55,8 @@ Albert Verwey: Wie waarlijk leeft, heeft in zijn hart een onvernietigbare veer, 
   [[Bij U, ik ben altijd bij U]]
 - tags:: ☀️
   [[Epicurus -Elke ochtend gaat de vriendschap de wereld rond om de mensen wakker te schudden opdat ze zich in elkaar kunnen verheugen]]
-- tags::☀️
+- tags:: ☀️
   [[Peter van Straaten - Dit jaar ga ik alles anders doen!]]
-- tags::☀️
+- tags:: ☀️
   Geluk is slechts een bijwerking. Je kunt beter onderzoeken waar je je thuis voelt. Op welke plek voel je je het meest jezelf?
 -
