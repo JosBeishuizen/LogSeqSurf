@@ -4,7 +4,7 @@
 - query-table:: false
   #+BEGIN_QUERY
   {:title "☀️"
-   :query [:find (pull ?b [*])
+   :query [:find (pull ?p [*])
      :where 
            [?p :block/name ?name]
            [(clojure.string/starts-with? ?name "🇱🇺")]
