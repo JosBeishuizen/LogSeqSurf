@@ -15,6 +15,6 @@
   #+END_QUERY
 -
 - #+BEGIN_QUERY
-  :title
+  :title "🇱🇺"
 - #+END_QUERY
 -
