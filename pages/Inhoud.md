@@ -50,7 +50,7 @@
 	- [[Afscheid van Gerrie]]
 	- [[Alzheimerlijst]]
 - Digitaal
-	- [[MooieTekst]]
+	- [[Mooie Citaten en Teksten]]
 	- Hoe bouw je een database in LogSeq op?
 	- [[Testje]]
 	- [[Queries]]
@@ -365,7 +365,7 @@
 		- [[Kerstkaarten]]
 		- [[Verjaardagen]]
 	- Mooie teksten
-		- [[MooieTekst]]
+		- [[Mooie Citaten en Teksten]]
 		- [[Huub Oosterhuis over Levinas]]
 		- [[Als ik moe ben]]
 		- [[Mandela over onze diepste angst]]
