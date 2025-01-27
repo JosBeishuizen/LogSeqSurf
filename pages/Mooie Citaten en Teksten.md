@@ -53,4 +53,6 @@ Albert Verwey: Wie waarlijk leeft, heeft in zijn hart een onvernietigbare veer, 
   [[Desmond Tutu over moed]]
 - tags:: ☀️
   [[Bij U, ik ben altijd bij U]]
+- tags::☀️
+  [[☀️ Dit jaar ga ik alles anders doen! - Peter van Straaten]]
 -
