@@ -1,23 +1,23 @@
 - {{query (tags "🇱🇺")}}
   query-table:: false
   collapsed:: true
-- query-sort-by:: page
-  query-table:: false
-  query-sort-desc:: false
-  collapsed:: true
-  #+BEGIN_QUERY
-  {:title "☀️"
-   :query [:find (pull ?p [*])
-     :where 
-           [?p :block/name ?name]
-           [(clojure.string/starts-with? ?name "🇱🇺")]
-   ]
-   :result-transform ( fn [result] [(rand-nth result)]
-  :table-view? false 
-  :breadcrumb-show? true
-   :collapsed? false
-  }
-  #+END_QUERY
+	- query-sort-by:: page
+	  query-table:: false
+	  query-sort-desc:: false
+	  collapsed:: true
+	  #+BEGIN_QUERY
+	  {:title "☀️"
+	   :query [:find (pull ?p [*])
+	     :where 
+	           [?p :block/name ?name]
+	           [(clojure.string/starts-with? ?name "🇱🇺")]
+	   ]
+	   :result-transform ( fn [result] [(rand-nth result)]
+	  :table-view? false 
+	  :breadcrumb-show? false
+	   :collapsed? false
+	  }
+	  #+END_QUERY
 -
 - query-sort-by:: page
   query-sort-desc:: false
@@ -28,5 +28,7 @@
            :where 
            [?p :block/name ?name]
            [(clojure.string/starts-with? ?name "🇱🇺")]]
+  :table-view? false
   }
   #+END_QUERY
+-
