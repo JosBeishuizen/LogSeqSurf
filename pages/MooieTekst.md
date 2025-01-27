@@ -45,3 +45,4 @@ Albert Verwey: Wie waarlijk leeft, heeft in zijn hart een onvernietigbare veer, 
   [[Stoa 4. Vrijwillig ongemak]]
 - tags:: ☀️
   [[Dietrich Bonhoeffer - Als je van iemand houdt]]
+-
