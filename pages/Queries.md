@@ -6,9 +6,8 @@
   {:title "☀️"
    :query [:find (pull ?b [*])
      :where 
-       [?b :block/page ?p]
-       [?b :block/refs ?t]
-       [?t :block/title contains "🇱🇺"]
+           [?p :block/name ?name]
+           [(clojure.string/starts-with? ?name "🇱🇺")]
    ]
    :result-transform ( fn [result] [(rand-nth result)] )
   :breadcrumb-show? true
@@ -16,4 +15,14 @@
   }
   #+END_QUERY
 -
--
+- query-sort-by:: page
+  query-sort-desc:: false
+  collapsed:: true
+  #+BEGIN_QUERY
+  {:title "Pages that start with 🇱🇺"
+   :query [:find (pull ?p [*])
+           :where 
+           [?p :block/name ?name]
+           [(clojure.string/starts-with? ?name "🇱🇺")]]
+  }
+  #+END_QUERY
