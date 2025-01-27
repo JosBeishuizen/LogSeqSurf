@@ -34,7 +34,7 @@ Albert Verwey: Wie waarlijk leeft, heeft in zijn hart een onvernietigbare veer, 
 - tags:: ☀️
   [[🇱🇺 Martin van Amerongen - Nooit komen rampen eenzaam als verspieders]]
 - tags:: ☀️
-  [[Ton van der Stap over profeet en mysticus]]
+  [[🇱🇺 Ton van der Stap over profeet en mysticus]]
 - tags:: ☀️
   [[Wat is sabbat]]
 - tags:: ☀️

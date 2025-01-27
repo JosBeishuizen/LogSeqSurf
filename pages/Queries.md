@@ -2,6 +2,7 @@
   query-table:: false
   collapsed:: true
 - query-table:: false
+  tags:: minimal-query
   #+BEGIN_QUERY
   {:title "☀️"
    :query [:find (pull ?p [*])

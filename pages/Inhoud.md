@@ -373,7 +373,7 @@
 		- [[Natalia Ginzburg over geloven in God]]
 		- [[Huub Oosterhuis - Nieuwe Dag]]
 		- [[🇱🇺 Martin van Amerongen - Nooit komen rampen eenzaam als verspieders]]
-		- [[Ton van der Stap over profeet en mysticus]]
+		- [[🇱🇺 Ton van der Stap over profeet en mysticus]]
 		- [[Als ik sterk ben]]
 		- [[Wat is sabbat]]
 		- [[Stoa 1. Overdenking van het slechte]]
