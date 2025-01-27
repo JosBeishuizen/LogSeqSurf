@@ -1,5 +1,4 @@
-# ☀️ Het quadrifarmacon - Epicurus
-Het universele medicijn, het @quadrifarmacon:
+- Het universele medicijn, het @quadrifarmacon:
 - vreest de goden niet.
 - vreest de dood niet.
 - weet dat het genot voor iedereen bereikbaar is.
