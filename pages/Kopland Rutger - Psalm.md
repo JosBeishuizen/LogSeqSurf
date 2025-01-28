@@ -18,3 +18,4 @@
 - © 2007, Rutger Kopland  
   From: _Verzamelde Gedichten (1966-2004)_  
   Publisher: Van Oorschot, Amsterdam
+-
