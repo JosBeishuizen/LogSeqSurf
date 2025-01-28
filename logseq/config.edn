@@ -213,7 +213,7 @@
             :in $ ?start ?today
             :where
             [?h :block/marker ?marker]
-            [(contains? #{"NOW" "TODO" "DOING"} ?marker)]
+            [(contains? #{""} ?marker)]
             [?h :block/page ?p]
             [?p :block/journal? true]
             [?p :block/journal-day ?d]
