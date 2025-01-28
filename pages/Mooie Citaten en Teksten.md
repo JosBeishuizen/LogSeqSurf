@@ -73,3 +73,7 @@ Albert Verwey: Wie waarlijk leeft, heeft in zijn hart een onvernietigbare veer, 
   If there is no struggle, there is no progress. Those who profess to favor freedom, and deprecate agitation, are men who want crops without plowing up the ground, they want rain without thunder and lightning. -Frederick Douglas
 - tags:: ☀️
   Je m’éveille le matin avec une joie secrète de voir la lumière; je vois la lumière avec une espèce de ravissement; et tout le reste du jour je suis content - Montesquieu
+- tags:: ☀️
+  [[☀️ Kindness - Roald Dahl]]
+- tags:: ☀️
+-
