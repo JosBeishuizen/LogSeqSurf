@@ -131,6 +131,7 @@
 		- 16:17 120
 		- 16:20 🛑
 	- Sunday 26 January 2025
+	  collapsed:: true
 		- 14:07 121
 		- 16:45 122
 		- 16:49 123
@@ -187,5 +188,34 @@
 		- 16:44 169
 		- 16:46 170
 		- 16:55 171
+	- Tuesday 28 January 2025
+		- 16:44 172
+		- 16:47 173
+		- 16:49 174
+		- 16:51 175
+		- 16:52 176
+		- 16:54 177
+		- 16:56 178
+		- 16:59 179
+		- 17:01 180
+		- 17:03 181
+		- 17:04 182
+		- 17:06 183
+		- 17:08 184
+		- 17:09 185
+		- 17:11 186
+		- 17:15 188
+		- 17:17 189
+		- 17:18 190
+		- 17:20 191
+		- 17:23 192
+		- 17:28 193
+		- 17:30 194
+		- 17:31 195
+		- 17:34 197
+		- 17:35 198
+		- 17:37 199
 - Inhoud
+  collapsed:: true
 	- Verhaal over het "brein", over de actualiteit van modern hersenonderzoek. Verdient nuancering. Het brein doet dit en doet dat. Hersenonderzoek versus geheugenonderzoek.
+	- p. 177/178: dominantie linker hersenhelft
