@@ -38,6 +38,6 @@
 	  per-jaar::
 - #MaakCitaat
   template:: MaakCitaat
+  template-including-parent:: false
 	- tags:: ☀️
-	  xx
--
+	-
