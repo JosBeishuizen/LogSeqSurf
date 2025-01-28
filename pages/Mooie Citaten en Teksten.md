@@ -77,4 +77,6 @@ Albert Verwey: Wie waarlijk leeft, heeft in zijn hart een onvernietigbare veer, 
   [[☀️ Kindness - Roald Dahl]]
 - [[☀️ Le voce della notte - Natalia Ginzburg]]
   tags:: #{"☀️"}
-- tags:: ☀️
+- [[☀️ Let your thoughts be positive - Gandhi]]
+  tags:: #{"{" "\"☀️\"}"}
+-
