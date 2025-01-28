@@ -19,6 +19,7 @@
 	   :collapsed? true
 	  }
 	  #+END_QUERY
+	- [[Taken]]
 	-
 - #Gezien
   template:: Cultuur
