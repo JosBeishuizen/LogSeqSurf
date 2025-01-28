@@ -86,3 +86,9 @@ a.tag[data-ref*="minimal-query"] {display: none;}
   display: none !important;
 
 }
+
+* {
+
+  --ls-highlight-color-yellow: orange;
+
+}
