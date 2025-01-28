@@ -1,14 +1,10 @@
-- Entry
-  template:: Actieregel
-  template-including-parent:: false
-	- ## <% time %>
 - Journal
   template:: journaltemplate
   template-including-parent:: false
 	- ## ⛅ , °
 	- collapsed:: true
 	  #+BEGIN_QUERY 
-	  {:title [b.header "Citaat"]
+	  {:title [:b.header "Om de dag te beginnen"]
 	   :query [:find (pull ?b [*])
 	     :where 
 	       [?b :block/page ?p]
@@ -37,8 +33,5 @@
 	  prijs::
 	  per-maand:: 
 	  per-jaar::
-- #MaakCitaat
-  template:: MaakCitaat
-  template-including-parent:: false
-	- tags:: ☀️
-	-
+-
+-
