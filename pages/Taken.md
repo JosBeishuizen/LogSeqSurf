@@ -1,6 +1,7 @@
 - TODO Declaratie COBEX
+- TODO SSE opheffen
 -
 - Elke dag
-- TODO Veerkamp: [[]]
+- TODO Veerkamp: [[17 'Apostolische Vaders']]
 - TODO [[Roll]]
 - TODO [[Filosoferen met kinderen]]

@@ -1,3 +1,8 @@
+- Voortgang
+	- Tuesday 28 January 2025
+		- 12:15 408
+		- 12:22 4
+- Inhoud
 - Het begin van dit proces, het heilshistorisch (naar Jezus toe) lezen van de Hebreeuwse Bijbel, in sommige geschriften in het Nieuwe Testament: in de pastorale brieven 1 en 2 Timotheüs, Titus en 1 Petrus. Sommige teksten kwamen niet in het Nieuwe Testament terecht omdat ze niet door een van de apostelen zijn geschreven. De auteurs van deze teksten worden Apostolische Vaders genoemd.
 - ## 17.1. Ignatius van Antiochië
 - Ignatius was in het eerste decennium van de tweede eeuw bisschop van Antiochië. Beschuldigd van oproer, gevangengenomen, naar Rome. Tijdens zijn transport schreef hij brieven aan gemeenten in Klein-Azië en ontmoette hij vertegenwoordigers. Ignatius zet de lijn van Paulus door. Maar er is een belangrijk verschil. Paulus verkondigt zijn evangelie vanuit het Grote Verhaal van Israël. Bij Ignatius zijn er nauwelijks nog verbanden met het Grote Verhaal van Israël. Hij stelt:
@@ -10,6 +15,8 @@
 - In Rome verwachtte Ignatius het martelaarschap: te worden ter dood veroordeeld en voor de wilde beesten geworpen. En zo Jezus na te volgen. Het Romeinse Rijk en de keizer waren voor hem de grote vijand.
 - Ignatius streeft eenheid onder de gemeenten na. Dat vergt een strakke organisatie en partijtrouw. Eén orthodoxe manier van de Bijbel lezen: heilshistorisch. Deze manier van argumenteren is een opmaat voor algemene vijandschap tussen christenen en Joden.
 - ## 17.2. Pseudo-Barnabas en de 'brief aan Diognètos'
-- TODO De brief van Barnabas, ook bekend als Pseudo-Barnabas, gaat en stap verder. Het verbond (tussen God en zijn volk) is van ons een niet van hen. Kijk maar naar het verhaal van het gouden kalf. Daar hebben zij het verbond verbroken. Op grond van zijn uitleg van de Tenach concludeert Barnabas dat de Joden onterfd zijn. Dat niet alleen, ook de sabbat (zaterdag) wordt als feestdag vervangen door de zondag. Hetzelfde geldt voor de tempel. In Jeruzalem is de tempel door de Romeinen verwoest. De messiaanse gemeente is de nieuwe geestelijke tempel, gebouwd voor de heer. In plaats van een messiaanse gemeente van Joden en gojiem (zoals Paulus wilde) hebben we een christelijke gemeente die het uit principe zonder Joden wil stellen. Het Grote Verhaal van Israël wordt niet afgeschaft maar blijft nodig om het christendom de authenticiteit te verschaffen waarmee het zich afzette tegen de antieke religie.
-- De brief aan Diognètos wil opheldering verkrijgen over het verschil tussen Jodendom en christendom.
+- De brief van Barnabas, ook bekend als Pseudo-Barnabas, gaat en stap verder. Het verbond (tussen God en zijn volk) is van ons een niet van hen. Kijk maar naar het verhaal van het gouden kalf. Daar hebben zij het verbond verbroken. Op grond van zijn uitleg van de Tenach concludeert Barnabas dat de Joden onterfd zijn. Dat niet alleen, ook de sabbat (zaterdag) wordt als feestdag vervangen door de zondag. Hetzelfde geldt voor de tempel. In Jeruzalem is de tempel door de Romeinen verwoest. De messiaanse gemeente is de nieuwe geestelijke tempel, gebouwd voor de heer. In plaats van een messiaanse gemeente van Joden en gojiem (zoals Paulus wilde) hebben we een christelijke gemeente die het uit principe zonder Joden wil stellen. Het Grote Verhaal van Israël wordt niet afgeschaft maar blijft nodig om het christendom de authenticiteit te verschaffen waarmee het zich afzette tegen de antieke religie.
+- De brief aan Diognètos wil opheldering verkrijgen over het verschil tussen Jodendom en christendom. De Joden brengen God op dezelfde manier offers als de Grieken, alsof God menselijke gaven nodig had. Ook spijswetten, sabbat, besnijdenis, allemaal bijgeloof, bespottelijk. De brief maakt een karikatuur van het Jodendom. Het Grote Verhaal van Israël is uiteen gevallen in twee aparte Grote Verhalen: Jodendom en christendom.
+- ## 17.3. De splitsing: Jodendom en christendom
+-
 -
