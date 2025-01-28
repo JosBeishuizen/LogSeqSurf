@@ -276,7 +276,9 @@
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
  :macros {"i" "[:span {:class ti} \"&#x$1 \" ]"
  "iframe" "<iframe src=\"$1\" style=\"width:calc(100% - 4px);height:650px\"></iframe>" 
-}
+:colored-text "[:span {:style \"color: $1\"} $2]"
+
+:light-yellow "[:span {:style \"color: #d9d898\"} $1]"}
 
  ;; Configure the default expansion level for linked references.
  ;; For example, consider the following block hierarchy:
