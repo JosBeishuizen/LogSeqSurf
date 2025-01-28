@@ -90,3 +90,8 @@ a.tag[data-ref*="minimal-query"] {display: none;}
   display: none !important;
 
 }
+.block-marker, .page-ref {
+
+  color: var(--your);
+
+}
