@@ -19,6 +19,9 @@ Cijfer:: 10
   Gezien-op:: jan 2025
   Opm:: 14 keer 15 juli. Twee studenten die elkaar op een feestje ontmoeten. Ze worden vrienden maar krijgen geen relatie. Pas later trouwen ze. De verschillende karakters worden goed uitgebeeld. 
   Cijfer:: 9
--
--
+- Titel:: Asura
+  Tags:: serie
+  Gezien-op:: Netflix, januari 2025
+  Opm:: prettig bedachtzaam karakterdrama vol empathie van Hirokazu Kore-eda. Vier zusters ontdekken dat hun 70-jarige vader een relatie heeft. Hun eigen relaties met de andere sexe zijn ook niet ongecompliceerd.
+  Cijfer:: 7
 -
