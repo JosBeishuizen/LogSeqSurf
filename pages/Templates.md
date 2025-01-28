@@ -36,8 +36,9 @@
 	  prijs::
 	  per-maand:: 
 	  per-jaar::
-- #Quote
-  template:: Quote
-  template-including-parent:: false
-	- <randomblock quote>
+- #MaakCitaat
+  template:: MaakCitaat
+	- tags:: ☀️
+	  xx
+	-
 -
