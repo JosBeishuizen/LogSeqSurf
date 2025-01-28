@@ -8,7 +8,7 @@
 	- ## ⛅ , °
 	- collapsed:: true
 	  #+BEGIN_QUERY 
-	  {:title "Citaat"
+	  {:title [b.header "Citaat"]
 	   :query [:find (pull ?b [*])
 	     :where 
 	       [?b :block/page ?p]

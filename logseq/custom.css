@@ -97,4 +97,5 @@ a.tag[data-ref*="minimal-query"] {display: none;}
 }
 b.header{
   color: #59CCFF;
+  font-weight: normal;
 }
