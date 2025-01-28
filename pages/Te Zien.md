@@ -11,6 +11,7 @@
 	- Benjamin Britten - Vioolconcert
 - Boeken
 	- Eddy de Wind - Eindstation Auschwitz
+	- Timothy Snyder - Over vrijheid
 - Podcast
 	- Een dik Ischa op de radio
 		- **23:01** [[quick capture]]:  https://open.spotify.com/episode/1231lEJH9SBbDitdIbM3UV?si=tHXiBfrVRuun2JGawWn-UA
