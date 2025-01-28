@@ -74,9 +74,6 @@ Albert Verwey: Wie waarlijk leeft, heeft in zijn hart een onvernietigbare veer, 
 - tags:: ☀️
   Je m’éveille le matin avec une joie secrète de voir la lumière; je vois la lumière avec une espèce de ravissement; et tout le reste du jour je suis content - Montesquieu
 - tags:: ☀️
-  [[☀️ Kindness - Roald Dahl]]
-- [[☀️ Le voce della notte - Natalia Ginzburg]]
-  tags:: #{"☀️"}
-- [[☀️ Let your thoughts be positive - Gandhi]]
-  tags:: #{"{" "\"☀️\"}"}
+  [[Roald Dahl - Kindness]]
+-
 -
