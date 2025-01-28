@@ -18,5 +18,20 @@
 - De brief van Barnabas, ook bekend als Pseudo-Barnabas, gaat en stap verder. Het verbond (tussen God en zijn volk) is van ons een niet van hen. Kijk maar naar het verhaal van het gouden kalf. Daar hebben zij het verbond verbroken. Op grond van zijn uitleg van de Tenach concludeert Barnabas dat de Joden onterfd zijn. Dat niet alleen, ook de sabbat (zaterdag) wordt als feestdag vervangen door de zondag. Hetzelfde geldt voor de tempel. In Jeruzalem is de tempel door de Romeinen verwoest. De messiaanse gemeente is de nieuwe geestelijke tempel, gebouwd voor de heer. In plaats van een messiaanse gemeente van Joden en gojiem (zoals Paulus wilde) hebben we een christelijke gemeente die het uit principe zonder Joden wil stellen. Het Grote Verhaal van Israël wordt niet afgeschaft maar blijft nodig om het christendom de authenticiteit te verschaffen waarmee het zich afzette tegen de antieke religie.
 - De brief aan Diognètos wil opheldering verkrijgen over het verschil tussen Jodendom en christendom. De Joden brengen God op dezelfde manier offers als de Grieken, alsof God menselijke gaven nodig had. Ook spijswetten, sabbat, besnijdenis, allemaal bijgeloof, bespottelijk. De brief maakt een karikatuur van het Jodendom. Het Grote Verhaal van Israël is uiteen gevallen in twee aparte Grote Verhalen: Jodendom en christendom.
 - ## 17.3. De splitsing: Jodendom en christendom
+- Er ontstaan twee orthodoxieën, twee rechte leren, die elkaar uitsluiten, als ketters definiëren, om de eigen identiteit te definiëren. Aanvankelijk streefde men naar een verbinding van de twee messiaanse tradities. Zie de vroege, geconcentreerde samenvatting van de leer (rond het jaar 180) door Irenaeus van Lyon.
+- Want de kerk die zich over de hele bewoonde wereld heeft verspreid tot aan het einde van de aarde,
+  heeft het geloof aangenomen van de apostelen en de profeten:
+- (1) in de ene God, de Albeheerser,
+  die de hemel en de aarde en de zee met alles daarin heeft gemaakt;
+- (2) in de ene Messias Jezus, de zoon van God,
+  die omwille van onze bevrijding vlees is geworden;
+- en zijn aankomst vanuit de hemel met de eer des Vaders
+  om alles onder één hoofd te brengen
+  en al het menselijk vlees te laten opstaan.
+- (3) en in de Heilige Geest
+  die door de profeten de ordeningen en de aankomst en de geboorte uit de maagd heeft verkondigd,evenals het lijden en de opwekking uit de doden,
+  de opname in de hemel van de geliefde Messias Jezus, onze heer,
+  in vleselijke gedaante
+- We herkennen de klassieke driedeling in
 -
 -
