@@ -40,5 +40,4 @@
   template:: MaakCitaat
 	- tags:: ☀️
 	  xx
-	-
 -
