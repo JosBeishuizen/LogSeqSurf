@@ -3,6 +3,6 @@
 -
 - Elke dag
 	- TODO Veerkamp: [[17 'Apostolische Vaders']]
-	- TODO [[Roll]]
+	- DONE [[Roll]]
 	- TODO [[Filosoferen met kinderen]]
 	- TODO piano spelen
