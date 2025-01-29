@@ -24,4 +24,9 @@ Cijfer:: 10
   Gezien-op:: Netflix, januari 2025
   Opm:: prettig bedachtzaam karakterdrama vol empathie van Hirokazu Kore-eda. Vier zusters ontdekken dat hun 70-jarige vader een relatie heeft. Hun eigen relaties met de andere sexe zijn ook niet ongecompliceerd.
   Cijfer:: 7
+- Titel:: Le Royaume
+  Tags:: Film
+  Gezien-op:: 29-01-2025 in Mimik
+  Opm:: aardige maffia film op Corsica. Coming of age van de dochter van de capo
+  Cijfer:: 7
 -
