@@ -36,6 +36,6 @@
   de opname in de hemel van de geliefde Messias Jezus, onze heer,
   in vleselijke gedaante
 - We herkennen de klassieke driedeling in Vader, Zoon en Heilige Geest. Irenaeus verzet zich tegen iedereen die de materiële wereld als kwaad beschouwt en de verhuizing van de ziel uit de gevangenis van de materie als de eigenlijke bevrijding ziet. God is de schepper van hemel en aarde en zee. Vandaar ook de opstanding in vleselijke gedaante. In het tweede artikel gaan de wegen uiteen. In het Grote Verhaal van Israël betekent "omwille van onze bevrijding" in Exodus de bevrijding uit de reële maatschappelijke slavernij. In het latere christendom bevrijding van de ziel uit de zonde.
-- Ruzie over de datum waarop Pasen wordt gevierd. De westerse gemeenten: eerste zondag na de volle maan in de lente. Oosterse gemeenten: op 14e en 15e dag van de maand Niesan (
+- Ruzie over de datum waarop Pasen wordt gevierd. De westerse gemeenten: eerste zondag na de volle maan in de lente. Oosterse gemeenten: op 14e en 15e dag van de maand Niesan (twee weken na volle maan).
 -
 -
