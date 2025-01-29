@@ -9,6 +9,7 @@ body {
 
 :root {
     --ls-page-title-size: 1.5em;
+    --ls-page-title-color: yellow;
 }
 
 .references.page-unlinked.mt-6.flex-1.flex-row{
@@ -45,10 +46,12 @@ a.tag {
     font-size: 16px;
   	border-bottom: none;}
 
+/*
 .cp__sidebar-main-content h1.title {
     color:#405e81;
 
 }
+*/
 
 .asset-container > img {
   max-height: 200px;
