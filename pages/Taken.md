@@ -1,8 +1,9 @@
 - TODO Declaratie COBEX
 - TODO SSE opheffen
+- TODO rijbewijs verlengen
 -
 - Elke dag
 	- TODO Veerkamp: [[17 'Apostolische Vaders']]
-	- DONE [[Roll]]
+	- TODO [[Roll]]
 	- TODO [[Filosoferen met kinderen]]
 	- TODO piano spelen
