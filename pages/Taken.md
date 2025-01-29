@@ -1,7 +1,7 @@
 - DONE Declaratie COBEX
 - TODO SSE opheffen
 - TODO rijbewijs verlengen
-- TODO plannen meivakantie
+- DONE plannen meivakantie
 -
 - Elke dag
 	- TODO Veerkamp: [[17 'Apostolische Vaders']]
