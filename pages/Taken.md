@@ -1,4 +1,4 @@
-- TODO Declaratie COBEX
+- DONE Declaratie COBEX
 - TODO SSE opheffen
 - TODO rijbewijs verlengen
 - TODO plannen meivakantie
