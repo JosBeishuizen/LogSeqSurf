@@ -3,6 +3,8 @@
 		- 12:15 408
 		- 12:22 409
 		- 13:05 410
+	- Wednesday 29 January 2025
+		- 12:49 410
 - Inhoud
 - Het begin van dit proces, het heilshistorisch (naar Jezus toe) lezen van de Hebreeuwse Bijbel, in sommige geschriften in het Nieuwe Testament: in de pastorale brieven 1 en 2 Timotheüs, Titus en 1 Petrus. Sommige teksten kwamen niet in het Nieuwe Testament terecht omdat ze niet door een van de apostelen zijn geschreven. De auteurs van deze teksten worden Apostolische Vaders genoemd.
 - ## 17.1. Ignatius van Antiochië
@@ -34,5 +36,6 @@
   de opname in de hemel van de geliefde Messias Jezus, onze heer,
   in vleselijke gedaante
 - We herkennen de klassieke driedeling in Vader, Zoon en Heilige Geest. Irenaeus verzet zich tegen iedereen die de materiële wereld als kwaad beschouwt en de verhuizing van de ziel uit de gevangenis van de materie als de eigenlijke bevrijding ziet. God is de schepper van hemel en aarde en zee. Vandaar ook de opstanding in vleselijke gedaante. In het tweede artikel gaan de wegen uiteen. In het Grote Verhaal van Israël betekent "omwille van onze bevrijding" in Exodus de bevrijding uit de reële maatschappelijke slavernij. In het latere christendom bevrijding van de ziel uit de zonde.
+- Ruzie over de datum waarop Pasen wordt gevierd. De westerse gemeenten: eerste zondag na de volle maan in de lente. Oosterse gemeenten: op 14e en 15e dag van de maand Niesan (
 -
 -
