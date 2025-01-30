@@ -2,6 +2,7 @@
 - TODO SSE opheffen
 - TODO rijbewijs verlengen
 - DONE plannen meivakantie
+- TODO Ton van der Stap over mystiek
 -
 - Elke dag
 	- TODO Veerkamp: [[17 'Apostolische Vaders']]
