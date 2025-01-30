@@ -83,3 +83,5 @@ Albert Verwey: Wie waarlijk leeft, heeft in zijn hart een onvernietigbare veer, 
   [[Rutger Kopland - Een psalm]]
 - tags:: ☀️
   [[Huub Oosterhuis - Sterven zal je ooit]]
+- tags:: ☀️
+  [[Huub Oosterhuis over moed houden]]
