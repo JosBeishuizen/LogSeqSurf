@@ -361,11 +361,11 @@
 		- [[Kerstkaarten]]
 		- [[Verjaardagen]]
 	- #+BEGIN_QUERY
-	  {:title [:b ""]
+	  {:title [:h2 "Mooie Citaten en Teksten"]
 	    :query [:find (pull ?b [*])
 	    :where
-	      [?p :block/original-name "Mooie Citaten en Teksten"]
 	      [?b :block/page ?p]
+	      [?p :block/original-name "Mooie Citaten en Teksten"]
 	    ]
 	  }
 	  #+END_QUERY
