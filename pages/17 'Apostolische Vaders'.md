@@ -7,6 +7,8 @@
 		- 12:49 410
 		- 13:04 411
 		- 13:04 🛑
+	- Thursday 30 January 2025
+		- 11:27 413
 - Inhoud
 - Het begin van dit proces, het heilshistorisch (naar Jezus toe) lezen van de Hebreeuwse Bijbel, in sommige geschriften in het Nieuwe Testament: in de pastorale brieven 1 en 2 Timotheüs, Titus en 1 Petrus. Sommige teksten kwamen niet in het Nieuwe Testament terecht omdat ze niet door een van de apostelen zijn geschreven. De auteurs van deze teksten worden Apostolische Vaders genoemd.
 - ## 17.1. Ignatius van Antiochië
@@ -41,6 +43,6 @@
 - Ruzie over de datum waarop Pasen wordt gevierd. De westerse gemeenten: eerste zondag na de volle maan in de lente. Oosterse gemeenten: op 14e en 15e dag van de maand Niesan (twee weken na volle maan). Vroeger werd in de christelijke traditie in de liturgie van Goede Vrijdag het paasmaal voorafgegaan door de improperia, de verwijten jegens Israël dat de messias zou hebben verworpen en gedood. Afgeschaft tijdens het Tweede Vaticaanse Concilie (1962-1965). De westerse kerk duidde de Exodusgeschiedenis als voorafspiegeling van een verinnerlijkte christelijke verlossingsgeschiedenis. Gevolg: ontjudaïsering, en dus anti-judaïsering van het Paasfeest. De reële bevrijding uit het slavenhuis verdween uit de geloofsbelijdenis en het gevoelen van de christenen.
 - Er is verwantschap tussen Jodendom en christendom. Beide verwachten een messias die een andere wereld, een nieuwe aarde onder een nieuwe hemel zal brengen. Beide proberen de verwachting levend te houden door een specifieke levenswijze. De ene door de Joodse halacha (wet) volgens Tora en Talmoed. De ander door de navolging van Christus, zoals doorgegeven door de apostelen. Het verschil zit in de persoon en het werk van de messias. De Joden verwachten dat de komende messias de verstrooide kinderen van Israël zal terugbrengen naar het land en de plaats, om daar te kunnen leven in de door de Tora voorgeschreven maatschappelijke orde. In het christendom is Jezus van Nazareth de genomen messias die alle volkeren in de wereld verandert. Een nieuwe mensheid.
 - Het Jodendom moest vasthouden aan de reële weg van Israël en de gave van de Tora. De gave van de Tora is levende aanwezigheid, het teken dat de NAAM bij zijn volk woont. Het is geen verhaal voor alle volkeren. Er wordt gekozen voor afzondering van de volkeren (zie ((678fbbc3-6b1f-4e59-8972-d3d07192b9a7)) 4.3. De afzondering van de volkeren.
--
+- Na de catastrofes van de Judese oorlogen in de tweede eeuw moesten de Joden een nieuwe leefregel formuleren. Dat werd de Talmoed, een verzameling
 -
 -
