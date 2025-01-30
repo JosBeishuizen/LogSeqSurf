@@ -1,4 +1,4 @@
-tags:: minimal-query
+tags::  minimal-query
 tags:: ☀️
 Albert Verwey: Wie waarlijk leeft, heeft in zijn hart een onvernietigbare veer, een stille kracht, die elke weerstand tart”
 
@@ -85,3 +85,12 @@ Albert Verwey: Wie waarlijk leeft, heeft in zijn hart een onvernietigbare veer, 
   [[Huub Oosterhuis - Sterven zal je ooit]]
 - tags:: ☀️
   [[Huub Oosterhuis over moed houden]]
+- #+BEGIN_QUERY
+  {:title [:h3 "query for logseq in this page"]
+  :query (**and** (page <% current page %>) "logseq")
+  :result-transform (fn [result] 
+  (sort-by 
+      (fn [d] (get d :block/content ))
+      result))
+  }
+  *#+END_QUERY*
