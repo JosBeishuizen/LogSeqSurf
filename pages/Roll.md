@@ -240,6 +240,7 @@
 		- 15:08 232
 		- 15:10 233
 		- 15:12 234
+		-
 - Inhoud
   collapsed:: true
 	- Verhaal over het "brein", over de actualiteit van modern hersenonderzoek. Verdient nuancering. Het brein doet dit en doet dat. Hersenonderzoek versus geheugenonderzoek.
