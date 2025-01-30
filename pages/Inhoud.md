@@ -242,7 +242,7 @@
 			- [[vrijdag 10 januari 2025]]
 			- [[maandag 13 januari 2025]]
 			- [[zaterdag 18 januari 2025]]
-			-
+			- [[donderdag 30 januari 2025]]
 		- Dagboek voor Wiesje
 		  collapsed:: true
 			- [[240923 maandag 23 september 2024]]

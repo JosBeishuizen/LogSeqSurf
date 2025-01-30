@@ -3,6 +3,8 @@
 - TODO rijbewijs verlengen
 - DONE plannen meivakantie
 - TODO Ton van der Stap over mystiek
+- TODO Huisjes betalen
+  SCHEDULED: <2025-01-31 Fri>
 -
 - Elke dag
 	- TODO Veerkamp: [[17. 'Apostolische Vaders']]
