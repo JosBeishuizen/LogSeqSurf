@@ -76,8 +76,10 @@ Albert Verwey: Wie waarlijk leeft, heeft in zijn hart een onvernietigbare veer, 
 - tags:: ☀️
   [[Roald Dahl - Kindness]]
 - tags:: ☀️
-  [[Kopland Rutger - Psalm]]
+  [[Rutger Kopland - Psalm]]
 - tags:: ☀️
   [[Rutger Bregman over twee wolven]]
--
--
+- tags:: ☀️
+  [[Rutger Kopland - Een psalm]]
+- tags:: ☀️
+  [[Huub Oosterhuis - Sterven zal je ooit]]

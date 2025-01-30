@@ -305,12 +305,12 @@
 		  collapsed:: true
 			- [[Kopland Rutger - Aan het grensland]]
 			- [[Kopland Rutger - Een lege plek om te blijven XIV]]
-			- [[Kopland Rutger - Een psalm]]
+			- [[Rutger Kopland - Een psalm]]
 			- [[Kopland Rutger - G]]
 			- [[Kopland Rutger - Het kiezen van een ansichtkaart]]
 			- [[Kopland Rutger - Onder de appelboom]]
 			- [[Kopland Rutger - Portret]]
-			- [[Kopland Rutger - Psalm]]
+			- [[Rutger Kopland - Psalm]]
 			- [[Kopland Rutger - Voorjaarsgedicht]]
 		- Huub Oosterhuis
 		  collapsed:: true
