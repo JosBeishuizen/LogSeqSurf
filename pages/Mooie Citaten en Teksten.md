@@ -88,7 +88,13 @@ Albert Verwey: Wie waarlijk leeft, heeft in zijn hart een onvernietigbare veer, 
 - collapsed:: true
   #+BEGIN_QUERY
   {:title [""]
-  
+  :query [:find (pull ?h [*])
+    :where
+     [?h :block/marker ?marker]
+     [(contains? #{"NOW" "DOING" "TODO" "LATER" "WAITING"} ?marker)]
+     [?h :block/page ?p]
+     [?p :block/name "my project todo"] ;name is always lower-case
+   ]
   :result-transform (fn [result] 
   (sort-by 
       (fn [d] (get d :block/content ))
