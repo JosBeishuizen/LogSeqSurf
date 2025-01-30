@@ -115,7 +115,6 @@
 		- [[Te Zien]]
 		- [[Gezien]]
 	- Dagboek
-	  collapsed:: true
 		- 1959
 		  collapsed:: true
 			- [[maandag 25 mei 1959]]
@@ -233,16 +232,17 @@
 			- [[0120 woensdag 20 januari 1988]]
 			- [[0130 zaterdag 30 januari 1988]]
 		- 2024
+		  collapsed:: true
 			- [[zondag 29 december 2024]]
 			- [[maandag 30 december 2024]]
 			- [[dinsdag 31 december 2024]]
 		- 2025
-		  collapsed:: true
 			- [[woensdag 1 januari 2025]]
 			- [[vrijdag 3 januari 2025]]
 			- [[vrijdag 10 januari 2025]]
 			- [[maandag 13 januari 2025]]
 			- [[zaterdag 18 januari 2025]]
+			-
 		- Dagboek voor Wiesje
 		  collapsed:: true
 			- [[240923 maandag 23 september 2024]]
@@ -361,6 +361,7 @@
 		- [[Kerstkaarten]]
 		- [[Verjaardagen]]
 	- query-table:: false
+	  collapsed:: true
 	  #+BEGIN_QUERY
 	  {:title [:h2 "Mooie Citaten en Teksten"]
 	    :query [:find (pull ?b [*])
@@ -370,4 +371,4 @@
 	    ]
 	  }
 	  #+END_QUERY
--
+	-
