@@ -360,5 +360,13 @@
 	- Sociaal
 		- [[Kerstkaarten]]
 		- [[Verjaardagen]]
-	- [[Mooie Citaten en Teksten]]
+	- #+BEGIN_QUERY
+	  {:title [:b ""]
+	    :query [:find (pull ?b [*])
+	    :where
+	      [?p :block/original-name "Mooie Citaten en Teksten"]
+	      [?b :block/page ?p]
+	    ]
+	  }
+	  #+END_QUERY
 -

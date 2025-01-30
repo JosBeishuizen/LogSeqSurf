@@ -69,4 +69,12 @@ query-table:: false
    )
   }
   #+END_QUERY
--
+- #+BEGIN_QUERY
+  {:title [:b "Alle mooie citaten en teksten"]
+    :query [:find (pull ?b [*])
+    :where
+      [?p :block/original-name "Mooie Citaten en Teksten"]
+      [?b :block/page ?p]
+    ]
+  }
+  #+END_QUERY
