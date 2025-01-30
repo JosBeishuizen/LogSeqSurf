@@ -85,15 +85,14 @@ Albert Verwey: Wie waarlijk leeft, heeft in zijn hart een onvernietigbare veer, 
   [[Huub Oosterhuis - Sterven zal je ooit]]
 - tags:: ☀️
   [[Huub Oosterhuis over moed houden]]
-- collapsed:: true
-  #+BEGIN_QUERY
+- #+BEGIN_QUERY
   {:title [""]
-  :query [:find (pull ?h [*])
+  :query [:find (pull ?b [*])
     :where
-     [?h :block/marker ?marker]
-     [(contains? #{"NOW" "DOING" "TODO" "LATER" "WAITING"} ?marker)]
-     [?h :block/page ?p]
-     [?p :block/name "my project todo"] ;name is always lower-case
+     [?b :block/name ?p]
+     [?p (contains? #{"☀️"} ?name)]
+     [?b :block/page ?p]
+     [?p :block/name "mooie citaten en teksten"] ;name is always lower-case
    ]
   :result-transform (fn [result] 
   (sort-by 
