@@ -105,7 +105,9 @@
 			- [[14. Het boek Openbaring]]
 			- [[15. Besluit]]
 			- [[16. Wat is er van het Grote Verhaal geworden?]]
-			- [[17 'Apostolische Vaders']]
+			- [[17. 'Apostolische Vaders']]
+			- [[18. Het Rijk in crisis]]
+			-
 	- Lezen
 		- [[Roll]]
 - Geheugen

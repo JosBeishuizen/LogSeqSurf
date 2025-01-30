@@ -5,7 +5,7 @@
 - TODO Ton van der Stap over mystiek
 -
 - Elke dag
-	- TODO Veerkamp: [[17 'Apostolische Vaders']]
+	- TODO Veerkamp: [[17. 'Apostolische Vaders']]
 	- TODO [[Roll]]
 	- TODO [[Filosoferen met kinderen]]
 	- TODO piano spelen
