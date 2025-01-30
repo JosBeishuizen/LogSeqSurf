@@ -34,5 +34,9 @@ Cijfer:: 10
   Gezien-op:: najaar 2023
   Opm:: [[Recensie Prophet Song]] 
   Cijfer:: 9
--
+- Titel:: Into the Woods 
+  Tags:: Film
+  Gezien-op:: 30-01-2025, op Disney+
+  Opm:: Leuk begin met vier verschillende sprookjes door elkaar. Maar na het happy end halverwege de film loopt het verhaal in de soep.
+  Cijfer:: 6
 -
