@@ -94,3 +94,12 @@ Albert Verwey: Wie waarlijk leeft, heeft in zijn hart een onvernietigbare veer, 
       result))
   }
   *#+END_QUERY*
+- #+BEGIN_QUERY
+  {:title [:h3 "query for logseq in this page"]
+  :query (and (page <% current page %>) "logseq")
+  :result-transform (fn [result] 
+  (sort-by 
+      (fn [d] (get d :block/content ))
+      result))
+  }
+  #+END_QUERY
