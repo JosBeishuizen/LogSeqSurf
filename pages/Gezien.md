@@ -31,7 +31,8 @@ Cijfer:: 10
   Cijfer:: 7
 - Titel:: Prophet Song
   Tags:: Boek
-  Gezien-op:: 
-  Opm::
-  Cijfer::
+  Gezien-op:: najaar 2023
+  Opm:: [[Recensie Prophet Song]] 
+  Cijfer:: 9
+-
 -
