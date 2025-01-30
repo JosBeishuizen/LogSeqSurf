@@ -360,7 +360,8 @@
 	- Sociaal
 		- [[Kerstkaarten]]
 		- [[Verjaardagen]]
-	- #+BEGIN_QUERY
+	- query-table:: true
+	  #+BEGIN_QUERY
 	  {:title [:h2 "Mooie Citaten en Teksten"]
 	    :query [:find (pull ?b [*])
 	    :where
