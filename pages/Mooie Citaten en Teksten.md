@@ -32,9 +32,9 @@ Albert Verwey: Wie waarlijk leeft, heeft in zijn hart een onvernietigbare veer, 
 - tags:: ☀️
   [[Huub Oosterhuis - Nieuwe Dag]]
 - tags:: ☀️
-  [[🇱🇺 Martin van Amerongen - Nooit komen rampen eenzaam als verspieders]]
+  [[Martin van Amerongen - Nooit komen rampen eenzaam als verspieders]]
 - tags:: ☀️
-  [[🇱🇺 Ton van der Stap over profeet en mysticus]]
+  [[Ton van der Stap over profeet en mysticus]]
 - tags:: ☀️
   [[Wat is sabbat]]
 - tags:: ☀️
@@ -85,12 +85,14 @@ Albert Verwey: Wie waarlijk leeft, heeft in zijn hart een onvernietigbare veer, 
   [[Huub Oosterhuis - Sterven zal je ooit]]
 - tags:: ☀️
   [[Huub Oosterhuis over moed houden]]
-- #+BEGIN_QUERY
-  {:title [:h3 "query for logseq in this page"]
-  :query (and (page <% current page %>) "☀️")
+- collapsed:: true
+  #+BEGIN_QUERY
+  {:title [""]
+  :query (and (page "Mooie Citaten en Teksten")  "☀️")
   :result-transform (fn [result] 
   (sort-by 
       (fn [d] (get d :block/content ))
       result))
   }
   #+END_QUERY
+-
