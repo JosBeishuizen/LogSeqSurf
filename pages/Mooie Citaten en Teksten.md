@@ -91,7 +91,9 @@ Albert Verwey: Wie waarlijk leeft, heeft in zijn hart een onvernietigbare veer, 
     :where
           [?b :block/ref-pages ?p]
   		[?p :block/name ?tag]
-  		[(contains? #{"☀️"} ?)]
+  		[(contains? #{"☀️"} ?tag)]
+          [?b :block/page ?p]
+          [?p :block/name "Mooie citaten en Teksten"]
    ]
   :result-transform (fn [result] 
   (sort-by 
