@@ -258,6 +258,7 @@
 			- [[0722 vrijdag 22 juli 1988]]
 			- [[0726 zondag 26 juli 1988]]
 			- [[0729 vrijdag 29 juli 1988]]
+			- [[0806 zaterdag 6 augustus 1988]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
