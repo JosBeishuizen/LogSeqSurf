@@ -92,4 +92,5 @@ tags:: ☀️
   [[Iris Murdoch over liefde]]
 - tags:: ☀️
   [[Iris Murdoch over schuldgevoel]]
--
+- tags:: ☀️
+  [[Isaiah Berlin over vrijheid]]
