@@ -1,4 +1,5 @@
 - Vandaag
+  collapsed:: true
 	- Januari
 	  collapsed:: true
 		- [[Wednesday 1 January 2025]]
@@ -42,6 +43,7 @@
 	- [[Reviews]]
 	- [[Financiën]]
 - Aantekeningen
+  collapsed:: true
 	- [[Recensie Prophet Song]]
 	- [[Abonnementen]]
 	- [[Herinneringen aan Gerrie]]
@@ -113,7 +115,6 @@
 	- Lezen
 		- [[Roll]]
 - Geheugen
-  collapsed:: true
 	- Cultuur
 		- [[Te Zien]]
 		- [[Gezien]]
@@ -273,13 +274,13 @@
 			- [[maandag 30 december 2024]]
 			- [[dinsdag 31 december 2024]]
 		- 2025
-		  collapsed:: true
 			- [[woensdag 1 januari 2025]]
 			- [[vrijdag 3 januari 2025]]
 			- [[vrijdag 10 januari 2025]]
 			- [[maandag 13 januari 2025]]
 			- [[zaterdag 18 januari 2025]]
 			- [[donderdag 30 januari 2025]]
+			-
 		- Dagboek voor Wiesje
 		  collapsed:: true
 			- [[240923 maandag 23 september 2024]]
