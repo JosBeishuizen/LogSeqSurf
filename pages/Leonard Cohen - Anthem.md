@@ -41,10 +41,10 @@
   Forget your perfect offering
   There is a crack, a crack in everything
   That's how the light gets in
-  Ring the bells that still can ring
+- Ring the bells that still can ring
   Forget your perfect offering
   There is a crack, a crack in everything
   That's how the light gets in
-  That's how the light gets in
+- That's how the light gets in
   That's how the light gets in
 - https://corporate-sustainability.org/article/theres-a-crack-in-everything-thats-where-the-light-gets-in/#:~:text=The%20words%20in%20this%20essay's,is%20that%20everything%20is%20flawed
