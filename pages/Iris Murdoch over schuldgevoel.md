@@ -1,0 +1,1 @@
+- Een citaat uit *The Apprentice* van Iris Murdoch. In een gesprek zegt Stuart, Edwards halfbroer die zijn best doet om goed te leven (belangrijk thema bij Murdoch): "Ik bedoel dat schuldgevoel niet belangrijk is, het kan zelfs slecht zijn. Je moet gewoon proberen het goed te maken, voortaan beter te doen. Waarom zou je jezelf verlammen terwijl er zoveel te doen is. "
