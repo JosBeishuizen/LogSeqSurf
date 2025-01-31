@@ -3,7 +3,7 @@
 - TODO rijbewijs verlengen
 - DONE plannen meivakantie
 - TODO Ton van der Stap over mystiek
-- TODO Huisjes betalen
+- DONE Huisjes betalen
   SCHEDULED: <2025-01-31 Fri>
 - TODO Foto Gerrie
 -
@@ -12,4 +12,4 @@
 	- TODO [[Roll]]
 	- TODO [[Filosoferen met kinderen]]
 	- TODO piano spelen
--
+	- TODO twee artikelen uit Argus
