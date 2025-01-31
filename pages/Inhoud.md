@@ -369,6 +369,8 @@
 	      [?b :block/page ?p]
 	      [?p :block/original-name "Mooie Citaten en Teksten"]
 	    ]
+	  :result-transform (fn [result] (sort-by (fn [r] (get r :block/content)) result))
+	   :remove-block-children? false
 	  }
 	  #+END_QUERY
 	-
