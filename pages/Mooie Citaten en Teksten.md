@@ -87,3 +87,5 @@ tags:: ☀️
 - tags:: ☀️
   [[Leonard Cohen - Anthem]]
 - tags:: ☀️
+  [[Marcus Aurelius over de goddelijke vonk]]
+-
