@@ -1,0 +1,5 @@
+- Het was een goede dag
+- Koorrepetitie, gezongen, Andrew en Berber weergezien
+- Mooie verhalen van Margriet gehoord over haar reis naar Sri Lanka
+- Mooie wandeling vanochtend, wintersport weer
+- Rustige terugreis uit Diepenveen
