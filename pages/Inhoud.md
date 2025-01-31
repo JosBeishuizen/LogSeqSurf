@@ -38,6 +38,7 @@
 		- [[Monday 30 December 2024]]
 		- [[Tuesday 31 December 2024]]
 - Planning
+  collapsed:: true
 	- [[Taken]]
 	- [[Reviews]]
 	- [[Financiën]]
@@ -50,9 +51,11 @@
 	- [[Afscheid van Gerrie]]
 	- [[Alzheimerlijst]]
 - Digitaal
+  collapsed:: true
 	- [[Queries]]
 	- [[Templates]]
 - Activiteiten
+  collapsed:: true
 	- Reviews
 	  collapsed:: true
 		- [[D-22-00513]]
@@ -116,6 +119,7 @@
 		- [[Te Zien]]
 		- [[Gezien]]
 	- Dagboek
+	  collapsed:: true
 		- 1959
 		  collapsed:: true
 			- [[maandag 25 mei 1959]]
@@ -220,6 +224,7 @@
 			- [[maandag 28 december 1987]]
 			- [[donderdag 31 december 1987]]
 		- 1988
+		  collapsed:: true
 			- [[vrijdag 1 januari 1988]]
 			- [[zaterdag 2 januari 1988]]
 			- [[zondag 3 januari 1988]]
