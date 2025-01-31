@@ -363,7 +363,7 @@
 		- [[Verjaardagen]]
 	- query-table:: false
 	  #+BEGIN_QUERY
-	  {:title [:h2 "Mooie Citaten en Teksten"]
+	  {:title ["Mooie Citaten en Teksten"]
 	    :query [:find (pull ?b [*])
 	    :where
 	      [?b :block/page ?p]
