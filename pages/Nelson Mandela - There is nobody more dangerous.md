@@ -1,1 +1,1 @@
-- There is nobody more dangerous than one who has been humiliated
+- There is nobody more dangerous than one who has been humiliated.

@@ -83,4 +83,5 @@ tags:: ☀️
 - tags:: ☀️
   [[Huub Oosterhuis over moed houden]]
 - tags:: ☀️
-  {{embed [[Nelson Mandela - There is nobody more dangerous]]}}
+  [[Nelson Mandela - There is nobody more dangerous]]
+- tags:: ☀️
