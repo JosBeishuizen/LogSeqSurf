@@ -4,7 +4,7 @@
   I heard them say
   Don't dwell on what has passed away
   Or what is yet to be
-  Ah, the wars they will be fought again
+- Ah, the wars they will be fought again
   The holy dove, she will be caught again
   Bought and sold, and bought again
   The dove is never free
