@@ -3,10 +3,6 @@ tags:: ☀️
 [[Albert Verweij - De onvernietigbare veer]]
 
 - tags:: ☀️
-  Dietrich Bonhoeffer: In goede machten liefderijk geborgen 
-  verwachten wij getroost wat komen mag.
-  God is met ons des avonds en des morgens,
-  is zeker met ons elke nieuwe dag
 - tags:: ☀️
   [[Henri Bontenbal over een politiek van hoop]]
 - tags:: ☀️
