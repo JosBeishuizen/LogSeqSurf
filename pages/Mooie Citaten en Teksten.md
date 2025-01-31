@@ -67,6 +67,7 @@ tags:: ☀️
 - tags:: ☀️
   [[I believe in the sun, even when it doesn’t shine. I believe in love, even when I don’t feel it. I believe in God, even when He is silent.]]
 - tags:: ☀️
+  [[Frederick Douglas: If there is no struggle...]]
 - tags:: ☀️
   Je m’éveille le matin avec une joie secrète de voir la lumière; je vois la lumière avec une espèce de ravissement; et tout le reste du jour je suis content - Montesquieu
 - tags:: ☀️
