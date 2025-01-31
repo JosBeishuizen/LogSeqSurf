@@ -362,7 +362,6 @@
 		- [[Kerstkaarten]]
 		- [[Verjaardagen]]
 	- query-table:: false
-	  collapsed:: true
 	  #+BEGIN_QUERY
 	  {:title [:h2 "Mooie Citaten en Teksten"]
 	    :query [:find (pull ?b [*])
