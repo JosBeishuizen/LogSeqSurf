@@ -220,7 +220,6 @@
 			- [[maandag 28 december 1987]]
 			- [[donderdag 31 december 1987]]
 		- 1988
-		  collapsed:: true
 			- [[vrijdag 1 januari 1988]]
 			- [[zaterdag 2 januari 1988]]
 			- [[zondag 3 januari 1988]]
