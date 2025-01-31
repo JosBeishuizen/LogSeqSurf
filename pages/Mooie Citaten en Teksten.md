@@ -61,13 +61,12 @@ tags:: ☀️
 - tags:: ☀️
   [[Epictetus - Het sereniteitsgebed]]
 - tags:: ☀️
-  Hoop is niet hetzelfde als optimisme. Het is niet de overtuiging dat iets goed afloopt, maar de zekerheid dat iets zin heeft, ongeacht hoe het afloopt. - Vaclav Havel
+  [[Vaclav Havel over Hoop]]
 - tags:: ☀️
-  I am not a saint, unless you think of a saint as a sinner who keeps on trying - Nelson Mandela
+  [[Nelson Mandela - I am not a saint]]
 - tags:: ☀️
   [[I believe in the sun, even when it doesn’t shine. I believe in love, even when I don’t feel it. I believe in God, even when He is silent.]]
 - tags:: ☀️
-  If there is no struggle, there is no progress. Those who profess to favor freedom, and deprecate agitation, are men who want crops without plowing up the ground, they want rain without thunder and lightning. -Frederick Douglas
 - tags:: ☀️
   Je m’éveille le matin avec une joie secrète de voir la lumière; je vois la lumière avec une espèce de ravissement; et tout le reste du jour je suis content - Montesquieu
 - tags:: ☀️
