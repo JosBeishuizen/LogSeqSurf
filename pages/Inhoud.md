@@ -249,7 +249,10 @@
 			- [[0415 vrijdag 15 april 1988]]
 			- [[0511 woensdag 11 mei 1988]]
 			- [[0512 donderdag 12 mei 1988]]
-			-
+			- [[0516 maandag 16 mei 1988]]
+			- [[0523 maandag 23 mei 1988]]
+			- [[0524 dinsdag 24 mei 1988]]
+			- [[0526 vrijdag 26 mei 1988]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
