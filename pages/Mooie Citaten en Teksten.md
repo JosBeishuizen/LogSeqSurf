@@ -62,6 +62,7 @@ Albert Verwey: Wie waarlijk leeft, heeft in zijn hart een onvernietigbare veer, 
 - tags:: ☀️
   [[Epicurus - Het quadrifarmacon]]
 - tags:: ☀️
+  [[☀️ Het sereniteitsgebed van Epictetus]]
 - tags:: ☀️
   Hoop is niet hetzelfde als optimisme. Het is niet de overtuiging dat iets goed afloopt, maar de zekerheid dat iets zin heeft, ongeacht hoe het afloopt. - Vaclav Havel
 - tags:: ☀️
