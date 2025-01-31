@@ -5,6 +5,7 @@
 - TODO Ton van der Stap over mystiek
 - TODO Huisjes betalen
   SCHEDULED: <2025-01-31 Fri>
+- TODO Foto Gerrie
 -
 - Elke dag
 	- TODO Veerkamp: [[17. 'Apostolische Vaders']]
