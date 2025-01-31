@@ -12,14 +12,14 @@
   Forget your perfect offering
   There is a crack, a crack in everything
   That's how the light gets in
-  We asked for signs
+- We asked for signs
   The signs were sent
   The birth betrayed
   The marriage spent
   Yeah, and the widowhood
   Of every government
   Signs for all to see
-  I can't run no more
+- I can't run no more
   With that lawless crowd
   While the killers in high places
   Say their prayers out loud
