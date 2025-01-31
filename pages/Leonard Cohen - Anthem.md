@@ -8,7 +8,7 @@
   The holy dove, she will be caught again
   Bought and sold, and bought again
   The dove is never free
-  Ring the bells that still can ring
+- Ring the bells that still can ring
   Forget your perfect offering
   There is a crack, a crack in everything
   That's how the light gets in
