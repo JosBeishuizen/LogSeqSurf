@@ -1,7 +1,5 @@
 - Vandaag
-  collapsed:: true
 	- Januari
-	  collapsed:: true
 		- [[Wednesday 1 January 2025]]
 		- [[Thursday 2 January 2025]]
 		- [[Friday 3 January 2025]]
@@ -115,6 +113,7 @@
 	- Lezen
 		- [[Roll]]
 - Geheugen
+  collapsed:: true
 	- Cultuur
 		- [[Te Zien]]
 		- [[Gezien]]
