@@ -40,3 +40,4 @@ Cijfer:: 10
   Opm:: Leuk begin met vier verschillende sprookjes door elkaar. Maar na het happy end halverwege de film loopt het verhaal in de soep.
   Cijfer:: 6
 -
+-
