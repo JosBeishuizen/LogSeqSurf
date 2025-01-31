@@ -1,5 +1,6 @@
 tags::  minimal-query
 tags:: ☀️
+[[Albert Verweij - De onvernietigbare veer]]
 
 - tags:: ☀️
   Dietrich Bonhoeffer: In goede machten liefderijk geborgen 
