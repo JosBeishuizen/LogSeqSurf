@@ -95,3 +95,4 @@ tags:: ☀️
 - tags:: ☀️
   [[Isaiah Berlin over vrijheid]]
 - tags:: ☀️
+  [[Wees niet verongelijkt, omarm je lot, wees sterk!]]
