@@ -55,7 +55,6 @@ tags:: ☀️
 - tags:: ☀️
   [[Peter van Straaten - Dit jaar ga ik alles anders doen!]]
 - tags:: ☀️
-  Geluk is slechts een bijwerking. Je kunt beter onderzoeken waar je je thuis voelt. Op welke plek voel je je het meest jezelf?
 - tags:: ☀️
   [[Epicurus - Het quadrifarmacon]]
 - tags:: ☀️
