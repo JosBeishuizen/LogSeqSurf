@@ -246,6 +246,7 @@
 			- [[0410 zaterdag 10 april 1988]]
 			- [[0411 maandag 11 april 1988]]
 			- [[0414 donderdag 14 april 1988]]
+			- [[0415 vrijdag 15 april 1988]]
 			-
 		- 2024
 		  collapsed:: true
