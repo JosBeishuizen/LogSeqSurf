@@ -225,8 +225,8 @@
 			- [[zondag 3 januari 1988]]
 			- [[maandag 4 januari 1988]]
 			- [[woensdag 6 januari 1988]]
-			- [[0110 zondag 10 januari 1988]]
-			- [[0112 dinsdag 12 januari 1988]]
+			- [[zondag 10 januari 1988]]
+			- [[dinsdag 12 januari 1988]]
 			- [[0117 zondag 17 januari 1988]]
 			- [[0118 maandag 18 januari 1988]]
 			- [[0120 woensdag 20 januari 1988]]
@@ -262,7 +262,8 @@
 			- [[0811 donderdag 11 augustus 1988]]
 			- [[0815 maandag 15 augustus 1988]]
 			- [[0826 vrijdag 26 augustus 1988]]
-			-
+			- [[0827 zaterdag 27 augustus 1988]]
+			- [[0828 zaterdag 28 augustus 1988]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
