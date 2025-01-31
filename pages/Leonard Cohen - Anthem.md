@@ -26,18 +26,18 @@
   But they've summoned, they've summoned up
   A thundercloud
   They're going to hear from me
-  Ring the bells that still can ring
+- Ring the bells that still can ring
   Forget your perfect offering
   There is a crack, a crack in everything
   That's how the light gets in
-  You can add up the parts
+- You can add up the parts
   But you won't have the sum
   You can strike up the march
   There is no drum
   Every heart, every heart
   To love will come
   But like a refugee
-  Ring the bells that still can ring
+- Ring the bells that still can ring
   Forget your perfect offering
   There is a crack, a crack in everything
   That's how the light gets in
