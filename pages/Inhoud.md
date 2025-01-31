@@ -238,7 +238,13 @@
 			- [[0329 dinsdag 29 maart 1988]]
 			- [[0330 woensdag 30 maart 1988]]
 			- [[0401 vrijdag 1 april 1988]]
-			-
+			- [[0404 maandag 4 april 1988]]
+			- [[0405 dinsdag 5 april 1988]]
+			- [[0407 donderdag 7 april 1988]]
+			- [[0408 vrijdag 8 april 1988]]
+			- [[0409 zaterdag 9 april 1988]]
+			- [[0410 zaterdag 10 april 1988]]
+			- [[0411 maandag 11 april 1988]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
