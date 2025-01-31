@@ -254,6 +254,8 @@
 			- [[0524 dinsdag 24 mei 1988]]
 			- [[0526 vrijdag 26 mei 1988]]
 			- [[0610 vrijdag 10 juni 1988]]
+			- [[0707 donderdag 7 juli 1988]]
+			-
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
