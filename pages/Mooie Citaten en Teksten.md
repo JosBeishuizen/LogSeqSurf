@@ -3,6 +3,7 @@ tags:: ☀️
 [[Albert Verweij - De onvernietigbare veer]]
 
 - tags:: ☀️
+  [[Dietrich Bonhoeffer: Ochtendgebed]]
 - tags:: ☀️
   [[Henri Bontenbal over een politiek van hoop]]
 - tags:: ☀️
