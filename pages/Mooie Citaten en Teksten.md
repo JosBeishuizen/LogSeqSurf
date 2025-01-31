@@ -1,6 +1,5 @@
 tags::  minimal-query
 tags:: ☀️
-Albert Verwey: Wie waarlijk leeft, heeft in zijn hart een onvernietigbare veer, een stille kracht, die elke weerstand tart”
 
 - tags:: ☀️
   Dietrich Bonhoeffer: In goede machten liefderijk geborgen 
@@ -62,7 +61,7 @@ Albert Verwey: Wie waarlijk leeft, heeft in zijn hart een onvernietigbare veer, 
 - tags:: ☀️
   [[Epicurus - Het quadrifarmacon]]
 - tags:: ☀️
-  [[☀️ Het sereniteitsgebed van Epictetus]]
+  [[Epictetus - Het sereniteitsgebed]]
 - tags:: ☀️
   Hoop is niet hetzelfde als optimisme. Het is niet de overtuiging dat iets goed afloopt, maar de zekerheid dat iets zin heeft, ongeacht hoe het afloopt. - Vaclav Havel
 - tags:: ☀️
