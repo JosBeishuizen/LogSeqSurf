@@ -85,4 +85,4 @@ tags:: ☀️
 - tags:: ☀️
   [[Nelson Mandela - There is nobody more dangerous]]
 - tags:: ☀️
-  [[Leonard Cohen - There is a Crack in Everything]]
+  [[Leonard Cohen - Anthem]]
