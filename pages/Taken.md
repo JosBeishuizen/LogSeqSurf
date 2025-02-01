@@ -1,6 +1,6 @@
 - TODO SSE opheffen
 - TODO rijbewijs verlengen
-- TODO Ton van der Stap over mystiek
+- TODO Ton van der Stap:
 - TODO Foto Gerrie
 -
 - Elke dag
