@@ -120,7 +120,6 @@
 		- [[Te Zien]]
 		- [[Gezien]]
 	- Dagboek
-	  collapsed:: true
 		- 1959
 		  collapsed:: true
 			- [[maandag 25 mei 1959]]
@@ -283,6 +282,7 @@
 			- [[zaterdag 18 januari 2025]]
 			- [[donderdag 30 januari 2025]]
 			- [[vrijdag 31 januari 2025]]
+			- [[zaterdag 1 februari 2025]]
 		- Dagboek voor Wiesje
 		  collapsed:: true
 			- [[240923 maandag 23 september 2024]]
@@ -401,6 +401,7 @@
 		- [[Kerstkaarten]]
 		- [[Verjaardagen]]
 	- query-table:: false
+	  collapsed:: true
 	  #+BEGIN_QUERY
 	  {:title ["Mooie Citaten en Teksten"]
 	    :query [:find (pull ?b [*])

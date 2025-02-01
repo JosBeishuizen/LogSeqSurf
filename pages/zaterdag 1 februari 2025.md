@@ -1,0 +1,1 @@
+- Alweer een mooie dag met veel zin en een frisse wintertemperatuur. Mooi was het lopen vanochtend, eerst al het roeien dat beter ging. Zowaar piano gespeeld. Prachtig interview met de psychiater Herman van Praag in Trouw
