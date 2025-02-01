@@ -166,6 +166,7 @@
 		- 23:27 151
 		- 23:29 🛑
 	- Monday 27 January 2025
+	  collapsed:: true
 		- 15:04 151
 		- 15:07 152
 		- 15:09 153
@@ -189,6 +190,7 @@
 		- 16:46 170
 		- 16:55 171
 	- Tuesday 28 January 2025
+	  collapsed:: true
 		- 16:44 172
 		- 16:47 173
 		- 16:49 174
@@ -217,6 +219,7 @@
 		- 17:37 199
 		- 17:44 200
 	- Wednesday 29 January 2025
+	  collapsed:: true
 		- 14:56 200
 		- 14:57 201
 		- 14:59 202
@@ -230,6 +233,7 @@
 		- 15:45 212
 		- 15:48 213
 	- Thursday 30 January 2025
+	  collapsed:: true
 		- 14:46 224
 		- 14:50 225
 		- 14:52 226
@@ -253,6 +257,10 @@
 		- 15:41 256
 		- 15:42 257
 		- 15:45 258
+	- Saturday 01 February 2025
+		- 14:44 258
+		- 14:46 259
+		- 14:49 260
 - Inhoud
   collapsed:: true
 	- Verhaal over het "brein", over de actualiteit van modern hersenonderzoek. Verdient nuancering. Het brein doet dit en doet dat. Hersenonderzoek versus geheugenonderzoek.
