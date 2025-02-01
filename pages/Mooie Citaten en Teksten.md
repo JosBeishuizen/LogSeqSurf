@@ -98,3 +98,5 @@ tags:: ☀️
   [[Wees niet verongelijkt, omarm je lot, wees sterk!]]
 - tags:: ☀️
   [[Herman van Praag over geloven]]
+- tags:: ☀️
+  [[Herman van Praag over voltooid leven]]
