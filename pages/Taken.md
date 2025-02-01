@@ -8,4 +8,4 @@
 	- TODO [[Roll]]
 	- TODO [[Filosoferen met kinderen]]
 	- TODO piano spelen
-	- TODO twee artikelen uit Argus
+	- DONE twee artikelen uit Argus
