@@ -1,0 +1,2 @@
+- "Ik geloof in een bovennatuurlijke, morele instantie die invloed heeft op de geschiedenis, maar ik weet ook dat die instantie een product is van mijn verbeeldingskracht. Het is een zelf geschapen God die mij steun geeft. Ik zie het als een mentor, een soort vader- of moederfiguur, die je kunt aanspreken. Ik geloof ook in de Messiaanse hoop, het idee dat het leven morgen beter is dan vandaag. Dat hield me als tiener overeind in de kampen."
+- Trouw, 1 februari 2025
