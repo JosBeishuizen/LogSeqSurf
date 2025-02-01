@@ -111,7 +111,8 @@
 			- [[17. 'Apostolische Vaders']]
 			- [[18. Het Rijk in crisis]]
 			-
-		- [[Ton]]
+		- Ton van der Stap
+		-
 	- Lezen
 		- [[Roll]]
 - Geheugen
