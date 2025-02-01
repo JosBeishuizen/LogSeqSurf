@@ -274,7 +274,7 @@
 		- 16:00 272
 		- 16:02 273
 		- 16:04 274
-		-
+		- 16:08 275
 - Inhoud
   collapsed:: true
 	- Verhaal over het "brein", over de actualiteit van modern hersenonderzoek. Verdient nuancering. Het brein doet dit en doet dat. Hersenonderzoek versus geheugenonderzoek.
