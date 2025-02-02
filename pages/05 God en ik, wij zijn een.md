@@ -1,4 +1,3 @@
-## 05 God en ik, wij zijn een
 - Veel mensen zoeken naar een dieper inzicht in hun bestaan, maar verwachten het antwoord niet meer van de kerken. Hoe zit dat?
 - Secularisatie: We zien God niet meer aanwezig of handelend in onze wereld en geschiedenis. Enerzijds ontwikkeling naar een volwassen godsbesef. Anderzijds religieuze armoede. Hoe zullen wij over God spreken?
 - Nieuwe woorden die wijzen op maatschappelijke en politeke verantwoordelijkheid. Die helpen in bepaalde levenssituaties. Die bevrijden van angsten en onnodige gewetensvragen. Het besef dat men eigenlijk gelukkig en heel verantwoordelijk kan leven zonder kerk, evangelie of God. Maar wat bedoel je dan met 'God'. Die vraag laat zich nooit beantwoorden met een redenering maar alleen vanuit een diepe innerlijke ervaring van God, een ander woord voor mystieke beleving. Die ervaring is uit het Christendom en uit onze cultuur verdwenen.

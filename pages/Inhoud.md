@@ -111,7 +111,8 @@
 			- [[18. Het Rijk in crisis]]
 			-
 		- Ton van der Stap
-			- [[In een ander licht]]
+			- In een ander licht
+				- [[05 God en ik, wij zijn een]]
 	- Lezen
 		- [[Roll]]
 - Geheugen
