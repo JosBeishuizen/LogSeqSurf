@@ -15,5 +15,5 @@
 - Podcast
 	- Een dik uur Ischa op de radio
 		- **23:01** [[quick capture]]:  https://open.spotify.com/episode/1231lEJH9SBbDitdIbM3UV?si=tHXiBfrVRuun2JGawWn-UA
-	- The Rest is
+	- The Rest is Politics
 -
