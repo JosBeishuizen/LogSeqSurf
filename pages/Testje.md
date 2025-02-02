@@ -10,7 +10,6 @@
   :result-transform (fn [result] [(rand-nth result)] )
   }
   #+END_QUERY
--
 - #+BEGIN_QUERY
   {:title "Citaat"
   :query [:find (pull ?b [*])
@@ -22,9 +21,7 @@
   :result-transform (fn [result] [(rand-nth result)] )
   }
   #+END_QUERY
--
-- collapsed:: true
-  #+BEGIN_QUERY
+- #+BEGIN_QUERY
   {:title "Citaat"
   :query [:find (pull ?b [*])
        :where
