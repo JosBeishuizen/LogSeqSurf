@@ -33,5 +33,15 @@
 	  prijs::
 	  per-maand:: 
 	  per-jaar::
--
--
+- #Quote
+	- #+BEGIN_QUERY
+	  {:title "Citaat"
+	  :query [:find (pull ?p [*])
+	       :where
+	       [?p :block/name ?name]
+	       [(clojure.string/starts-with? ?name "🇱🇺")]
+	  ]
+	  :result-transform (fn [result] [(rand-nth result)] )
+	  }
+	  #+END_QUERY
+	-

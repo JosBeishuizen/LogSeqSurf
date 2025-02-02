@@ -50,7 +50,6 @@
 	- [[Afscheid van Gerrie]]
 	- [[Alzheimerlijst]]
 - Digitaal
-  collapsed:: true
 	- [[Queries]]
 	- [[Templates]]
 - Activiteiten
