@@ -43,7 +43,6 @@
 	- [[Reviews]]
 	- [[Financiën]]
 - Aantekeningen
-  collapsed:: true
 	- [[Recensie Prophet Song]]
 	- [[Abonnementen]]
 	- [[Herinneringen aan Gerrie]]
@@ -291,6 +290,21 @@
 			- [[241115 vrijdag 15 november 2024]]
 			- [[241215 zondag 15 december 2012]]
 			- [[250124 vrijdag 24 januari 2025]]
+	- Digitaal
+		- Viewing en editing mode
+			- Blocks have two modes
+				- editing mode
+				  when you see your cursor blinking
+				- viewing mode
+				  (default mode) displays formatting expressed in editing mode, executes queries, etc.
+			- When you click on a block that is in viewing mode
+			  you switch to editing mode
+			  your cursor appears,
+			  and you can start writing.
+			  When you are writing your query {{query #agenda }} you are in editing mode.
+			  When you press Esc, you exit the editing mode and switch to viewing mode.
+			- If you are writing your query and press Enter:
+			- you start a new block in editing mode (moving over any characters after where the position of your cursor when you pressed Enter).
 	- Poëzie
 	  collapsed:: true
 		- Gerrit Achterberg
