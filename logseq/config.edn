@@ -274,16 +274,48 @@
  ;; input "{{poem red,blue}}"
  ;; becomes
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
- :macros {"i" "[:span {:class ti} \"&#x$1 \" ]"
- "iframe" "<iframe src=\"$1\" style=\"width:calc(100% - 4px);height:650px\"></iframe>" 
-:colored-text "[:span {:style \"color: $1\"} $2]"
+ :macros
 
-:light-yellow "[:span {:style \"color: #d9d898\"} $1]"}
+ {;; Usage: {{insert-template <template-name>,<erase-on-click>}}
+
+  ;; where
+
+  ;;   <template-name> is the name of the template to insert when clicked.
+
+  ;;   <erase-on-click> is the word "erase" if the button is to be removed on click.
+
+  ;; Examples:
+
+  ;;     {{insert-template A Template}}
+
+  ;;     {{insert-template My Other Template, erase}}
+
+  :insert-template "\n#+BEGIN_QUERY
+
+   {:inputs [:current-block]
+
+    :query [:find ?block-uuid
+
+            :in $ ?block
+
+            :where [?block :block/uuid ?block-uuid]]
+
+    :result-transform (fn [[block-uuid]]
+
+                        [block-uuid \"$1\" (= \"$2\" \"erase\")])
+
+    :view :insert-template-view}
+
+   #+END_QUERY"
+
+  ;;
+
+  }
+
 
  ;; Configure the default expansion level for linked references.
  ;; For example, consider the following block hierarchy:
  ;; - a [[page]] (level 1)
- ;;   - b        (level 2)
  ;;     - c      (level 3)
  ;;       - d    (level 4)
  ;;
