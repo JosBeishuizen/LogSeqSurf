@@ -294,9 +294,9 @@
 		- Viewing en editing mode
 			- Blocks have two modes
 				- editing mode
-				  when you see your cursor blinking
+					- when you see your cursor blinking
 				- viewing mode
-				  (default mode) displays formatting expressed in editing mode, executes queries, etc.
+					- (default mode) displays formatting expressed in editing mode, executes queries, etc.
 					- When you click on a block that is in viewing mode
 					  you switch to editing mode
 					  your cursor appears,
