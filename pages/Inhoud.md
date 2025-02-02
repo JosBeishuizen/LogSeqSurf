@@ -301,7 +301,7 @@
 					  you switch to editing mode
 					  your cursor appears,
 					  and you can start writing.
-					  When you are writing your query {{query #agenda }} you are in editing mode.
+					- When you are writing your query {{query #agenda }} you are in editing mode.
 					  When you press Esc, you exit the editing mode and switch to viewing mode.
 			- If you are writing your query and press Enter:
 			- you start a new block in editing mode (moving over any characters after where the position of your cursor when you pressed Enter).
