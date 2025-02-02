@@ -1,5 +1,2 @@
-title:: <% today %>
-
--
-- Hé, dat lijkt niet te werken
+- {{insert-template Name of Template}}
 -
