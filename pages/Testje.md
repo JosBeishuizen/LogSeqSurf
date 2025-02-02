@@ -1,4 +1,4 @@
-- {{insert-template Quote, }}
+- {{insert-template Quote, remove}}
 - #+BEGIN_QUERY
   {:title "Citaat"
   :query [:find (pull ?b [*])
