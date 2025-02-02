@@ -7,6 +7,7 @@
 - Muziek
 	- John Dowland - Lachrimae Antiquae
 	- Benjamin Britten - Vioolconcert
+	- Jacques Loussier plays
 - Boeken
 	- Eddy de Wind - Eindstation Auschwitz
 	- Timothy Snyder - Over vrijheid
