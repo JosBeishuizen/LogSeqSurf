@@ -15,3 +15,4 @@
 - ### Handelen vanuit je eigenste ik
 - Je leeft omwille van het leven zelf. Wij zouden moeten leren rechtstreeks, spontaan, vancit onszelf in het moment aanwezig te zijn. Wat uit die  bodem van ons ik oprijst is goed omdat het van God komt. Dat is wel bijna het moeilijkste water bestaat. Eckhart wijst ons een weg die een leven lang duurt. Maar de mysticus heeft blijkbaar de tijd.
 - Hoe komt het dat het leven op zich, zonder argument van buitenaf, zo waardevol is? Eckhart: "Gods zijn is mijn leven".
+-
