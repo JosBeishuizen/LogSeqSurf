@@ -1,4 +1,4 @@
-- {{insert-template Cultuur}}
+- {{insert-template }}
 - Titel::
   Tags:: 
   Gezien-op:: 

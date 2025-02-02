@@ -34,6 +34,8 @@
 	  per-maand:: 
 	  per-jaar::
 - #Quote
+  template:: Quote
+  template-including-parent:: false
 	- #+BEGIN_QUERY
 	  {:title "Citaat"
 	  :query [:find (pull ?p [*])
