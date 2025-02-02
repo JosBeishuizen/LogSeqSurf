@@ -1,0 +1,1 @@
+- Altijd alleen willen zijn, is dat het beste? Neen. Wie de juiste houding heeft voelt zich overal en onder alle mensen op zijn plaats. Maar wie niet de juiste houding heeft, voelt zich nergens een bij niemand op zijn plaats. Als iemand God in waarheid bij zich heeft kan niemand hem hinderen
