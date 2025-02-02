@@ -103,3 +103,4 @@ tags:: ☀️
 - tags:: ☀️
   [[Meester Eckhart over alleen zijn]]
 - tags:: ☀️
+  [[Meester Eckhart over God in je gemoed hebben]]
