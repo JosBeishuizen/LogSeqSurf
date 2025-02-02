@@ -38,10 +38,11 @@
   template-including-parent:: false
 	- #+BEGIN_QUERY
 	  {:title "Citaat"
-	  :query [:find (pull ?p [*])
+	  :query [:find (pull ?b [*])
 	       :where
-	       [?p :block/name ?name]
-	       [(clojure.string/starts-with? ?name "🇱🇺")]
+	       [?b :block/page ?p]
+	       [?b :block/refs ?t]
+	       [?t :block/name "☀️"]
 	  ]
 	  :result-transform (fn [result] [(rand-nth result)] )
 	  }
