@@ -4,10 +4,11 @@
 - TODO Foto Gerrie
 - TODO schilderij ophangen
 - TODO levenstestament
+- TODO Thole en Harry uitnodigen
 -
 - Elke dag
 	- TODO Veerkamp: [[17. 'Apostolische Vaders']]
-	- DONE [[Roll]]
+	- TODO [[Roll]]
 	- TODO [[Filosoferen met kinderen]]
-	- DONE piano spelen
-	- DONE twee artikelen uit Argus
+	- TODO piano spelen
+	- TODO twee artikelen uit Argus
