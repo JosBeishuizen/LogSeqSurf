@@ -4,6 +4,7 @@
 	- Cursieve stukjes?
 	- Notenapparaat?
 	- Namenlijst?
+	-
 	- p. 25 Berlage kende niemand?
 	- Schets van de persoon?
 	- p. 29 namen van de kinderen?
