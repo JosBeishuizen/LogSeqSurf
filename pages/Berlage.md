@@ -3,9 +3,11 @@
 - Commentaar
 	- Cursieve stukjes?
 	- Notenapparaat?
+	- Namenlijst?
 	- p. 25 Berlage kende niemand?
 	- Schets van de persoon?
 	- p. 29 namen van de kinderen?
+		- Verhaal over het gezin (belangrijk!) een beetje weggestopt in het verhaal over de wereldtentoonstelling.
 	- p. 30 ik raak de draad kwijt
 	- p. 32 Sluyterman?
 	- p. 37 ontbreekt
