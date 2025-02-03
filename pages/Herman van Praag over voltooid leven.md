@@ -1,2 +1,2 @@
 - “Als mensen hun leven als voltooid ervaren, dan heeft dat meestal een duidelijke reden, die vaak voortvloeit uit eenzaamheid. Als je geen werk, partner en aanloop meer hebt, kan het leven aan zin en betekenis verliezen. Richt je dan niet op de voltooid verleden tijd, zeg ik dan, maar op de onvoltooid toekomende tijd. De toekomst is niet snel voltooid, daarin kun je altijd opnieuw zin vinden. Ik wijs het begrip voltooid leven niet af, maar ik vind wel dat we voorzichtig moeten zijn om op grond daarvan definitieve conclusies te trekken, om euthanasie toe te kennen."
-- Trouw, 1 februari 2025: [[Interview met Herman van Praag]]
+- Trouw, 1 februari 2025: [[20250201 Interview met Herman van Praag]]

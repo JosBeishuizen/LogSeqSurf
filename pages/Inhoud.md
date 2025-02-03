@@ -49,13 +49,9 @@
 	- [[Foto's Gerrie]]
 	- [[Afscheid van Gerrie]]
 	- [[Alzheimerlijst]]
-	- ![easypeasy](../assets/easypeasy.pdf)
-	  collapsed:: true
+	- collapsed:: true
 		- easypeasy
 		  http://localhost/_capacitor_file_/storage/emulated/0/Documents/LogSeqSurf/assets/easypeasy.pdf
-- Digitaal
-	- [[Queries]]
-	- [[Templates]]
 - Activiteiten
 	- Reviews
 	  collapsed:: true
@@ -295,6 +291,7 @@
 			- [[241215 zondag 15 december 2012]]
 			- [[250124 vrijdag 24 januari 2025]]
 	- Digitaal
+	  collapsed:: true
 		- Viewing en editing mode
 		  collapsed:: true
 			- Blocks have two modes
@@ -311,6 +308,8 @@
 				- If you are writing your query and press Enter:
 				- you start a new block in editing mode (moving over any characters after where the position of your cursor when you pressed Enter).
 		- [[Testje]]
+		- [[Queries]]
+		- [[Templates]]
 	- Poëzie
 	  collapsed:: true
 		- Gerrit Achterberg
@@ -418,9 +417,11 @@
 		- [[Vijfschaft]]
 		- [[Zoete aardappel met feta]]
 	- Sociaal
+	  collapsed:: true
 		- [[Kerstkaarten]]
 		- [[Verjaardagen]]
 	- query-table:: false
+	  collapsed:: true
 	  #+BEGIN_QUERY
 	  {:title ["Mooie Citaten en Teksten"]
 	    :query [:find (pull ?b [*])
@@ -433,5 +434,9 @@
 	  }
 	  #+END_QUERY
 	- Krantenknipsels
-		- ![2025-02-03-08-29-33.jpeg](../assets/2025-02-03-08-29-33.jpeg)
--
+	  collapsed:: true
+		- [[20250201 Interview met Herman van Praag]]
+		- [[20250203 Paus en patriarch over Pasen op dezelfde dag]]
+		-
+	- Externe tekstbestanden (pdf etc.)
+		- ![easypeasy](../assets/easypeasy.pdf)
