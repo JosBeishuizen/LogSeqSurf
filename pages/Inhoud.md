@@ -43,6 +43,7 @@
 	- [[Reviews]]
 	- [[Financiën]]
 - Aantekeningen
+  collapsed:: true
 	- [[Recensie Prophet Song]]
 	- [[Abonnementen]]
 	- [[Herinneringen aan Gerrie]]
@@ -69,6 +70,7 @@
 		- [[D-24-01050]]
 		- [[De vragen van Alexander]]
 	- Studie
+	  collapsed:: true
 		- [[Maleachi]]
 		- Levinas
 		  collapsed:: true
@@ -118,6 +120,7 @@
 		- [[Te Zien]]
 		- [[Gezien]]
 	- Dagboek
+	  collapsed:: true
 		- 1959
 		  collapsed:: true
 			- [[maandag 25 mei 1959]]
@@ -222,6 +225,7 @@
 			- [[maandag 28 december 1987]]
 			- [[donderdag 31 december 1987]]
 		- 1988
+		  collapsed:: true
 			- [[vrijdag 1 januari 1988]]
 			- [[zaterdag 2 januari 1988]]
 			- [[zondag 3 januari 1988]]
@@ -272,6 +276,7 @@
 			- [[maandag 30 december 2024]]
 			- [[dinsdag 31 december 2024]]
 		- 2025
+		  collapsed:: true
 			- [[woensdag 1 januari 2025]]
 			- [[vrijdag 3 januari 2025]]
 			- [[vrijdag 10 januari 2025]]

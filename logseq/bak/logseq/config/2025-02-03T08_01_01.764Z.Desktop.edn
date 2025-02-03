@@ -20,7 +20,7 @@
  ;; Define the default journal page template.
  ;; Enter the template name between the quotes.
  :default-templates
- {:journals ""}
+ {:journals "journaltemplate"}
 
  ;; Set a custom date format for the journal page title.
  ;; Default value: "MMM do, yyyy"
@@ -83,7 +83,7 @@
  ;; Display all scheduled and deadline blocks for the next 14 days:
  ;; :scheduled/future-days 14
  ;; Default value: 7
- ;; :scheduled/future-days 7
+ :scheduled/future-days 3
 
  ;; Specify the first day of the week.
  ;; Available options:
@@ -146,7 +146,7 @@
  ;; Default value: "whiteboards"
  ;; :whiteboards-directory "whiteboards"
 
- ;; Enabling this option converts
+ ;; Enabling this option conv imports 
  ;; [[Grant Ideas]] to [[file:./grant_ideas.org][Grant Ideas]] for org-mode.
  ;; For more information, visit https://github.com/logseq/logseq/issues/672
  ;; :org-mode/insert-file-link? false
@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["Inhoud"]
+ :favorites ["Templates" "Inhoud"]
 
  ;; Set flashcards interval.
  ;; Expected value:

@@ -22,10 +22,6 @@ display: none;
  color: black;
 }
 
-.dark-theme .ls-block h2{
-    font-size: 80%;
-}
-
 .dark-theme .ls-block h2 {: medium;
 font-size: 16px;
  font-weight: normal;
@@ -42,6 +38,7 @@ font-size: 16px;
  }
 
 .editor-inner .uniline-block:is(.h1,.h2), .ls-block :is(h1,h2) {
+    font-size: 16px;
   	border-bottom: none;}
 
 .cp__sidebar-main-content h1.title {
