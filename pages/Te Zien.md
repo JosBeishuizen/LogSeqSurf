@@ -5,7 +5,6 @@
 - Films
 	- Nesjomme
 - Muziek
-	- John Dowland - Lachrimae Antiquae
 	- Benjamin Britten - Vioolconcert
 	- Jacques Loussier plays Bach
 - Boeken
