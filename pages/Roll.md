@@ -315,6 +315,28 @@
 		- 16:30 312
 		- 16:33 313
 		- 16:35 🛑
+	- Monday 03 February 2025
+		- 16:00 314
+		- 16:03 315
+		- 16:04 316
+		- 16:07 317
+		- 16:09 318
+		- 16:11 319
+		- 16:13 320
+		- 16:14 321
+		- 16:16 322
+		- 16:18 323
+		- 16:20 324
+		- 16:23 325
+		- 16:25 326
+		- 16:27 327
+		- 16:29 328
+		- 16:30 329
+		- 16:32 330
+		- 16:34 331
+		- 16:37 332
+		- 16:39 333
+		- 16:41 334
 - Inhoud
   collapsed:: true
 	- Verhaal over het "brein", over de actualiteit van modern hersenonderzoek. Verdient nuancering. Het brein doet dit en doet dat. Hersenonderzoek versus geheugenonderzoek.
