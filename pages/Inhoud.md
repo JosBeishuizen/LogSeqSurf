@@ -49,6 +49,7 @@
 	- [[Foto's Gerrie]]
 	- [[Afscheid van Gerrie]]
 	- [[Alzheimerlijst]]
+	- ![easypeasy](../assets/easypeasy.pdf)
 - Digitaal
 	- [[Queries]]
 	- [[Templates]]
