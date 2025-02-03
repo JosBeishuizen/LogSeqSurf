@@ -312,6 +312,7 @@
 		- [[Queries]]
 		- [[Templates]]
 	- Poëzie
+	  collapsed:: true
 		- Gerrit Achterberg
 		  collapsed:: true
 			- [[Achterberg Gerrit - Hulshorst]]
