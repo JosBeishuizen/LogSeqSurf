@@ -4,7 +4,8 @@
 	- Cursieve stukjes?
 	- Notenapparaat?
 	- Namenlijst?
-	-
+	- Hoofdstuk 1 Jonge Kersen heel speels
+	- Kunstenaarswereld
 	- p. 25 Berlage kende niemand?
 	- Schets van de persoon?
 	- p. 29 namen van de kinderen?
