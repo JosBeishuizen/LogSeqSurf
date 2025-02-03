@@ -49,9 +49,6 @@
 	- [[Foto's Gerrie]]
 	- [[Afscheid van Gerrie]]
 	- [[Alzheimerlijst]]
-	- collapsed:: true
-		- easypeasy
-		  http://localhost/_capacitor_file_/storage/emulated/0/Documents/LogSeqSurf/assets/easypeasy.pdf
 - Activiteiten
 	- Reviews
 	  collapsed:: true
