@@ -70,7 +70,6 @@
 		- [[D-24-01050]]
 		- [[De vragen van Alexander]]
 	- Studie
-	  collapsed:: true
 		- [[Maleachi]]
 		- Levinas
 		  collapsed:: true
@@ -113,6 +112,7 @@
 			- In een ander licht
 			  collapsed:: true
 				- [[05 God en ik, wij zijn een]]
+		- [[Berlage]]
 	- Lezen
 		- [[Roll]]
 - Geheugen
