@@ -234,7 +234,7 @@
 			- [[zondag 17 januari 1988]]
 			- [[maandag 18 januari 1988]]
 			- [[woensdag 20 januari 1988]]
-			- [[0130 zaterdag 30 januari 1988]]
+			- [[zaterdag 30 januari 1988]]
 			- [[0214  zondag 14 februari 1988]]
 			- [[0221 zondag 21 februari 1988]]
 			- [[0224 woensdag 24 februari 1988]]
