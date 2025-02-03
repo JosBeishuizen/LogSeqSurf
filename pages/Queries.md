@@ -18,6 +18,7 @@ query-table:: false
 -
 - query-table:: false
   query-properties:: [:page]
+  collapsed:: true
   #+BEGIN_QUERY
   {:title "Citaat"
   :query [:find (pull ?p [*])
@@ -42,7 +43,8 @@ query-table:: false
   }
   #+END_QUERY
 -
-- #+BEGIN_QUERY
+- collapsed:: true
+  #+BEGIN_QUERY
   {:title "Block has child"
    :query [:find ?has-child (pull ?b [*])
     :where
