@@ -15,6 +15,6 @@
   
   Al deze overdenkingen bereiden ons voor op het slechte en het negatieve in de wereld. Eén ding weten we namelijk zeker: onze plannen zullen in de soep lopen, maar dit moet niet tegen onze verwachting in zijn.
   
-  (Zie ![hier](https://denieuwestoa.nl/negatieve-visualisatie/) voor een uitgebreidere uitleg over de stoïcijnse negatieve visualisatie en de voordelen die het kan bieden.)
+  (Zie ![hier](https://denieuwestoa.nl/negatieve-visualisatie/){:height 32, :width 46} voor een uitgebreidere uitleg over de stoïcijnse negatieve visualisatie en de voordelen die het kan bieden.)
   
   https://denieuwestoa.nl/stoicijnse-oefeningen/
