@@ -50,6 +50,7 @@
 	- [[Afscheid van Gerrie]]
 	- [[Alzheimerlijst]]
 	- ![easypeasy](../assets/easypeasy.pdf)
+	  collapsed:: true
 		- easypeasy
 		  http://localhost/_capacitor_file_/storage/emulated/0/Documents/LogSeqSurf/assets/easypeasy.pdf
 - Digitaal
