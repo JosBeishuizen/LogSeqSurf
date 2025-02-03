@@ -433,5 +433,5 @@
 	  }
 	  #+END_QUERY
 	- Krantenknipsels
-		-
+		- ![2025-02-03-08-29-33.jpeg](../assets/2025-02-03-08-29-33.jpeg)
 -
