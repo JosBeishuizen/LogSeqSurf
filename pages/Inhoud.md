@@ -107,7 +107,9 @@
 			- [[18. Het Rijk in crisis]]
 			-
 		- Ton van der Stap
+		  collapsed:: true
 			- In een ander licht
+			  collapsed:: true
 				- [[05 God en ik, wij zijn een]]
 	- Lezen
 		- [[Roll]]
@@ -220,7 +222,6 @@
 			- [[maandag 28 december 1987]]
 			- [[donderdag 31 december 1987]]
 		- 1988
-		  collapsed:: true
 			- [[vrijdag 1 januari 1988]]
 			- [[zaterdag 2 januari 1988]]
 			- [[zondag 3 januari 1988]]
@@ -228,8 +229,8 @@
 			- [[woensdag 6 januari 1988]]
 			- [[zondag 10 januari 1988]]
 			- [[dinsdag 12 januari 1988]]
-			- [[0117 zondag 17 januari 1988]]
-			- [[0118 maandag 18 januari 1988]]
+			- [[zondag 17 januari 1988]]
+			- [[maandag 18 januari 1988]]
 			- [[0120 woensdag 20 januari 1988]]
 			- [[0130 zaterdag 30 januari 1988]]
 			- [[0214  zondag 14 februari 1988]]
