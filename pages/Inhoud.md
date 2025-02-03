@@ -250,7 +250,7 @@
 			- [[zaterdag 10 april 1988]]
 			- [[maandag 11 april 1988]]
 			- [[donderdag 14 april 1988]]
-			- [[0415 vrijdag 15 april 1988]]
+			- [[vrijdag 15 april 1988]]
 			- [[0511 woensdag 11 mei 1988]]
 			- [[0512 donderdag 12 mei 1988]]
 			- [[0516 maandag 16 mei 1988]]
