@@ -109,3 +109,10 @@ b.header{
     display: none !important;  
 
 }
+::selection {
+
+  background: #48D;
+
+  color: white;
+
+}
