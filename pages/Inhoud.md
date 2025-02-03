@@ -241,7 +241,7 @@
 			- [[maandag 28 maart 1988]]
 			- [[dinsdag 29 maart 1988]]
 			- [[woensdag 30 maart 1988]]
-			- [[0401 vrijdag 1 april 1988]]
+			- [[vrijdag 1 april 1988]]
 			- [[0404 maandag 4 april 1988]]
 			- [[0405 dinsdag 5 april 1988]]
 			- [[0407 donderdag 7 april 1988]]
