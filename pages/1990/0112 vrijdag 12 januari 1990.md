@@ -1,0 +1,6 @@
+# 0112 vrijdag 12 januari 1990
+"Zoals het een vermaak is  voor de dwaas schanddaden te besdrijven, zo is het met de wijsheid voor de man van verstand" (Spr. 10 : 23). Leven in vreugde en vrolijkheid, dat lukt als je de tijd hebt (neemt) om je te bezinnen op wat je doet, planning, reflectie. Zodra de werkdruk toeneemt, of het gekrakeel van de kinderen overschijdt een zekere luidheidsgrens, dan voel je dat het plezier in het werk verdwijnt, het wordt zwoegen. En hiervan zegt Spr.: "De zegen des Heren, die maakt rijkt, zwoegen voegt er niets aan toe" (Spr.  10 : 22) (Ik lees het boek Spreuken op het ogenblik, om contact te houden met de Bijbel. Het lukt telkens weer om er door geïnspireerd te worden). 
+
+Sinds ik 's ochtends thee drink heb ik minder last van hoofdpijn. Toch goed om het koffiedrinken verder terug te dringen. 
+
+Sara is gisterochtend voor het eerstnaar de peuterspeelzaal gegaan. Hoewel ze van te voren zei dat ze "heus wel bang" was is het goed gegaan. Cathrien heeft even bij haar gespeeld. Deze week is bij Richard en Marjolijn Charlotte geboren. Sara had het bij het aantrekken van de pyjama of haar nieuwe "nichtponnetje". Deze week voor het eerst Bob Boelens gezien. Hij heeft een fijngevormd kopje. Gaat hij op Marga lijken? Proberen om er vandaag weer een dag van vrolijkheid en vermaak van te maken, zie boven.

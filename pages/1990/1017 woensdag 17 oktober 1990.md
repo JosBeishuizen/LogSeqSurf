@@ -1,0 +1,2 @@
+# 1017 woensdag 17 oktober 1990
+6:30 uur. Vandaag viert Moeder haar 80ste verjaardag. Nog even een toespraakje bedenken. Gisteravond op t.v. een film over de plaatopname van de West Side Story. Bernstein zelf als dirigent (zondag op 72-jarige leeftijd overleden), Kiri te Kanawa, José Carreras. Wat opviel: Bernstein's ontspannen houding. Hij lijkt geheel op de vervulling van de taak gericht, niet gehinderd door persoonlijke beperkingen. Ruimte alom, waarin zijn emoties direct zichtbaar en begrijpelijk zijn. Heel inspirerend.

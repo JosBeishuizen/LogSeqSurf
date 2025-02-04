@@ -51,7 +51,6 @@
 	- [[Afscheid van Gerrie]]
 	- [[Alzheimerlijst]]
 - Activiteiten
-  collapsed:: true
 	- Reviews
 	  collapsed:: true
 		- [[D-22-00513]]
@@ -73,14 +72,12 @@
 	- Studie
 		- [[Maleachi]]
 		- Levinas
-		  collapsed:: true
 			- Levinas - aantekeningen
 				- [[Hypostase]]
 			- Theo de Boer - Tussen filosofie en profetie
 			  collapsed:: true
 				- [[I. Tussen filosofie en profetie. De wijsbegeerte van Emmanuel Levinas]]
 			- Van Riessen - Van zichzelf bevrijd
-			  collapsed:: true
 				- [[0 Inleiding]]
 				- [[1 Zich ontdoen van zichzelf. De creativiteit van de kenosis]]
 				- [[2 Levinas in gesprek met Heidegger]]
@@ -119,6 +116,7 @@
 		- [[Te Zien]]
 		- [[Gezien]]
 	- Dagboek
+	  collapsed:: true
 		- 1959
 		  collapsed:: true
 			- [[maandag 25 mei 1959]]
@@ -426,6 +424,7 @@
 			- [[Vasalis - De zomerwei des ochtends vroeg]]
 			- [[Vasalis - Tijd]]
 	- Recepten
+	  collapsed:: true
 		- [[Aardappelsalade met gerookte forel]]
 		- [[Aardperentaart met peren]]
 		- [[Bietensoep met appel en balsamicoazijn]]
@@ -471,6 +470,7 @@
 	  }
 	  #+END_QUERY
 	- Krantenknipsels
+	  collapsed:: true
 		- [[20250201 Interview met Herman van Praag]]
 		- [[20250203 Paus en patriarch over Pasen op dezelfde dag]]
 		- [[20250204 Over Marijn Kruk en zijn analyse van radicaal-rechts]]
