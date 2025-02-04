@@ -1,7 +1,6 @@
 - Evelyn Roll - Pericallosa
 - Voortgang
 	- Monday 20 January 2025
-	  collapsed:: true
 		- 14:06 9
 		- 14:09 10
 		- 14:13 🛑
@@ -29,7 +28,6 @@
 		- 15:29 32
 		- 15:29 🛑
 	- Tuesday 21 January 2025
-	  collapsed:: true
 		- 14:01 33
 		- 14:02 34
 		- 14:04 35
@@ -58,7 +56,6 @@
 		- 14:44 58
 		- 14:45 🛑
 	- Wednesday 22 January 2025
-	  collapsed:: true
 		- 20:52 59
 		- 20:53 60
 		- 20:55 61
@@ -84,7 +81,6 @@
 		- 23:08 80
 		- 23:11 🛑
 	- Thursday 23 January 2025
-	  collapsed:: true
 		- 19:43 80
 		- 19:45 81
 		- 19:47 82
@@ -107,7 +103,6 @@
 		- 22:46 97
 		- 22:50 🛑
 	- Friday 24 January 2025
-	  collapsed:: true
 		- 15:04 97
 		- 15:05 98
 		- 15:07 99
@@ -131,7 +126,6 @@
 		- 16:17 120
 		- 16:20 🛑
 	- Sunday 26 January 2025
-	  collapsed:: true
 		- 14:07 121
 		- 16:45 122
 		- 16:49 123
@@ -166,7 +160,6 @@
 		- 23:27 151
 		- 23:29 🛑
 	- Monday 27 January 2025
-	  collapsed:: true
 		- 15:04 151
 		- 15:07 152
 		- 15:09 153
@@ -190,7 +183,6 @@
 		- 16:46 170
 		- 16:55 171
 	- Tuesday 28 January 2025
-	  collapsed:: true
 		- 16:44 172
 		- 16:47 173
 		- 16:49 174
@@ -219,7 +211,6 @@
 		- 17:37 199
 		- 17:44 200
 	- Wednesday 29 January 2025
-	  collapsed:: true
 		- 14:56 200
 		- 14:57 201
 		- 14:59 202
@@ -233,7 +224,6 @@
 		- 15:45 212
 		- 15:48 213
 	- Thursday 30 January 2025
-	  collapsed:: true
 		- 14:46 224
 		- 14:50 225
 		- 14:52 226
@@ -250,7 +240,6 @@
 		- 15:21 238
 		- 15:23 239
 	- Friday 31 January 2025
-	  collapsed:: true
 		- 15:30 252
 		- 15:31 253
 		- 15:33 254
@@ -259,7 +248,6 @@
 		- 15:42 257
 		- 15:45 258
 	- Saturday 01 February 2025
-	  collapsed:: true
 		- 14:44 258
 		- 14:46 259
 		- 14:49 260
@@ -292,7 +280,6 @@
 		- 16:50 292
 		- 16:54 293
 	- Sunday 02 February 2025
-	  collapsed:: true
 		- 15:53 293
 		- 15:55 294
 		- 15:58 295
@@ -338,7 +325,7 @@
 		- 16:39 333
 		- 16:41 334
 	- Tuesday 04 February 2025
-		-
+		- 20:41 340
 - Inhoud
   collapsed:: true
 	- Verhaal over het "brein", over de actualiteit van modern hersenonderzoek. Verdient nuancering. Het brein doet dit en doet dat. Hersenonderzoek versus geheugenonderzoek.
