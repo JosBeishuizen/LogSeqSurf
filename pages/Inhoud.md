@@ -281,6 +281,7 @@
 			- [[dinsdag  10 januari 1989]]
 			- [[zaterdag 15 januari 1989]]
 			- [[dinsdag 31 januari 1989]]
+			-
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
