@@ -16,4 +16,5 @@
 		- **23:01** [[quick capture]]:  https://open.spotify.com/episode/1231lEJH9SBbDitdIbM3UV?si=tHXiBfrVRuun2JGawWn-UA
 	- The Rest is Politics
 - Beeldende kunst
-	- Samuel Hoogstraaten in het Rembrandthuis t/
+	- Samuel Hoogstraaten in het Rembrandthuis t/m 4 mei
+	- Jan
