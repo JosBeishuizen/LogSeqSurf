@@ -1,1 +1,1 @@
-- ![Jesse Klaver](../assets/20241127 Jesse Klaver over hoe rechts de middenklasse bedreigt.pdf)
+- ![Jesse Klaver in Vrij Nederland op 27 november 2024](../assets/20241127 Jesse Klaver over hoe rechts de middenklasse bedreigt.pdf)
