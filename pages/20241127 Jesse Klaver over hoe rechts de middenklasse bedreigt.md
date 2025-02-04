@@ -1,1 +1,1 @@
-- [Jesse Klaver]()
+- [Jesse Klaver](../assets/20241127 Jesse Klaver over hoe rechts de middenklasse bedreigt.pdf)
