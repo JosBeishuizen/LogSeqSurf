@@ -194,51 +194,29 @@
 
  ;; Pre-defined :view function to use with advanced queries.
  :query/views
-
  {;;
-
   ;; Displays the result data as nicely formatted text
-
   :pprint
-
   (fn [r] [:pre.code (pprint r)])
-
   ;;
-
   ;; Creates a button from a block UUID, template name and erase flag
-
   ;; On click, appends the specified template after the given block,
-
   ;; optionally removing the original block (if the erase flag is set)
-
   :insert-template-view
-
   (fn [[block-uuid template-name erase-on-click?]]
-
     [:button
-
      {:style {:border "1px solid silver" :border-radius "6px" :padding "2px 8px"}
-
       :on-click
-
       (fn [_]
-
         (if (call-api "exist_template" template-name)
-
           (do (call-api "insert_template" block-uuid template-name)
-
               (if erase-on-click?
-
                 (call-api "remove_block" block-uuid)))
-
           (call-api "show_msg"
-
                     (str "Template not found:\n" template-name) :error)))}
 
-     "Insert: " template-name])
-
+    "Insert: " template-name])
   ;;
-
   }
 
  ;; Advanced queries `:result-transform` function.
