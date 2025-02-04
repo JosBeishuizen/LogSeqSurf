@@ -287,6 +287,7 @@
 			- [[0327 maandag 27 maart 1989]]
 			- [[0430 zondag 30 april 1989]]
 			- [[0602 vrijdag 2 juni 1989]]
+			-
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
