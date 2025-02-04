@@ -6,6 +6,8 @@
 - TODO levenstestament
 - TODO Thole en Harry uitnodigen
 - TODO abonnementen op een rij
+- TODO afvoer badkamer (2 keer)
+-
 -
 - Elke dag
 	- TODO Veerkamp: [[17. 'Apostolische Vaders']]
