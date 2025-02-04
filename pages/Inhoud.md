@@ -295,7 +295,10 @@
 			- [[0713 donderdag 13 juli 1989]]
 			- [[0716 zondag 16 juli 1989]]
 			- [[0730 zondag 30 juli 1989]]
-			-
+			- [[0816 woensdag 16 augustus 1989]]
+			- [[0821 maandag 21 augustus 1989]]
+			- [[0921 donderdag 21 september 1989]]
+			- [[0928 donderdag 28 september 1989]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
