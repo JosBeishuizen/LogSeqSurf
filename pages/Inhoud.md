@@ -217,6 +217,7 @@
 			- [[dinsdag 3 november 1987]]
 			- [[woensdag 4 november 1987]]
 			- [[vrijdag 6 november 1987]]
+			- [[dinsdag 10 november 1987]]
 			- [[donderdag 26 november 1987]]
 			- [[dinsdag 1 december 1987]]
 			- [[maandag 28 december 1987]]
@@ -266,9 +267,12 @@
 			- [[vrijdag 26 augustus 1988]]
 			- [[zaterdag 27 augustus 1988]]
 			- [[zaterdag 28 augustus 1988]]
-			- [[0902 vrijdag 2 september 1988]]
-			- [[0923 vrijdag 23 september 1988]]
-			-
+			- [[vrijdag 2 september 1988]]
+			- [[vrijdag 23 september 1988]]
+			- [[dinsdag 18 oktober 1988]]
+			- [[zondag 23 oktober 1988]]
+			- [[zaterdag 19 november 1988]]
+			- [[vrijdag 30 december 1988]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
