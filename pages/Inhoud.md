@@ -449,7 +449,7 @@
 		- [[20250201 Interview met Herman van Praag]]
 		- [[20250203 Paus en patriarch over Pasen op dezelfde dag]]
 		- [[20250204 Over Marijn Kruk en zijn analyse van radicaal-rechts]]
-		-
+		- [[20241127 Jesse Klaver over hoe rechts de middenklasse bedreigt]]
 	- Externe tekstbestanden (pdf etc.)
 	  collapsed:: true
 		- ![easypeasy](../assets/easypeasy.pdf)
