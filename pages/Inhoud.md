@@ -51,6 +51,7 @@
 	- [[Afscheid van Gerrie]]
 	- [[Alzheimerlijst]]
 - Activiteiten
+  collapsed:: true
 	- Reviews
 	  collapsed:: true
 		- [[D-22-00513]]
@@ -115,6 +116,7 @@
 		- [[Roll]]
 - Geheugen
 	- Cultuur
+	  collapsed:: true
 		- [[Te Zien]]
 		- [[Gezien]]
 	- Dagboek
@@ -275,8 +277,11 @@
 			- [[zaterdag 19 november 1988]]
 			- [[vrijdag 30 december 1988]]
 		- 1989
-			- [[0103 dinsdag 3 januari 1989]]
-			-
+			- [[dinsdag 3 januari 1989]]
+			- [[zondag 8 januari 1989]]
+			- [[dinsdag  10 januari 1989]]
+			- [[zaterdag 15 januari 1989]]
+			- [[dinsdag 31 januari 1989]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
@@ -431,7 +436,6 @@
 		- [[Kerstkaarten]]
 		- [[Verjaardagen]]
 	- query-table:: false
-	  collapsed:: true
 	  #+BEGIN_QUERY
 	  {:title ["Mooie Citaten en Teksten"]
 	    :query [:find (pull ?b [*])
