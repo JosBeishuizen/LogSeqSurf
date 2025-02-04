@@ -4,7 +4,7 @@
 - TODO Foto Gerrie
 - TODO schilderij ophangen
 - TODO levenstestament
-- TODO Thole en Harry uitnodigen
+- DONE Thole en Harry uitnodigen
 - TODO abonnementen op een rij
 - TODO afvoer badkamer (2 keer)
 -
