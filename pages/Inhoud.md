@@ -283,6 +283,9 @@
 			- [[dinsdag 31 januari 1989]]
 			- [[0205 zaterdag 5 februari 1989]]
 			- [[0210 vrijdag 10 februari 1989]]
+			- [[0316 donderdag 16 maart 1989]]
+			- [[0327 maandag 27 maart 1989]]
+			- [[0430 zondag 30 april 1989]]
 			-
 		- 2024
 		  collapsed:: true
