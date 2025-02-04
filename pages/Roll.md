@@ -354,7 +354,9 @@
 		- 21:42 367
 		- 21:45 368
 		- 21:47 369
-		-
+		- 21:49 370
+		- 21:51 371
+		- 21:53 372
 - Inhoud
   collapsed:: true
 	- Verhaal over het "brein", over de actualiteit van modern hersenonderzoek. Verdient nuancering. Het brein doet dit en doet dat. Hersenonderzoek versus geheugenonderzoek.
