@@ -17,4 +17,4 @@
 	- The Rest is Politics
 - Beeldende kunst
 	- Samuel Hoogstraaten in het Rembrandthuis t/m 4 mei
-	- Jan Mankes Museum Arnhem t/m 22
+	- Jan Mankes Museum Arnhem t/m 22 juni
