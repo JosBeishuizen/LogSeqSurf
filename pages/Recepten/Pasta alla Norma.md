@@ -13,4 +13,4 @@ Aubergines in de lengte in vingers. Olie in pan, aubergines erin en omschudden, 
 
 Spaghetti koken, afgieten. Saus erbij. Op de borden met stukjes ricotta, basilicum.
 - ![2025-02-04-10-15-09.jpeg](../assets/2025-02-04-10-15-09.jpeg)
--
+- ![2025-02-04-10-15-23.jpeg](../assets/2025-02-04-10-15-23.jpeg)
