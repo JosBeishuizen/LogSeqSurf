@@ -266,6 +266,9 @@
 			- [[vrijdag 26 augustus 1988]]
 			- [[zaterdag 27 augustus 1988]]
 			- [[zaterdag 28 augustus 1988]]
+			- [[0902 vrijdag 2 september 1988]]
+			- [[0923 vrijdag 23 september 1988]]
+			-
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
