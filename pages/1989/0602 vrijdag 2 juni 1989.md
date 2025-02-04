@@ -1,0 +1,6 @@
+# 0602 vrijdag 2 juni 1989
+Eerste avond in R. Vanochtend om ½10 vertrokken. In Breda even gestopt. Om ½2 waren we hier. Stralend weer. Berend in de bedstee gelegd. Cathrien en Sara wilden allebei wel op zolder slapen. Sara's bed zo opgesteld dat ze er niet uit kan rollen. Uiteindelijk hebben ze geen van beiden geslapen. Anne is toen met ze naar Basting gegaan waar ze werden onthaald op koekjes en krentenbol. Berend en ik bleven thuis. De fam. Basting bleek ons nog te kennen. Heel attent. Daarna heb ik in Cadzand een box gehuurd en hebben we samen fietsen gehaald bij van de Wegen. Vanavond pannenkoeken gegeten (vrijdagavond) en de kinderen vroeg in bed gestopt. Ze sliepen allemaal vlug in, Sara al na 10 minuten. Ieder lijkt zich al redelijk thuis te voelen hier. Het huis en de tuin zijn onveranderd ideaal.
+
+Proberen om de vakantieziekte te voorkomen. Een beetje de vaart erin zien te houden. Vanavond was al een heerlijke leesavond. 
+
+Wat gaan we morgen doen: inkopen voor drie dagen doen, fietsen, Knokke.

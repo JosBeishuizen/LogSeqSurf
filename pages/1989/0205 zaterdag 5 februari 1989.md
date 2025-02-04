@@ -1,0 +1,6 @@
+# 0205 zaterdag 5 februari 1989
+Alweer 2 keer 2 febr. geweest zonder vader. Donderdagavond in Ermelo met Jan en Janny. Moeder was heel goed op dreef. Nog weer een vaders laatste dag en nacht besproken.
+​
+Zondagmiddag. Sara zit in haar stoeltje aan tafel met waterpokken. Lekker aan het kletsen en met haar boekjes te rommelen. Berend ligt in de box, ook met waterpokken. Ook Berends humeur lijdt er nog niet onder. Hopelijk blijft het zo. Berend kraait vrolijk in de box, kan zeer enthousiast met zijn voetjes tegen het activity center schoppen. "Boekje lezen!" zegt Sara nu. Zo meteen verder schrijven.
+​
+'t Is nu kwart voor 5. Berend even in bed gestopt maar na aanhoudend gebrul er maar weer uit gehaald. Zit nu in het stoeltje op het kastje in de keuken "Tatata" en "sprgr ..." te zeggen. Met zijn voeten fanatieke fietsbewegingen. De pompoen staat te pruttelen op het fornuis. Op de radio Guus Feijst die een uitvoering van het vioolconcert van Beethoven afkraakt in "Discotabel", het favoriete zondagmiddagprogramma. Sara geeft Poppejans neusdruppels, iets waaraan ze zelf een hartgrondige hekel heeft. Cathrien en Anne zijn met D&E naar een huisje in de duinen kijken dat te koop staat.

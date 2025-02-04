@@ -1,0 +1,4 @@
+# 0327 maandag 27 maart 1989
+Tweede Paasdag, kwart voor 11 's avonds. Twee schitterende paasdagen. De kinderen nog steeds gezond, hoewel Sara vanavond wat huilerig was bij het slapen gaan. Je begint het als een voorrecht te leren zien: gezondheid, zeker na alle (kinder)ziektes van de afgelopen maanden, waarbij Cathrien's ziekte van Pfeiffer wel de kroon spande.
+
+Gisteravond een interessante discussie tussen Adriaan van Dis en Umberto Eco: (1) Iemands gedrag of ook de natuur steeds maar proberen te interpreteren is nodig maar ook gevaarlijk (zie zijn nieuwe boek De Slinger van Foucault) en (2) een schrijver schrijft nooit rechtstreeks over zichzelf (een uitspraak die Van Dis zeer verbaasde).

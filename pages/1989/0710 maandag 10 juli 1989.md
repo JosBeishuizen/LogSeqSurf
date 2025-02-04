@@ -1,0 +1,6 @@
+# 0710 maandag 10 juli 1989
+Telefoontje van Meindert (Simons nr. 1 in Leiden) leverde flinke katerstemming op. Kritiek aan mijn adres: te weinig buitenlandse publicaties. Wat eraan te doen? Niet zeuren en proberen meer gepubliceerd te krijgen. Echt een hogere prioriteit geven, planning aanpassen. Zoiets als: elke ochtend van ½9 - ½11, de beste tijd van de dag. Veel direct via Macintosh. Deze week beginnen met exp! Paper over dissonderzoek! Opsturen naar Acta of Instructional Science. In tweede instantie Cognition & Instruction. Paper met Meindert over genetisch model opzetten, paper over PWN voor J.  of Comp.  Based Learning. 
+
+Leuker: Cathrien heeft in het afgelopen weekend het zwembad op de boerderij in Den Nul ontdekt. Met kurken en vlinders bleef ze meteen goed drijven. Bij het trapje omhoog en van de tweede, later van de eerste sport afspringen. Lang maken op de buik. Op de rug. Spetteren. Op de kant zitten en in het water springen. Tenslotte zelfs staan de op de kant en in het water springen waarbij ze helemaal kopje onder ging! Geen kik gegeven! Dolenthousiast, miet meer weg te slaan uit het water. Iedereen stond er versteld van. 
+
+Voor Frances 9 maanden extra gekregen. Henk gaat op OWF-project zitten voor 2 jaar. Volhouden. 

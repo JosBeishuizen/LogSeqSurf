@@ -1,0 +1,6 @@
+# 0711 dinsdag 11  juli 1989
+Vraag aan Sir Lawrence Olivier, vandaag overleden: hoe bent u zo beroemd geworden? Antwoord: altijd je best doen. Meer kun je niet. Met minder mag je niet volstaan. Moeilijk om aan zo'n hoge norm te voldoen. M.n. bijv. 's avonds bij het in bed stoppen  van de kinderen. Krijg altijd een reuze slaap tijdens het voorlezen. Soms hoor ik mezelf in slaap vallen. 
+
+Andries vanmiddag: iemand moet je ontlasten bij PWN, kun je aan je eigen lijn gaan werken. Heb ik dan geen eigen lijn? Wat is dat? Rekenproject? Leerlingcomponent? Wordt het SOAR? In combinatie met Hypertext? Voorspellend lezen? Ik geef toe: heel duidelijk is het allemaal niet. Zal proberen mezelf in de komende jaren beter te profileren. Voorlopig sollicitaties uit het hoofd zetten. Rustig doorwerken en lijn opzetten. Vind toch dat Andries daarin gelijk heeft. Misschien brengt evt. onverhoopt vertrek nog verbetering in positie. Ik ga eens op papier zetten wat ik als "lijn"beschouw en vraag Andries' commentaar erop.
+
+Gisteravond met AC. gepraat over vrijen en tederheid. Ik vind het heel moeilijk om bij vrijen niet toe te werken naar climax. Dat als doel te zien. Toch "weet" ik zeker dat accent op tederheid en veel betere benadering is. Ga het boek van Eysenck over seksualiteit lezen. Aan werken!

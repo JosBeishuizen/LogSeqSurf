@@ -1,0 +1,6 @@
+# 0110 dinsdag  10 januari 1989
+Weekindeling werkt tot nu toe (!) heel goed. Werkt een stuk rustiger en geconcentreerder. Morgen de hele dag onderwijszaken. Je bent veel bewuster met de verschillende prioriteiten bezig. 's Avonds na het eten is het een hele toer om Cathrien met geduld naar bed te brengen. Ik val tijdens het lezen van een hoofdstuk uit "Een huisje in de sneeuw" bijna pardoes in slaap. Cathrien was vandaag tegenover Gerrie vrij onuitstaanbaar. Over een detail als "wie doet de schoenen aan" maakte ze een reuze scène, compleet met overgeven.
+
+Las zaterdag in de krant dat allerlei informatiedragers zeer vergankelijk zijn en gemakkelijk tot stof vergaan. Hopelijk geldt dat niet voor deze kaartjes.
+
+Sara kent al hele stukken van "Nijntje" uit haar hoofd. Ze kan zeer triomfantelijk zinnen aanvullen. "Daar kocht zij ... " "Boontjes aan een tak!", "en ook een dikke ..." "peer!". Even later, als Nijntje geboren is: "En alle dieren uit het land kwamen naar Nijntje toe, de haan, de kip, de ..." "kuikentjes!" "en ook de dikke ..." "peer!". Bij het slapen gaan zeg ik "Dag meneer de koekepeer." Sara: "hee, poplepee!"
