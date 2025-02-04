@@ -306,7 +306,6 @@
 			- [[241215 zondag 15 december 2012]]
 			- [[250124 vrijdag 24 januari 2025]]
 	- Digitaal
-	  collapsed:: true
 		- Viewing en editing mode
 		  collapsed:: true
 			- Blocks have two modes
@@ -436,6 +435,7 @@
 		- [[Kerstkaarten]]
 		- [[Verjaardagen]]
 	- query-table:: false
+	  collapsed:: true
 	  #+BEGIN_QUERY
 	  {:title ["Mooie Citaten en Teksten"]
 	    :query [:find (pull ?b [*])
@@ -453,4 +453,5 @@
 		- [[20250203 Paus en patriarch over Pasen op dezelfde dag]]
 		-
 	- Externe tekstbestanden (pdf etc.)
+	  collapsed:: true
 		- ![easypeasy](../assets/easypeasy.pdf)
