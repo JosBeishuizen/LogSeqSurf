@@ -299,6 +299,7 @@
 			- [[0821 maandag 21 augustus 1989]]
 			- [[0921 donderdag 21 september 1989]]
 			- [[0928 donderdag 28 september 1989]]
+			-
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
