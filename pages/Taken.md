@@ -5,6 +5,7 @@
 - TODO schilderij ophangen
 - TODO levenstestament
 - TODO Thole en Harry uitnodigen
+- TODO abonnementen op een rij
 -
 - Elke dag
 	- TODO Veerkamp: [[17. 'Apostolische Vaders']]

@@ -108,9 +108,7 @@
 			- [[18. Het Rijk in crisis]]
 			-
 		- Ton van der Stap
-		  collapsed:: true
 			- In een ander licht
-			  collapsed:: true
 				- [[05 God en ik, wij zijn een]]
 		- [[Berlage]]
 	- Lezen
@@ -255,19 +253,19 @@
 			- [[donderdag 12 mei 1988]]
 			- [[maandag 16 mei 1988]]
 			- [[maandag 23 mei 1988]]
-			- [[0524 dinsdag 24 mei 1988]]
-			- [[0526 vrijdag 26 mei 1988]]
-			- [[0610 vrijdag 10 juni 1988]]
-			- [[0707 donderdag 7 juli 1988]]
-			- [[0722 vrijdag 22 juli 1988]]
-			- [[0726 zondag 26 juli 1988]]
-			- [[0729 vrijdag 29 juli 1988]]
-			- [[0806 zaterdag 6 augustus 1988]]
-			- [[0811 donderdag 11 augustus 1988]]
-			- [[0815 maandag 15 augustus 1988]]
-			- [[0826 vrijdag 26 augustus 1988]]
-			- [[0827 zaterdag 27 augustus 1988]]
-			- [[0828 zaterdag 28 augustus 1988]]
+			- [[dinsdag 24 mei 1988]]
+			- [[vrijdag 26 mei 1988]]
+			- [[vrijdag 10 juni 1988]]
+			- [[donderdag 7 juli 1988]]
+			- [[vrijdag 22 juli 1988]]
+			- [[zondag 26 juli 1988]]
+			- [[vrijdag 29 juli 1988]]
+			- [[zaterdag 6 augustus 1988]]
+			- [[donderdag 11 augustus 1988]]
+			- [[maandag 15 augustus 1988]]
+			- [[vrijdag 26 augustus 1988]]
+			- [[zaterdag 27 augustus 1988]]
+			- [[zaterdag 28 augustus 1988]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
