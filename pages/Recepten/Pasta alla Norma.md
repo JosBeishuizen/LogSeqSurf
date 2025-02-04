@@ -12,5 +12,5 @@ Grote bos basilicum, steeltjes fijngehakt, blaadjes apart
 Aubergines in de lengte in vingers. Olie in pan, aubergines erin en omschudden, evt. scheutje olie erbij, vettig laagje, maar niet te vet. Bestrooi met gedroogde oregano, aan het eind spaans pepertje erbij. Knoflook en basilicumsteeltjes erbij. Scheutje kruidenazijn erbij. Tomaten erbij. Op smaak met peper en zout. Helft basilicumblaadjes gescheurd erbij.
 
 Spaghetti koken, afgieten. Saus erbij. Op de borden met stukjes ricotta, basilicum.
-- ![2025-02-04-10-15-23.jpeg](../assets/2025-02-04-10-15-23.jpeg)
 - ![2025-02-04-10-15-09.jpeg](../assets/2025-02-04-10-15-09.jpeg)
+- ![2025-02-04-10-15-23.jpeg](../assets/2025-02-04-10-15-23.jpeg)
