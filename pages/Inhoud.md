@@ -281,7 +281,8 @@
 			- [[dinsdag  10 januari 1989]]
 			- [[zaterdag 15 januari 1989]]
 			- [[dinsdag 31 januari 1989]]
-			-
+			- [[0205 zaterdag 5 februari 1989]]
+			- [[0210 vrijdag 10 februari 1989]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
