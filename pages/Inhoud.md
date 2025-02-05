@@ -308,7 +308,9 @@
 			- [[0118 donderdag 18 januari 1990]]
 			- [[0226 maandag 26 februari 1990]]
 			- [[0227 dinsdag 27 februari 1990]]
-			-
+			- [[0303 zaterdag 3 maart 1990]]
+			- [[0319 maandag 19 maart 1990]]
+			- [[0402 maandag 2 april 1990]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
