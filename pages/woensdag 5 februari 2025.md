@@ -1,0 +1,2 @@
+- Vanmiddag opgepast op Mercia en Franca. Mercia ging met Cathrien naar de oogarts, die hebben we nauwelijks gezien. Wel natuurlijk bij het bewonderen van de nieuwe auto van Cathrien en Jochem, en mooie Toyota. Maar Franca was de hele middag thuis. Ze bleek van alles geleerd te hebben, zoals de jas netjes aan de kapstok hangen, de tafel netjes dekken. Van .... Davide, een klasgenoot en vriend die zelfs met Franca wil trouwen. Ook de sommen, zoals 5+3 en 6+6 heeft ze van Davide geleerd. Wij waren zeer opgetogen over Davide. Hopelijk een blijvertje.
+-
