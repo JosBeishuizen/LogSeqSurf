@@ -112,8 +112,8 @@
 				- [[05 God en ik, wij zijn een]]
 		- [[Berlage]]
 	- Lezen
-	  collapsed:: true
 		- [[Roll]]
+		- [[Het Bureau]]
 - Geheugen
 	- Cultuur
 	  collapsed:: true
