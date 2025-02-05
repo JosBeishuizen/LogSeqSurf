@@ -1,0 +1,6 @@
+# 0111 vrijdag 11 januari 1991
+21:40. Vandaag met Cathrien naar de oogarts geweest. Gelukkig ziet alles er gezond uit. Afwijkingen lijken erg mee te vallen. Nog een test en als daar niets uitkomt, dan hoeft er voorlopig geen bril te komen. 
+
+Berend heeft de bof. Cathrien vroeg: waarom boft Berend? Cathrien en Sara zijn zeer gelukkig met hun Barbie-poppen die ze van Gerrie kregen.
+
+Gisteren moeilijk gesprek met Anne over geldzaken. Ik reageerde boos op haar teleurstelling over de salarisverhoging die ik in Leiden krijg toch 300,00 bruto per maand. Zij vindt dat mijn boosheid uit onzekerheid voortvloeit. Ze wil niet dat ik mijn onzekerheid op haar afreageer. Ze praat zelf over geld omdat het haar ergert dat ze maandelijks niet uit meent te komen. Mijn reactie: je moet toch elkaar je onzekerheden kunnen laten zien? Als dat al niet meer kan ... Maar misschien moet ik er mezelf ook niet zo op blindstaren. Een beetje meer Nieuw Flinks! Dingen in je hoofd zetten en daarnaar wat meer proberen te leven, en verder een beetje meer lak hebben aan wat de rest wil. OK, OK, proberen. Je omgeving heeft ook recht op enige flinksheid. Vanmiddag op de VU: 6 dingen in mijn kop gezet, en er 5 van uitgevoerd. Nu de zesde: een declaratie maken!

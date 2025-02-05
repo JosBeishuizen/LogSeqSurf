@@ -1,0 +1,2 @@
+# 0503 vrijdag 3 mei 1991
+15:50. Onderweg van Chicago naar Toronto. Weinig kans dat ik Tobin nog aan de telefoon krijg vandaag. Plannen voor vanavond. Hotel bereiken. Installeren. Vanavond eten + brief schrijven aan Sipke. Twee pagina's schrijven aan Coca4. Even nagaan of er nog wat te sightseeën valt. Interview lezen, 20 blz. Riemersma.

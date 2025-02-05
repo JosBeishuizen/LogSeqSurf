@@ -1,0 +1,4 @@
+# 0824 zaterdag 24 augustus 1991
+Turku, Finland. Met grote tegenzin vertrokken. Anne was onzeker over extra hulp volgende week. Berend koortsig. Hier aangekomen in aangenaam hotel met mooi weer. Vandaag op pad met Frances en Ala. We zien wel.
+
+In de slingerbeweging tussen strengheid en ontspanning begint strengheid het te winnen, nog  niet op alle momenten. Streven om deze lijn door te zetten. Wel het gevoel dat je je daarmee voor een aantal mogelijkheden afsluit. Ontspanning is misschien beter op te vatten als slapheid. Daaraan in ieder geval niet toegeven. Vandaag bijvoorbeeld. Wil wat van de stad zien maar toch ook wat werken. Zien of dat lukt. Naar het kasteel en de haven. Daarna terug om hier een paar uur te werken. Vanmiddag inschrijving, rondrit, opening session en receptie. We zullen zien. Nu nog twee bladzijden Fante. 30 blz/dag? Had een rugzakje moeten meenemen!

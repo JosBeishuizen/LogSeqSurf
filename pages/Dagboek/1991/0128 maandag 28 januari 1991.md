@@ -1,0 +1,6 @@
+# 0128 maandag 28 januari 1991
+9.00 uur. Het evenwicht moet door bewuste inspanning gehandhaafd blijven. Zonder voortdurend onderhoud verval je meteen tot lagere niveaus. Prachtig boek van Louis Paul Boon: Menuet. Echtpaar met dienstbode. Man controleert temperatuur in vrieskelders en denkt voortdurend na. Vrouw houdt meer van doen dan van denken. Prachtig portret. Het moet "gewoon" blijven, zoals vroeger thuis. Doelen stellen, iets willen bereiken, ipv vervallen tot bevrediging van behoeften. Laatste spreekt mij wel aan. Ik hou ook erg van doelen stellen. Maar leef ook dikwijls op niveau van behoeftebevrediging.
+
+Gisteravond portret van Ed van der Elsken, lijdend aan botkanker, zelfportret. Camera en fototoestel blijven steeds vrij nadrukkelijk aanwezig. Toch ook wel authentiek inzicht in voortschrijdend lijden, vreselijke pijn, ondanks krachtige bestrijding, o.a. met morfine. Lange weg, waarvan overigens het laatste halfjaar buiten beeld bleef.
+
+Cathrien wilde vanochtend niet naar school. Problemen met stoelgang. Was bang dat dat op school niet goed zou gaan. Uitgepraat. Toch vertrokken. Nu aan  het werk.

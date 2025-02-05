@@ -1,0 +1,2 @@
+# 0320 woensdag 20 maart 1991
+Drie weken met 8 uur college per week, 2 papers en 1 artikel hangend, overleg met Leiden, VU, werkgemeenschap, nieuwe baas Emiel Felix, vertrek bij de sectie. Plus AC die extra steun nodig heeft vanwege cursussen en hoge bloeddruk

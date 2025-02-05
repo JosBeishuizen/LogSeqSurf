@@ -1,0 +1,8 @@
+# 0718 donderdag 18 juli 1991
+Te kleine kaartjes. Vandaag een regendag. De kinderen spelen op zolder. Een verse tompoes van bakker Basting bij de koffie. Op de rommelmarkt in R. een afvloeiding gekocht. Ko en Ellen Orlebeke kwamen langsgefietst, hebben hier koffie gedronken. Nu is Gerrie er nog een paar dagen. Sara wilde vanmorgen weer terug naar Amsterdam, veel meer jurken daar. Cathrien: "Daar kun je ook niet kiezen". 
+
+Waarheid is n iet hetzelfde als perfectie, ideaal, antwoord op alle vragen. Waarheid is voor mij meer iemand, de ander, God. Dat heb ik ook tegen op het razend populaire boek van Connie Palmen, de Wetten. Gesprekken met zeven mannen, op zoek naar de waarheid, op zoek naar zichzelf. Sartre blijkt het uiteindelijk ook niet te zijn, wel de psychiater.
+
+Wat is jouw werk? De kinderen over Anne: fysiotherapeut, over mij: VU, o nee, Leiden, over Gerrie: oppassen, over zichzelf: spelen, naar school. 
+
+Interviews in VN met hofhouding van Den Uyl, nu burgemeesters en commissarissen en voorzitters, ministers. Ze hebben allemaal Den Uyl gewaarschuwd: het idee van de tweedeling klopt niet (sterken zwakken). Mensen worden steeds meer individualist, de calculerende burger. Van Dam: de jongeren (~Veronica, ~VARA) voelen zich niet meer door de vergadertijgers aangesproken. Gek: men vindt solidariteit met de zwakken nu opeens geen issue meer. Daar <ins>is</in> de overheid toch voor? En voor wat openbare diensten. Een politieke partij moet niet besturen maar idealen uitdragen en vanuit dat perspectief beleid beoordelen. Op gemeenteniveau: breed werven vanuit ideaal. 
