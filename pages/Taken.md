@@ -1,12 +1,12 @@
-- TODO SSE opheffen
+- TODO afvoer badkamer (2 keer)
+- TODO schilderij ophangen
 - TODO rijbewijs verlengen
+- TODO SSE opheffen
 - TODO Ton van der Stap: [[05 God en ik, wij zijn een]]
 - TODO Foto Gerrie
-- TODO schilderij ophangen
 - TODO levenstestament
 - DONE Thole en Harry uitnodigen
 - TODO abonnementen op een rij
-- TODO afvoer badkamer (2 keer)
 -
 -
 - Elke dag

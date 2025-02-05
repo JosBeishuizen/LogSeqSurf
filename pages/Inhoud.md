@@ -78,6 +78,7 @@
 			  collapsed:: true
 				- [[I. Tussen filosofie en profetie. De wijsbegeerte van Emmanuel Levinas]]
 			- Van Riessen - Van zichzelf bevrijd
+			  collapsed:: true
 				- [[0 Inleiding]]
 				- [[1 Zich ontdoen van zichzelf. De creativiteit van de kenosis]]
 				- [[2 Levinas in gesprek met Heidegger]]
