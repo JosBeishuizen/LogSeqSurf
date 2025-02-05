@@ -1,5 +1,5 @@
-- TODO afvoer badkamer (2 keer)
-- TODO schilderij ophangen
+- DONE afvoer badkamer (2 keer)
+- DONE schilderij ophangen
 - TODO rijbewijs verlengen
 - TODO SSE opheffen
 - TODO Ton van der Stap: [[05 God en ik, wij zijn een]]
