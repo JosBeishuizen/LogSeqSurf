@@ -117,7 +117,6 @@
 		- [[Te Zien]]
 		- [[Gezien]]
 	- Dagboek
-	  collapsed:: true
 		- 1959
 		  collapsed:: true
 			- [[maandag 25 mei 1959]]
@@ -329,6 +328,7 @@
 			- [[241215 zondag 15 december 2012]]
 			- [[250124 vrijdag 24 januari 2025]]
 	- Digitaal
+	  collapsed:: true
 		- Viewing en editing mode
 		  collapsed:: true
 			- Blocks have two modes
@@ -477,4 +477,5 @@
 		- [[20250204 Over Marijn Kruk en zijn analyse van radicaal-rechts]]
 		- [[20241127 Jesse Klaver over hoe rechts de middenklasse bedreigt]]
 	- Externe tekstbestanden (pdf etc.)
+	  collapsed:: true
 		- ![easypeasy](../assets/easypeasy.pdf)
