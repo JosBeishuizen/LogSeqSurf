@@ -70,6 +70,7 @@
 		- [[D-24-01050]]
 		- [[De vragen van Alexander]]
 	- Studie
+	  collapsed:: true
 		- [[Maleachi]]
 		- Levinas
 			- Levinas - aantekeningen
@@ -111,9 +112,11 @@
 				- [[05 God en ik, wij zijn een]]
 		- [[Berlage]]
 	- Lezen
+	  collapsed:: true
 		- [[Roll]]
 - Geheugen
 	- Cultuur
+	  collapsed:: true
 		- [[Te Zien]]
 		- [[Gezien]]
 	- Dagboek
@@ -304,14 +307,17 @@
 			- [[dinsdag 24 oktober 1989]]
 			- [[zondag 17 december 1989]]
 		- 1990
-			- [[0112 vrijdag 12 januari 1990]]
-			- [[0118 donderdag 18 januari 1990]]
-			- [[0226 maandag 26 februari 1990]]
-			- [[0227 dinsdag 27 februari 1990]]
-			- [[0303 zaterdag 3 maart 1990]]
-			- [[0319 maandag 19 maart 1990]]
-			- [[0402 maandag 2 april 1990]]
-			-
+			- [[vrijdag 12 januari 1990]]
+			- [[donderdag 18 januari 1990]]
+			- [[maandag 26 februari 1990]]
+			- [[dinsdag 27 februari 1990]]
+			- [[zaterdag 3 maart 1990]]
+			- [[maandag 19 maart 1990]]
+			- [[maandag 2 april 1990]]
+			- [[woensdag 27 juni 1990]]
+			- [[donderdag 4 oktober 1990]]
+			- [[vrijdag 5 oktober 1990]]
+			- [[woensdag 17 oktober 1990]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
