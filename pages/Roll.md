@@ -374,6 +374,7 @@
 		- 21:53 372
 	- Wednesday 05 February 2025
 		- 21:00 380
+		- 21:04 48
 - Inhoud
   collapsed:: true
 	- Verhaal over het "brein", over de actualiteit van modern hersenonderzoek. Verdient nuancering. Het brein doet dit en doet dat. Hersenonderzoek versus geheugenonderzoek.
