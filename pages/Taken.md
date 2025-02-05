@@ -1,13 +1,12 @@
-- DONE afvoer badkamer (2 keer)
-- DONE schilderij ophangen
 - TODO rijbewijs verlengen
+- TODO Comenius persoonlijke belangen
 - TODO SSE opheffen
 - TODO Ton van der Stap: [[05 God en ik, wij zijn een]]
 - TODO Foto Gerrie
 - TODO levenstestament
-- DONE Thole en Harry uitnodigen
 - TODO abonnementen op een rij
 - TODO Egmond
+- TODO berging opruimen
 -
 - Elke dag
 	- TODO Veerkamp: [[17. 'Apostolische Vaders']]
