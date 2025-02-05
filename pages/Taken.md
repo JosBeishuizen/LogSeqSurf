@@ -7,7 +7,7 @@
 - TODO levenstestament
 - DONE Thole en Harry uitnodigen
 - TODO abonnementen op een rij
--
+- TODO Egmond
 -
 - Elke dag
 	- TODO Veerkamp: [[17. 'Apostolische Vaders']]
