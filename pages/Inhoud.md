@@ -121,7 +121,6 @@
 		- [[Gezien]]
 	- Dagboek
 		- 1959
-		  collapsed:: true
 			- [[maandag 25 mei 1959]]
 		- 1962
 		  collapsed:: true
