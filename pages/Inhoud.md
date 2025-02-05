@@ -307,6 +307,7 @@
 			- [[dinsdag 24 oktober 1989]]
 			- [[zondag 17 december 1989]]
 		- 1990
+		  collapsed:: true
 			- [[vrijdag 12 januari 1990]]
 			- [[donderdag 18 januari 1990]]
 			- [[maandag 26 februari 1990]]
@@ -318,6 +319,16 @@
 			- [[donderdag 4 oktober 1990]]
 			- [[vrijdag 5 oktober 1990]]
 			- [[woensdag 17 oktober 1990]]
+		- 1991
+			- [[0101 dinsdag 1 januari 1991]]
+			- [[0111 vrijdag 11 januari 1991]]
+			- [[0122 dinsdag 22 januari 1991]]
+			- [[0128 maandag 28 januari 1991]]
+			- [[0205 dinsdag 5 februari 1991]]
+			- [[0217 zondag 17 februari 1991]]
+			- [[0303 zondag 3 maart 1991]]
+			- [[0320 woensdag 20 maart 1991]]
+			-
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
