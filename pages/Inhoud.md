@@ -370,6 +370,7 @@
 			- [[maandag 30 december 2024]]
 			- [[dinsdag 31 december 2024]]
 		- 2025
+		  collapsed:: true
 			- [[woensdag 1 januari 2025]]
 			- [[vrijdag 3 januari 2025]]
 			- [[vrijdag 10 januari 2025]]
@@ -380,6 +381,7 @@
 			- [[zaterdag 1 februari 2025]]
 			- [[woensdag 5 februari 2025]]
 		- Dagboek voor Wiesje
+		  collapsed:: true
 			- [[240923 maandag 23 september 2024]]
 			- [[240928 zaterdag 28 september 2024]]
 			- [[241017 donderdag 17 oktober 2024]]
