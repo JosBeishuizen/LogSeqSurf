@@ -1,28 +1,28 @@
 - Chrétien Felser 1949
   SCHEDULED: <2025-01-02 Thu .+1y>
-- DONE Florence Drenth
+- Florence Drenth
   SCHEDULED: <2025-01-04 Sat .+1y>
-- DONE Lot van Remmen 1990
+- Lot van Remmen 1990
   SCHEDULED: <2025-01-09 Thu .+1y>
-- DONE Annette Thijs
+- Annette Thijs
   SCHEDULED: <2025-01-15 Wed .+1y>
-- DONE Elzemien Warnink
+- Elzemien Warnink
   SCHEDULED: <2025-01-19 Sun .+1y>
-- DONE Geert van Remmen 1958
+- Geert van Remmen 1958
   SCHEDULED: <2025-01-20 Mon .+1y>
-- DONE Teun Borst 1951
+- Teun Borst 1951
   SCHEDULED: <2025-01-21 Tue .+1y>
-- DONE Toon Banen 1987
+- Toon Banen 1987
   SCHEDULED: <2026-01-24 Sat .+1y>
   :LOGBOOK:
   * State "DONE" from "TODO" [2025-01-24 Fri 07:03]
   * State "DONE" from "TODO" [2025-02-06 Thu 09:52]
   :END:
-- DONE Robert Beishuizen
+- Robert Beishuizen
   SCHEDULED: <2025-01-26 Sun .+1y>
-- DONE Roos 2000
+- Roos 2000
   SCHEDULED: <2025-01-27 Mon .+1y>
-- DONE Joke Bakker
+- Joke Bakker
   SCHEDULED: <2025-02-05 Wed .+1y>
 - Sietske van der Veen 1992
   SCHEDULED: <2025-02-06 Thu .+1y>
