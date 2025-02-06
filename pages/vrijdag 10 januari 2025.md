@@ -1,7 +1,7 @@
 - Vannacht is onze Gerrie overleden, 91 jaar oud. Ze is rustig in bed in haar slaap overleden. De dekens lagen netjes opgemaakt over haar heen. Dan hoop je toch dat ze mag rusten in vrede.
 - Gerrie laat een grote lege plek achter. Anne bezocht haar elke maandag, Cathrien vaak op dinsdag, Sara op woensdag, Toon op vrijdag. Ze heeft in november nog een paar weken hier gelogeerd toen in haar appartement de voor- en achtergevel werden vervangende.
 - De foto's in haar kamer vertellen wie en hoe ze was
--
+- ![2025-02-06-22-59-25.jpeg](../assets/2025-02-06-22-59-25.jpeg)
 - ![2025-01-10-14-56-28.jpeg](../assets/2025-01-10-14-56-28.jpeg)
 - ![2025-01-10-14-56-43.jpeg](../assets/2025-01-10-14-56-43.jpeg)
 - ![2025-01-10-14-56-55.jpeg](../assets/2025-01-10-14-56-55.jpeg)
