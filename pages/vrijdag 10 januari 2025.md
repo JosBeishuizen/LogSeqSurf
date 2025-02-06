@@ -3,6 +3,7 @@
 - De foto's in haar kamer vertellen wie en hoe ze was
 - ![2025-02-06-22-59-25.jpeg](../assets/2025-02-06-22-59-25.jpeg)
 - ![2025-02-06-23-00-55.jpeg](../assets/2025-02-06-23-00-55.jpeg)
+- ![2025-02-06-23-01-21.jpeg](../assets/2025-02-06-23-01-21.jpeg)
 -
 - Appelboompjes van Vasalis
 - ![🎧 Appelboompjes_Vasalis.mp3](../assets/Appelboompjes_Vasalis.mp3)
