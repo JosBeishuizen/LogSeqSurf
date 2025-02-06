@@ -352,7 +352,9 @@
 			- [[250124 vrijdag 24 januari 2025]]
 			- [[25]]
 	- Digitaal
+	  collapsed:: true
 		- Data
+		  collapsed:: true
 			- [[AC]]
 			- [[ANWB Parkeren]]
 			- [[Cathrien en Jochem]]
@@ -377,7 +379,9 @@
 			- [[Sleutels voordeur Christoffelkruidstraat]]
 			- [[Telefoons]]
 			- [[Toon & Sara]]
-			-
+			- [[Triodos Bank]]
+			- [[Trouw]]
+			- [[Xs4all of KPN]]
 		- Viewing en editing mode
 		  collapsed:: true
 			- Blocks have two modes
