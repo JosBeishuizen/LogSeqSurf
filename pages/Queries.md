@@ -15,6 +15,21 @@
   :collapsed? false
   }
   #+END_QUERY
+- {:title "🎂 UPCOMING BIRTHDAYS"
+    :query [:find (pull ?h [*])
+            :in $ ?start ?next
+            :where
+            [?h :block/scheduled ?d]
+            [?p :block/name "birthday"]
+            [?b :block/ref-pages ?p]
+            [(mod ?start 10000) ?start-without-year]
+            [(mod ?next 10000) ?next-without-year]
+            [(mod ?d 10000) ?block-scheduled-without-year]
+            [(> ?block-scheduled-without-year ?start-without-year)]
+            [(< ?block-scheduled-without-year ?next-without-year)]
+            ]
+    :inputs [:today :30d-after]
+    :collapsed? false}
 - #+BEGIN_QUERY
   {:title "🎂 Birthday"
     :query [:find (pull ?b [*])
