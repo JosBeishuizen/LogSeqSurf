@@ -373,6 +373,7 @@
 			- [[PDFStudio]]
 			- [[Postbank]]
 			- [[Rabobank]]
+			- [[Richard]]
 			-
 		- Viewing en editing mode
 		  collapsed:: true
