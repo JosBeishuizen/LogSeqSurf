@@ -7,6 +7,7 @@
 - TODO abonnementen op een rij
 - TODO Egmond
 - TODO berging opruimen
+- TODO inventaris Arjen Vader
 -
 - Elke dag
 	- TODO Veerkamp: [[17. 'Apostolische Vaders']]
