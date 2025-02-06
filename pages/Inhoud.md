@@ -352,6 +352,8 @@
 			- [[250124 vrijdag 24 januari 2025]]
 			- [[25]]
 	- Digitaal
+		- Data
+			-
 		- Viewing en editing mode
 		  collapsed:: true
 			- Blocks have two modes
