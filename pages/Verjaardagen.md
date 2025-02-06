@@ -21,7 +21,7 @@
   SCHEDULED: <2025-01-26 Sun .+1y>
 - DONE Roos 2000
   SCHEDULED: <2025-01-27 Mon .+1y>
-- Joke Bakker
+- DONE Joke Bakker
   SCHEDULED: <2025-02-05 Wed .+1y>
 - Sietske van der Veen 1992
   SCHEDULED: <2025-02-06 Thu .+1y>

@@ -478,7 +478,6 @@
 		- [[Vijfschaft]]
 		- [[Zoete aardappel met feta]]
 	- Sociaal
-	  collapsed:: true
 		- [[Kerstkaarten]]
 		- [[Verjaardagen]]
 	- query-table:: false
