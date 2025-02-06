@@ -366,6 +366,7 @@
 			- [[Google]]
 			- [[Het Parool]]
 			- [[Logeer appartement]]
+			- [[Mastercard]]
 			-
 		- Viewing en editing mode
 		  collapsed:: true
