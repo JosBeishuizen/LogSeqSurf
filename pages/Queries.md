@@ -32,10 +32,7 @@
     :inputs [:today :3d-after]
     :collapsed? false}
   #+END_QUERY
-	-
-- collapsed:: true
-  #+BEGIN_QUERY
-  #+BEGIN_QUERY
+- #+BEGIN_QUERY
   {:title "🎂 Birthday"
     :query [:find (pull ?b [*])
       :in $ ?today
@@ -54,8 +51,6 @@
   ]
   :inputs [:today]
   :collapsed? false}
-  #+END_QUERY
-  
   #+END_QUERY
 - query-table:: false
   query-properties:: [:page]
