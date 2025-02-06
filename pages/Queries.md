@@ -37,17 +37,20 @@
     :query [:find (pull ?b [*])
       :in $ ?today
       :where
-        [?b :block/properties ?prop]
-        [(get ?prop :birthday) ?birth]
-        [?j :block/journal-day ?birthint]
-        [?j :block/original-name ?jname]
-        [(contains? ?birth ?jname)]
-        [(str ?birthint) ?birthstr]
-        [(subs ?birthstr 4) ?birthmd]
-        [(str ?today) ?td]
-        [(subs ?td 4) ?todaymd]
-        [(= ?birthmd ?todaymd)]
-        [?b :block/page ?p]
+         [?b :block/properties-text-values ?props]
+         [(get ?props :birthday) ?birthday]
+         
+         [(str ?birthday) ?birthdayString]
+         [(subs ?birthdayString 7 9) ?month]
+         [(subs ?birthdayString 10 12) ?day]
+  
+         [(str ?today) ?td]
+         [(subs ?td 4 6) ?todayMonth]
+         [(subs ?td 6 8) ?todayDay]
+  
+         [(= ?month ?todayMonth)]
+         [(= ?day ?todayDay)]
+         
   ]
   :inputs [:today]
   :collapsed? false}

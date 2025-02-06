@@ -2,8 +2,8 @@
   SCHEDULED: <2025-01-02 Thu .+1y>
 - Florence Drenth
   SCHEDULED: <2025-01-04 Sat .+1y>
-- Lot van Remmen 1990
-  SCHEDULED: <2025-01-09 Thu .+1y>
+- DONE Lot van Remmen 1990
+  DEADLINE: <2025-01-09 Thu .+1y>
 - Annette Thijs
   SCHEDULED: <2025-01-15 Wed .+1y>
 - Elzemien Warnink
