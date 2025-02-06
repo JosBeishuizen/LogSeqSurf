@@ -364,6 +364,8 @@
 			- [[Fulli tolbadge]]
 			- [[Geert]]
 			- [[Google]]
+			- [[Het Parool]]
+			- [[Logeer appartement]]
 			-
 		- Viewing en editing mode
 		  collapsed:: true
