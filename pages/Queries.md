@@ -3,7 +3,6 @@ query-table:: false
 - query-sort-by:: page
   query-sort-desc:: false
   query-properties:: [:page]
-  collapsed:: true
   #+BEGIN_QUERY
   {:title "Pages that start with 🇱🇺"
    :query [:find (pull ?p [*])
