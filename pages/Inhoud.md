@@ -341,7 +341,7 @@
 			- [[0718 donderdag 18 juli 1991]]
 			- [[0824 zaterdag 24 augustus 1991]]
 			- [[0828 woensdag 28 augustus 1991]]
-			-
+			- [[1109 zondag 9 november 1991]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
