@@ -1,6 +1,7 @@
-- Sietske 
+- Sietske
   query-table:: false
-  Birtday:[]]
+  Birthday::
+  SCHEDULED: <2025-02-06 Thu .+1y>
 - query-sort-by:: page
   query-sort-desc:: false
   query-properties:: [:page]
@@ -21,7 +22,7 @@
             :in $ ?start ?next
             :where
             [?h :block/scheduled ?d]
-            [?p :block/name "birthday"]
+            ;; [?p :block/name "birthday"]
             [?b :block/ref-pages ?p]
             [(mod ?start 10000) ?start-without-year]
             [(mod ?next 10000) ?next-without-year]
