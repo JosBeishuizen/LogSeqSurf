@@ -1,4 +1,4 @@
-- DONE Chrétien Felser 1949
+- Chrétien Felser 1949
   SCHEDULED: <2025-01-02 Thu .+1y>
 - DONE Florence Drenth
   SCHEDULED: <2025-01-04 Sat .+1y>
