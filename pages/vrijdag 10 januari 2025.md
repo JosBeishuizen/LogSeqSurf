@@ -2,7 +2,7 @@
 - Gerrie laat een grote lege plek achter. Anne bezocht haar elke maandag, Cathrien vaak op dinsdag, Sara op woensdag, Toon op vrijdag. Ze heeft in november nog een paar weken hier gelogeerd toen in haar appartement de voor- en achtergevel werden vervangende.
 - De foto's in haar kamer vertellen wie en hoe ze was
 - ![2025-02-06-22-59-25.jpeg](../assets/2025-02-06-22-59-25.jpeg)
--
+- ![2025-02-06-23-00-55.jpeg](../assets/2025-02-06-23-00-55.jpeg)
 -
 - Appelboompjes van Vasalis
 - ![🎧 Appelboompjes_Vasalis.mp3](../assets/Appelboompjes_Vasalis.mp3)
