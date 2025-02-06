@@ -363,6 +363,7 @@
 			- [[0715 woensdag 15 juli 1992]]
 			- [[0722 woensdag 22 juli 1992]]
 			- [[0730 donderdag 30 juli 1992]]
+			- [[0731 vrijdag 31 juli 1992]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
