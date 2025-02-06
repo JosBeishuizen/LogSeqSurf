@@ -359,6 +359,8 @@
 			- [[Centraal Beheer]]
 			- [[Cineville]]
 			- [[Computers]]
+			- [[Digid]]
+			- [[Disney+]]
 			-
 		- Viewing en editing mode
 		  collapsed:: true
