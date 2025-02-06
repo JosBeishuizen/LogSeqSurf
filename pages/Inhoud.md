@@ -356,6 +356,9 @@
 			- [[0306 vrijdag 6 maart 1992]]
 			- [[0511 maandag 11 mei 1992]]
 			- [[0525 maandag 25 mei 1992]]
+			- [[0602 dinsdag 2 juni 1992]]
+			- [[0609 dinsdag 9 juni 1992]]
+			- [[0620 zaterdag 20 juni 1992]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
