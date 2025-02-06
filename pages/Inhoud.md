@@ -350,7 +350,7 @@
 			- [[241115 vrijdag 15 november 2024]]
 			- [[241215 zondag 15 december 2012]]
 			- [[250124 vrijdag 24 januari 2025]]
-			-
+			- [[25]]
 	- Digitaal
 		- Viewing en editing mode
 		  collapsed:: true
