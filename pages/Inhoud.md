@@ -498,5 +498,5 @@
 		- [[20250204 Over Marijn Kruk en zijn analyse van radicaal-rechts]]
 		- [[20241127 Jesse Klaver over hoe rechts de middenklasse bedreigt]]
 	- Externe tekstbestanden (pdf etc.)
-	  collapsed:: true
 		- ![easypeasy](../assets/easypeasy.pdf)
+		- ![EDUREVD2400986](../assets/EDUREVD2400986.pdf)

@@ -6,7 +6,7 @@
 - TODO levenstestament
 - TODO abonnementen op een rij
 - TODO Egmond
-- TODO berging opruimen
+- TODO berging opruimen**14:06** [[quick capture]]:
 - TODO inventaris Arjen Vader
 - TODO Review Edurev
   DEADLINE: <2025-02-24 Mon>
