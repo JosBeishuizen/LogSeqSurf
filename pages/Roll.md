@@ -373,7 +373,6 @@
 		- 21:51 371
 		- 21:53 372
 	- Wednesday 05 February 2025
-	  collapsed:: true
 		- 21:00 380
 		- 21:04 381
 		- 21:08 382
@@ -386,6 +385,8 @@
 		- 22:48 389
 		- 22:50 390
 		- 22:54 🛑
+	- Thursday 06 February 2025
+		- 23:03 390
 - Inhoud
   collapsed:: true
 	- Verhaal over het "brein", over de actualiteit van modern hersenonderzoek. Verdient nuancering. Het brein doet dit en doet dat. Hersenonderzoek versus geheugenonderzoek.
