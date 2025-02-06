@@ -344,13 +344,13 @@
 			- [[zaterdag 1 februari 2025]]
 			- [[woensdag 5 februari 2025]]
 		- Dagboek voor Wiesje
-		  collapsed:: true
 			- [[240923 maandag 23 september 2024]]
 			- [[240928 zaterdag 28 september 2024]]
 			- [[241017 donderdag 17 oktober 2024]]
 			- [[241115 vrijdag 15 november 2024]]
 			- [[241215 zondag 15 december 2012]]
 			- [[250124 vrijdag 24 januari 2025]]
+			-
 	- Digitaal
 		- Viewing en editing mode
 		  collapsed:: true
