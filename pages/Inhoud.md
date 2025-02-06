@@ -349,12 +349,12 @@
 			- [[zondag 8 december 1991]]
 			- [[dinsdag 17 december 1991]]
 		- 1992
-			- [[0103 vrijdag 3 januari 1992]]
-			- [[0108 woensdag 8 januari 1992]]
-			- [[0112 zondag 12 januari 1992]]
-			- [[0113 maandag 13 januari 1992]]
-			- [[0306 vrijdag 6 maart 1992]]
-			- [[0511 maandag 11 mei 1992]]
+			- [[vrijdag 3 januari 1992]]
+			- [[woensdag 8 januari 1992]]
+			- [[zondag 12 januari 1992]]
+			- [[maandag 13 januari 1992]]
+			- [[vrijdag 6 maart 1992]]
+			- [[maandag 11 mei 1992]]
 			- [[0525 maandag 25 mei 1992]]
 			- [[0602 dinsdag 2 juni 1992]]
 			- [[0609 dinsdag 9 juni 1992]]
@@ -365,7 +365,8 @@
 			- [[0730 donderdag 30 juli 1992]]
 			- [[0731 vrijdag 31 juli 1992]]
 			- [[0831 maandag 31 augustus 1992]]
-			-
+			- [[1126 donderdag 26 november 1992]]
+			- [[1129 zondag 29 november 1992]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
