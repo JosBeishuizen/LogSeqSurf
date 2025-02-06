@@ -15,7 +15,27 @@ query-table:: false
   :collapsed? false
   }
   #+END_QUERY
--
+- {:title "🎂 Birthday"
+    :query [:find (pull ?b [*])
+      :in $ ?today
+      :where
+         [?b :block/properties-text-values ?props]
+         [(get ?props :birthday) ?birthday]
+         
+         [(str ?birthday) ?birthdayString]
+         [(subs ?birthdayString 7 9) ?month]
+         [(subs ?birthdayString 10 12) ?day]
+  
+         [(str ?today) ?td]
+         [(subs ?td 4 6) ?todayMonth]
+         [(subs ?td 6 8) ?todayDay]
+  
+         [(= ?month ?todayMonth)]
+         [(= ?day ?todayDay)]
+         
+  ]
+  :inputs [:today]
+  :collapsed? false}
 - query-table:: false
   query-properties:: [:page]
   collapsed:: true
@@ -29,20 +49,6 @@ query-table:: false
   :result-transform (fn [result] [(rand-nth result)] )
   }
   #+END_QUERY
-- collapsed:: true
-  #+BEGIN_QUERY 
-  {:title "Citaat"
-   :query [:find (pull ?b [*])
-     :where 
-       [?b :block/page ?p]
-       [?b :block/refs ?t]
-       [?t :block/name "☀️"]
-   ]
-   :result-transform ( fn [result] [(rand-nth result)] )
-   :collapsed? true
-  }
-  #+END_QUERY
--
 - collapsed:: true
   #+BEGIN_QUERY
   {:title "Block has child"

@@ -352,7 +352,6 @@
 			- [[241215 zondag 15 december 2012]]
 			- [[250124 vrijdag 24 januari 2025]]
 	- Digitaal
-	  collapsed:: true
 		- Viewing en editing mode
 		  collapsed:: true
 			- Blocks have two modes
