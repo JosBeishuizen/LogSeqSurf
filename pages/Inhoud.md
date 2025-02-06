@@ -361,6 +361,9 @@
 			- [[Computers]]
 			- [[Digid]]
 			- [[Disney+]]
+			- [[Fulli tolbadge]]
+			- [[Geert]]
+			- [[Google]]
 			-
 		- Viewing en editing mode
 		  collapsed:: true
