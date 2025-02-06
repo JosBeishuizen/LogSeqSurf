@@ -33,28 +33,9 @@
     :collapsed? false}
   #+END_QUERY
 	-
-- #+BEGIN_QUERY
-  {:title "🎂 Birthday"
-    :query [:find (pull ?b [*])
-      :in $ ?today
-      :where
-         [?b :block/properties-text-values ?props]
-         [(get ?props :birthday) ?birthday]
-         
-         [(str ?birthday) ?birthdayString]
-         [(subs ?birthdayString 7 9) ?month]
-         [(subs ?birthdayString 10 12) ?day]
+- collapsed:: true
+  #+BEGIN_QUERY
   
-         [(str ?today) ?td]
-         [(subs ?td 4 6) ?todayMonth]
-         [(subs ?td 6 8) ?todayDay]
-  
-         [(= ?month ?todayMonth)]
-         [(= ?day ?todayDay)]
-         
-  ]
-  :inputs [:today]
-  :collapsed? false}
   #+END_QUERY
 - query-table:: false
   query-properties:: [:page]
