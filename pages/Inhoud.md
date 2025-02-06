@@ -327,6 +327,20 @@
 			- [[0217 zondag 17 februari 1991]]
 			- [[0303 zondag 3 maart 1991]]
 			- [[0320 woensdag 20 maart 1991]]
+			- [[0503 vrijdag 3 mei 1991]]
+			- [[0504 zaterdag 4 mei 1991]]
+			- [[0509 donderdag 9 mei 1991]]
+			- [[0513 maandag 13 mei 1991]]
+			- [[0514 dinsdag 14 mei 1991]]
+			- [[0519 zondag 19 mei 1991]]
+			- [[0528 dinsdag 28 mei 1991]]
+			- [[0531 vrijdag 31 mei 1991]]
+			- [[0612 woensdag 12 juni 1991]]
+			- [[0713 zaterdag 13 juli 1991]]
+			- [[0715 maandag 15 juli 1991]]
+			- [[0718 donderdag 18 juli 1991]]
+			- [[0824 zaterdag 24 augustus 1991]]
+			- [[0828 woensdag 28 augustus 1991]]
 			-
 		- 2024
 		  collapsed:: true
@@ -352,9 +366,7 @@
 			- [[250124 vrijdag 24 januari 2025]]
 			- [[25]]
 	- Digitaal
-	  collapsed:: true
 		- Data
-		  collapsed:: true
 			- [[AC]]
 			- [[ANWB Parkeren]]
 			- [[Cathrien en Jochem]]
