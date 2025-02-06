@@ -349,6 +349,7 @@
 			- [[zondag 8 december 1991]]
 			- [[dinsdag 17 december 1991]]
 		- 1992
+		  collapsed:: true
 			- [[vrijdag 3 januari 1992]]
 			- [[woensdag 8 januari 1992]]
 			- [[zondag 12 januari 1992]]
@@ -373,7 +374,6 @@
 			- [[maandag 30 december 2024]]
 			- [[dinsdag 31 december 2024]]
 		- 2025
-		  collapsed:: true
 			- [[woensdag 1 januari 2025]]
 			- [[vrijdag 3 januari 2025]]
 			- [[vrijdag 10 januari 2025]]
