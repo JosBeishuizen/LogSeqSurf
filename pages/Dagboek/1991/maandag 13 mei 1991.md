@@ -1,0 +1,1 @@
+- Met opgewekte tegenzin begonnen aan drie weken "vakantie", voorafgaand aan start in Leiden. Onzekerheid: zal het lukken deze tijd goed te besteden. Niet afgeleid te worden door details of zinloze zorgen of emoties.

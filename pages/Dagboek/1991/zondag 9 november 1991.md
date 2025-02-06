@@ -1,0 +1,1 @@
+- Anne-Carien met de kinderen per trein een dagje naar Deventer. Utrechter Te Deum, koffie, sigaar, dissertatie van Emiel Felix. Gisteren in Egmond het huisje neergehaald, samen met de gebr. Bakker (buurman van Dirk met broer), Huub Kaak, Meindert en Ton. Verliep helemaal volgens plan. Morgen afvoeren. Geeft veel voldoening dat zoiets lukt. Nu eerst 10 blz. diss.
