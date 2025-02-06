@@ -337,6 +337,7 @@
 			- [[dinsdag 14 mei 1991]]
 			- [[zondag 19 mei 1991]]
 			- [[dinsdag 28 mei 1991]]
+			- [[donderdag 30 mei 1991]]
 			- [[vrijdag 31 mei 1991]]
 			- [[woensdag 12 juni 1991]]
 			- [[zaterdag 13 juli 1991]]
@@ -352,7 +353,9 @@
 			- [[0108 woensdag 8 januari 1992]]
 			- [[0112 zondag 12 januari 1992]]
 			- [[0113 maandag 13 januari 1992]]
-			-
+			- [[0306 vrijdag 6 maart 1992]]
+			- [[0511 maandag 11 mei 1992]]
+			- [[0525 maandag 25 mei 1992]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
