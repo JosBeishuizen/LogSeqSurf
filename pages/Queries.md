@@ -14,7 +14,8 @@ query-table:: false
   :collapsed? false
   }
   #+END_QUERY
-- {:title "🎂 Birthday"
+- #+BEGIN_QUERY
+  {:title "🎂 Birthday"
     :query [:find (pull ?b [*])
       :in $ ?today
       :where
@@ -35,6 +36,7 @@ query-table:: false
   ]
   :inputs [:today]
   :collapsed? false}
+  #+END_QUERY
 - query-table:: false
   query-properties:: [:page]
   collapsed:: true
