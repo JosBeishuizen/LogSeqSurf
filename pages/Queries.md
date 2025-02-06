@@ -35,6 +35,26 @@
 	-
 - collapsed:: true
   #+BEGIN_QUERY
+  #+BEGIN_QUERY
+  {:title "🎂 Birthday"
+    :query [:find (pull ?b [*])
+      :in $ ?today
+      :where
+        [?b :block/properties ?prop]
+        [(get ?prop :birthday) ?birth]
+        [?j :block/journal-day ?birthint]
+        [?j :block/original-name ?jname]
+        [(contains? ?birth ?jname)]
+        [(str ?birthint) ?birthstr]
+        [(subs ?birthstr 4) ?birthmd]
+        [(str ?today) ?td]
+        [(subs ?td 4) ?todaymd]
+        [(= ?birthmd ?todaymd)]
+        [?b :block/page ?p]
+  ]
+  :inputs [:today]
+  :collapsed? false}
+  #+END_QUERY
   
   #+END_QUERY
 - query-table:: false
