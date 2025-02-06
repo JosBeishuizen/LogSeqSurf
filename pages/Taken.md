@@ -8,7 +8,8 @@
 - TODO Egmond
 - TODO berging opruimen
 - TODO inventaris Arjen Vader
--
+- TODO Review Edurev
+  DEADLINE: <2025-02-24 Mon>
 -
 - Elke dag
 	- TODO Veerkamp: [[17. 'Apostolische Vaders']]
