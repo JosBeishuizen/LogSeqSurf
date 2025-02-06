@@ -347,7 +347,11 @@
 			- [[zondag 9 november 1991]]
 			- [[zondag 8 december 1991]]
 			- [[dinsdag 17 december 1991]]
-		-
+		- 1992
+			- [[0103 vrijdag 3 januari 1992]]
+			- [[0108 woensdag 8 januari 1992]]
+			- [[0112 zondag 12 januari 1992]]
+			- [[0113 maandag 13 januari 1992]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
