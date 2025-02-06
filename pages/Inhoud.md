@@ -375,6 +375,7 @@
 			- [[Rabobank]]
 			- [[Richard]]
 			- [[Sleutels voordeur Christoffelkruidstraat]]
+			- [[Telefoons]]
 			-
 		- Viewing en editing mode
 		  collapsed:: true
