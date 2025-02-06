@@ -1,0 +1,3 @@
+# 1126 donderdag 26 november 1992
+Budapest - Romai Hotel.
+Volgens zeggen een oude uitspanning van onze voormalige communisten. Heeft Kadar hier wel eens rondgelopen? Dit is wel een bizar soort vakantie. Om een indruk te krijgen van het Wereldbankproject ben ik vandaag op bezoek geweest op een grote middelbare landbouwschool in Vép. Veel glaasjes "brandy" afgeslagen, mede dankzij standvastigheid van consultant John Blom. Veel oude tractors gezien, lassende, vijlende scholieren, meisjes die leren breien en goulashsoep koken. Nu naar bed. Morgen naar Pál Szücs.
