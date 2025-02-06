@@ -15,7 +15,7 @@
   :collapsed? false
   }
   #+END_QUERY
-- #+BEGIN-QUERY
+- #+BEGIN_QUERY
   {:title "🎂 UPCOMING BIRTHDAYS"
     :query [:find (pull ?h [*])
             :in $ ?start ?next
@@ -31,6 +31,7 @@
             ]
     :inputs [:today :30d-after]
     :collapsed? false}
+  #+END_QUERY
 	-
 - #+BEGIN_QUERY
   {:title "🎂 Birthday"
