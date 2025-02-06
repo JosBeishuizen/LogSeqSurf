@@ -374,6 +374,7 @@
 			- [[Postbank]]
 			- [[Rabobank]]
 			- [[Richard]]
+			- [[Sleutels voordeur Christoffelkruidstraat]]
 			-
 		- Viewing en editing mode
 		  collapsed:: true
