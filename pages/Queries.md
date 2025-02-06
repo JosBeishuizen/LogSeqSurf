@@ -1,5 +1,6 @@
-query-table:: false
-
+- Sietske 
+  query-table:: false
+  Birthday:: [[2025-02-06]]
 - query-sort-by:: page
   query-sort-desc:: false
   query-properties:: [:page]
