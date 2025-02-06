@@ -51,6 +51,7 @@
 	- [[Afscheid van Gerrie]]
 	- [[Alzheimerlijst]]
 - Activiteiten
+  collapsed:: true
 	- Reviews
 	  collapsed:: true
 		- [[D-22-00513]]
@@ -121,6 +122,7 @@
 		- [[Gezien]]
 	- Dagboek
 		- 1959
+		  collapsed:: true
 			- [[maandag 25 mei 1959]]
 		- 1962
 		  collapsed:: true
@@ -306,6 +308,7 @@
 			- [[dinsdag 24 oktober 1989]]
 			- [[zondag 17 december 1989]]
 		- 1990
+		  collapsed:: true
 			- [[vrijdag 12 januari 1990]]
 			- [[donderdag 18 januari 1990]]
 			- [[maandag 26 februari 1990]]
@@ -319,13 +322,13 @@
 			- [[woensdag 17 oktober 1990]]
 		- 1991
 			- [[dinsdag 1 januari 1991]]
-			- [[0111 vrijdag 11 januari 1991]]
-			- [[0122 dinsdag 22 januari 1991]]
-			- [[0128 maandag 28 januari 1991]]
-			- [[0205 dinsdag 5 februari 1991]]
-			- [[0217 zondag 17 februari 1991]]
-			- [[0303 zondag 3 maart 1991]]
-			- [[0320 woensdag 20 maart 1991]]
+			- [[vrijdag 11 januari 1991]]
+			- [[dinsdag 22 januari 1991]]
+			- [[maandag 28 januari 1991]]
+			- [[dinsdag 5 februari 1991]]
+			- [[zondag 17 februari 1991]]
+			- [[zondag 3 maart 1991]]
+			- [[woensdag 20 maart 1991]]
 			- [[0503 vrijdag 3 mei 1991]]
 			- [[0504 zaterdag 4 mei 1991]]
 			- [[0509 donderdag 9 mei 1991]]
