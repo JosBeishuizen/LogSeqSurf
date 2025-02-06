@@ -12,10 +12,11 @@
   SCHEDULED: <2025-01-20 Mon .+1y>
 - DONE Teun Borst 1951
   SCHEDULED: <2025-01-21 Tue .+1y>
-- TODO Toon Banen 1987
+- DONE Toon Banen 1987
   SCHEDULED: <2026-01-24 Sat .+1y>
   :LOGBOOK:
   * State "DONE" from "TODO" [2025-01-24 Fri 07:03]
+  * State "DONE" from "TODO" [2025-02-06 Thu 09:52]
   :END:
 - DONE Robert Beishuizen
   SCHEDULED: <2025-01-26 Sun .+1y>
