@@ -1,5 +1,5 @@
 - TODO rijbewijs verlengen
-- TODO Comenius persoonlijke belangen
+- DONE Comenius persoonlijke belangen
 - TODO SSE opheffen
 - TODO Ton van der Stap: [[05 God en ik, wij zijn een]]
 - TODO Foto Gerrie
