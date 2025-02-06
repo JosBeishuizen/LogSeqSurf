@@ -29,7 +29,7 @@
             [(> ?block-scheduled-without-year ?start-without-year)]
             [(< ?block-scheduled-without-year ?next-without-year)]
             ]
-    :inputs [:today :30d-after]
+    :inputs [:today :3d-after]
     :collapsed? false}
   #+END_QUERY
 	-
