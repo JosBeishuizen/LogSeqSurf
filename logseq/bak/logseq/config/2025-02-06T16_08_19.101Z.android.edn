@@ -194,8 +194,30 @@
 
  ;; Pre-defined :view function to use with advanced queries.
  :query/views
- {:pprint
-  (fn [r] [:pre.code (pprint r)])}
+ {;;
+  ;; Displays the result data as nicely formatted text
+  :pprint
+  (fn [r] [:pre.code (pprint r)])
+  ;;
+  ;; Creates a button from a block UUID, template name and erase flag
+  ;; On click, appends the specified template after the given block,
+  ;; optionally removing the original block (if the erase flag is set)
+  :insert-template-view
+  (fn [[block-uuid template-name erase-on-click?]]
+    [:button
+     {:style {:border "1px solid silver" :border-radius "6px" :padding "2px 8px"}
+      :on-click
+      (fn [_]
+        (if (call-api "exist_template" template-name)
+          (do (call-api "insert_template" block-uuid template-name)
+              (if erase-on-click?
+                (call-api "remove_block" block-uuid)))
+          (call-api "show_msg"
+                    (str "Template not found:\n" template-name) :error)))}
+
+    "Insert: " template-name])
+  ;;
+  }
 
  ;; Advanced queries `:result-transform` function.
  ;; Transform the query result before displaying it.
@@ -213,7 +235,7 @@
             :in $ ?start ?today
             :where
             [?h :block/marker ?marker]
-            [(contains? #{"NOW" "DOING"} ?marker)]
+            [(contains? #{""} ?marker)]
             [?h :block/page ?p]
             [?p :block/journal? true]
             [?p :block/journal-day ?d]
@@ -247,7 +269,16 @@
  ;;  ["js" "Javascript"]
  ;;  ["md" "Markdown"]
  ;;  ]
- :commands []
+ :commands [
+  ["iframe" [[:editor/input "{{{iframe }}}" {:backward-pos 3}]]]
+
+  ["iframe-wikipedia" [[:editor/input "{{{iframe https://en.wikipedia.org/wiki/}}}" {:backward-pos 3}]]]
+
+  ["iframe-google" [[:editor/input "{{{iframe https://www.google.com/search?q=}}}" {:backward-pos 3}]]]
+
+  ["iframe-google-images" [[:editor/input "{{{iframe https://www.google.com/search?tbm=isch&q=}}}" {:backward-pos 3}]]]
+
+ ]
 
  ;; Enable collapsing blocks with titles but no children.
  ;; By default, only blocks with children can be collapsed.
@@ -265,12 +296,48 @@
  ;; input "{{poem red,blue}}"
  ;; becomes
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
- :macros {}
+ :macros
+
+ {;; Usage: {{insert-template <template-name>,<erase-on-click>}}
+
+  ;; where
+
+  ;;   <template-name> is the name of the template to insert when clicked.
+
+  ;;   <erase-on-click> is the word "erase" if the button is to be removed on click.
+
+  ;; Examples:
+
+  ;;     {{insert-template A Template}}
+
+  ;;     {{insert-template My Other Template, erase}}
+
+  :insert-template "\n#+BEGIN_QUERY
+
+   {:inputs [:current-block]
+
+    :query [:find ?block-uuid
+
+            :in $ ?block
+
+            :where [?block :block/uuid ?block-uuid]]
+
+    :result-transform (fn [[block-uuid]]
+
+                        [block-uuid \"$1\" (= \"$2\" \"erase\")])
+
+    :view :insert-template-view}
+
+   #+END_QUERY"
+
+  ;;
+
+  }
+
 
  ;; Configure the default expansion level for linked references.
  ;; For example, consider the following block hierarchy:
  ;; - a [[page]] (level 1)
- ;;   - b        (level 2)
  ;;     - c      (level 3)
  ;;       - d    (level 4)
  ;;
@@ -299,7 +366,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["Templates" "Inhoud"]
+ :favorites ["Iris Murdoch over liefde" "Mooie Citaten en Teksten" "Taken" "Templates" "Inhoud"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -419,6 +486,7 @@
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
+ ;;:block-hidden-properties #{:tags}
  :journal/page-title-format "EEEE d MMMM yyyy"
  :ui/show-brackets? false
  :feature/enable-timetracking? false
