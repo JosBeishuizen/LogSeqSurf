@@ -38,6 +38,7 @@
 		- [[Monday 30 December 2024]]
 		- [[Tuesday 31 December 2024]]
 - Planning
+  collapsed:: true
 	- [[Taken]]
 	- [[Reviews]]
 	- [[Financiën]]
@@ -50,6 +51,7 @@
 	- [[Afscheid van Gerrie]]
 	- [[Alzheimerlijst]]
 - Activiteiten
+  collapsed:: true
 	- Reviews
 	  collapsed:: true
 		- [[D-22-00513]]
@@ -368,19 +370,19 @@
 			- [[zondag 29 november 1992]]
 		- 1993
 			- [[vrijdag 1 januari 1993]]
-			- [[0102 zaterdag 2 januari 1993]]
-			- [[0103 zondag 3 januari 1993]]
-			- [[0104 maandag 4 januari 1993]]
-			- [[0105 dinsdag 5 januari 1993]]
-			- [[0106 woensdag 6 januari 1993]]
-			- [[0107 donderdag 7 januari 1993]]
+			- [[zaterdag 2 januari 1993]]
+			- [[zondag 3 januari 1993]]
+			- [[maandag 4 januari 1993]]
+			- [[dinsdag 5 januari 1993]]
+			- [[woensdag 6 januari 1993]]
+			- [[donderdag 7 januari 1993]]
 			- [[0117 zondag 17 januari 1993]]
 			- [[0202 dinsdag 2 februari 1993]]
 			- [[0302 dinsdag 2 maart 1993]]
 			- [[0316 dinsdaga 16 maart 1993]]
 			- [[maandag 22 maart 1993]]
 			- [[dinsdag 23 maart 1999]]
-			- [[0324 woensdag 24 maart 1993]]
+			- [[woensdag 24 maart 1993]]
 			- [[0325 donderdag 25 maart 1993]]
 			- [[0328 zondag 28 maart 1993]]
 			- [[0330 dinsdag 30 maart 1993]]
