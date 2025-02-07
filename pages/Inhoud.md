@@ -384,7 +384,7 @@
 			- [[0325 donderdag 25 maart 1993]]
 			- [[0328 zondag 28 maart 1993]]
 			- [[0330 dinsdag 30 maart 1993]]
-			-
+			- [[0331 woensdag 31 maart 1993]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
