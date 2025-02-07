@@ -367,6 +367,7 @@
 			- [[donderdag 26 november 1992]]
 			- [[zondag 29 november 1992]]
 		- 1993
+		  collapsed:: true
 			- [[0101 vrijdag 1 januari 1993]]
 			- [[0102 zaterdag 2 januari 1993]]
 			- [[0103 zondag 3 januari 1993]]
@@ -378,8 +379,8 @@
 			- [[0202 dinsdag 2 februari 1993]]
 			- [[0302 dinsdag 2 maart 1993]]
 			- [[0316 dinsdaga 16 maart 1993]]
-			- [[0233 maandag 22 maart 1993]]
-			- [[0323 dinsdag 23 maart 199]]
+			- [[maandag 22 maart 1993]]
+			- [[dinsdag 23 maart 1999]]
 			- [[0324 woensdag 24 maart 1993]]
 			- [[0325 donderdag 25 maart 1993]]
 			- [[0328 zondag 28 maart 1993]]
@@ -391,7 +392,6 @@
 			- [[maandag 30 december 2024]]
 			- [[dinsdag 31 december 2024]]
 		- 2025
-		  collapsed:: true
 			- [[woensdag 1 januari 2025]]
 			- [[vrijdag 3 januari 2025]]
 			- [[vrijdag 10 januari 2025]]
@@ -412,6 +412,7 @@
 			- [[25]]
 	- Digitaal
 		- Data
+		  collapsed:: true
 			- [[AC]]
 			- [[ANWB Parkeren]]
 			- [[Cathrien en Jochem]]
