@@ -349,15 +349,14 @@
 			- [[zondag 8 december 1991]]
 			- [[dinsdag 17 december 1991]]
 		- 1992
-		  collapsed:: true
 			- [[vrijdag 3 januari 1992]]
 			- [[woensdag 8 januari 1992]]
 			- [[zondag 12 januari 1992]]
 			- [[maandag 13 januari 1992]]
 			- [[vrijdag 6 maart 1992]]
 			- [[maandag 11 mei 1992]]
-			- [[0525 maandag 25 mei 1992]]
-			- [[0602 dinsdag 2 juni 1992]]
+			- [[maandag 25 mei 1992]]
+			- [[dinsdag 2 juni 1992]]
 			- [[0609 dinsdag 9 juni 1992]]
 			- [[0620 zaterdag 20 juni 1992]]
 			- [[0711 zaterdag 11 juli 1992]]
@@ -374,6 +373,7 @@
 			- [[maandag 30 december 2024]]
 			- [[dinsdag 31 december 2024]]
 		- 2025
+		  collapsed:: true
 			- [[woensdag 1 januari 2025]]
 			- [[vrijdag 3 januari 2025]]
 			- [[vrijdag 10 januari 2025]]

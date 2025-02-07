@@ -24,7 +24,7 @@
   SCHEDULED: <2025-01-27 Mon .+1y>
 - DONE Joke Bakker
   SCHEDULED: <2025-02-05 Wed .+1y>
-- Sietske van der Veen 1992
+- DONE Sietske van der Veen 1992
   DEADLINE: <2025-02-06 Thu .+1y>
 - Tineke Lybaart
   DEADLINE: <2025-02-07 Fri .+1y>
@@ -48,3 +48,5 @@
   SCHEDULED: <2025-03-10 Mon .+1y>
 - Wouter
   SCHEDULED: <2025-03-10 Mon .+1y>
+- Meindert 1935
+  SCHEDULED: <2025-03-20 Thu .+1y>
