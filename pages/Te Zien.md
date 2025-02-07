@@ -8,7 +8,8 @@
 		- Marlon Brando en Robert de Niro
 		- **22:47** [[quick capture]]:  [Netflix-tips: The Alpinist en Teenage Mutant Ninja Turtles - VPRO Cinema - VPRO Gids](https://www.vprogids.nl/cinema/lees/artikelen/specials/netflix/2025/Netflix-tips--The-Alpinist-en-Teenage-Mutant-Ninja-Turtles.html)
 	- Little Women op Netflix
-	-
+	- The Prime of Miss Jean Brodie
+		- Een van de eerste films met Maggie Smith
 - Muziek
 	- Benjamin Britten - Vioolconcert
 	- Jacques Loussier plays Bach
@@ -20,6 +21,7 @@
 	- Een dik uur Ischa op de radio
 		- **23:01** [[quick capture]]:  https://open.spotify.com/episode/1231lEJH9SBbDitdIbM3UV?si=tHXiBfrVRuun2JGawWn-UA
 	- The Rest is Politics
+	- The Rest is History
 - Beeldende kunst
 	- Samuel Hoogstraaten in het Rembrandthuis t/m 4 mei
 	- Jan Mankes Museum Arnhem t/m 22 juni
