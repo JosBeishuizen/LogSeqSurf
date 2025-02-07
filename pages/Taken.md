@@ -12,7 +12,7 @@
   DEADLINE: <2025-02-24 Mon>
 -
 - Elke dag
-	- TODO Veerkamp: [[17. 'Apostolische Vaders']]
+	- TODO Veerkamp: [[18. Het Rijk in crisis]]
 	- TODO [[Roll]]
 	- TODO [[Filosoferen met kinderen]]
 	- TODO piano spelen
