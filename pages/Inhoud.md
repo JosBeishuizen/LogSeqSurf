@@ -51,7 +51,6 @@
 	- [[Afscheid van Gerrie]]
 	- [[Alzheimerlijst]]
 - Activiteiten
-  collapsed:: true
 	- Reviews
 	  collapsed:: true
 		- [[D-22-00513]]
@@ -121,6 +120,7 @@
 		- [[Te Zien]]
 		- [[Gezien]]
 	- Dagboek
+	  collapsed:: true
 		- 1959
 		  collapsed:: true
 			- [[maandag 25 mei 1959]]
@@ -376,17 +376,17 @@
 			- [[dinsdag 5 januari 1993]]
 			- [[woensdag 6 januari 1993]]
 			- [[donderdag 7 januari 1993]]
-			- [[0117 zondag 17 januari 1993]]
-			- [[0202 dinsdag 2 februari 1993]]
-			- [[0302 dinsdag 2 maart 1993]]
-			- [[0316 dinsdaga 16 maart 1993]]
+			- [[zondag 17 januari 1993]]
+			- [[dinsdag 2 februari 1993]]
+			- [[dinsdag 2 maart 1993]]
+			- [[dinsdag 16 maart 1993]]
 			- [[maandag 22 maart 1993]]
 			- [[dinsdag 23 maart 1999]]
 			- [[woensdag 24 maart 1993]]
-			- [[0325 donderdag 25 maart 1993]]
-			- [[0328 zondag 28 maart 1993]]
-			- [[0330 dinsdag 30 maart 1993]]
-			- [[0331 woensdag 31 maart 1993]]
+			- [[donderdag 25 maart 1993]]
+			- [[zondag 28 maart 1993]]
+			- [[dinsdag 30 maart 1993]]
+			- [[woensdag 31 maart 1993]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
@@ -412,6 +412,7 @@
 			- [[250124 vrijdag 24 januari 2025]]
 			- [[25]]
 	- Digitaal
+	  collapsed:: true
 		- Data
 		  collapsed:: true
 			- [[AC]]
@@ -566,6 +567,7 @@
 		- [[Vijfschaft]]
 		- [[Zoete aardappel met feta]]
 	- Sociaal
+	  collapsed:: true
 		- [[Kerstkaarten]]
 		- [[Verjaardagen]]
 	- query-table:: false
@@ -582,10 +584,12 @@
 	  }
 	  #+END_QUERY
 	- Krantenknipsels
+	  collapsed:: true
 		- [[20250201 Interview met Herman van Praag]]
 		- [[20250203 Paus en patriarch over Pasen op dezelfde dag]]
 		- [[20250204 Over Marijn Kruk en zijn analyse van radicaal-rechts]]
 		- [[20241127 Jesse Klaver over hoe rechts de middenklasse bedreigt]]
 	- Externe tekstbestanden (pdf etc.)
+	  collapsed:: true
 		- ![easypeasy](../assets/easypeasy.pdf)
 		- ![EDUREVD2400986](../assets/EDUREVD2400986.pdf)
