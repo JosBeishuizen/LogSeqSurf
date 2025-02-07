@@ -114,7 +114,6 @@
 		- [[Roll]]
 		- [[Het Bureau]]
 - Geheugen
-  collapsed:: true
 	- Cultuur
 	  collapsed:: true
 		- [[Te Zien]]
@@ -357,15 +356,15 @@
 			- [[maandag 25 mei 1992]]
 			- [[dinsdag 2 juni 1992]]
 			- [[dinsdag 9 juni 1992]]
-			- [[0620 zaterdag 20 juni 1992]]
-			- [[0711 zaterdag 11 juli 1992]]
-			- [[0715 woensdag 15 juli 1992]]
-			- [[0722 woensdag 22 juli 1992]]
-			- [[0730 donderdag 30 juli 1992]]
-			- [[0731 vrijdag 31 juli 1992]]
-			- [[0831 maandag 31 augustus 1992]]
-			- [[1126 donderdag 26 november 1992]]
-			- [[1129 zondag 29 november 1992]]
+			- [[zaterdag 20 juni 1992]]
+			- [[zaterdag 11 juli 1992]]
+			- [[woensdag 15 juli 1992]]
+			- [[woensdag 22 juli 1992]]
+			- [[donderdag 30 juli 1992]]
+			- [[vrijdag 31 juli 1992]]
+			- [[maandag 31 augustus 1992]]
+			- [[donderdag 26 november 1992]]
+			- [[zondag 29 november 1992]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
