@@ -374,7 +374,7 @@
 			- [[0105 dinsdag 5 januari 1993]]
 			- [[0106 woensdag 6 januari 1993]]
 			- [[0107 donderdag 7 januari 1993]]
-			-
+			- [[0117 zondag 17 januari 1993]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
