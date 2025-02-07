@@ -397,6 +397,9 @@
 		- 23:17 396
 		- 23:19 397
 		- 23:23 🛑
+	- Friday 07 February 2025
+		-
 - Inhoud
+  collapsed:: true
 	- Verhaal over het "brein", over de actualiteit van modern hersenonderzoek. Verdient nuancering. Het brein doet dit en doet dat. Hersenonderzoek versus geheugenonderzoek.
 	- p. 177/178: dominantie linker hersenhelft
