@@ -367,8 +367,7 @@
 			- [[donderdag 26 november 1992]]
 			- [[zondag 29 november 1992]]
 		- 1993
-		  collapsed:: true
-			- [[0101 vrijdag 1 januari 1993]]
+			- [[vrijdag 1 januari 1993]]
 			- [[0102 zaterdag 2 januari 1993]]
 			- [[0103 zondag 3 januari 1993]]
 			- [[0104 maandag 4 januari 1993]]
