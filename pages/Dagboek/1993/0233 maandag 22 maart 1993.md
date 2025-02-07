@@ -1,0 +1,4 @@
+# 0233 maandag 22 maart 1993
+De accu in Egmond wordt beschermd tegen te grote uitputting door een regelpaneel. Als er teveel stroom dreigt te worden afgenomen dan wordt de schakelaar omgezet. Te grote uitputting schaadt namelijk de levensduur. Soms bekruipt mij het gevoel dat mijn accu ook te zeer wordt uitgeput op het moment. Onderwijsverplichtingen, onderzoek, scripties, etc. etc. Proberen 's avonds consequent om 10 uur te stoppen. Geen tijd besteden aan onbelangrijke zaken.
+
+De muziek van de opera Idomeneo van Mozart is reuze populair hier thuis. Dankzij de fraaie bewerking van Frank Groothof op t.v. en op een bandje. Berend gaat ermee slapen. Cathrien zingt de aria's mee. In Egmond komt de watervoorziening steeds dichterbij. Bron geslagen, pomp (12V!) aangesloten. Werkt allemaal! Waterleiding blijkt gesprongen. Moet eerst gerepareerd.

@@ -1,0 +1,3 @@
+# 0503 maandag 3 mei 1993
+Als de maand mei een succesmaand wil worden, dan moet het de maand van de planning, van de ordelijkheid worden. Inderdaad: 's avonds niet werken, 's ochtends 1 à 2 uur werken. Verder de urenplanning zoveel mogelijk vasthouden. Geen uitglijders richting t.v. of computer. 's Avonds gericht ontspannen: lezen, schrijven, muziek maken of naar muziek luisteren. Plannen: thuis en de volgende dag.
+Nog een keer Sacks: enthousiasme, nieuwsgierigheid, hard werken, belezenheid. Dat ligt toch niet zo ver weg allemaal. Maar ook: hartstocht. De neiging om jezelf te geven. Geloven in jezelf, geen cynisme. Geen voor! Is zo niet bedoeld!!

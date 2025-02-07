@@ -1,0 +1,2 @@
+# 0422 donderdag 22 april 1993
+Vandaag Oom Jan begraven. Na 7 jaar (begrafenis Oma) zijn kinderen weer gezien. Oom Jan is op 69-jarige leeftijd aan botkanker overleden. De pastoor las een tafelgebed van H.O. voor: "Gij die weet wat in mensen omgaat". Morgen de bruiloft van Ton en Veronique. Daarvoor nu eerst nog een lied maken en schoenen poetsen. Nieuwe strategie: 's ochtends vroeg 1 of 2 uur werken, 's avonds <ins>niet</ins>! Geeft een enorm gevoel van ontspanning. Aardig zijn voor anderen en voor jezelf. Ordelijkheid als kenmerk van intelligentie (Jan Elshout). 

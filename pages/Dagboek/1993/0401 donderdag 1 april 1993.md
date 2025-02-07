@@ -1,0 +1,2 @@
+# 0401 donderdag 1 april 1993
+Ochtendtrein. Gisteravond interview met Sacks en film Awakenings. Interview: enthousiaste, nieuwsgierige, hardwerkende en belezen man. Geheugen: reconstructie. Vrije wil: je moet erin geloven. Patiënt verkiest om L-Dopa behandeling weer in te slapen. Verandering, zelforganisatie. Leven als (in) een droom. Film: genieten van het wonder van het leven. Enthousiasme uitstralen.

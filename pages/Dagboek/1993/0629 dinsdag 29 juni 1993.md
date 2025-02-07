@@ -1,0 +1,2 @@
+# 0629 dinsdag 29 juni 1993
+8:50. Prins Bernhard's verjaardag! Vanochtend weer prima hard gelopen. Strengheid bij opstaan en slapen gaan is in ieder geval belangrijk. Vanochtend presentaties van Ryan, Rombouts en Grootings. Kan interessant zijn. Het is wel een grote schijnconstructie, dit expertpanel. 

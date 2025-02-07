@@ -1,0 +1,2 @@
+# 0731 zaterdag 31 juli 1993
+Begin van de vakantie! Gisteravond aangekomen met de laatste spullen, o.a. de sjoelbak. Vandaag de eerste wandeling naar zee gemaakt. Redelijk weer. Vooruitzichten zijn positief. Cathrien zit ook in haar dagboek te schrijven. Laatste werkweek is zeer voorspoedig verlopen: nieuwe medewerker aangesteld, computer besteld, twee artikelen de deur uit. 

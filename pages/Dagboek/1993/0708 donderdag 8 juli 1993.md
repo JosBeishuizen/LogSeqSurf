@@ -1,0 +1,2 @@
+# 0708 donderdag 8 juli 1993
+Sex is voor mij: een donkere tunnel, een soort rioolbuis, waar je doorheen moet kruipen. Aan het eind een deurtje. Als het niet op slot zit kun je eruit, opluchting. Meestal zit het op slot, en moet je achterwaarts terugkruipen. Maximale vrijheidsberoving. Erotiek is wat anders, dat klopt. Maar toch ook de goedgegalonneerde portier bij de ingang van de rioolbuis. Ik probeer er aan voorbij te lopen. 

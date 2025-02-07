@@ -1,0 +1,2 @@
+# 0513 donderdag 13 mei 1993
+In de rustige dubbeldekker van 9:13. Gister een prima dag gehad. Gisteravond aardige film op t.v. Vervolgens gerommel met Mac, ½12 naar bed. Wakker gebleven omdat AC nog niet thuis was. Uiteindelijk beroerd geslapen vol met verkeerde gedachten. Vandaag opnieuw proberen. RESPECT!! Voor jezelf, God, anderen. Moeilijk verenigbaar met tv, computer, etc. Respect moet de basis zijn. Vandaag: twee vergaderingen met voorbereidingen, een serieus uur, kleine zaken. 

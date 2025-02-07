@@ -1,0 +1,2 @@
+# 0323 dinsdag 23 maart 199
+Vandaag goede berichten: 1. manuscript eindrapport Proefstation goedgekeurd voor publicatie. Door Kanselaar nog wel! Gunstig voorteken. 2. Studenten presteren goed tijdens en zijn tevreden over cursus Lezen en Tekstbegrip. 3. Toch nog positief bericht over democollege afgelopen vrijdag. Ik blijf sterk afhankelijk van dit soort schouderklopjes. Zal er nu eindelijk een moment aanbreken waarop de druk even afneemt? Morgen in ieder geval een dagje Egmond. Nu 5 blz. Toergenjev (vaders en zonen) en 10 blz. Boonman.

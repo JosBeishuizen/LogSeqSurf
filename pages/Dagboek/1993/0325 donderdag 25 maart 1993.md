@@ -1,0 +1,2 @@
+# 0325 donderdag 25 maart 1993
+Gisteravond met studenten gegeten in Leiden. Vannacht een uur wakker gelegen en om 5 uur eruit om te werken. Vandaag ging het goed. Nu om 9.30 naar bed. Nog even 10 blz. Toergenjev.

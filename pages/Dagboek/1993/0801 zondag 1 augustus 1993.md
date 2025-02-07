@@ -1,0 +1,2 @@
+# 0801 zondag 1 augustus 1993
+Vanochtend eerste rondje hard gelopen bij Egmond Binnen: 18:01. Proberen onder de 18 minuten te komen. We verwachten zo dadelijk de fam. Litjens. De brunch staat op tafel achter het huis. Proberen weer in het vakantieritme te komen. Wat moet gebeuren: radio (eerste poging vanochtend mislukt), huis schilderen, pad langs schuurtje. Als het deze week mooi weer blijft begin ik aan het schilderwerk. Radio er tussendoor.

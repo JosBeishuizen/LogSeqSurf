@@ -1,0 +1,4 @@
+# 0330 dinsdag 30 maart 1993
+Trein, ochtend. Cathrien prachtig paasrapport! Vreemd genoeg kleine dip bij hoofdrekenen en tafels. Nog maar eens goed oefenen, ook met de Mac. Sara kreeg van de juffrouw een prachtige mondelinge beoordeling. Werkt goed en zelfstandig, komt goed los in de klas. Is voor Eva een beetje te goeïig. Mocht met de klok op het schoolplein luiden en gaf de klok aan Eva. Berend: geen problemen. Alle vragen op Loes'rapport positief beaantwoord. Berend houdt erg van praten en komt daardoor wel eens wat achterop. Verder alles o.k.
+
+Balen: twee slecht geschreven scripties tegelijk om te beoordelen. Zeer tijdrovend. Positief: vandaag themacursus. Vanochtend redelijk op tijd. Kan nog beter.

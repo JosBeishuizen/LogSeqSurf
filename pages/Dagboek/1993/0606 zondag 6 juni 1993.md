@@ -1,0 +1,2 @@
+# 0606 zondag 6 juni 1993
+Zondagavond 21.00 uur. Aan het begin van een zomerse week: temperaturen rond 25°. Het lijkt wel of we op vakantie zijn in Retranchement. Daar hebben we rond deze tijd van het jaar ook vaak mooi weer gehad. Dit wordt een goede week: 7 uur horizontaal per nacht, geen alcohol, snoep, sigaren. Veel lezen en schrijven. Weinig praten, geen oppervlakkigheden! Eén voornemen per dagdeel: Nu: scriptie Hoek afmaken. 

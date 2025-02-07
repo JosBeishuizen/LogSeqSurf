@@ -1,0 +1,2 @@
+# 0616 woensdag 16 juni 1993
+8.30 (trein). AC weer in bed met herniaklachten! In eerste instantie was ik boos. Ze maakt zo'n onduidelijke en vage indruk. Ze kan vandaag weer uit bed gaan maar voor hetzelfde geld weer 4 weken blijven liggen. Nu begin ik de uitdaging te waarderen. Zien of we de zaak met Gerrie samen kunnen klaren op een beetje ontspannen manier. Niet uit het veld laten slaan door negatieve feedback van AC. Blijven praten. Lukt vanzelf als je de goede intentie hebt. Ook als ze fysiek niet aantrekkelijk is. Vandaag: VSNU klaar! Aanstellingen. Artikel Kuhn.
