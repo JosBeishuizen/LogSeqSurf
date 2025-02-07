@@ -4,4 +4,4 @@
   collapsed:: true
 	- Welke rekeningen?
 		- ABN AMRO
--
+- KvK opzeggen
