@@ -1,1 +1,2 @@
 - Verslag opheffingsvergadering
+- Welke rekeningen?
