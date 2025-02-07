@@ -1,2 +1,2 @@
 - 2025-02-05: 380 half
-- [[Wednesday 5 February 2025]]
+- ..

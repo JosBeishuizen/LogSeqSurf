@@ -51,7 +51,6 @@
 	- [[Afscheid van Gerrie]]
 	- [[Alzheimerlijst]]
 - Activiteiten
-  collapsed:: true
 	- Reviews
 	  collapsed:: true
 		- [[D-22-00513]]
@@ -116,6 +115,7 @@
 		- [[Roll]]
 		- [[Het Bureau]]
 - Geheugen
+  collapsed:: true
 	- Cultuur
 	  collapsed:: true
 		- [[Te Zien]]
@@ -357,7 +357,7 @@
 			- [[maandag 11 mei 1992]]
 			- [[maandag 25 mei 1992]]
 			- [[dinsdag 2 juni 1992]]
-			- [[0609 dinsdag 9 juni 1992]]
+			- [[dinsdag 9 juni 1992]]
 			- [[0620 zaterdag 20 juni 1992]]
 			- [[0711 zaterdag 11 juli 1992]]
 			- [[0715 woensdag 15 juli 1992]]
