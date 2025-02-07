@@ -412,7 +412,6 @@
 			- [[250124 vrijdag 24 januari 2025]]
 			- [[25]]
 	- Digitaal
-	  collapsed:: true
 		- Data
 		  collapsed:: true
 			- [[AC]]

@@ -104,11 +104,9 @@ b.header{
   color: #59CCFF;
   font-weight: normal;
 }
-:root:not(.is-native-android) .ls-block[haschild="false"][level="1"]:not([data-refs-self*="@"]) > div > div > a > .bullet-container {
 
-    display: none !important;  
 
-}
+
 ::selection {
 
   background: #48D;
