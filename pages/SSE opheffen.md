@@ -1,5 +1,7 @@
 - Verslag opheffingsvergadering
+	- [[Friday 7 February 2025]] verslag naar bestuur gestuurd
 - Eindafrekening Henk
+	- [[Friday 7 February 2025]] mutatieoverzichten naar
 - Rekening opheffen
   collapsed:: true
 	- Welke rekeningen?
