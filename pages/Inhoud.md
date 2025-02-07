@@ -347,6 +347,7 @@
 			- [[zondag 8 december 1991]]
 			- [[dinsdag 17 december 1991]]
 		- 1992
+		  collapsed:: true
 			- [[vrijdag 3 januari 1992]]
 			- [[woensdag 8 januari 1992]]
 			- [[zondag 12 januari 1992]]
