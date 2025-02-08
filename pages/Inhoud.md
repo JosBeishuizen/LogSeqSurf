@@ -386,12 +386,12 @@
 			- [[zondag 28 maart 1993]]
 			- [[dinsdag 30 maart 1993]]
 			- [[woensdag 31 maart 1993]]
-			- [[0401 donderdag 1 april 1993]]
-			- [[0422 donderdag 22 april 1993]]
-			- [[0503 maandag 3 mei 1993]]
-			- [[0512 woensdag 12 mei 1993]]
-			- [[0513 donderdag 13 mei 1993]]
-			- [[0514 vrijdag 14 mei 1993]]
+			- [[donderdag 1 april 1993]]
+			- [[donderdag 22 april 1993]]
+			- [[maandag 3 mei 1993]]
+			- [[woensdag 12 mei 1993]]
+			- [[donderdag 13 mei 1993]]
+			- [[vrijdag 14 mei 1993]]
 			- [[0517 maandag 17 mei 1993]]
 			- [[0518 dinsdag 18 mei 1993]]
 			- [[0523 zondag 23 mei 1993]]
@@ -419,7 +419,6 @@
 			- [[0815 zondag 15 augustus 1993]]
 			- [[0822 zondag 22 augsutus 1993]]
 			- [[0830 maandag 30 augustus 1993]]
-			-
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
