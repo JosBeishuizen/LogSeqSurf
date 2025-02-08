@@ -38,6 +38,7 @@
 		- [[Monday 30 December 2024]]
 		- [[Tuesday 31 December 2024]]
 - Planning
+  collapsed:: true
 	- [[Taken]]
 	- [[Reviews]]
 	- [[Financiën]]
@@ -50,6 +51,7 @@
 	- [[Afscheid van Gerrie]]
 	- [[Alzheimerlijst]]
 - Activiteiten
+  collapsed:: true
 	- Reviews
 	  collapsed:: true
 		- [[D-22-00513]]
@@ -87,6 +89,7 @@
 				- [[5 Voorbij winst en verlies. Over identiteit en ontwrichting]]
 				- [[6 De onteigende getuige. Over mystiek, taak en getuigenis]]
 		- Veerkamp
+		  collapsed:: true
 			- [[01. In het begin was het boek]]
 			- [[02. Twee zienswijzen, twee ordeningen]]
 			- [[03. Het ontstaan van het Grote Verhaal]]
@@ -117,7 +120,6 @@
 		- [[Te Zien]]
 		- [[Gezien]]
 	- Dagboek
-	  collapsed:: true
 		- 1959
 		  collapsed:: true
 			- [[maandag 25 mei 1959]]
@@ -384,6 +386,40 @@
 			- [[zondag 28 maart 1993]]
 			- [[dinsdag 30 maart 1993]]
 			- [[woensdag 31 maart 1993]]
+			- [[0401 donderdag 1 april 1993]]
+			- [[0422 donderdag 22 april 1993]]
+			- [[0503 maandag 3 mei 1993]]
+			- [[0512 woensdag 12 mei 1993]]
+			- [[0513 donderdag 13 mei 1993]]
+			- [[0514 vrijdag 14 mei 1993]]
+			- [[0517 maandag 17 mei 1993]]
+			- [[0518 dinsdag 18 mei 1993]]
+			- [[0523 zondag 23 mei 1993]]
+			- [[0525 dinsdag 25 mei 1993]]
+			- [[0606 zondag 6 juni 1993]]
+			- [[0611 vrijdag 11 juni 1993]]
+			- [[0615 dinsdag 15 juni 1993]]
+			- [[0616 woensdag 16 juni 1993]]
+			- [[0618 vrijdag 18 juni 1993]]
+			- [[0621 maandag 21 juni 1993]]
+			- [[0622 dinsdag 22 juni 1993]]
+			- [[0623 woensdag 23 juni 1993]]
+			- [[0627 zondag 27 juni 1993]]
+			- [[0628 maandag 28 juni 1993]]
+			- [[0629 dinsdag 29 juni 1993]]
+			- [[0701 donderdag 1 juli 1993]]
+			- [[0708 donderdag 8 juli 1993]]
+			- [[0711 zondag 11 juli 1993]]
+			- [[0716 vrijdag 16 juli 1993]]
+			- [[0720 dinsdag 20 juli 1993]]
+			- [[0731 zaterdag 31 juli 1993]]
+			- [[0801 zondag 1 augustus 1993]]
+			- [[0804 woensdag 4 augustus 1993]]
+			- [[0814 zaterdag 14 augustus 1993]]
+			- [[0815 zondag 15 augustus 1993]]
+			- [[0822 zondag 22 augsutus 1993]]
+			- [[0830 maandag 30 augustus 1993]]
+			-
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
