@@ -70,7 +70,6 @@
 		- [[D-24-01050]]
 		- [[De vragen van Alexander]]
 	- Studie
-	  collapsed:: true
 		- [[Maleachi]]
 		- Levinas
 			- Levinas - aantekeningen
