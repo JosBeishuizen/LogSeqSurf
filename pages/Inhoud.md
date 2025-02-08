@@ -87,7 +87,6 @@
 				- [[5 Voorbij winst en verlies. Over identiteit en ontwrichting]]
 				- [[6 De onteigende getuige. Over mystiek, taak en getuigenis]]
 		- Veerkamp
-		  collapsed:: true
 			- [[01. In het begin was het boek]]
 			- [[02. Twee zienswijzen, twee ordeningen]]
 			- [[03. Het ontstaan van het Grote Verhaal]]
@@ -105,7 +104,7 @@
 			- [[16. Wat is er van het Grote Verhaal geworden?]]
 			- [[17. 'Apostolische Vaders']]
 			- [[18. Het Rijk in crisis]]
-			-
+			- [[20. Samenvatting]]
 		- Ton van der Stap
 			- In een ander licht
 				- [[05 God en ik, wij zijn een]]
