@@ -19,6 +19,9 @@
 - TODO inventaris Arjen Vader
 - TODO Review Edurev
   DEADLINE: <2025-02-24 Mon>
+	- TODO p01-10
+	- TODO p11-20
+	- TODO p21-29
 -
 - Elke dag
 	- TODO Veerkamp: [[18. Het Rijk in crisis]]

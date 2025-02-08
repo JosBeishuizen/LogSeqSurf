@@ -38,7 +38,6 @@
 		- [[Monday 30 December 2024]]
 		- [[Tuesday 31 December 2024]]
 - Planning
-  collapsed:: true
 	- [[Taken]]
 	- [[Reviews]]
 	- [[Financiën]]
@@ -73,6 +72,7 @@
 		- [[Maleachi]]
 		- Levinas
 			- Levinas - aantekeningen
+			  collapsed:: true
 				- [[Hypostase]]
 			- Theo de Boer - Tussen filosofie en profetie
 			  collapsed:: true
