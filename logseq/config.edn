@@ -366,7 +366,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["Albert Camus - Fatsoen" "Mooie Citaten en Teksten" "Taken" "Templates" "Inhoud"]
+ :favorites ["Mooie Citaten en Teksten" "Taken" "Templates" "Inhoud"]
 
  ;; Set flashcards interval.
  ;; Expected value:
