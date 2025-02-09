@@ -594,7 +594,7 @@
 			- [[Oosterhuis Huub - Van God is de aarde]]
 			- [[Oosterhuis  Huub - Lied van de Zevende Dag]]
 		- Jean Pierre Rawie
-		-
+		- Gerard Reve
 		- Vasalis
 		  collapsed:: true
 			- [[Vasalis - De zomerwei des ochtends vroeg]]
