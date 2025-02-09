@@ -2,13 +2,11 @@
   bouwde in de zandbak,
   werden mijn haastige kuilen vol-
   gebulldozerd met lijken
-  
-  en wanneer ik gewassen en gekamd
+- en wanneer ik gewassen en gekamd
   naar school liep, ontploften er
   telkens als ik op een betonbarst stapte
   rode granaten.
-  
-  Nu, volwassen en
+- Nu, volwassen en
   geletterd, zit ik in mijn fauteuil
   zo rustig als een lont
   
