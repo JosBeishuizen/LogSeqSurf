@@ -576,6 +576,7 @@
 		- Gerrit Krol
 		- Philip Larkin
 		- A. Marja
+		-
 		- Huub Oosterhuis
 		  collapsed:: true
 			- [[Oosterhuis Huub - Deze dag]]
