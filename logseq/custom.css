@@ -9,7 +9,7 @@ body {
 }
 
 :root {
-    --ls-page-title-size: 1.5em;1
+    --ls-page-title-size: 1.5em;
 }
 
 .references.page-unlinked.mt-6.flex-1.flex-row{
@@ -28,7 +28,7 @@ font-size: 16px;
  font-weight: normal;
  color: #59CCFF;
  margin-top: 0.0em !important;
- ¹11¹¹margin-bottom: 0.0em !important;
+ margin-bottom: 0.0em !important;
  line-height: 1.3em !important;
  margin:1px 0px 1px 0px !important;
  padding: 1px 0px 2px 0px !important;
@@ -44,8 +44,9 @@ a.tag {
 
 .editor-inner .uniline-block:is(.h1,.h2), .ls-block :is(h1,h2) {
     font-size: 16px;
+    font-color: #405e81;
   	border-bottom: none;
-    color: #405e81;
+
 }
 
 /*
