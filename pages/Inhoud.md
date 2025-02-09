@@ -545,7 +545,7 @@
 			- [[Clifton Lucille - Won’t you celebrate with me]]
 		- Leonard Cohen
 		- Connie Converse
-		- Herman de
+		- Herman de Coninck
 		- Rutger Kopland
 		  collapsed:: true
 			- [[Kopland Rutger - Aan het grensland]]
