@@ -625,6 +625,7 @@
 		- Willem Wilmink
 		- Kees Winkler
 	- Recepten
+	  collapsed:: true
 		- [[Aardappelsalade met gerookte forel]]
 		- [[Aardperentaart met peren]]
 		- [[Bietensoep met appel en balsamicoazijn]]
@@ -670,7 +671,6 @@
 	  }
 	  #+END_QUERY
 	- Krantenknipsels
-	  collapsed:: true
 		- [[20250201 Interview met Herman van Praag]]
 		- [[20250203 Paus en patriarch over Pasen op dezelfde dag]]
 		- [[20250204 Over Marijn Kruk en zijn analyse van radicaal-rechts]]
