@@ -495,7 +495,6 @@
 		- [[Queries]]
 		- [[Templates]]
 	- Poëzie
-	  collapsed:: true
 		- Gerrit Achterberg
 		  collapsed:: true
 			- [[Achterberg Gerrit - Hulshorst]]
@@ -509,6 +508,7 @@
 		  collapsed:: true
 			- [[Auden W.H. - Funeral Blues]]
 		- J.S. Bach
+		  collapsed:: true
 			- [[Komm, Jesu, komm - J.S. Bach]]
 		- Nicolaas Beets
 		  collapsed:: true
