@@ -1,4 +1,5 @@
 - TODO SSE opheffen
+  collapsed:: true
 - TODO rijbewijs verlengen
 - TODO Ton van der Stap: [[05 God en ik, wij zijn een]]
 - TODO Foto Gerrie
@@ -8,7 +9,7 @@
 -
 - Elke dag
 	- TODO Veerkamp: [[17. 'Apostolische Vaders']]
-	- TODO [[Roll]]
+	- DONE [[Roll]]
 	- TODO [[Filosoferen met kinderen]]
 	- TODO piano spelen
 	- TODO twee artikelen uit Argus
