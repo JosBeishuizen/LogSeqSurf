@@ -559,7 +559,8 @@
 		- Ed Hoornik
 		- Tjitske Jansen
 		- C.O. Jellema
-		- Ingrid
+		- Ingrid Jonker
+		- K.P. Kafavis
 		- Rutger Kopland
 		  collapsed:: true
 			- [[Kopland Rutger - Aan het grensland]]
@@ -571,6 +572,8 @@
 			- [[Kopland Rutger - Portret]]
 			- [[Rutger Kopland - Psalm]]
 			- [[Kopland Rutger - Voorjaarsgedicht]]
+		- Jan Kostwinder
+		-
 		- Huub Oosterhuis
 		  collapsed:: true
 			- [[Oosterhuis Huub - Deze dag]]
