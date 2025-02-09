@@ -595,6 +595,8 @@
 			- [[Oosterhuis  Huub - Lied van de Zevende Dag]]
 		- Jean Pierre Rawie
 		- Gerard Reve
+		- Paul Rodenko
+		- Adriaan Roland
 		- Vasalis
 		  collapsed:: true
 			- [[Vasalis - De zomerwei des ochtends vroeg]]
