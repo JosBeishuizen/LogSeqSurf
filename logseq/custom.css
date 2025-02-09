@@ -44,17 +44,16 @@ a.tag {
 
 .editor-inner .uniline-block:is(.h1,.h2), .ls-block :is(h1,h2) {
     font-size: 16px;
-    font-color: #405e81;
   	border-bottom: none;
 
 }
 
-/*
+
 .cp__sidebar-main-content h1.title {
-    color:#405e81;
+    color:#59CCFF;
 
 }
-*/
+
 
 .asset-container > img {
   max-height: 200px;
