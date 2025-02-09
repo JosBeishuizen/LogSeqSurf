@@ -593,6 +593,8 @@
 			- [[Oosterhuis Huub - Lied van alle dagen]]
 			- [[Oosterhuis Huub - Van God is de aarde]]
 			- [[Oosterhuis  Huub - Lied van de Zevende Dag]]
+		- Jean Pierre Rawie
+		-
 		- Vasalis
 		  collapsed:: true
 			- [[Vasalis - De zomerwei des ochtends vroeg]]
