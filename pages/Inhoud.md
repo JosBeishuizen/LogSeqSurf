@@ -543,6 +543,8 @@
 		- Lucille Clifton
 		  collapsed:: true
 			- [[Clifton Lucille - Won’t you celebrate with me]]
+		- Leonard Cohen
+		-
 		- Rutger Kopland
 		  collapsed:: true
 			- [[Kopland Rutger - Aan het grensland]]
