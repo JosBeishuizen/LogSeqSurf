@@ -544,6 +544,7 @@
 		  collapsed:: true
 			- [[Clifton Lucille - Won’t you celebrate with me]]
 		- Leonard Cohen
+		- Connie Clifton
 		-
 		- Rutger Kopland
 		  collapsed:: true
