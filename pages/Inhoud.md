@@ -552,6 +552,7 @@
 		- Emily Dickinson
 		- Jan Eijkelboom
 		- Willem Elsschot
+		- Ida Gerhardt
 		-
 		- Rutger Kopland
 		  collapsed:: true
