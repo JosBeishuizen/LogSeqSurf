@@ -612,7 +612,8 @@
 		- Simon Vestdijk
 		- Leo Vroman
 		- Robison Willard
-		-
+		- Willem Wilmink
+		- Kees
 	- Recepten
 		- [[Aardappelsalade met gerookte forel]]
 		- [[Aardperentaart met peren]]
