@@ -676,12 +676,23 @@
 			- [[Oosterhuis Huub - Van God is de aarde]]
 			- [[Oosterhuis  Huub - Lied van de Zevende Dag]]
 		- Jean Pierre Rawie
+		  collapsed:: true
 			- [[Rawie Jean Pierre - Sterfbed]]
 			- [[Rawie Jean Pierre - Voorgoed]]
 		- Gerard Reve
+			- [[Reve Gerard - Roeping]]
+			- [[Reve Gerard - Bekentenis]]
+			- [[Reve Gerard - Dagsluiting]]
+			- [[Reve Gerard - Quia Absurdum]]
 		- Paul Rodenko
+			- [[Rodenko Paul - Februarizon]]
 		- Adriaan Roland Holst
+			- [[Roland Holst Adriaan - Zwerversliefde]]
 		- Annie M.G. Schmidt
+			- [[Schmidt Annie M.G. - Zonder jou]]
+			- [[Schmidt Annie M.G. - Herinnering]]
+			- [[Schmidt Annie M.G. - Ik ben lekker stout]]
+			- [[Schmidt Annie M.G. - Aan een klein meisje]]
 		- William Shakespeare
 		- J.J. Slauerhoff
 		- Toon Tellegen

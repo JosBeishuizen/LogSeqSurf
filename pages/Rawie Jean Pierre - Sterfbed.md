@@ -1,4 +1,3 @@
-# Rawie Jean Pierre - Sterfbed
 - Mijn vader sterft; als ik zijn hand vasthoud,
   voel ik de botten door zijn huid heen steken.
   Ik zoek naar woorden maar hij kan niet spreken
