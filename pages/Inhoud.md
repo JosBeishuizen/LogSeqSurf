@@ -598,6 +598,11 @@
 			- [[Herzberg Judith - Een kinderspiegel]]
 			- [[Herzberg Judith - Alleen in een klein huis]]
 		- Ed Hoornik
+			- [[Hoornik Ed - Enkel verdriet]]
+			- [[Hoornik Ed - Hebben en zijn]]
+			- [[Hoornik Ed - Mijn dochter en ik]]
+			- [[Hoornik Ed - Ik ben de kleine dochter van Jaïrus]]
+			- [[Hoornik Ed - Requiem]]
 		- Tjitske Jansen
 		- C.O. Jellema
 		- Ingrid Jonker
