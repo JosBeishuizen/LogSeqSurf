@@ -556,6 +556,7 @@
 		- Herman Gorter
 		- Jan Hanlo
 		- Judith Herzberg
+		- Ed Hoornik
 		- Rutger Kopland
 		  collapsed:: true
 			- [[Kopland Rutger - Aan het grensland]]
