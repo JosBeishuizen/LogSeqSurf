@@ -578,7 +578,7 @@
 		- A. Marja
 		- Czeslaw Milosz
 		- Adriaan Morriën
-		-
+		- Wilhelm Müller
 		- Huub Oosterhuis
 		  collapsed:: true
 			- [[Oosterhuis Huub - Deze dag]]
