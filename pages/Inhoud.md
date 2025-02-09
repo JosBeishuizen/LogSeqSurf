@@ -605,9 +605,20 @@
 			- [[Hoornik Ed - Ik ben de kleine dochter van Jaïrus]]
 			- [[Hoornik Ed - Requiem]]
 		- Tjitske Jansen
+		  collapsed:: true
+			- [[Jansen Tjitske - Dit is een brief]]
+			- [[Jansen Tjitske - Ik vroeg mijn vader]]
+			- [[Jansen Tjitske - Voor zijn verjaardag]]
+			- [[Jansen Tjitske - Ik wil een privé-detective]]
 		- C.O. Jellema
+		  collapsed:: true
+			- [[Jellema C.O. - Als huis]]
 		- Ingrid Jonker
+		  collapsed:: true
+			- [[Jonker Ingrid - Het kind dat doodgeschoten is]]
 		- K.P. Kafavis
+		  collapsed:: true
+			- [[K.P. Kafavis - Ithaka]]
 		- Rutger Kopland
 		  collapsed:: true
 			- [[Kopland Rutger - Aan het grensland]]
@@ -620,13 +631,24 @@
 			- [[Rutger Kopland - Psalm]]
 			- [[Kopland Rutger - Voorjaarsgedicht]]
 		- Jan Kostwinder
+			- [[Kostwinder Jan - Paola]]
+			- [[Kostwinder Jan - Schuilplaats]]
 		- Gerrit Krol
+			- [[Krol Gerrit - De deur]]
 		- Philip Larkin
+			- [[Larkin Philip - Aubade]]
 		- A. Marja
+			- [[Marja A. - Moment sentimental]]
 		- Czeslaw Milosz
+			- [[Milosz Czeslaw - De Zin]]
+			- [[Milosz Czeslaw - Campo dei Fiori]]
+			- [[Milosz Czeslaw - Song on the End of the World]]
 		- Adriaan Morriën
+			- [[Morriën Adriaan - Een duizendkunstenaar]]
 		- Wilhelm Müller
+			- [[Müller Wilhem - Franz Schubert - Mut]]
 		- Randy Newman
+			- []]
 		- Martinus Nijhoff
 		- Huub Oosterhuis
 		  collapsed:: true
