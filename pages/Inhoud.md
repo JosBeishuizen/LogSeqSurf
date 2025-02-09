@@ -544,8 +544,13 @@
 		  collapsed:: true
 			- [[Clifton Lucille - Won’t you celebrate with me]]
 		- Leonard Cohen
+			- [[Leonard Cohen - Anthem]]
 		- Connie Converse
+			- [[Converse Connie - One by one]]
 		- Herman de Coninck
+			- [[De Coninck Herman - Krantenlezen is gevaarlijk]]
+			- [[De Coninck Herman - Poëzie]]
+			- [[De Coninck Herman - Winterochtend]]
 		- Freek de Jonge
 		- Jules Deelder
 		- Sandy Denny
@@ -613,7 +618,7 @@
 		- Leo Vroman
 		- Robison Willard
 		- Willem Wilmink
-		- Kees
+		- Kees Winkler
 	- Recepten
 		- [[Aardappelsalade met gerookte forel]]
 		- [[Aardperentaart met peren]]
