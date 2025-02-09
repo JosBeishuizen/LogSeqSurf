@@ -573,6 +573,7 @@
 			- [[Rutger Kopland - Psalm]]
 			- [[Kopland Rutger - Voorjaarsgedicht]]
 		- Jan Kostwinder
+		- Gerrit Krol
 		-
 		- Huub Oosterhuis
 		  collapsed:: true
