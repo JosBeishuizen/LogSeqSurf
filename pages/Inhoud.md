@@ -598,7 +598,8 @@
 		- Paul Rodenko
 		- Adriaan Roland Holst
 		- Annie M.G. Schmidt
-		-
+		- William Shakespeare
+		- J.J.
 		- Vasalis
 		  collapsed:: true
 			- [[Vasalis - De zomerwei des ochtends vroeg]]
