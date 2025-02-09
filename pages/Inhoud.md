@@ -115,7 +115,6 @@
 		- [[Roll]]
 		- [[Het Bureau]]
 - Geheugen
-  collapsed:: true
 	- Cultuur
 		- [[Te Zien]]
 		- [[Gezien]]
@@ -492,7 +491,6 @@
 		- [[Queries]]
 		- [[Templates]]
 	- Poëzie
-	  collapsed:: true
 		- Gerrit Achterberg
 		  collapsed:: true
 			- [[Achterberg Gerrit - Hulshorst]]
@@ -569,7 +567,6 @@
 			- [[Vasalis - De zomerwei des ochtends vroeg]]
 			- [[Vasalis - Tijd]]
 	- Recepten
-	  collapsed:: true
 		- [[Aardappelsalade met gerookte forel]]
 		- [[Aardperentaart met peren]]
 		- [[Bietensoep met appel en balsamicoazijn]]
