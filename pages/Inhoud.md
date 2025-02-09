@@ -51,7 +51,6 @@
 	- [[Afscheid van Gerrie]]
 	- [[Alzheimerlijst]]
 - Activiteiten
-  collapsed:: true
 	- Reviews
 	  collapsed:: true
 		- [[D-22-00513]]
@@ -116,6 +115,7 @@
 		- [[Roll]]
 		- [[Het Bureau]]
 - Geheugen
+  collapsed:: true
 	- Cultuur
 		- [[Te Zien]]
 		- [[Gezien]]
