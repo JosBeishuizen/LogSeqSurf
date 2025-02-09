@@ -43,6 +43,7 @@
 	- [[Reviews]]
 	- [[Financiën]]
 - Aantekeningen
+  collapsed:: true
 	- [[Recensie Prophet Song]]
 	- [[Abonnementen]]
 	- [[Herinneringen aan Gerrie]]
@@ -71,6 +72,7 @@
 	- Studie
 		- [[Maleachi]]
 		- Levinas
+		  collapsed:: true
 			- Levinas - aantekeningen
 			  collapsed:: true
 				- [[Hypostase]]
@@ -424,6 +426,7 @@
 			- [[maandag 30 december 2024]]
 			- [[dinsdag 31 december 2024]]
 		- 2025
+		  collapsed:: true
 			- [[woensdag 1 januari 2025]]
 			- [[vrijdag 3 januari 2025]]
 			- [[vrijdag 10 januari 2025]]
@@ -442,6 +445,7 @@
 			- [[241215 zondag 15 december 2012]]
 			- [[250124 vrijdag 24 januari 2025]]
 			- [[25]]
+			  collapsed:: true
 	- Digitaal
 		- Data
 		  collapsed:: true
@@ -491,6 +495,7 @@
 		- [[Queries]]
 		- [[Templates]]
 	- Poëzie
+	  collapsed:: true
 		- Gerrit Achterberg
 		  collapsed:: true
 			- [[Achterberg Gerrit - Hulshorst]]
@@ -670,6 +675,7 @@
 	  }
 	  #+END_QUERY
 	- Krantenknipsels
+	  collapsed:: true
 		- [[20250201 Interview met Herman van Praag]]
 		- [[20250203 Paus en patriarch over Pasen op dezelfde dag]]
 		- [[20250204 Over Marijn Kruk en zijn analyse van radicaal-rechts]]
