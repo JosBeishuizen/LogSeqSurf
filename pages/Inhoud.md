@@ -546,6 +546,8 @@
 		- Leonard Cohen
 		- Connie Converse
 		- Herman de Coninck
+		- Freek de Jonge
+		- Jules Deelder
 		- Rutger Kopland
 		  collapsed:: true
 			- [[Kopland Rutger - Aan het grensland]]
