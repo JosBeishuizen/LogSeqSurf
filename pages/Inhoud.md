@@ -550,7 +550,7 @@
 		- Jules Deelder
 		- Sandy Denny
 		- Emily Dickinson
-		-
+		- Jan Eijkelboom
 		- Rutger Kopland
 		  collapsed:: true
 			- [[Kopland Rutger - Aan het grensland]]
