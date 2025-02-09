@@ -631,25 +631,38 @@
 			- [[Rutger Kopland - Psalm]]
 			- [[Kopland Rutger - Voorjaarsgedicht]]
 		- Jan Kostwinder
+		  collapsed:: true
 			- [[Kostwinder Jan - Paola]]
 			- [[Kostwinder Jan - Schuilplaats]]
 		- Gerrit Krol
+		  collapsed:: true
 			- [[Krol Gerrit - De deur]]
 		- Philip Larkin
+		  collapsed:: true
 			- [[Larkin Philip - Aubade]]
 		- A. Marja
+		  collapsed:: true
 			- [[Marja A. - Moment sentimental]]
 		- Czeslaw Milosz
+		  collapsed:: true
 			- [[Milosz Czeslaw - De Zin]]
 			- [[Milosz Czeslaw - Campo dei Fiori]]
 			- [[Milosz Czeslaw - Song on the End of the World]]
 		- Adriaan Morriën
+		  collapsed:: true
 			- [[Morriën Adriaan - Een duizendkunstenaar]]
 		- Wilhelm Müller
+		  collapsed:: true
 			- [[Müller Wilhem - Franz Schubert - Mut]]
 		- Randy Newman
+		  collapsed:: true
 			- [[Randy Newman - God's Song]]
 		- Martinus Nijhoff
+		  collapsed:: true
+			- [[Nijhoff Martinus - Aan een graf]]
+			- [[Nijhoff Martinus - De moeder de vrouw]]
+			- [[Nijhoff Martinus - Voor dag en dauw VIII]]
+			- [[Nijhoff Martinus - Voor dag en dauw - Open brief]]
 		- Huub Oosterhuis
 		  collapsed:: true
 			- [[Oosterhuis Huub - Deze dag]]
@@ -663,6 +676,8 @@
 			- [[Oosterhuis Huub - Van God is de aarde]]
 			- [[Oosterhuis  Huub - Lied van de Zevende Dag]]
 		- Jean Pierre Rawie
+			- [[Rawie Jean Pierre - Sterfbed]]
+			- [[Rawie Jean Pierre - Voorgoed]]
 		- Gerard Reve
 		- Paul Rodenko
 		- Adriaan Roland Holst
