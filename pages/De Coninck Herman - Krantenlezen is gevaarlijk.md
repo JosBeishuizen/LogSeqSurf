@@ -23,13 +23,10 @@
   in zwart en wit gepokte
   oorlogsfoto’s, hoe houd ik het
   tegen
-  
-  krantenlezen is gevaarlijk.
-  
-  Telkens als ik een toets aansla
+- krantenlezen is gevaarlijk.
+- Telkens als ik een toets aansla
   op mijn elektrische schrijfmachine,
   schrijven van vredige bomen
-  
-  ontploft er weer een dorp.
+- ontploft er weer een dorp.
   
   (Bron: De gedichten/Arbeiderspers)
