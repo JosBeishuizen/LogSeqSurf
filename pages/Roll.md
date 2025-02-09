@@ -426,4 +426,7 @@
 		  logseq.order-list-type:: number
 		- Egocentrisch verhaal
 		  logseq.order-list-type:: number
-		- logseq.order-list-type:: number
+		- Lastig te volgen()))
+		  logseq.order-list-type:: number
+		- Toch te weinig context om de gebeurtenissen in hun politieke context te plaatsen. 
+		  logseq.order-list-type:: number
