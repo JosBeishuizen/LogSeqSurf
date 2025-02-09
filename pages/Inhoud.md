@@ -575,6 +575,7 @@
 		- Jan Kostwinder
 		- Gerrit Krol
 		- Philip Larkin
+		- A. Marja
 		- Huub Oosterhuis
 		  collapsed:: true
 			- [[Oosterhuis Huub - Deze dag]]
@@ -645,4 +646,4 @@
 	- Externe tekstbestanden (pdf etc.)
 	  collapsed:: true
 		- ![easypeasy](../assets/easypeasy.pdf)
-		- ![EDUREVD2400986](../assets/EDUREVD24009
+		- ![EDUREVD2400986](../assets/EDUREVD2400986.pdf)
