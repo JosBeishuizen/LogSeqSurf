@@ -552,10 +552,14 @@
 			- [[De Coninck Herman - Poëzie]]
 			- [[De Coninck Herman - Winterochtend]]
 		- Freek de Jonge
-			-
+			- [[De Jonge Freek - Jij]]
+			- [[De Jonge Freek - Mooi woon je...]]
 		- Jules Deelder
+			- [[Deelder Jules - Voor Ari]]
 		- Sandy Denny
+			- [[Denny Sandy - Who Knows Where the Time Goes]]
 		- Emily Dickinson
+			- [[Dickinson Emily - Ample make this bed]]
 		- Jan Eijkelboom
 		- Willem Elsschot
 		- Ida Gerhardt
