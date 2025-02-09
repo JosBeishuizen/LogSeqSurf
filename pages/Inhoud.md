@@ -576,7 +576,7 @@
 		- Gerrit Krol
 		- Philip Larkin
 		- A. Marja
-		- Czeslaw Milis
+		- Czeslaw Milosz
 		- Huub Oosterhuis
 		  collapsed:: true
 			- [[Oosterhuis Huub - Deze dag]]
