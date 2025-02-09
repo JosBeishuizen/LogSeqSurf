@@ -555,7 +555,7 @@
 		- Ida Gerhardt
 		- Herman Gorter
 		- Jan Hanlo
-		-
+		- Judith Herzberg
 		- Rutger Kopland
 		  collapsed:: true
 			- [[Kopland Rutger - Aan het grensland]]
