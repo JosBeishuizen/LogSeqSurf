@@ -608,7 +608,7 @@
 		  collapsed:: true
 			- [[Vasalis - De zomerwei des ochtends vroeg]]
 			- [[Vasalis - Tijd]]
-		- Simon
+		- Simon Vestdijk
 	- Recepten
 		- [[Aardappelsalade met gerookte forel]]
 		- [[Aardperentaart met peren]]
