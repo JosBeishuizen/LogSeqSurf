@@ -399,8 +399,31 @@
 		- 23:23 🛑
 	- Friday 07 February 2025
 	- Sunday 09 February 2025
-		-
+	  collapsed:: true
+		- 21:10 458
+		- 21:12 459
+		- 21:13 460
+		- 21:16 461
+		- 21:18 462
+		- 21:23 🛑
+-
 - Inhoud
-  collapsed:: true
 	- Verhaal over het "brein", over de actualiteit van modern hersenonderzoek. Verdient nuancering. Het brein doet dit en doet dat. Hersenonderzoek versus geheugenonderzoek.
 	- p. 177/178: dominantie linker hersenhelft
+	- Vijf pluspunten
+		- Schets van de manier waarop Duitse babyboomers met het collectieve en individuele oorlogsverleden omgaan. 
+		  logseq.order-list-type:: number
+		- Goed en spannend geschreven. 
+		  logseq.order-list-type:: number
+		- Indringend verslag van aneurysma.
+		  logseq.order-list-type:: number
+		- Rijkdom aan details
+		  logseq.order-list-type:: number
+		- Goede opbouw van het verhaal.
+		  logseq.order-list-type:: number
+	- Vijf kritiekpunten
+		- Gedoe over neuro
+		  logseq.order-list-type:: number
+		- Egocentrisch verhaal
+		  logseq.order-list-type:: number
+		- logseq.order-list-type:: number
