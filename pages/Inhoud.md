@@ -43,13 +43,13 @@
 	- [[Reviews]]
 	- [[Financiën]]
 - Aantekeningen
-  collapsed:: true
 	- [[Recensie Prophet Song]]
 	- [[Abonnementen]]
 	- [[Herinneringen aan Gerrie]]
 	- [[Foto's Gerrie]]
 	- [[Afscheid van Gerrie]]
 	- [[Alzheimerlijst]]
+	- [[Cadeaus]]
 - Activiteiten
 	- Reviews
 	  collapsed:: true
