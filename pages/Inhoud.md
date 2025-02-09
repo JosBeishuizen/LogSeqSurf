@@ -597,6 +597,8 @@
 		- Gerard Reve
 		- Paul Rodenko
 		- Adriaan Roland Holst
+		- Annie M.G. Schmidt
+		-
 		- Vasalis
 		  collapsed:: true
 			- [[Vasalis - De zomerwei des ochtends vroeg]]
