@@ -9,8 +9,7 @@ body {
 }
 
 :root {
-    --ls-page-title-size: 1.5em;
-    --ls-page-title-color: yellow;
+    --ls-page-title-size: 1.5em;1
 }
 
 .references.page-unlinked.mt-6.flex-1.flex-row{
