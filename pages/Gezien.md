@@ -39,5 +39,5 @@ Cijfer:: 10
   Gezien-op:: 30-01-2025, op Disney+
   Opm:: Leuk begin met vier verschillende sprookjes door elkaar. Maar na het happy end halverwege de film loopt het verhaal in de soep.
   Cijfer:: 6
--
+- ..
 -
