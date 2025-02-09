@@ -9,19 +9,16 @@
 - Nu, volwassen en
   geletterd, zit ik in mijn fauteuil
   zo rustig als een lont
-  
-  en de jungles staan in de fik, het struik-
+- en de jungles staan in de fik, het struik-
   gewas zit bomvol soldaten,
   namen op moeilijke landkaarten
   gaan in rook op.
-  
-  Ik ben de oorzaak, ik ben een stapel chemisch
+- Ik ben de oorzaak, ik ben een stapel chemisch
   speelgoed, mijn lichaam
   een dodelijk bedenksel,
   liefdevol strek ik mijn armen als pistolen,
   mijn goeie bedoelingen zijn volstrekt funest.
-  
-  Zelf mijn
+- Zelf mijn
   passieve ogen veranderen al wat ik zie
   in zwart en wit gepokte
   oorlogsfoto’s, hoe houd ik het
