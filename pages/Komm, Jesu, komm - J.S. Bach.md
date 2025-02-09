@@ -11,5 +11,5 @@
   Eilt gleich mein Lebenslauf zu Ende,	
   ist doch der Geist wohl angebracht.
   Er soll bei seinem Schöpfer schweben,
-  weil Jesus ist und bleibt	omdat Jezus is en blijft
+  weil Jesus ist und bleibt
   der wahre Weg zum Leben
