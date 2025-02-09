@@ -549,6 +549,8 @@
 		- Freek de Jonge
 		- Jules Deelder
 		- Sandy Denny
+		- Emily Dickinson
+		-
 		- Rutger Kopland
 		  collapsed:: true
 			- [[Kopland Rutger - Aan het grensland]]
