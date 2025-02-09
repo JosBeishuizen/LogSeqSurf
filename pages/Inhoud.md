@@ -602,7 +602,7 @@
 		- J.J. Slauerhoff
 		- Toon Tellegen
 		- Anton van Duinkerken
-		- Jacques van
+		- Jacques van Hattum
 		- Vasalis
 		  collapsed:: true
 			- [[Vasalis - De zomerwei des ochtends vroeg]]
