@@ -596,7 +596,7 @@
 		- Jean Pierre Rawie
 		- Gerard Reve
 		- Paul Rodenko
-		- Adriaan Roland
+		- Adriaan Roland Holst
 		- Vasalis
 		  collapsed:: true
 			- [[Vasalis - De zomerwei des ochtends vroeg]]
