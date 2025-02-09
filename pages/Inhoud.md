@@ -553,7 +553,7 @@
 		- Jan Eijkelboom
 		- Willem Elsschot
 		- Ida Gerhardt
-		-
+		- Herman Gorter
 		- Rutger Kopland
 		  collapsed:: true
 			- [[Kopland Rutger - Aan het grensland]]
