@@ -558,6 +558,8 @@
 		- Judith Herzberg
 		- Ed Hoornik
 		- Tjitske Jansen
+		- C.O. Jellema
+		- Ingrid
 		- Rutger Kopland
 		  collapsed:: true
 			- [[Kopland Rutger - Aan het grensland]]
