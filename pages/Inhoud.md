@@ -648,7 +648,7 @@
 		- Wilhelm Müller
 			- [[Müller Wilhem - Franz Schubert - Mut]]
 		- Randy Newman
-			- []]
+			- [[Randy Newman - God's Song]]
 		- Martinus Nijhoff
 		- Huub Oosterhuis
 		  collapsed:: true
