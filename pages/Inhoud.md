@@ -504,7 +504,7 @@
 		  collapsed:: true
 			- [[Auden W.H. - Funeral Blues]]
 		- J.S. Bach
-			- [[Komm, Jesu, Komm - J.S. Bach]]
+			- [[Komm, Jesu, komm - J.S. Bach]]
 		- Nicolaas Beets
 		  collapsed:: true
 			- [[Beets Nicolaas - De Moerbeitoppen Ruisten]]
