@@ -579,6 +579,8 @@
 		- Czeslaw Milosz
 		- Adriaan Morriën
 		- Wilhelm Müller
+		- Randy Newman
+		-
 		- Huub Oosterhuis
 		  collapsed:: true
 			- [[Oosterhuis Huub - Deze dag]]
