@@ -547,29 +547,56 @@
 		  collapsed:: true
 			- [[Clifton Lucille - Won’t you celebrate with me]]
 		- Leonard Cohen
+		  collapsed:: true
 			- [[Leonard Cohen - Anthem]]
 		- Connie Converse
+		  collapsed:: true
 			- [[Converse Connie - One by one]]
 		- Herman de Coninck
+		  collapsed:: true
 			- [[De Coninck Herman - Krantenlezen is gevaarlijk]]
 			- [[De Coninck Herman - Poëzie]]
 			- [[De Coninck Herman - Winterochtend]]
 		- Freek de Jonge
+		  collapsed:: true
 			- [[De Jonge Freek - Jij]]
 			- [[De Jonge Freek - Mooi woon je...]]
 		- Jules Deelder
+		  collapsed:: true
 			- [[Deelder Jules - Voor Ari]]
 		- Sandy Denny
+		  collapsed:: true
 			- [[Denny Sandy - Who Knows Where the Time Goes]]
 		- Emily Dickinson
+		  collapsed:: true
 			- [[Dickinson Emily - Ample make this bed]]
 		- Jan Eijkelboom
-		-
+		  collapsed:: true
+			- [[Eijkelboom Jan - Woordjes leren]]
 		- Willem Elsschot
+		  collapsed:: true
+			- [[Elsschot Willem - Spijt]]
+			- [[Elsschot Willem- Het Huwelijk]]
+			- [[Elsschot Willem - Bij het Doodsbed van een Kind]]
 		- Ida Gerhardt
+		  collapsed:: true
+			- [[Gerhardt Ida - De Profundis]]
+			- [[Gerhardt Ida - De gestorvene]]
 		- Herman Gorter
+		  collapsed:: true
+			- [[Gorter Herman - Het was stil]]
+			- [[Gorter Herman - Zie je ik hou van je]]
 		- Jan Hanlo
+		  collapsed:: true
+			- [[Hanlo Jan - Oote]]
+			- [[Hanlo Jan - Vers per 7 juni 1951]]
+			- [[Hanlo Jan - Hond met bijnaam Knak]]
+			- [[Hanlo Jan - Zo meen ik dat ook jij bent]]
 		- Judith Herzberg
+		  collapsed:: true
+			- [[Herzberg Judith - Liedje]]
+			- [[Herzberg Judith - Een kinderspiegel]]
+			- [[Herzberg Judith - Alleen in een klein huis]]
 		- Ed Hoornik
 		- Tjitske Jansen
 		- C.O. Jellema
