@@ -548,6 +548,7 @@
 		- Herman de Coninck
 		- Freek de Jonge
 		- Jules Deelder
+		- Sandy Denny
 		- Rutger Kopland
 		  collapsed:: true
 			- [[Kopland Rutger - Aan het grensland]]
