@@ -598,6 +598,7 @@
 			- [[Herzberg Judith - Een kinderspiegel]]
 			- [[Herzberg Judith - Alleen in een klein huis]]
 		- Ed Hoornik
+		  collapsed:: true
 			- [[Hoornik Ed - Enkel verdriet]]
 			- [[Hoornik Ed - Hebben en zijn]]
 			- [[Hoornik Ed - Mijn dochter en ik]]
