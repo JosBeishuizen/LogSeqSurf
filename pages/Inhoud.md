@@ -580,7 +580,7 @@
 		- Adriaan Morriën
 		- Wilhelm Müller
 		- Randy Newman
-		- Martinus
+		- Martinus Nijhoff
 		- Huub Oosterhuis
 		  collapsed:: true
 			- [[Oosterhuis Huub - Deze dag]]
