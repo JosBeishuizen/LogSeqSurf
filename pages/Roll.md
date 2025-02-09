@@ -1,5 +1,6 @@
 - Evelyn Roll - Pericallosa
 - Voortgang
+  collapsed:: true
 	- Monday 20 January 2025
 	  collapsed:: true
 		- 14:06 9

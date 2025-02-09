@@ -39,5 +39,9 @@ Cijfer:: 10
   Gezien-op:: 30-01-2025, op Disney+
   Opm:: Leuk begin met vier verschillende sprookjes door elkaar. Maar na het happy end halverwege de film loopt het verhaal in de soep.
   Cijfer:: 6
--
+- Titel:: Pericallosa door Evelyn Roll
+  Tags:: Boek
+  Gezien-op:: jan-feb 2025
+  Opm:: zie [[Roll]]
+  Cijfer:: 6
 -
