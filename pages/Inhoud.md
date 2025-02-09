@@ -608,8 +608,10 @@
 		  collapsed:: true
 			- [[Vasalis - De zomerwei des ochtends vroeg]]
 			- [[Vasalis - Tijd]]
-		-
+		- Albert Verweij
 		- Simon Vestdijk
+		- Leo Vroman
+		-
 	- Recepten
 		- [[Aardappelsalade met gerookte forel]]
 		- [[Aardperentaart met peren]]
