@@ -599,7 +599,10 @@
 		- Adriaan Roland Holst
 		- Annie M.G. Schmidt
 		- William Shakespeare
-		- J.J.
+		- J.J. Slauerhoff
+		- Toon Tellegen
+		- Anton van Duinkerken
+		- Jacques van
 		- Vasalis
 		  collapsed:: true
 			- [[Vasalis - De zomerwei des ochtends vroeg]]
