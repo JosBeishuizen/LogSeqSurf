@@ -5,10 +5,12 @@
   
 body {
  font-family: 'Bitter', sans-serif;
+ background-color: #042121;
 }
 
 :root {
     --ls-page-title-size: 1.5em;
+    --ls-page-title-color: yellow;
 }
 
 .references.page-unlinked.mt-6.flex-1.flex-row{
@@ -22,19 +24,19 @@ display: none;
  color: black;
 }
 
-.ls-block h2{
-    font-size: 80%;
-}
-
 .dark-theme .ls-block h2 {: medium;
 font-size: 16px;
  font-weight: normal;
  color: #59CCFF;
  margin-top: 0.0em !important;
  margin-bottom: 0.0em !important;
- line-height: 1.1em !important;
+ line-height: 1.3em !important;
  margin:1px 0px 1px 0px !important;
  padding: 1px 0px 2px 0px !important;
+}
+
+a.tag {
+  color: #59CCFF;
 }
 
 .dark-theme .ls-block h3 {
@@ -45,9 +47,12 @@ font-size: 16px;
     font-size: 16px;
   	border-bottom: none;}
 
+/*
 .cp__sidebar-main-content h1.title {
-color: #59CCFF;
+    color:#405e81;
+
 }
+*/
 
 .asset-container > img {
   max-height: 200px;
@@ -57,7 +62,7 @@ color: #59CCFF;
 div[data-collapsed] div.block-properties {
     display: none;
 }
-
+div
 /* Minimal style for queries --------------------------------- */
 
 /* Tag a block with #minimal-query to hide all query controls */
@@ -85,3 +90,22 @@ hide-dotted-tags.css and add a dot to the tag,
 for example #.minimal-query */
 
 a.tag[data-ref*="minimal-query"] {display: none;}
+.block-marker {
+
+  display: none !important;
+
+}
+.block-marker, .page-ref {
+
+  color: #59CCFF;
+
+}
+b.header{
+  color: #59CCFF;
+  font-weight: normal;
+}
+:root:not(.is-native-android) .ls-block[haschild="false"][level="1"]:not([data-refs-self*="@"]) > div > div > a > .bullet-container {
+
+    display: none !important;  
+
+}
