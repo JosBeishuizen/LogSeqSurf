@@ -554,6 +554,8 @@
 		- Willem Elsschot
 		- Ida Gerhardt
 		- Herman Gorter
+		- Jan Hanlo
+		-
 		- Rutger Kopland
 		  collapsed:: true
 			- [[Kopland Rutger - Aan het grensland]]
