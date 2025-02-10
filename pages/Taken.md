@@ -6,6 +6,8 @@
 - DONE schilderij ophangen
 - TODO levenstestament
 - TODO Thole en Harry uitnodigen
+- LATER Tunnel boeken
+- LATER overnachting
 -
 - Elke dag
 	- TODO Veerkamp: [[17. 'Apostolische Vaders']]
