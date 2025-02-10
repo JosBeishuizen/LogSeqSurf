@@ -111,6 +111,7 @@
 			- [[20. Samenvatting]]
 		- Ton van der Stap
 			- In een ander licht
+			  collapsed:: true
 				- [[05 God en ik, wij zijn een]]
 		- [[Berlage]]
 	- Lezen
@@ -121,7 +122,6 @@
 		- [[Te Zien]]
 		- [[Gezien]]
 	- Dagboek
-	  collapsed:: true
 		- 1959
 		  collapsed:: true
 			- [[maandag 25 mei 1959]]
@@ -394,8 +394,8 @@
 			- [[woensdag 12 mei 1993]]
 			- [[donderdag 13 mei 1993]]
 			- [[vrijdag 14 mei 1993]]
-			- [[0517 maandag 17 mei 1993]]
-			- [[0518 dinsdag 18 mei 1993]]
+			- [[maandag 17 mei 1993]]
+			- [[dinsdag 18 mei 1993]]
 			- [[0523 zondag 23 mei 1993]]
 			- [[0525 dinsdag 25 mei 1993]]
 			- [[0606 zondag 6 juni 1993]]
