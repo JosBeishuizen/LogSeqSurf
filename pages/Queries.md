@@ -81,3 +81,4 @@ query-properties:: [:page]
                                      (get h :block/priority "Z")) result))
       :group-by-page? false
       :collapsed? false}
+  #+END_QUERY
