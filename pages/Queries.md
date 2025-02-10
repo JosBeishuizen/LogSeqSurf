@@ -15,7 +15,6 @@ query-properties:: [:page]
 
 - query-table:: false
   query-properties:: [:page]
-  collapsed:: true
   #+BEGIN_QUERY
   {:title "Citaat"
   :query [:find (pull ?p [*])
