@@ -429,5 +429,6 @@
 		  logseq.order-list-type:: number
 		- Lastig te volgen (geen stamboom)
 		  logseq.order-list-type:: number
-		- Toch te weinig context om de gebeurtenissen in hun politieke context te plaatsen. 
+		- Toch te weinig context om de gebeurtenissen in hun politieke context te plaatsen.
 		  logseq.order-list-type:: number
+	- Berend in mei 1993: in het stoplicht zit een lang dun mannetje dat het licht bedient!

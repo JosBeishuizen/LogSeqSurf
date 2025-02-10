@@ -396,7 +396,7 @@
 			- [[vrijdag 14 mei 1993]]
 			- [[maandag 17 mei 1993]]
 			- [[dinsdag 18 mei 1993]]
-			- [[0523 zondag 23 mei 1993]]
+			- [[zondag 23 mei 1993]]
 			- [[0525 dinsdag 25 mei 1993]]
 			- [[0606 zondag 6 juni 1993]]
 			- [[0611 vrijdag 11 juni 1993]]
