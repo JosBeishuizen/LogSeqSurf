@@ -3,13 +3,13 @@
 - TODO rijbewijs verlengen
 - TODO Ton van der Stap: [[05 God en ik, wij zijn een]]
 - TODO Foto Gerrie
-- TODO schilderij ophangen
+- DONE schilderij ophangen
 - TODO levenstestament
 - TODO Thole en Harry uitnodigen
 -
 - Elke dag
 	- TODO Veerkamp: [[17. 'Apostolische Vaders']]
 	- DONE [[Roll]]
-	- TODO [[Filosoferen met kinderen]]
-	- TODO piano spelen
+	- LATER [[Filosoferen met kinderen]]
+	- NOW piano spelen
 	- TODO twee artikelen uit Argus
