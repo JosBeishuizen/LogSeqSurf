@@ -1,4 +1,4 @@
-- TODO SSE opheffen
+- TODO [[SSE opheffen]]
   collapsed:: true
 - TODO rijbewijs verlengen
 - TODO Ton van der Stap: [[05 God en ik, wij zijn een]]
@@ -7,7 +7,7 @@
 - TODO levenstestament
 - TODO Thole en Harry uitnodigen
 - LATER Tunnel boeken
-- LATER overnachting
+- LATER overnachting frankrijk
 -
 - Elke dag
 	- TODO Veerkamp: [[17. 'Apostolische Vaders']]

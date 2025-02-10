@@ -1,7 +1,12 @@
 - Verslag opheffingsvergadering
-	- [[Friday 7 February 2025]] verslag naar bestuur gestuurd
+	- [[Friday 7 February 2025]]
+		- verslag naar bestuur gestuurd
 - Eindafrekening Henk
-	- [[Friday 7 February 2025]] mutatieoverzichten naar Henk gestuurd
+	- [[Friday 7 February 2025]]
+		- mutatieoverzichten naar Henk gestuurd
+	- [[Monday 10 February 2025]]
+		- Jaarstukken naar Martien en Jos gestuurd
+		- Henk betaald
 - Rekening opheffen
   collapsed:: true
 	- Welke rekeningen?
