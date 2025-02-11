@@ -366,7 +366,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["Mooie Citaten en Teksten" "Taken" "Templates" "Inhoud"]
+ :favorites ["Mandela over onze diepste angst" "Mooie Citaten en Teksten" "Taken" "Templates" "Inhoud"]
 
  ;; Set flashcards interval.
  ;; Expected value:
