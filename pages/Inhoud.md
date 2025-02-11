@@ -285,7 +285,6 @@
 			- [[zaterdag 19 november 1988]]
 			- [[vrijdag 30 december 1988]]
 		- 1989
-		  collapsed:: true
 			- [[dinsdag 3 januari 1989]]
 			- [[zondag 8 januari 1989]]
 			- [[dinsdag  10 januari 1989]]
