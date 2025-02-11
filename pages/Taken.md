@@ -8,6 +8,7 @@
 - TODO Thole en Harry uitnodigen
 - LATER Tunnel boeken
 - LATER overnachting frankrijk
+- LATER afspraak siteur verzetten
 -
 - Elke dag
 	- TODO Veerkamp: [[17. 'Apostolische Vaders']]
