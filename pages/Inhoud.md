@@ -296,6 +296,7 @@
 			- [[maandag 27 maart 1989]]
 			- [[zondag 30 april 1989]]
 			- [[vrijdag 2 juni 1989]]
+			- [[maandag 12 juni 1989]]
 			- [[zaterdag 1 juli 1989]]
 			- [[zondag 2 juli 1989]]
 			- [[woensdag 5 juli 1989]]
