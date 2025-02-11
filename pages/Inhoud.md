@@ -131,8 +131,8 @@
 		  collapsed:: true
 			- [[woensdag 17 juli 1963]]
 		- 1984
-		  collapsed:: true
 			- [[dinsdag 29 mei 1984]]
+			-
 		- 1985
 		  collapsed:: true
 			- [[woensdag 2 januari 1985]]
