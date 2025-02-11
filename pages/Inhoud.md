@@ -148,7 +148,7 @@
 			- [[maandag 20 mei 1985]]
 			- [[woensdag 22 mei 1985]]
 			- [[woensdag 10 juli 1985]]
-			-
+			- [[maandag 22 juli 1985]]
 			- [[zondag 22 september 1985]]
 			- [[donderdag 28 september 1985]]
 			- [[maandag 23 december 1985]]
