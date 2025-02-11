@@ -131,6 +131,7 @@
 		  collapsed:: true
 			- [[woensdag 17 juli 1963]]
 		- 1984
+			- [[zaterdag 31 maart 1984]]
 			- [[dinsdag 29 mei 1984]]
 			- [[zaterdag 6 oktober 1984]]
 			- [[zondag 21 oktober 1984]]
