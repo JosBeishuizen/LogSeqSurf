@@ -7,6 +7,9 @@
 	- [[Monday 10 February 2025]]
 		- Jaarstukken naar Martien en Jos gestuurd
 		- Henk betaald
+	- [[Tuesday 11 February 2025]]
+		- Handtekening Martien binnen
+		- Jos Groot zondag in de kerk?
 - Rekening opheffen
   collapsed:: true
 	- Welke rekeningen?
