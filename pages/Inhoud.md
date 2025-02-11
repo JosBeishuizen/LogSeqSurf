@@ -154,7 +154,7 @@
 			- [[maandag 23 december 1985]]
 			- [[maandag 30 december 1985]]
 		- 1986
-			-
+			- [[maandag 24 februari 1986]]
 		- 1987
 		  collapsed:: true
 			- [[donderdag 1 januari 1987]]
