@@ -136,7 +136,6 @@
 			- [[zaterdag 6 oktober 1984]]
 			- [[zondag 21 oktober 1984]]
 		- 1985
-		  collapsed:: true
 			- [[woensdag 2 januari 1985]]
 			- [[zondag 20 januari 1985]]
 			- [[zondag 27 januari 1985]]
@@ -149,6 +148,7 @@
 			- [[maandag 20 mei 1985]]
 			- [[woensdag 22 mei 1985]]
 			- [[woensdag 10 juli 1985]]
+			-
 			- [[zondag 22 september 1985]]
 			- [[donderdag 28 september 1985]]
 			- [[maandag 23 december 1985]]
