@@ -142,6 +142,7 @@
 			- [[zondag 3 februari 1985]]
 			- [[zondag 10 februari 1985]]
 			- [[zaterdag 16 februari 1985]]
+			- [[zondag 24 februari 1985]]
 			- [[maandag 25 februari 1985]]
 			- [[zondag 5 mei 1985]]
 			- [[dinsdag 14 mei 1985]]
