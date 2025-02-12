@@ -464,7 +464,8 @@
 			- [[0110 dinsdag 10 januari 1995]]
 			- [[0111 woensdag 11 januari 1995]]
 			- [[0113 vrijdag 13 januari 1995]]
-			-
+			- [[0114 zaterdag 14 januari 1995]]
+			- [[0116 maandag 16 januari 1995]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
