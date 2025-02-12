@@ -71,6 +71,7 @@
 		- [[D-24-01050]]
 		- [[De vragen van Alexander]]
 	- Studie
+	  collapsed:: true
 		- [[Maleachi]]
 		- Levinas
 		  collapsed:: true
@@ -115,10 +116,12 @@
 				- [[05 God en ik, wij zijn een]]
 		- [[Berlage]]
 	- Lezen
+	  collapsed:: true
 		- [[Roll]]
 		- [[Het Bureau]]
 - Geheugen
 	- Cultuur
+	  collapsed:: true
 		- [[Te Zien]]
 		- [[Gezien]]
 	- Dagboek

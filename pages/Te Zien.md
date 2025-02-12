@@ -1,4 +1,5 @@
 - Series
+  collapsed:: true
 	- One hundred years of solitude
 	- A man on the inside
 	  https://www.vprogids.nl/cinema/series/lees/artikelen/2024/A-Man-on-the-Inside-met-Ted-Danson-op-Netflix-zo-gemoedelijk-als-een-warm-dekentje.html
@@ -9,6 +10,7 @@
 	- Black Doves
 	  [Netflixserie Black Doves is een onderhoudende actiethriller in kerstsferen - VPRO Cinema - VPRO Gids](https://www.vprogids.nl/cinema/series/lees/artikelen/2024/Black-Doves--onderhoudende-actiethriller-in-kerstsferen-op-Netflix.html)
 - Films
+  collapsed:: true
 	- Nesjomme
 	- The Score op Netflix
 		- Marlon Brando en Robert de Niro
@@ -17,18 +19,22 @@
 	- The Prime of Miss Jean Brodie
 		- Een van de eerste films met Maggie Smith
 - Muziek
+  collapsed:: true
 	- Benjamin Britten - Vioolconcert
 	- Jacques Loussier plays Bach
 - Boeken
+  collapsed:: true
 	- Eddy de Wind - Eindstation Auschwitz
 	- Timothy Snyder - Over vrijheid
 	- Herman van Praag - Gemoedsbewegingen
 - Podcast
+  collapsed:: true
 	- Een dik uur Ischa op de radio
 		- **23:01** [[quick capture]]:  https://open.spotify.com/episode/1231lEJH9SBbDitdIbM3UV?si=tHXiBfrVRuun2JGawWn-UA
 	- The Rest is Politics
 	- The Rest is History
 - Beeldende kunst
+  collapsed:: true
 	- Samuel Hoogstraaten in het Rembrandthuis t/m 4 mei
 	- Jan Mankes Museum Arnhem t/m 22 juni
 	- American Photography Rijksmuseum t/m 9 juni
