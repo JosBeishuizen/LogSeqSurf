@@ -449,6 +449,8 @@
 			- [[dinsdag 25 oktober 1994]]
 			- [[vrijdag 28 oktober 1994]]
 			- [[maandag 31 oktober 1994]]
+		- 1995
+			- [[0101 zondag 1 januari 1995]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
