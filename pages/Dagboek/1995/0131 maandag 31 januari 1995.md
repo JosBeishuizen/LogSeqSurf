@@ -1,1 +1,1 @@
-- ![[19950131 Briefje Sara.png]]
+- ![19950131 Briefje Sara.png](../assets/)
