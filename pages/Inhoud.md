@@ -513,6 +513,11 @@
 			- [[1103 donderdag 3 november 1994]]
 			- [[1104 vrijdag 4 november 1994]]
 			- [[1106 zondag 6 november 1994]]
+			- [[1121 maandag 21 november 1994]]
+			- [[1123 woensdag 23 november 1994]]
+			- [[1125 vrijdag 25 november 1994]]
+			- [[1127 maandag 27 november 1995]]
+			- [[1129 dinsdag 29 november 1994]]
 			-
 		- 2024
 		  collapsed:: true
