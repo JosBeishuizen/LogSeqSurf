@@ -500,6 +500,19 @@
 			- [[0626 maandag 26 juni 1995]]
 			- [[0627 dinsdag 27 juni 1995]]
 			- [[0629 donderdag 29 juni 1995]]
+			- [[0702 zondag 2 juli 1995]]
+			- [[0707 dinsdag 4 juli 1995]]
+			- [[0705 woensdag 5 juli 1995]]
+			- [[0708 zaterdag 8 juli 1995]]
+			- [[0710 maandag 10 juli 1995]]
+			- [[0714 vrijdag 14 juli 1995]]
+			- [[0715 zaterdag 15 juli 1995]]
+			- [[0716 zondag 16 juli 1995]]
+			- [[1020 vrijdag 20 oktober 1995]]
+			- [[1102 woendag 2 november 1994]]
+			- [[1103 donderdag 3 november 1994]]
+			- [[1104 vrijdag 4 november 1994]]
+			- [[1106 zondag 6 november 1994]]
 			-
 		- 2024
 		  collapsed:: true
