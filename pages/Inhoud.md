@@ -475,7 +475,7 @@
 			- [[maandag 23 januari 1995]]
 			- [[donderdag 26 januari 1995]]
 			- [[zondag 29 januari 1995]]
-			- [[0131 maandag 31 januari 1995]]
+			- [[maandag 31 januari 1995]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
