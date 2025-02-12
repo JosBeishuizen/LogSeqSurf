@@ -797,5 +797,5 @@
 	- Externe tekstbestanden (pdf etc.)
 		- ![easypeasy](../assets/easypeasy.pdf)
 		- ![EDUREVD2400986](../assets/EDUREVD2400986.pdf)
-		- ![Smart phones and mental health]()
+		- ![Smart phones and mental health](../assets/smart phone use and mental health.pdf)
 -
