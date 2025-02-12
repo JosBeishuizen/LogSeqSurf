@@ -518,7 +518,18 @@
 			- [[1125 vrijdag 25 november 1994]]
 			- [[1127 maandag 27 november 1995]]
 			- [[1129 dinsdag 29 november 1994]]
-			-
+			- [[1201 vrijdag 1 december 1995]]
+			- [[1204 maandag 4 december 1995]]
+			- [[1206 woensdag 6 december 1995]]
+			- [[1207 donderdag 7 december 1995]]
+			- [[1208 vrijdag 8 december 1995]]
+			- [[1209 vrijdag 9 december 1994]]
+			- [[1215 donderdag 15 december 1994]]
+			- [[1217 zondag 17 december 1995]]
+			- [[1219 maandag 19 december 1994]]
+			- [[1223 zaterdag 23 december 1995]]
+			- [[1227 woensdag 27 december 1995]]
+			- [[1229 vrijdag 29 december 1995]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
