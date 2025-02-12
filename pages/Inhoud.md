@@ -321,6 +321,7 @@
 			- [[dinsdag 24 oktober 1989]]
 			- [[zondag 17 december 1989]]
 		- 1990
+		  collapsed:: true
 			- [[vrijdag 12 januari 1990]]
 			- [[donderdag 18 januari 1990]]
 			- [[maandag 26 februari 1990]]
@@ -434,19 +435,20 @@
 			- [[zondag 22 augsutus 1993]]
 			- [[maandag 30 augustus 1993]]
 		- 1994
-			- [[0824 dinsdag 24 augustus 1994]]
-			- [[0929 donderdag 29 september 1994]]
-			- [[0930 vrijdag 30 september 1994]]
-			- [[1002 zondag 2 oktober 1994]]
-			- [[1007 vrijdag 7 oktober 1994]]
-			- [[1008 zaterdag 8 oktober 1994]]
-			- [[1009 zondag 9 oktober 1994]]
-			- [[1011 dinsdag 11 oktober 1994]]
+		  collapsed:: true
+			- [[dinsdag 24 augustus 1994]]
+			- [[donderdag 29 september 1994]]
+			- [[vrijdag 30 september 1994]]
+			- [[zondag 2 oktober 1994]]
+			- [[vrijdag 7 oktober 1994]]
+			- [[zaterdag 8 oktober 1994]]
+			- [[zondag 9 oktober 1994]]
+			- [[dinsdag 11 oktober 1994]]
 			- [[maandag 17 oktober 1994]]
-			- [[1019 woensdag 19 oktober 1994]]
-			- [[1025 dinsdag 25 oktober 1994]]
-			- [[1028 vrijdag 28 oktober 1994]]
-			- [[1031 maandag 31 oktober 1994]]
+			- [[woensdag 19 oktober 1994]]
+			- [[dinsdag 25 oktober 1994]]
+			- [[vrijdag 28 oktober 1994]]
+			- [[maandag 31 oktober 1994]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]

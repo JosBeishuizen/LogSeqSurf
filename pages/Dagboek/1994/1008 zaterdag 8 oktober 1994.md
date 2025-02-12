@@ -1,2 +1,0 @@
-# 1008 zaterdag 8 oktober 1994
-Consult bij Toon Tellegen: carpaal tunnelsyndroom: het poortje, waardoor de zenuwen de hand binnentreden is een beetje nauw. Het bindweefselbandje om de zenuwvezels heen kan gekliefd worden.
