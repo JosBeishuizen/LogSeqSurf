@@ -3,7 +3,7 @@
 	- A man on the inside
 	  https://www.vprogids.nl/cinema/series/lees/artikelen/2024/A-Man-on-the-Inside-met-Ted-Danson-op-Netflix-zo-gemoedelijk-als-een-warm-dekentje.html
 	- The Night Agent
-	  **]][The Night Agent - VPRO Cinema - VPRO Gids](https://www.vprogids.nl/cinema/series/serie~15141514~the-night-agent~.html)
+	  [The Night Agent - VPRO Cinema - VPRO Gids](https://www.vprogids.nl/cinema/series/serie~15141514~the-night-agent~.html)
 	- The Old Man
 	  [The Old Man - VPRO Cinema - VPRO Gids](https://www.vprogids.nl/cinema/series/serie~14623975~the-old-man~.html)
 	-
