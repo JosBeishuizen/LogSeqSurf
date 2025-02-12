@@ -453,6 +453,16 @@
 			- [[maandag 31 oktober 1994]]
 		- 1995
 			- [[0101 zondag 1 januari 1995]]
+			- [[0102 maandag 2 januari 1995]]
+			- [[0103 dinsdag 3 januari 1995]]
+			- [[0104 woensdag 4 januari 1995]]
+			- [[0105 donderdag 5 januari 1995]]
+			- [[0106 vrijdag 6 januari 1995]]
+			- [[0107 zaterdag 7 januri 1995]]
+			- [[0108 zondag 8 januari1995]]
+			- [[0109 maandag 9 januari 1995]]
+			- [[0110 dinsdag 10 januari 1995]]
+			- [[0111 woensdag 11 januari 1995]]
 			-
 		- 2024
 		  collapsed:: true
