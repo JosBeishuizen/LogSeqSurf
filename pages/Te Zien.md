@@ -4,7 +4,9 @@
 	  https://www.vprogids.nl/cinema/series/lees/artikelen/2024/A-Man-on-the-Inside-met-Ted-Danson-op-Netflix-zo-gemoedelijk-als-een-warm-dekentje.html
 	- The Night Agent
 	  **13:30** [[quick capture]]:  [The Night Agent - VPRO Cinema - VPRO Gids](https://www.vprogids.nl/cinema/series/serie~15141514~the-night-agent~.html)
-	- The
+	- The Old Man
+	  **13:32** [[quick capture]]:  [The Old Man - VPRO Cinema - VPRO Gids](https://www.vprogids.nl/cinema/series/serie~14623975~the-old-man~.html)
+	-
 - Films
 	- Nesjomme
 	- The Score op Netflix
