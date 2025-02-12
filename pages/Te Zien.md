@@ -6,7 +6,9 @@
 	  [The Night Agent - VPRO Cinema - VPRO Gids](https://www.vprogids.nl/cinema/series/serie~15141514~the-night-agent~.html)
 	- The Old Man
 	  [The Old Man - VPRO Cinema - VPRO Gids](https://www.vprogids.nl/cinema/series/serie~14623975~the-old-man~.html)
-	- Black
+	- Black Doves
+	  *
+	- ]][Netflixserie Black Doves is een onderhoudende actiethriller in kerstsferen - VPRO Cinema - VPRO Gids](https://www.vprogids.nl/cinema/series/lees/artikelen/2024/Black-Doves--onderhoudende-actiethriller-in-kerstsferen-op-Netflix.html)
 - Films
 	- Nesjomme
 	- The Score op Netflix
