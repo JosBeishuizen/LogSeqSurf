@@ -1,0 +1,3 @@
+# 1125 vrijdag 25 november 1994
+Het is nu 13:47 in Egmond.  
+Heerlijke wandeling gemaakt en twee dingen geleerd: 1. Waterstand zal vermoedelijk hoog blijven. Conclusie: Pomp moet verplaatst worden. 2. Ik zit echt verkeerd op het pad van de zelfminachting wegens het snoepen uit de suikerpot. Afgezien van de eventuele risico’s van suiker moet je jezelf en anderen onder alle omstandigheden mild en relativerend blijven benaderen. Anders word je een kleinburgerlijke zuurpruim. Dat neemt niet weg dat je jezelf en anderen niet tactisch zou kunnen benaderen. O.K. dit naar dagboek en weer aan de slag.

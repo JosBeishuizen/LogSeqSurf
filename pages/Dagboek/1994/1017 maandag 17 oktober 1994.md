@@ -1,0 +1,9 @@
+# 1017 maandag 17 oktober 1994
+Vrijdagavond van Ton Klein afscheid genomen. Gemma, de vrouw van Kees van Putten, vertelde dat René Diekstra zijn colleges altijd begint met een verhaal. Alle thema’s uit het college geeft hij een plaats in het verhaal. Dat vormt dan het samenbindende element. Ga ik ook eens proberen. Je kunt het verhaal natuurlijk ook aan het eind zetten. Lesje retorica!  
+Zaterdag twee goudvissen gekocht. Eindelijk een huisdier! Cathrien was er zeer mee in haar sas. De namen: Zwaantje (naar de zwaluw die we van de zomer hebben begraven) en Tutti (een Japanse goudvis met veel kleuren).  
+Zaterdag de 84e verjaardag van Moeder gevierd. Ze was heel goed te pas. Sara vroeg op een zeker moment tijdens de maaltijd: Wie betaalt dit allemaal?  
+Zaterdagavond door naar Diepenveen om daar de verjaardag van Richard te vieren. Uiteindelijk laat in bed, de kinderen sliepen bij Opa en Oma.  
+Zondag Thomas gedoopt. Pastoraal werker, die voorging, had een mooi citaat. Victor Frankl, psychiater, na terug keer uit Auschwitz: Twee eigenschappen helpen bij het overleven: het vermogen om te kunnen lijden en het vermogen om altijd licht aan de horizon te blijven zien, hoop op de toekomst te blijven houden. Als we deze wijze woorden nu eens een weekje vast probeerden te houden.  
+  
+**Berend**  
+Berend is druk in de weer met leren lezen. Hij heeft er veel plezier in. Leest de botjes-boekjes al redelijk vlot. Sommige woorden zijn nieuw en moeten “gehakt” worden. Met de handen worden hakbewegingen gemaakt terwijl Berend eerst de eerste medeklinker leest, dan de middelste klinkergroep en tenslotte de laatste medeklinker. Als er aan het eind van de zin een uitroepteken staat leest Berend het laatste woord met luide stem.
