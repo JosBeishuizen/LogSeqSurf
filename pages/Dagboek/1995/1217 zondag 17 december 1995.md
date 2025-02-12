@@ -1,0 +1,2 @@
+# 1217 zondag 17 december 1995
+Het gaat goed: subsidie voor aandachtsgebied binnengehaald!!! (1) prestigieus project, (2) ontwikkelingspsychologisch onderwerp, (3) publicatiemogelijkheden, (4) nationale en internationale samenwerking. Dat kan niet beter. Gebruik van de computer op dit moment op redelijk niveau. Veel schrijfwerk in eerste instantie op papier. Werkt beter voor de concentratie. Vandaag de nieuwe wandjes tussen voor- en achterslaapkamer behangen. Alles op niveau, in de eerste plaats intern. Nu even verder met keuze kerstverhaal.

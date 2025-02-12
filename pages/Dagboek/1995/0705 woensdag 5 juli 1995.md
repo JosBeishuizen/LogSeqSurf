@@ -1,0 +1,2 @@
+# 0705 woensdag 5 juli 1995
+De borrel van Sara’s klas geeft altijd een zomergevoel. Gisteravond bij Desiree en Paul. Anne schrok van de slechte verhouding tussen D & P. Paul had de jongens twee zwaarden gegeven om mee te spelen. Desiree was daarover zeer ontstemd, gevaarlijk, etc. Paul reageerde “verstard”: jij moet altijd gelijk hebben. Beider reacties zijn goed te begrijpen. Wij hebben dat soort “modes” ook wel. Mij helpt het om in je houding tot de ander altijd een positieve eigenschap als uitgangspunt te nemen. Eens kijken of het lukt om vandaag gepland te werken.

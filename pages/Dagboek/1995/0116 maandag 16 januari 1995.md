@@ -1,0 +1,4 @@
+# 0116 maandag 16 januari 1995
+Het is nu 05:59. Gisteren een eerste uur op niveau gerealiseerd. Dat er vele mogen volgen. De Russen proberen nog steeds, ten koste van veel mensenlevens en een reusachtige ravage, in Grozny de touwtjes in handen te krijgen. De vraag is of Jeltsin dit overleeft. Vandaag belangrijk nieuws: vervanging Henriëtte de Jonge (en ook mijn bevordering naar schaal 14). Gisteren in de kerk Rinse Reeling Brouwer: God deelt Jeremia mee, dat Hij zelf nu alles aan het afbreken is. En dat Hij er zelf ook grote moeite mee heeft. Is dat een fin de siêcle gevoel: dat alles verkeerd gaat? Het gevoel van de teleurgestelde verwachting. Ook in het verhaal van Huub bij de vorige Kerstavond.
+
+Vandaag proberen minstens drie uren op niveau te realiseren.

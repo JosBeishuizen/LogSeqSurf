@@ -1,0 +1,4 @@
+# 0117 dinsdag 17 januari 1995
+Het is 22:42. Op de radio Ischa Meijer in gesprek met Martin van Amerongen over een nieuwe overlevingsstrijd van De Groene Amsterdammer. Anne kijkt beneden naar verslag van de manier waarop een patiënt van jaar, een 25-jarige schone, zich vanuit haar rolstoel in een vijver met goudkarpers laat tillen voor een foto voor de Playboy. De aanwezige fotografen waren zeer onder de indruk van haar wilskracht. Ze wil zich bewijzen. 
+
+In Japan heeft een sterke aardbeving een stad, Kobe, verwoest. Grote branden, 1600 slachtoffers, 1000 vermisten, 10.000 huizen verwoest. Nu nog even lezen in Ian McEwans De cementen Tuin.

@@ -1,0 +1,2 @@
+# 0106 vrijdag 6 januari 1995
+Vannacht een onaangename droom met een een woedende Neel Plug. Gelukkig geen werkelijkheid. Het vroege opstaan is deze hele week gelukt! De avonden kunnen nog stukken beter. Door moeheid ontstaat toegeeflijkheid. Juist als je moe bent streng worden voor jezelf. Buiten ligt een laagje sneeuw van 5 cm. De kinderen zullen wel uitgelaten zijn. S.G. Geelhoed van Economische zaken: Economische problemen! Veel werklozen, lager wordend BNP per hoofd van de bevolking. Dus: staatsschuld verlagen (dat snap ik niet).

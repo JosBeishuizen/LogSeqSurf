@@ -1,0 +1,2 @@
+# 0201 woensdag 1 februari 1995
+Een nieuwe maand. De afgelopen maand is vooral gevuld door het college Instructietheorie en door het schrijven van twee stukken: een stuk over computers in het basisonderwijs dat relevant is voor de verlengde schooldag (moet in een boek over vs experimenten verschijnen) en een stuk over de selectievoorstellen van de Leidse universiteit. Beide stukken moeten deze week de deur uit. Verder wil ik deze week de tijdschriftenlijst af krijgen, het overzicht van onderzoeksuren, en de planning voor de onderzoeksdag.

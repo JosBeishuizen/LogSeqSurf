@@ -1,0 +1,2 @@
+# 0501 maandag 1 mei 1995
+Het is nu 08:20. In de trein voor het begin van de meimaand. Wat was er vandaag ook weer voor verrassends? College Inleiding Onderwijspsychologie begint! Ik heb er echt zin in. Proberen de ochtend zo zinvol mogelijk door te komen. Moeder en kinderen bevinden zich in Egmond in stralend lenteweer, samen met Gerry. We hebben al een schitterend weekend achter de rug. Moeders huis wordt vandaag en morgen ontruimd. Hopelijk brengt dat Janny weer enige rust, na haar paralyse van Bell. Nu eerst vijf blz. Enquist, dan verder met voorbereiding Inleiding.

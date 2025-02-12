@@ -1,0 +1,2 @@
+# 0627 dinsdag 27 juni 1995
+Sara en Cathrien hebben uitstekende rapporten. Sara nog iets vooruit gegaan. Berend is ook over, met veel r.v.-tjes en twee m-tjes. Is er zelf erg teleurgesteld over, had meer g-tjes verwacht. In de vakantie oefenen met lezen. Laat zich in de klas gemakkelijk afleiden. Hopelijk gaat het onder de strakkere leiding van Ria volgend jaar beter.

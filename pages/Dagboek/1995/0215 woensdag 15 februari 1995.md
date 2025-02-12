@@ -1,0 +1,2 @@
+# 0215 woensdag 15 februari 1995
+Gistermorgen is Ischa Meijer op 52-jarige leeftijd aan een hartaanval bezweken. Gerry heeft een tijdlang iets met hem gehad, en was er dus door aangeslagen. We missen iemand die mensen tot hun kern kon terugbrengen met zijn vragen in mondelinge en schriftelijke interviews. Een doorvrager die allerlei beleefdheden geërgerd terzijde schoof. Hij kon ook zo goed kankeren, zich opwinden over allerlei verschrikkelijkheden.

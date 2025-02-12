@@ -1,0 +1,2 @@
+# 0504 donderdag 4 mei 1995
+Voor mij, intern, werkt alleen de harde hand. Ik moet ergens in mijn jeugd of wanneer dan ook het spoor bijster zijn geraakt. Ik ga me dit voortaan elke dag inprenten. Dat is voor mij de juiste mood, aan de vooravond van mijn 46ste levensjaar. Vanavond naar Egmond, waar de anderen al een week van het stralende voorjaar genieten. In de trein de planning voor het bevrijdingsweekend maken.

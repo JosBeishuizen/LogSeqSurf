@@ -1,0 +1,2 @@
+# 0509 dinsdag 9 mei 1995
+De harde hand, o.k. Dat leidt onherroepelijk tot grote somberheid, isolement, ruzie met alles en iedereen. Ook verdwijnt de humor geheel uit het leven. Ik maak het mezelf op die manier heel erg moeilijk. Zonder humor wordt het leven ondraaglijk zwaar. Ik streef naar ondraaglijke lichtheid. Wel met voortdurend aanwezig besef van eigen zwakheden, gebrek aan ruggegraat, etc. Enfin, eerst maar weer eens een college in elkaar zetten. Ik wil in ieder geval niet: de strakke lijn tegenover anderen. Hoe houd ik dit leven in Godsnaam vol?

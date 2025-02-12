@@ -1,0 +1,2 @@
+# 0107 zaterdag 7 januri 1995
+Eerste week zit erop. Vandaag schaatsen en een bezoek aan Tjeerd en Kathleen in Leusden. Geen groot nieuws. Rintje Ritsma en Falko Zandstra doen het heel goed op de Europese schaatskampioenschappen: ze staan 1 en 2 in het klassement na de 500 en 5000 m. Annamarie Thomas blijkt een hele goede schaatster: tweede op de 500 m, na een Duitse.

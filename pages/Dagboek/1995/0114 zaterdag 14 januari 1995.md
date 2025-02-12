@@ -1,0 +1,2 @@
+# 0114 zaterdag 14 januari 1995
+Niet naar Egmond. Vanochtend kinderen begeleid bij de schaatsles op de Jaap Edenbaan, van half 9 tot half 10. Daarna is Berend met oom Paul, zijn peetoom, op stap geweest om zowaar een heuse gitaar te kopen. Ook al meteen via Julia Bobek een lerares geregeld. Berend gaat maandag op proef. Even het journaal van 22:00 uur.

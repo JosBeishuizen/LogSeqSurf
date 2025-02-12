@@ -1,0 +1,2 @@
+# 0708 zaterdag 8 juli 1995
+Eerste vakantiedag van de kinderen. Genoten van de stralende zon. Buiten ontbijten, picknicken op het strand, echt een heerlijke vakantiedag. Intussen ook het gras gemaaid dat een halve meter hoog stond. “Je karakter is je lot”, grondprincipe van de Griekse tragedies (Herakleitos: _ethos anthropos daimon_, Ηθος Ανθρωπος Δαιμων, https://www.geocities.ws/john_russey/philosophy/Ethos_Anthropos_Daimon.html). Klopt dat? 

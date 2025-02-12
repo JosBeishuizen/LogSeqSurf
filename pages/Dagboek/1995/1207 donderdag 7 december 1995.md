@@ -1,0 +1,2 @@
+# 1207 donderdag 7 december 1995
+Sara vanochtend nog steeds 39.3. Buiten wordt het langzaam winter: ijs in de sloten, een laagje sneeuw op de velden. Misschien kan ik mijn schaatskunsten binnenkort op natuurijs vertonen en verder ontwikkelen. Citaat van Voltaire in de film Milou en Mai gisteravond: Ik kies ervoor om gelukkig te zijn omdat dat gezonder is. Sluit aardig aan bij mijn aantekeningen van gisteren. Vandaag weer proberen om op niveau 1 te opereren en niet af te zakken naar niveau 3.

@@ -1,0 +1,2 @@
+# 0715 zaterdag 15 juli 1995
+06:20. Gun mezelf deze vakantie elke ochtend twee uur rust. Om te lezen, te werken, hard te lopen, etc. Lijkt me wel nuttig voor de ontspanning. Kijk naar buiten en zie zware regen/onweerswolken. Hopelijk geen slecht voorteken. Sara had gisteren opeens rode vlekjes aan de binnenkant van beide handen. Toch geen begin van allergische reacties? Fam. Boodt zou vandaag komen. Gaat vermoedelijk niet door ivm regen. Wat gaan we doen? Nog geen plannen. Boodschappen. Vanmiddag fietsen naar Bergen aan Zee?

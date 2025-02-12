@@ -1,0 +1,2 @@
+# 0104 woensdag 4 januari 1995
+Het is nu 9:17. Modelstart van deze dag. Vandaag sollicitatiebrief voor VU de deur uit. Russen vechten in Tsjetsjenië. Republikeinen in Amerika pleiten voor afschaffing bijstand. Fraai winterweer. Vanacht 7 graden vorst.

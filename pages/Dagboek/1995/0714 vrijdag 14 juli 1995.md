@@ -1,0 +1,2 @@
+# 0714 vrijdag 14 juli 1995
+06:06. Laatste werkdag. Helaas het artikel <ins>niet</ins> afgekregen. Ga dus met een heel onbevredigend gevoel op vakantie. Moet het roer echt drastisch omgooien. Consequent alleen maar van lijst werken. Proberen het werktempo op te voeren. En natuurlijk: onder alle omstandigheden de stemming erin houden! Regen en onweer na een tropische week. Vanmiddag naar Egmond. Proberen de vakantie in dit dagboek bij te houden. 

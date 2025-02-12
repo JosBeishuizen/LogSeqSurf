@@ -1,0 +1,2 @@
+# 0626 maandag 26 juni 1995
+Van nu af aan proberen weer dagelijks in het dagboek te schrijven. ‘s Ochtends of ‘s middags in de trein. Probeer consequent te werken aan urenplanning. Warm weer: 29°. Vanmiddag de rapporten van Cathrien, Sara en Berend. Vanavond: generale repetitie, hoofdpunten reacties op plan onderzoeksbeoordeling, en 3 blz Snow.

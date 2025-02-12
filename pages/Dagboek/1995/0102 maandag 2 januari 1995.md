@@ -1,0 +1,2 @@
+# 0102 maandag 2 januari 1995
+Het is nu 6:37. Wat doen we met dit vroege moment. Even een stukje lezen in de artikelen van/over Ton van der Stap in Werkschrift, naar aanleiding van zijn 60e verjaardag. Tas in pakken. Stuk van Jan Blokker over de vraag: wat is katholocisme. Hij is verbaasd over het feit dat homoseksuelen erkenning van de bisschop van Roermond zoeken. Waarom? Je kunt toch heel goed homofiel zijn zonder de zegen van de bisschop van Roermond?

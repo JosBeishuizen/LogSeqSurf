@@ -1,0 +1,2 @@
+# 0420 donderdag 20 april 1995
+Opnieuw aan de slag met de agendastack. Kijken of dit werkt. Nog even de aantekeningen van de fac. bibl. commissie. Gisteravond gegeten met John, Frank en Martien. John bleek opnieuw kanker te hebben. Deze keer huidkanker aan een van zijn oren. Wordt bestraald. In ieder geval drie feesten en data georganiseerd. Even invoeren. Twee zinnen op billboards in Amsterdam: “It’s hard to be nice if you don’t feel comfortable”. “Heaven is not a place, it’s a feeling”.

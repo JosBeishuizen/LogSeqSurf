@@ -1,0 +1,4 @@
+# 0111 woensdag 11 januari 1995
+Het is nu 6:24. Tijd om aan te kleden. Vandaag geen afspraken tot 4 uur. Alle tijd dus om verder te werken aan het VSE-artikel en aan het bestuderen van de artikelen over nieuwe assessment-vormen in de VS.
+
+Gisteravond de fiets in de fietsenstalling aangetroffen zonder voorwiel. Vanochtend naar de fietsenmaker gebracht. Kost je toch weer honderd gulden, een geeltje. Stond op het station te wachten op de trein en bedacht dat ik de sleutels in het slot van de fiets had laten zitten. Snel naar de fietsenmaker gelopen, sleutels eruit en weer terug. Merkwaardig zoveel als je in vijf minuten kunt doen. Wat dat betreft is denken en schrijven en lezen toch een onnoemelijk trage bezigheid.

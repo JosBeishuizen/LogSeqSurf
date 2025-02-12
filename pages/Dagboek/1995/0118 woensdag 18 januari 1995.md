@@ -1,0 +1,2 @@
+# 0118 woensdag 18 januari 1995
+Wat wordt het bijzondere van deze dag? (Het is nu 06:56) De vorm: vier uren geconcentreerd op niveau functioneren. Of de inhoud: afronding van VSE-artikel in ruwe vorm. Die twee typeringen zijn enigszins strijdig. Ben geneigd om me op dit momen de vorm te concentreren. Misschien moet dat ook even. Dus: streven naar vier uren van concentratie met goed begin en goed einde. Vanavond weer wat over de kinderen schrijven.

@@ -1,0 +1,2 @@
+# 1223 zaterdag 23 december 1995
+Begin van de kerstvakantie. Zorgen dat het een gezellige tijd in huis wordt. Voor mezelf de taken op een rijtje zetten. ‘s Ochtends aan tafel even de dag bespreken. Planning maken van uitsluitend het schrijfwerk. ‘s Ochtends en ‘s avonds in ieder geval vijf blz. lezen uit O’Brien. Wat stond er in dat management-boekje dat ik voor de cursus aan het lezen ben? Portie apekool over het ware Zelf.
