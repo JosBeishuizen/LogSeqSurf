@@ -1,0 +1,1 @@
+- “Dat er een ander dan ons door de dood beheerste leven mogelijk is.”, laatste woorden uit de preek van Huub Oosterhuis van gisteren. Het is duidelijk dat Moeder naar dat andere leven verlangt. Gisteren vonden Janny en Jan haar in stilte op bed liggend, wachtend. De dokter constateerde dat alle lichaamsfuncties nog in voortrekkelijk conditie verkeerden.

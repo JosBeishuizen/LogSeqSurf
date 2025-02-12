@@ -1,0 +1,1 @@
+- Het is nu 05:57. Tot nu toe deze week 10 uur geconcentreerd werken gerealiseerd. Geen slechte score. Buschauffeurs staken. Parkeerwachters staken. De minister van Sociale Zaken creëert nieuwe banen op de tram en in het ziekenhuis.
