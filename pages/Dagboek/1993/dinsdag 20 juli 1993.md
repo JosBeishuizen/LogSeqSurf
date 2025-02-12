@@ -1,0 +1,1 @@
+- 8:30. Pureneeën etappe werpt Breukink verder terug, lees ik in de krant voor mij. Boek vergeten. Regen. Regenachtige zomer. Nog anderhalve week en de vakantie breekt aan. Vandaag een dag zonder afspraken. Hoera! Nu eerst 5 blz. lezen.

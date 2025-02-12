@@ -43,6 +43,7 @@
 	- [[Reviews]]
 	- [[Financiën]]
 - Aantekeningen
+  collapsed:: true
 	- [[Recensie Prophet Song]]
 	- [[Abonnementen]]
 	- [[Herinneringen aan Gerrie]]
@@ -51,6 +52,7 @@
 	- [[Alzheimerlijst]]
 	- [[Cadeaus]]
 - Activiteiten
+  collapsed:: true
 	- Reviews
 	  collapsed:: true
 		- [[D-22-00513]]
@@ -117,6 +119,7 @@
 		- [[Het Bureau]]
 - Geheugen
 	- Cultuur
+	  collapsed:: true
 		- [[Te Zien]]
 		- [[Gezien]]
 	- Dagboek
@@ -130,11 +133,13 @@
 		  collapsed:: true
 			- [[woensdag 17 juli 1963]]
 		- 1984
+		  collapsed:: true
 			- [[zaterdag 31 maart 1984]]
 			- [[dinsdag 29 mei 1984]]
 			- [[zaterdag 6 oktober 1984]]
 			- [[zondag 21 oktober 1984]]
 		- 1985
+		  collapsed:: true
 			- [[woensdag 2 januari 1985]]
 			- [[zondag 20 januari 1985]]
 			- [[zondag 27 januari 1985]]
@@ -154,6 +159,7 @@
 			- [[maandag 23 december 1985]]
 			- [[maandag 30 december 1985]]
 		- 1986
+		  collapsed:: true
 			- [[maandag 24 februari 1986]]
 			- [[zondag 6 juli 1986]]
 			- [[woensdag 27 augustus 1986]]
@@ -284,6 +290,7 @@
 			- [[zaterdag 19 november 1988]]
 			- [[vrijdag 30 december 1988]]
 		- 1989
+		  collapsed:: true
 			- [[dinsdag 3 januari 1989]]
 			- [[zondag 8 januari 1989]]
 			- [[dinsdag  10 januari 1989]]
@@ -403,30 +410,30 @@
 			- [[maandag 17 mei 1993]]
 			- [[dinsdag 18 mei 1993]]
 			- [[zondag 23 mei 1993]]
-			- [[0525 dinsdag 25 mei 1993]]
-			- [[0606 zondag 6 juni 1993]]
-			- [[0611 vrijdag 11 juni 1993]]
-			- [[0615 dinsdag 15 juni 1993]]
-			- [[0616 woensdag 16 juni 1993]]
-			- [[0618 vrijdag 18 juni 1993]]
-			- [[0621 maandag 21 juni 1993]]
-			- [[0622 dinsdag 22 juni 1993]]
-			- [[0623 woensdag 23 juni 1993]]
-			- [[0627 zondag 27 juni 1993]]
-			- [[0628 maandag 28 juni 1993]]
-			- [[0629 dinsdag 29 juni 1993]]
-			- [[0701 donderdag 1 juli 1993]]
-			- [[0708 donderdag 8 juli 1993]]
-			- [[0711 zondag 11 juli 1993]]
-			- [[0716 vrijdag 16 juli 1993]]
-			- [[0720 dinsdag 20 juli 1993]]
-			- [[0731 zaterdag 31 juli 1993]]
-			- [[0801 zondag 1 augustus 1993]]
-			- [[0804 woensdag 4 augustus 1993]]
-			- [[0814 zaterdag 14 augustus 1993]]
-			- [[0815 zondag 15 augustus 1993]]
-			- [[0822 zondag 22 augsutus 1993]]
-			- [[0830 maandag 30 augustus 1993]]
+			- [[dinsdag 25 mei 1993]]
+			- [[zondag 6 juni 1993]]
+			- [[vrijdag 11 juni 1993]]
+			- [[dinsdag 15 juni 1993]]
+			- [[woensdag 16 juni 1993]]
+			- [[vrijdag 18 juni 1993]]
+			- [[maandag 21 juni 1993]]
+			- [[dinsdag 22 juni 1993]]
+			- [[woensdag 23 juni 1993]]
+			- [[zondag 27 juni 1993]]
+			- [[maandag 28 juni 1993]]
+			- [[dinsdag 29 juni 1993]]
+			- [[donderdag 1 juli 1993]]
+			- [[donderdag 8 juli 1993]]
+			- [[zondag 11 juli 1993]]
+			- [[vrijdag 16 juli 1993]]
+			- [[dinsdag 20 juli 1993]]
+			- [[zaterdag 31 juli 1993]]
+			- [[zondag 1 augustus 1993]]
+			- [[woensdag 4 augustus 1993]]
+			- [[zaterdag 14 augustus 1993]]
+			- [[zondag 15 augustus 1993]]
+			- [[zondag 22 augsutus 1993]]
+			- [[maandag 30 augustus 1993]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]

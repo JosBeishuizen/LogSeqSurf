@@ -1,0 +1,1 @@
+- Geen floating mind svp, na gezellige middag en avond met de sectie. Wat gaan we vandaag doen: 2 \*-uren maken! Kleine zaken. Aanvraag in orde? Denk erom: 3 dagen weg. Lijstje maken van punten.
