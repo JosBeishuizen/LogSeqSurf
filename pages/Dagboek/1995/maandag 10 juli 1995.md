@@ -1,0 +1,1 @@
+- Voordeel van dagboek op papier: je kunt het gemakkelijker nalezen. Zal proberen vandaag tussenliggende periode uit te draaien. Van bottom-up naar top-down.
