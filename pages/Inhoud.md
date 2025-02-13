@@ -90,6 +90,7 @@
 				- [[5 Voorbij winst en verlies. Over identiteit en ontwrichting]]
 				- [[6 De onteigende getuige. Over mystiek, taak en getuigenis]]
 		- Veerkamp
+		  collapsed:: true
 			- [[01. In het begin was het boek]]
 			- [[02. Twee zienswijzen, twee ordeningen]]
 			- [[03. Het ontstaan van het Grote Verhaal]]
@@ -122,7 +123,6 @@
 		- [[Te Zien]]
 		- [[Gezien]]
 	- Dagboek
-	  collapsed:: true
 		- 1959
 		  collapsed:: true
 			- [[maandag 25 mei 1959]]
@@ -529,7 +529,6 @@
 			- [[1227 woensdag 27 december 1995]]
 			- [[1229 vrijdag 29 december 1995]]
 		- 2024
-		  collapsed:: true
 			- [[zondag 29 december 2024]]
 			- [[maandag 30 december 2024]]
 			- [[dinsdag 31 december 2024]]
