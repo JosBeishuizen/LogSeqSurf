@@ -10,7 +10,6 @@
 	- Black Doves
 	  [Netflixserie Black Doves is een onderhoudende actiethriller in kerstsferen - VPRO Cinema - VPRO Gids](https://www.vprogids.nl/cinema/series/lees/artikelen/2024/Black-Doves--onderhoudende-actiethriller-in-kerstsferen-op-Netflix.html)
 - Films
-  collapsed:: true
 	- Nesjomme
 	- The Score op Netflix
 		- Marlon Brando en Robert de Niro
