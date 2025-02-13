@@ -366,7 +366,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["Te Zien" "Mandela over onze diepste angst" "Mooie Citaten en Teksten" "Taken" "Templates" "Inhoud"]
+ :favorites ["Meester Eckhart over het bezitten van God" "Te Zien" "Mooie Citaten en Teksten" "Taken" "Templates" "Inhoud"]
 
  ;; Set flashcards interval.
  ;; Expected value:
