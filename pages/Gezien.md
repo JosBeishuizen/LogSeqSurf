@@ -44,4 +44,8 @@ Cijfer:: 10
   Gezien-op:: jan-feb 2025
   Opm:: zie [[Roll]]
   Cijfer:: 6
--
+- Titel:: The Prime of Miss Jean Brodie
+  Tags:: Film
+  Gezien-op:: begin feb 2025
+  Opm:: Een van de eerste films met Maggie Smith. Enthousiaste lerares klassieke talen op meisjesschool. Fascinatie voor Mussolini moeilijk te plaatsen.
+  Cijfer:: 7

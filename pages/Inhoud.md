@@ -119,7 +119,6 @@
 		- [[Het Bureau]]
 - Geheugen
 	- Cultuur
-	  collapsed:: true
 		- [[Te Zien]]
 		- [[Gezien]]
 	- Dagboek
@@ -492,8 +491,8 @@
 			- [[maandag 1 mei 1995]]
 			- [[donderdag 4 mei 1995]]
 			- [[dinsdag 9 mei 1995]]
-			- [[0515 maandag 15 mei 1995]]
-			- [[0516 dinsdag 16 mei 1995]]
+			- [[maandag 15 mei 1995]]
+			- [[dinsdag 16 mei 1995]]
 			- [[0619 maandag 19 juni 1995]]
 			- [[0626 maandag 26 juni 1995]]
 			- [[0627 dinsdag 27 juni 1995]]
