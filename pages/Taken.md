@@ -18,4 +18,4 @@
 - DOING twee artikelen uit Argus
 - NOW piano spelen
 - NOW lopen
-- NOW roeien
+- DONE roeien
