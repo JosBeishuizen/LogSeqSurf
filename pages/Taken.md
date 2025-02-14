@@ -10,7 +10,7 @@
 - LATER afspraak siteur verzetten
 - DONE koorstukken zondag
 - NOW koor
-- NOW [[Egmond]]
+- DONE [[Egmond]]
 - NOW [[D-24-00986]]
 - NOW Thole bellen
 -
