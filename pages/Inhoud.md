@@ -107,6 +107,7 @@
 			- [[16. Wat is er van het Grote Verhaal geworden?]]
 			- [[17. 'Apostolische Vaders']]
 			- [[18. Het Rijk in crisis]]
+			- [[19. Het nieuwe Romeinse Rijk en zijn religie]]
 			- [[20. Samenvatting]]
 		- Ton van der Stap
 		  collapsed:: true
