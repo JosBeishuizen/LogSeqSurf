@@ -825,6 +825,7 @@
 		- [[Bloemkool met mosterd en kaas]]
 		- [[Bonensalade met tonijn]]
 		- [[Eenvoudige soep]]
+		- [[Erwtensoep]]
 		- [[Frittata met courgette en ciabatta]]
 		- [[Gevulde courgettes]]
 		- [[Granola]]
