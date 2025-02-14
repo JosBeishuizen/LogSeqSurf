@@ -52,6 +52,7 @@
 	- [[Cadeaus]]
 - Activiteiten
 	- Reviews
+	  collapsed:: true
 		- [[D-22-00513]]
 		- [[D-22-00543]]
 		- [[D-22-00834]]
@@ -121,6 +122,7 @@
 		- [[Te Zien]]
 		- [[Gezien]]
 	- Dagboek
+	  collapsed:: true
 		- 1959
 		  collapsed:: true
 			- [[maandag 25 mei 1959]]
@@ -817,7 +819,6 @@
 		- Willem Wilmink
 		- Kees Winkler
 	- Recepten
-	  collapsed:: true
 		- [[Aardappelsalade met gerookte forel]]
 		- [[Aardperentaart met peren]]
 		- [[Bietensoep met appel en balsamicoazijn]]
