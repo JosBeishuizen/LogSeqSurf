@@ -449,6 +449,7 @@
 			- [[vrijdag 28 oktober 1994]]
 			- [[maandag 31 oktober 1994]]
 		- 1995
+		  collapsed:: true
 			- [[zondag 1 januari 1995]]
 			- [[maandag 2 januari 1995]]
 			- [[dinsdag 3 januari 1995]]

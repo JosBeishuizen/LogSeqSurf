@@ -237,11 +237,15 @@
             [?h :block/marker ?marker]
             [(contains? #{"NOW" "DOING" "TODO"} ?marker)]
             [?h :block/page ?p]
+
             [?p :block/journal? true]
+
             [?p :block/journal-day ?d]
+
             [(>= ?d ?start)]
+
             [(<= ?d ?today)]]
-    :inputs [:14d :today]
+    :inputs [:14d  :today]
     :result-transform (fn [result]
                         (sort-by (fn [h]
                                    (get h :block/priority "Z")) result))
