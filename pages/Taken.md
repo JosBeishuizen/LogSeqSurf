@@ -11,8 +11,8 @@
 - LATER afspraak siteur verzetten
 - NOW koorstukken zondag
 - NOW koor
-- LATER Egmond
-- NOW
+- LATER [[]]Egmond]]
+- NOW [[D-24-00986]]
 -
 - Elke dag
 - DOING Veerkamp: [[17. 'Apostolische Vaders']]
