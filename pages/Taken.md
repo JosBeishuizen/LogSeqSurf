@@ -15,7 +15,7 @@
 - NOW Thole bellen
 -
 - Elke dag
-- DOING Veerkamp: [[18. Het Rijk in crisis]]
+- DONE Veerkamp: [[18. Het Rijk in crisis]]
 - DOING twee artikelen uit Argus
 - NOW piano spelen
 - NOW lopen
