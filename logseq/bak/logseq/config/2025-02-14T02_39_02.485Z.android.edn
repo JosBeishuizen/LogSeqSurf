@@ -10,7 +10,7 @@
  ;; Available options:
  ;; - :now for NOW/LATER style (default)
  ;; - :todo for TODO/DOING style
- :preferred-workflow :todo
+ :preferred-workflow :now
 
  ;; Exclude directories/files.
  ;; Example usage:
@@ -235,13 +235,17 @@
             :in $ ?start ?today
             :where
             [?h :block/marker ?marker]
-            [(contains? #{""} ?marker)]
+            [(contains? #{"NOW" "DOING" "TODO"} ?marker)]
             [?h :block/page ?p]
+
             [?p :block/journal? true]
+
             [?p :block/journal-day ?d]
+
             [(>= ?d ?start)]
+
             [(<= ?d ?today)]]
-    :inputs [:14d :today]
+    :inputs [:14d  :today]
     :result-transform (fn [result]
                         (sort-by (fn [h]
                                    (get h :block/priority "Z")) result))
@@ -366,7 +370,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["Iris Murdoch over liefde" "Mooie Citaten en Teksten" "Taken" "Templates" "Inhoud"]
+ :favorites ["Meester Eckhart over het bezitten van God" "Te Zien" "Mooie Citaten en Teksten" "Taken" "Templates" "Inhoud"]
 
  ;; Set flashcards interval.
  ;; Expected value:
