@@ -11,7 +11,7 @@
 - LATER afspraak siteur verzetten
 - NOW koorstukken zondag
 - NOW koor
-- LATER [[]]Egmond]]
+- NOW [[Egmond]]
 - NOW [[D-24-00986]]
 -
 - Elke dag
@@ -19,4 +19,4 @@
 - DOING twee artikelen uit Argus
 - NOW piano spelen
 - NOW lopen
--
+- NOW roeien
