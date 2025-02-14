@@ -1,5 +1,5 @@
 - NOW [[SSE opheffen]]
-  collapsed:: true
+	- Rekening opheffen
 - TODO rijbewijs verlengen
 - TODO Ton van der Stap: [[05 God en ik, wij zijn een]]
 - TODO Foto Gerrie
@@ -9,9 +9,12 @@
 - DONE Tunnel boeken
 - DONE overnachting frankrijk
 - LATER afspraak siteur verzetten
+- NOW koorstukken zondag
+- NOW koor
 -
 - Elke dag
 - DOING Veerkamp: [[17. 'Apostolische Vaders']]
 - DOING twee artikelen uit Argus
 - NOW piano spelen
+- NOW lopen
 -

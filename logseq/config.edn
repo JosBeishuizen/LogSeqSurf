@@ -83,7 +83,7 @@
  ;; Display all scheduled and deadline blocks for the next 14 days:
  ;; :scheduled/future-days 14
  ;; Default value: 7
- :scheduled/future-days 3
+ :scheduled/future-days 4
 
  ;; Specify the first day of the week.
  ;; Available options:
@@ -230,7 +230,7 @@
  ;; The "NEXT" query returns tasks with "NOW", "LATER", or "TODO" status.
  :default-queries
  {:journals
-  [{:title "Te doen"
+  [{:title [:h2 "Te doen"]
     :query [:find (pull ?h [*])
             :in $ ?start ?today
             :where
