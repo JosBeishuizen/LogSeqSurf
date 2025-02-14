@@ -15,7 +15,6 @@
 	   :collapsed? true
 	  }
 	  #+END_QUERY
-	- []]
 	-
 - #Gezien
   template:: Cultuur
