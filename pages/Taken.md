@@ -12,6 +12,7 @@
 - NOW koorstukken zondag
 - NOW koor
 - LATER Egmond
+- NOW
 -
 - Elke dag
 - DOING Veerkamp: [[17. 'Apostolische Vaders']]
