@@ -38,7 +38,6 @@
 		- [[Monday 30 December 2024]]
 		- [[Tuesday 31 December 2024]]
 - Planning
-  collapsed:: true
 	- [[Taken]]
 	- [[Reviews]]
 	- [[Financiën]]
@@ -53,7 +52,6 @@
 	- [[Cadeaus]]
 - Activiteiten
 	- Reviews
-	  collapsed:: true
 		- [[D-22-00513]]
 		- [[D-22-00543]]
 		- [[D-22-00834]]
