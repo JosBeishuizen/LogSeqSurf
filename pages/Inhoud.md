@@ -67,6 +67,7 @@
 		- [[D-24-00433]]
 		- [[D-24-00510]]
 		- [[D-24-01050]]
+		- [[D-24-00986]]
 		- [[De vragen van Alexander]]
 	- Studie
 		- [[Maleachi]]
