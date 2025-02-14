@@ -8,7 +8,7 @@
 - DONE Tunnel boeken
 - DONE overnachting frankrijk
 - LATER afspraak siteur verzetten
-- NOW koorstukken zondag
+- DONE koorstukken zondag
 - NOW koor
 - NOW [[Egmond]]
 - NOW [[D-24-00986]]
