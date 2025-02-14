@@ -1,5 +1,4 @@
 - NOW [[SSE opheffen]]
-	- Rekening opheffen
 - TODO rijbewijs verlengen
 - TODO Ton van der Stap: [[05 God en ik, wij zijn een]]
 - TODO Foto Gerrie
@@ -15,7 +14,7 @@
 - NOW [[D-24-00986]]
 -
 - Elke dag
-- DOING Veerkamp: [[17. 'Apostolische Vaders']]
+- DOING Veerkamp: [[18. Het Rijk in crisis]]
 - DOING twee artikelen uit Argus
 - NOW piano spelen
 - NOW lopen
