@@ -5,14 +5,13 @@
 - TODO Foto Gerrie
 - DONE schilderij ophangen
 - TODO levenstestament
-- TODO Thole en Harry uitnodigen
-- LATER Tunnel boeken
-- LATER overnachting frankrijk
+- DONE Thole en Harry uitnodigen
+- DONE Tunnel boeken
+- DONE overnachting frankrijk
 - LATER afspraak siteur verzetten
 -
 - Elke dag
-	- TODO Veerkamp: [[17. 'Apostolische Vaders']]
-	- DONE [[Roll]]
-	- LATER [[Filosoferen met kinderen]]
+	- DOING Veerkamp: [[17. 'Apostolische Vaders']]
+	- DOING twee artikelen uit Argus
 	- NOW piano spelen
-	- TODO twee artikelen uit Argus
+-

@@ -10,8 +10,12 @@
 	- [[Tuesday 11 February 2025]]
 		- Handtekening Martien binnen
 		- Jos Groot zondag in de kerk?
-- Rekening opheffen
-  collapsed:: true
-	- Welke rekeningen?
-		- ABN AMRO
+	- [[Thursday 13 February 2025]]
+		- Handtekening Jos Groot binnen
+	- [[Friday 14 February 2025]]
+		- Verslag rondmaken
+		- Rekening opheffen
+		  collapsed:: true
+			- Welke rekeningen?
+				- ABN AMRO
 - KvK opzeggen
