@@ -110,6 +110,7 @@
 			- [[18. Het Rijk in crisis]]
 			- [[20. Samenvatting]]
 		- Ton van der Stap
+		  collapsed:: true
 			- In een ander licht
 			  collapsed:: true
 				- [[05 God en ik, wij zijn een]]
@@ -819,6 +820,7 @@
 		- Willem Wilmink
 		- Kees Winkler
 	- Recepten
+	  collapsed:: true
 		- [[Aardappelsalade met gerookte forel]]
 		- [[Aardperentaart met peren]]
 		- [[Bietensoep met appel en balsamicoazijn]]
