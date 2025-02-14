@@ -11,7 +11,7 @@
 - LATER afspraak siteur verzetten
 -
 - Elke dag
-	- DOING Veerkamp: [[17. 'Apostolische Vaders']]
-	- DOING twee artikelen uit Argus
-	- NOW piano spelen
+- DOING Veerkamp: [[17. 'Apostolische Vaders']]
+- DOING twee artikelen uit Argus
+- NOW piano spelen
 -
