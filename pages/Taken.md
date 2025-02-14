@@ -1,4 +1,4 @@
-- TODO [[SSE opheffen]]
+- NOW [[SSE opheffen]]
   collapsed:: true
 - TODO rijbewijs verlengen
 - TODO Ton van der Stap: [[05 God en ik, wij zijn een]]
