@@ -1,4 +1,5 @@
 - EDUREV-D-24-01050
+  collapsed:: true
   DEADLINE: <2025-01-15 Wed>
 	- DONE lezen 5 - 15
 	  DEADLINE: <2025-01-07 Tue>
