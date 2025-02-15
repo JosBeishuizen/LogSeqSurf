@@ -29,7 +29,8 @@
 		- **23:01** [[quick capture]]:  https://open.spotify.com/episode/1231lEJH9SBbDitdIbM3UV?si=tHXiBfrVRuun2JGawWn-UA
 	- The Rest is Politics
 	- The Rest is History
-	- Don't talk politics
+	- Don't talk politics 
+	  **09:32** [[quick capture]]:  https://open.spotify.com/show/4FLcMkp8wWqLeXXj5tCcyM?si=729XpJf7Q4eQStwpNPi51A
 - Beeldende kunst
   collapsed:: true
 	- Samuel Hoogstraaten in het Rembrandthuis t/m 4 mei
