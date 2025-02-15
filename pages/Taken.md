@@ -9,6 +9,7 @@
 - LATER [[D-24-00986]]
 - NOW Boodschappen
 - NOW Koken
+- NOW kaart voor Marjolijn
 -
 - Elke dag
 - LATER Veerkamp: [[18. Het Rijk in crisis]]
