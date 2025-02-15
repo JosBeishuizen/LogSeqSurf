@@ -1,7 +1,12 @@
 ## Verzekering
-- Voortgang herbouwwaarde!
+- ### Voortgang herbouwwaarde!
 - Voortgang declaraties!
+-
 - ## Zand
-- Overleg Mathot
+- LATER Overleg Mathot: afspraak maken
+-
 - ## Nieuwe huisje
-- ## Overleg
+-
+- ## Overig
+- NOW Handboek Gerrit Banen lezen
+-
