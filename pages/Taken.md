@@ -2,21 +2,17 @@
 - TODO rijbewijs verlengen
 - TODO Ton van der Stap: [[05 God en ik, wij zijn een]]
 - TODO Foto Gerrie
-- DONE schilderij ophangen
 - TODO levenstestament
-- DONE Thole en Harry uitnodigen
-- DONE Tunnel boeken
-- DONE overnachting frankrijk
 - LATER afspraak siteur verzetten
-- DONE koorstukken zondag
-- NOW koor
-- DONE [[Egmond]]
-- NOW [[D-24-00986]]
-- NOW Thole bellen
+- LATER koor
+- LATER [[Egmond]]
+- LATER [[D-24-00986]]
+- NOW Boodschappen
+- NOW Koken
 -
 - Elke dag
-- DONE Veerkamp: [[18. Het Rijk in crisis]]
+- LATER Veerkamp: [[18. Het Rijk in crisis]]
 - DOING twee artikelen uit Argus
-- NOW piano spelen
-- DONE lopen
-- DONE roeien
+- LATER piano spelen
+- LATER lopen
+- LATER roeien
