@@ -7,7 +7,7 @@
 - LATER koor
 - LATER [[Egmond]]
 - LATER [[D-24-00986]]
-- NOW Boodschappen
+- DONE Boodschappen
 - NOW Koken
 - NOW kaart voor Marjolijn
 -
