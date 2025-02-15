@@ -1,3 +1,3 @@
 - Eigenlijk niet zoveel te melden. Anne twee dagen naar Diepenveen geweest, ontmoeting met Paulien om 60+ jaar vriendschap te vieren.
 - Ben nog steeds trouw aan het regime: oefeningen, roeien, lopen. Lopen lukt wel sinds 18 januari, de dag van de crematie van Gerrie.
-- Op het wereldtoneel gebeurt veel. Trump zet alles op zijn kop. Wil met Poetin een deal sluiten over Oekraïne. Vrede in
+- Op het wereldtoneel gebeurt veel. Trump zet alles op zijn kop. Wil met Poetin een deal sluiten over Oekraïne. Vrede in ruil voor behoud van veroverd land en weigering lidmaatschap NATO voor Oekraïne. In Moskou kraaien de media al victorie.
