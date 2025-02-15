@@ -25,11 +25,11 @@
 	- Timothy Snyder - Over vrijheid
 	- Herman van Praag - Gemoedsbewegingen
 - Podcast
-  collapsed:: true
 	- Een dik uur Ischa op de radio
 		- **23:01** [[quick capture]]:  https://open.spotify.com/episode/1231lEJH9SBbDitdIbM3UV?si=tHXiBfrVRuun2JGawWn-UA
 	- The Rest is Politics
 	- The Rest is History
+	- Don't talk politics
 - Beeldende kunst
   collapsed:: true
 	- Samuel Hoogstraaten in het Rembrandthuis t/m 4 mei
