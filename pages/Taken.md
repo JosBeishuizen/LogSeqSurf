@@ -8,7 +8,7 @@
 - LATER [[Egmond]]
 - LATER [[D-24-00986]]
 - DONE Boodschappen
-- NOW Koken
+- DONE Koken
 - NOW kaart voor Marjolijn
 -
 - Elke dag
