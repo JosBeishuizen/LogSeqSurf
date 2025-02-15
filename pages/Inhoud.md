@@ -51,6 +51,7 @@
 	- [[Alzheimerlijst]]
 	- [[Cadeaus]]
 - Activiteiten
+  collapsed:: true
 	- Reviews
 	  collapsed:: true
 		- [[D-22-00513]]
@@ -90,6 +91,7 @@
 				- [[5 Voorbij winst en verlies. Over identiteit en ontwrichting]]
 				- [[6 De onteigende getuige. Over mystiek, taak en getuigenis]]
 		- Veerkamp
+		  collapsed:: true
 			- [[01. In het begin was het boek]]
 			- [[02. Twee zienswijzen, twee ordeningen]]
 			- [[03. Het ontstaan van het Grote Verhaal]]
@@ -534,7 +536,6 @@
 			- [[maandag 30 december 2024]]
 			- [[dinsdag 31 december 2024]]
 		- 2025
-		  collapsed:: true
 			- [[woensdag 1 januari 2025]]
 			- [[vrijdag 3 januari 2025]]
 			- [[vrijdag 10 januari 2025]]
@@ -544,6 +545,7 @@
 			- [[vrijdag 31 januari 2025]]
 			- [[zaterdag 1 februari 2025]]
 			- [[woensdag 5 februari 2025]]
+			- [[zaterdag 15 februari 2025]]
 		- Dagboek voor Wiesje
 		  collapsed:: true
 			- [[240923 maandag 23 september 2024]]
