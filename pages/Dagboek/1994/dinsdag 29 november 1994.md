@@ -1,0 +1,1 @@
+- Het probleem is dat wij allebei redelijk verwend zijn. Gisteravond de drie leerkrachten van Cathrien, Sara en Berend bezocht om de kerstrapporten in ontvangst te nemen. Ria vertelde dat Cathrien op school aan het veranderen is: ze is niet meer zo gedwee en

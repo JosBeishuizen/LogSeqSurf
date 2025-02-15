@@ -1,19 +1,20 @@
 - NOW [[SSE opheffen]]
+  collapsed:: true
 - TODO rijbewijs verlengen
 - TODO Ton van der Stap: [[05 God en ik, wij zijn een]]
 - TODO Foto Gerrie
 - TODO levenstestament
 - LATER afspraak siteur verzetten
-- LATER koor
+- DONE koor
 - LATER [[Egmond]]
 - LATER [[D-24-00986]]
 - DONE Boodschappen
-- NOW Koken
-- NOW kaart voor Marjolijn
+- DONE Koken
+- DONE kaart voor Marjolijn
 -
 - Elke dag
 - LATER Veerkamp: [[18. Het Rijk in crisis]]
 - DOING twee artikelen uit Argus
-- LATER piano spelen
-- LATER lopen
-- LATER roeien
+- DONE piano spelen
+- DONE lopen
+- DONE roeien

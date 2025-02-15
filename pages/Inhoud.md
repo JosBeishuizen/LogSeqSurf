@@ -38,6 +38,7 @@
 		- [[Monday 30 December 2024]]
 		- [[Tuesday 31 December 2024]]
 - Planning
+  collapsed:: true
 	- [[Taken]]
 	- [[Reviews]]
 	- [[Financiën]]
@@ -51,6 +52,7 @@
 	- [[Alzheimerlijst]]
 	- [[Cadeaus]]
 - Activiteiten
+  collapsed:: true
 	- Reviews
 	  collapsed:: true
 		- [[D-22-00513]]
@@ -71,6 +73,7 @@
 		- [[D-24-00986]]
 		- [[De vragen van Alexander]]
 	- Studie
+	  collapsed:: true
 		- [[Maleachi]]
 		- Levinas
 		  collapsed:: true
@@ -90,6 +93,7 @@
 				- [[5 Voorbij winst en verlies. Over identiteit en ontwrichting]]
 				- [[6 De onteigende getuige. Over mystiek, taak en getuigenis]]
 		- Veerkamp
+		  collapsed:: true
 			- [[01. In het begin was het boek]]
 			- [[02. Twee zienswijzen, twee ordeningen]]
 			- [[03. Het ontstaan van het Grote Verhaal]]
@@ -116,10 +120,12 @@
 				- [[05 God en ik, wij zijn een]]
 		- [[Berlage]]
 	- Lezen
+	  collapsed:: true
 		- [[Roll]]
 		- [[Het Bureau]]
 - Geheugen
 	- Cultuur
+	  collapsed:: true
 		- [[Te Zien]]
 		- [[Gezien]]
 	- Dagboek
@@ -138,6 +144,7 @@
 			- [[zaterdag 31 maart 1984]]
 			- [[dinsdag 29 mei 1984]]
 			- [[zaterdag 6 oktober 1984]]
+			  collapsed:: true
 			- [[zondag 21 oktober 1984]]
 		- 1985
 		  collapsed:: true
@@ -451,7 +458,6 @@
 			- [[vrijdag 28 oktober 1994]]
 			- [[maandag 31 oktober 1994]]
 		- 1995
-		  collapsed:: true
 			- [[zondag 1 januari 1995]]
 			- [[maandag 2 januari 1995]]
 			- [[dinsdag 3 januari 1995]]
@@ -514,10 +520,10 @@
 			- [[vrijdag 4 november 1994]]
 			- [[zondag 6 november 1994]]
 			- [[maandag 21 november 1994]]
-			- [[1123 woensdag 23 november 1994]]
-			- [[1125 vrijdag 25 november 1994]]
-			- [[1127 maandag 27 november 1995]]
-			- [[1129 dinsdag 29 november 1994]]
+			- [[woensdag 23 november 1994]]
+			- [[vrijdag 25 november 1994]]
+			- [[maandag 27 november 1995]]
+			- [[dinsdag 29 november 1994]]
 			- [[1201 vrijdag 1 december 1995]]
 			- [[1204 maandag 4 december 1995]]
 			- [[1206 woensdag 6 december 1995]]
@@ -531,6 +537,7 @@
 			- [[1227 woensdag 27 december 1995]]
 			- [[1229 vrijdag 29 december 1995]]
 		- 2024
+		  collapsed:: true
 			- [[zondag 29 december 2024]]
 			- [[maandag 30 december 2024]]
 			- [[dinsdag 31 december 2024]]
@@ -545,6 +552,7 @@
 			- [[vrijdag 31 januari 2025]]
 			- [[zaterdag 1 februari 2025]]
 			- [[woensdag 5 februari 2025]]
+			  collapsed:: true
 		- Dagboek voor Wiesje
 		  collapsed:: true
 			- [[240923 maandag 23 september 2024]]
@@ -556,6 +564,7 @@
 			- [[25]]
 			  collapsed:: true
 	- Digitaal
+	  collapsed:: true
 		- Data
 		  collapsed:: true
 			- [[AC]]
@@ -820,6 +829,7 @@
 		- Willem Wilmink
 		- Kees Winkler
 	- Recepten
+	  collapsed:: true
 		- [[Aardappelsalade met gerookte forel]]
 		- [[Aardperentaart met peren]]
 		- [[Bietensoep met appel en balsamicoazijn]]
@@ -872,6 +882,7 @@
 		- [[20250204 Over Marijn Kruk en zijn analyse van radicaal-rechts]]
 		- [[20241127 Jesse Klaver over hoe rechts de middenklasse bedreigt]]
 	- Externe tekstbestanden (pdf etc.)
+	  collapsed:: true
 		- ![easypeasy](../assets/easypeasy.pdf)
 		- ![EDUREVD2400986](../assets/EDUREVD2400986.pdf)
 		- ![Smart phones and mental health](../assets/smart phone use and mental health.pdf)
