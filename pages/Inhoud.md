@@ -571,6 +571,7 @@
 			- [[0116 dinsdag 16 januari 1996]]
 			- [[0122 maandag 22 januari 1966]]
 			- [[0123 dinsdag 23 januari 1996]]
+			-
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
