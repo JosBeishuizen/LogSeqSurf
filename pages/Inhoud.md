@@ -43,7 +43,6 @@
 	- [[Reviews]]
 	- [[Financiën]]
 - Aantekeningen
-  collapsed:: true
 	- [[Recensie Prophet Song]]
 	- [[Abonnementen]]
 	- [[Herinneringen aan Gerrie]]
@@ -129,7 +128,6 @@
 		- [[Te Zien]]
 		- [[Gezien]]
 	- Dagboek
-	  collapsed:: true
 		- 1959
 		  collapsed:: true
 			- [[maandag 25 mei 1959]]
@@ -542,7 +540,6 @@
 			- [[maandag 30 december 2024]]
 			- [[dinsdag 31 december 2024]]
 		- 2025
-		  collapsed:: true
 			- [[woensdag 1 januari 2025]]
 			- [[vrijdag 3 januari 2025]]
 			- [[vrijdag 10 januari 2025]]
@@ -552,7 +549,11 @@
 			- [[vrijdag 31 januari 2025]]
 			- [[zaterdag 1 februari 2025]]
 			- [[woensdag 5 februari 2025]]
+<<<<<<< HEAD
 			  collapsed:: true
+=======
+			- [[zaterdag 15 februari 2025]]
+>>>>>>> 2994aaaa6ea8c0ab6646e653013c56267f88a0c0
 		- Dagboek voor Wiesje
 		  collapsed:: true
 			- [[240923 maandag 23 september 2024]]
