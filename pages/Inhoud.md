@@ -127,7 +127,7 @@
 		- Psalmen
 			- [[Psalm 1]]
 			- [[Psalm 2]]
-			-
+			- [[psalm 3]]
 			- [[Psalm 4]]
 			- [[Psalm 5]]
 			- [[Psalm 6]]
