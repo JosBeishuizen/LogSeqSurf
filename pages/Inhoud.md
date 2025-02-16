@@ -119,12 +119,15 @@
 				- [[05 God en ik, wij zijn een]]
 		- [[Berlage]]
 	- Lezen
+	  collapsed:: true
 		- [[Roll]]
 		- [[Het Bureau]]
 		- [[Het Psalmenoproer]]
 - Geheugen
 	- Bijbel
+	  collapsed:: true
 		- Psalmen
+		  collapsed:: true
 			- [[Psalm 1]]
 			- [[Psalm 2]]
 			- [[Psalm 3]]
@@ -151,7 +154,6 @@
 		- [[Te Zien]]
 		- [[Gezien]]
 	- Dagboek
-	  collapsed:: true
 		- 1959
 		  collapsed:: true
 			- [[maandag 25 mei 1959]]
@@ -480,7 +482,6 @@
 			- [[vrijdag 28 oktober 1994]]
 			- [[maandag 31 oktober 1994]]
 		- 1995
-		  collapsed:: true
 			- [[zondag 1 januari 1995]]
 			- [[maandag 2 januari 1995]]
 			- [[dinsdag 3 januari 1995]]
@@ -547,9 +548,9 @@
 			- [[vrijdag 25 november 1994]]
 			- [[maandag 27 november 1995]]
 			- [[dinsdag 29 november 1994]]
-			- [[1201 vrijdag 1 december 1995]]
-			- [[1204 maandag 4 december 1995]]
-			- [[1206 woensdag 6 december 1995]]
+			- [[vrijdag 1 december 1995]]
+			- [[maandag 4 december 1995]]
+			- [[woensdag 6 december 1995]]
 			- [[1207 donderdag 7 december 1995]]
 			- [[1208 vrijdag 8 december 1995]]
 			- [[1209 vrijdag 9 december 1994]]
@@ -574,11 +575,8 @@
 			- [[vrijdag 31 januari 2025]]
 			- [[zaterdag 1 februari 2025]]
 			- [[woensdag 5 februari 2025]]
-			  <<<<<<< HEAD
 			  collapsed:: true
-			  =======
 			- [[zaterdag 15 februari 2025]]
-			  >>>>>>> 2994aaaa6ea8c0ab6646e653013c56267f88a0c0
 		- Dagboek voor Wiesje
 		  collapsed:: true
 			- [[240923 maandag 23 september 2024]]
