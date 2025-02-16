@@ -43,6 +43,7 @@
 	- [[Reviews]]
 	- [[Financiën]]
 - Aantekeningen
+  collapsed:: true
 	- [[Recensie Prophet Song]]
 	- [[Abonnementen]]
 	- [[Herinneringen aan Gerrie]]
@@ -51,7 +52,6 @@
 	- [[Alzheimerlijst]]
 	- [[Cadeaus]]
 - Activiteiten
-  collapsed:: true
 	- Reviews
 	  collapsed:: true
 		- [[D-22-00513]]
@@ -119,15 +119,18 @@
 				- [[05 God en ik, wij zijn een]]
 		- [[Berlage]]
 	- Lezen
-	  collapsed:: true
 		- [[Roll]]
 		- [[Het Bureau]]
+		- [[Het Psalmenoproer]]
 - Geheugen
+	- Bijbel
+		- Psalmen
 	- Cultuur
 	  collapsed:: true
 		- [[Te Zien]]
 		- [[Gezien]]
 	- Dagboek
+	  collapsed:: true
 		- 1959
 		  collapsed:: true
 			- [[maandag 25 mei 1959]]
