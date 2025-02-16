@@ -72,7 +72,6 @@
 		- [[D-24-00986]]
 		- [[De vragen van Alexander]]
 	- Studie
-	  collapsed:: true
 		- [[Maleachi]]
 		- Levinas
 		  collapsed:: true
