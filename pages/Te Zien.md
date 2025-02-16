@@ -20,6 +20,7 @@
 	- Jacques Loussier plays Bach
 	- Alice Sara Ott
 	- Lennie Tristano
+	- Viola da Gamba
 - Boeken
   collapsed:: true
 	- Eddy de Wind - Eindstation Auschwitz

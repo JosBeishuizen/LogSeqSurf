@@ -562,6 +562,8 @@
 			- [[vrijdag 29 december 1995]]
 		- 1996
 			- [[0101 maandag 1 januari 1996]]
+			- [[0102 dinsdag 2 januari 1996]]
+			-
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
