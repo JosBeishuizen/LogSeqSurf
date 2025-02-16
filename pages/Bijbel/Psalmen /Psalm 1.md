@@ -1,6 +1,4 @@
-- https://debijbel.nl/bericht/dichter-bij-mensen-interview-met-huub-oosterhuis
-  
-  Gelukkig is de mens
+- https:Gelukkig is de mens
   die niet te rade gaat bij goddeloosheid,
   geen voet zet op de wegen van het kwaad,
   niet neerzit in de kring waar wordt gelachen
