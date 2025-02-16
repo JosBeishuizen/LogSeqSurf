@@ -567,7 +567,7 @@
 			- [[0105 vrijdag 5 januari 1996]]
 			- [[0107 zondag 7 januari 1996]]
 			- [[0111 donderdag 11 januari 1996]]
-			-
+			- [[0115 maandag 15 december 1996]]
 			- [[0116 dinsdag 16 januari 1996]]
 		- 2024
 		  collapsed:: true
