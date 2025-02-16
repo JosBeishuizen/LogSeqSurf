@@ -135,6 +135,15 @@
 			- [[Psalm 9]]
 			- [[Psalm 10]]
 			- [[Psalm 11]]
+			- [[Psalm 12]]
+			- [[Psalm 13]]
+			- [[Psalm 14]]
+			- [[Psalm 15]]
+			- [[Psalm 16]]
+			- [[Psalm 17]]
+			- [[Psalm 18]]
+			- [[Psalm 19]]
+			-
 			-
 	- Cultuur
 	  collapsed:: true
