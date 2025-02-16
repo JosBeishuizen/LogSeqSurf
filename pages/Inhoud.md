@@ -150,7 +150,6 @@
 			-
 			-
 	- Cultuur
-	  collapsed:: true
 		- [[Te Zien]]
 		- [[Gezien]]
 	- Dagboek
