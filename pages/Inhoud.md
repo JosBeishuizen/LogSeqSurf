@@ -456,6 +456,7 @@
 			- [[vrijdag 28 oktober 1994]]
 			- [[maandag 31 oktober 1994]]
 		- 1995
+		  collapsed:: true
 			- [[zondag 1 januari 1995]]
 			- [[maandag 2 januari 1995]]
 			- [[dinsdag 3 januari 1995]]
@@ -549,11 +550,11 @@
 			- [[vrijdag 31 januari 2025]]
 			- [[zaterdag 1 februari 2025]]
 			- [[woensdag 5 februari 2025]]
-<<<<<<< HEAD
+			  <<<<<<< HEAD
 			  collapsed:: true
-=======
+			  =======
 			- [[zaterdag 15 februari 2025]]
->>>>>>> 2994aaaa6ea8c0ab6646e653013c56267f88a0c0
+			  >>>>>>> 2994aaaa6ea8c0ab6646e653013c56267f88a0c0
 		- Dagboek voor Wiesje
 		  collapsed:: true
 			- [[240923 maandag 23 september 2024]]
