@@ -125,6 +125,17 @@
 - Geheugen
 	- Bijbel
 		- Psalmen
+			- [[Psalm 1]]
+			- [[Psalm 2]]
+			- [[Psalm 4]]
+			- [[Psalm 5]]
+			- [[Psalm 6]]
+			- [[Psalm 7]]
+			- [[Psalm 8]]
+			- [[Psalm 9]]
+			- [[Psalm 10]]
+			- [[Psalm 11]]
+			-
 	- Cultuur
 	  collapsed:: true
 		- [[Te Zien]]
