@@ -551,8 +551,8 @@
 			- [[vrijdag 1 december 1995]]
 			- [[maandag 4 december 1995]]
 			- [[woensdag 6 december 1995]]
-			- [[1207 donderdag 7 december 1995]]
-			- [[1208 vrijdag 8 december 1995]]
+			- [[donderdag 7 december 1995]]
+			- [[vrijdag 8 december 1995]]
 			- [[1209 vrijdag 9 december 1994]]
 			- [[1215 donderdag 15 december 1994]]
 			- [[1217 zondag 17 december 1995]]
@@ -566,6 +566,7 @@
 			- [[maandag 30 december 2024]]
 			- [[dinsdag 31 december 2024]]
 		- 2025
+		  collapsed:: true
 			- [[woensdag 1 januari 2025]]
 			- [[vrijdag 3 januari 2025]]
 			- [[vrijdag 10 januari 2025]]
