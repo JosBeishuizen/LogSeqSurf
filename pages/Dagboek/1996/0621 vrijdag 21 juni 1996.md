@@ -1,0 +1,2 @@
+# 0621 vrijdag 21 juni 1996
+Het is nu 17:15 uur. Dagje in Egmond doorgebracht. De computer eist op dit moment veel te veel tijd op. Toch bevalt het werken met Word 6.0 uitstekend. Allerlei nieuwe mogelijkheden, bijvoorbeeld het automatisch aanvullen van tekst en het corrigeren van veel gemaakte fouten. Heel handig dat je na een . geen nieuwe hoofdletter hoeft te typen. Geen nieuwe hoofdletter dus. Dat doet word automatisch. 

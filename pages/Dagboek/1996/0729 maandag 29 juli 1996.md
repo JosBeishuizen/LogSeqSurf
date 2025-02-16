@@ -1,0 +1,2 @@
+# 0729 maandag 29 juli 1996
+Het is nu 08:49 uur. Op weg naar Leiden voor de eerste werkdag na de vakantie. Bij het maken van de lijstjes voor augustus bekruipt je onwillekeurig enig gevoel van benauwdheid. Ik wil in ieder geval proberen om alles rustig en met aandacht en plezier te doen, zo lang als ik dat kan volhouden. Vervolgens proberen de lijstjes af te werken. Lijstjes niet te lang maken!

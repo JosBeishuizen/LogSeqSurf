@@ -1,0 +1,2 @@
+# 1209 maandag 9 december 1996
+Het is nu 05:12. We gaan weer aan de slag. Wat ik actief wil houden: het gevoel dat er nog een aantal (kleine) dingen te doen zijn. Gisteravond, na het Van Remmen bezoek, ging dat heel goed: nog een kwartier piano spelen, nog 10 blz 4 maaltijden, etc.

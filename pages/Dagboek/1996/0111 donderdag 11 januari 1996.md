@@ -1,0 +1,5 @@
+# 0111 donderdag 11 januari 1996
+Hoessein brengt een officieel staatsbezoek aan Israël. Wie had dat een jaar geleden kunnen denken. 
+
+Cathrien
+Cathrien deze week tot twee maal toe huilend bij Anne Carien op schoot. Huilen, huilen, huilen. Durfde het niet te vertellen, Anne zou erg boos worden etc. Uiteindelijk toch ermee voor de dag gekomen. De eerste keer ging het om een maandverband dat ze uit de kast op de slaapkamer had gehaald en gepast had om te voelen hoe het zit. De tweede keer (was nog veel erger, kon het echt niet vertellen, etc.) vertelde ze dat ze met Laura S. een keer gespeeld had dat ze gingen vrijen, ook om te kijken hoe dat voelt. Wel bijzonder om zo te horen hoe Cathrien zich min of meer voorbereidt op de volgende fase in haar leven. Ervaringen die je echt veranderen, zo dat je daarna niet meer wordt wat je daarvoor was. Wat een geluk en een voorrecht dat ze er uiteindelijk over gaat praten.

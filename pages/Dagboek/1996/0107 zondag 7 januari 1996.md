@@ -1,0 +1,2 @@
+# 0107 zondag 7 januari 1996
+Het is nu 16:28. Lou en Celine Meulman kondigden vanochtend in de kerk aan er vandaag een leesdag van te zullen maken. Heerlijk vooruitzicht. Ik moet verder werken aan stuk over onderzoeksbeleid en aan voorbereiding voor college morgen. Resterende tijd steken in voorbereiding HRM cursus.

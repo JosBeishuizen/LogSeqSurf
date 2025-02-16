@@ -1,0 +1,2 @@
+# 1110 zondag 10 november 1996
+De endorfinetherapie loopt goed. Vanochtend hard gelopen in het Vondelpark. Geniet nu nog na. Cathrien viert vandaag haar verjaardagspartijtje. We gaan eerst naar een voorstelling van “De geheime tuin” in Amstelveen. Daarna gourmetten hier thuis. Vanavond verder lezen in De Crescenzo en Frits Boer.

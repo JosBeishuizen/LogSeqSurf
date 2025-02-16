@@ -1,0 +1,2 @@
+# 1026 zaterdag 26 oktober 1996
+Zaterdagmiddag. Proberen twee uur te werken. Even beneden melden. Zal wel weer een storm van protest geven. Ik zal proberen te kalmeren en aan te geven dat ik de lamp niet op een andere plaats kan hangen.

@@ -1,0 +1,2 @@
+# 1222 zondag 22 december 1996
+Kerstvakantie. Een mooi commentaar bij de dood van Marcello Mastroianno: Altijd serieus met zijn werk bezig en nooit serieus over zichzelf. Dat deze vakantie proberen vol te houden.

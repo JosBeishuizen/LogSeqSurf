@@ -1,0 +1,2 @@
+# 0124 woensdag 24 januari 1996
+Het is nu 05:04. Systeem werkt nog steeds. Berend bleek gistermiddag een schemerlamp met mooi gedraaide houten voet (van tante Lila) omgegooid te hebben, zo dat de voet was gebroken. Wordt gerepareerd door Jouke Klop. De situatie van een schuldbewuste Berend deed me terugdenken aan die keer toen ik met de gebroeders Verwoerd het zomerhuisje in de tuin heb doen instorten. 

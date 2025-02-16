@@ -1,0 +1,2 @@
+# 0105 vrijdag 5 januari 1996
+Prachtige zonsopgang hier in Egmond om 09:44. Hopelijk wordt dit een goed bestede dag. In ieder geval wil ik mijn “schrijfafspraken” nakomen, en, als het kan, ook nog een half uurtje door de duinen lopen. Het is hier schitterend in Egmond. Maar ook erg koud, het water in het op electrolyse lopende klokje is bevroren! De kachel brandt en zal het hier in een uurtje of twee hopelijk aangenaam maken.

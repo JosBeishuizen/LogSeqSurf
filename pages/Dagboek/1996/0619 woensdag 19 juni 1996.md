@@ -1,0 +1,3 @@
+# 0619 woensdag 19 juni 1996
+Even een stukje dagboek apart, omdat ik zowaar Word van de harde schijf afgehaald heb zonder het terug te zetten. Misschien een aanleiding om met Word 6.0 te gaan werken? Morgen van de PowerMac afhalen. Drie zaken lijken belangrijk: 1. emotionele intelligentie (bestseller in V.S.), 2. strengheid, 3. lijstjes met af te werken punten. Voldoende wapenrusting? Met “emotionele intelligentie” kan natuurlijk alleen maar liefde bedoeld zijn. Beginnen aan de laatste week, waarin computer als het even kan niet de boventoon voert. De lijstjes moeten daartegen bescherming bieden. 
+Maandag zeer positieve gesprekken gevoerd met de leerkrachten van Cathrien, Sara en Berend. De rapporten zien er prima uit. Een hele geruststelling!

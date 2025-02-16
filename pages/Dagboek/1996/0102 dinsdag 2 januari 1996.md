@@ -1,0 +1,2 @@
+# 0102 dinsdag 2 januari 1996
+Het is nu 08:40. Op weg naar Leiden voor de eerste werkdag van het nieuwe jaar. Gister de kinderen naar Diepenveen gebracht en daarna over een beijzelde Veluwe naar Harderwijk voor de Nieuwjaarsreceptie bij de fam. Klein. Alleen moeder, Ton & Nanja en Marina en haar nieuwe vriend Ron waren er (vanwege de ijzel). Moeder bleek Oudejaarsavond opgebleven te zijn. Met Nanja afgesproken dat we dit jaar toch werkelijk een afspraak maken.

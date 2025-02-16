@@ -1,0 +1,2 @@
+# 0221 woensdag 21 februari 1996
+Op weg naar huis, het is 17:46. Veel computerzaken vandaag. Nog geen nieuwe computers besteld! Moet morgen gebeuren! Even over Berend. Gisteravond aan tafel. Berend: Als het tegelijk dag is in Afrika en in Frankrijk dan moeten er wel ongeveer vier zonnen zijn. Vanavond schaatsen. Er zit vooruitgang in volgens de schaatsjuffrouw. Maar ik ga er nog steeds niet met veel plezier heen. Enfin, nog een keer of twee, dan gaat de baan dicht en breekt de lente aan. 

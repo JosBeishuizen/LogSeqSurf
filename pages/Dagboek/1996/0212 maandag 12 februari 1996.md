@@ -1,0 +1,2 @@
+# 0212 maandag 12 februari 1996
+Op weg naar Leiden, het is 08:31 uur. Nieuwe vorm van planning uitproberen: geheel rond personen. Motiveert mij sterker om ook werkelijk iets te doen, en afspraken na te komen.
