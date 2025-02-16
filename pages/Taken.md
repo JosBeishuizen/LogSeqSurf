@@ -11,6 +11,9 @@
 - DONE Boodschappen
 - DONE Koken
 - DONE kaart voor Marjolijn
+- NOW Zoom link God en Wij
+- God en Wij
+  SCHEDULED: <2025-02-17 Mon>
 -
 - Elke dag
 - LATER Veerkamp: [[18. Het Rijk in crisis]]
