@@ -566,6 +566,7 @@
 			- [[0104 donderdag 4 januari 1996]]
 			- [[0105 vrijdag 5 januari 1996]]
 			- [[0107 zondag 7 januari 1996]]
+			- [[0111 donderdag 11 januari 1996]]
 			-
 			- [[0116 dinsdag 16 januari 1996]]
 		- 2024
