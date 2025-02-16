@@ -11,7 +11,7 @@
 - DONE Boodschappen
 - DONE Koken
 - DONE kaart voor Marjolijn
-- NOW Zoom link God en Wij
+- DONE Zoom link God en Wij
 - God en Wij
   SCHEDULED: <2025-02-17 Mon>
 -
