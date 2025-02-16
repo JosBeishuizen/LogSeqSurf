@@ -552,7 +552,7 @@
 			- [[woensdag 6 december 1995]]
 			- [[donderdag 7 december 1995]]
 			- [[vrijdag 8 december 1995]]
-			- [[1209 vrijdag 9 december 1994]]
+			- [[vrijdag 9 december 1994]]
 			- [[1215 donderdag 15 december 1994]]
 			- [[1217 zondag 17 december 1995]]
 			- [[1219 maandag 19 december 1994]]
