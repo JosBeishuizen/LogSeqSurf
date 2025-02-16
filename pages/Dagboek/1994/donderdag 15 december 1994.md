@@ -1,0 +1,1 @@
+- Vanochtend in de trein toch weer heel mooi de zon zien opkomen. Afgelopen vrijdag dus niet goed opgelet.

@@ -481,6 +481,7 @@
 			- [[vrijdag 28 oktober 1994]]
 			- [[maandag 31 oktober 1994]]
 		- 1995
+		  collapsed:: true
 			- [[zondag 1 januari 1995]]
 			- [[maandag 2 januari 1995]]
 			- [[dinsdag 3 januari 1995]]
@@ -553,12 +554,12 @@
 			- [[donderdag 7 december 1995]]
 			- [[vrijdag 8 december 1995]]
 			- [[vrijdag 9 december 1994]]
-			- [[1215 donderdag 15 december 1994]]
-			- [[1217 zondag 17 december 1995]]
-			- [[1219 maandag 19 december 1994]]
-			- [[1223 zaterdag 23 december 1995]]
-			- [[1227 woensdag 27 december 1995]]
-			- [[1229 vrijdag 29 december 1995]]
+			- [[donderdag 15 december 1994]]
+			- [[zondag 17 december 1995]]
+			- [[maandag 19 december 1994]]
+			- [[zaterdag 23 december 1995]]
+			- [[woensdag 27 december 1995]]
+			- [[vrijdag 29 december 1995]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
