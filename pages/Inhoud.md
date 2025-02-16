@@ -42,7 +42,6 @@
 	- [[Reviews]]
 	- [[Financiën]]
 - Aantekeningen
-  collapsed:: true
 	- [[Recensie Prophet Song]]
 	- [[Abonnementen]]
 	- [[Herinneringen aan Gerrie]]
@@ -557,6 +556,7 @@
 			- [[25]]
 			  collapsed:: true
 	- Digitaal
+	  collapsed:: true
 		- Data
 		  collapsed:: true
 			- [[AC]]
@@ -821,6 +821,7 @@
 		- Willem Wilmink
 		- Kees Winkler
 	- Recepten
+	  collapsed:: true
 		- [[Aardappelsalade met gerookte forel]]
 		- [[Aardperentaart met peren]]
 		- [[Bietensoep met appel en balsamicoazijn]]
