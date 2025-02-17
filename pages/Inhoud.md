@@ -123,9 +123,7 @@
 		- [[Het Psalmenoproer]]
 - Geheugen
 	- Bijbel
-	  collapsed:: true
 		- Psalmen
-		  collapsed:: true
 			- [[Psalm 1]]
 			- [[Psalm 2]]
 			- [[Psalm 3]]
@@ -145,6 +143,13 @@
 			- [[Psalm 17]]
 			- [[Psalm 18]]
 			- [[Psalm 19]]
+			- [[Psalm 22]]
+			- [[Psalm 23]]
+			- [[Psalm 24]]
+			- [[Psalm 25]]
+			- [[Psalm 30]]
+			- [[Psalm 32]]
+			- [[Psalm 33]]
 			-
 			-
 	- Cultuur
