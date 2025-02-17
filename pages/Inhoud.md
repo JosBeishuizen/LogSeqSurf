@@ -151,6 +151,7 @@
 			- [[Psalm 32]]
 			- [[Psalm 33]]
 			- [[Psalm 34]]
+			- [[Psalm 42-43]]
 			-
 			-
 	- Cultuur
