@@ -25,7 +25,7 @@
 	- Eddy de Wind - Eindstation Auschwitz
 	- Timothy Snyder - Over vrijheid
 	- Herman van Praag - Gemoedsbewegingen
-	-
+	- ![2025-02-17-22-19-11.jpeg](../assets/2025-02-17-22-19-11.jpeg)
 - Podcast
 	- Een dik uur Ischa op de radio
 		- **23:01** [[quick capture]]:  https://open.spotify.com/episode/1231lEJH9SBbDitdIbM3UV?si=tHXiBfrVRuun2JGawWn-UA
