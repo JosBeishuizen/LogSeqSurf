@@ -4,7 +4,6 @@ tags:: ☀️
 
 - tags:: ☀️
   [[Dietrich Bonhoeffer: Ochtendgebed]]
--
 - tags:: ☀️
   [[Happy Thoughts]]
 - tags:: ☀️
@@ -109,3 +108,6 @@ tags:: ☀️
   [[Jim van Os over verslaving]]
 - tags:: ☀️
   [[Psalm 1]]
+- tags:: ☀️
+  [[Psalm 23]]
+-

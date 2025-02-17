@@ -157,6 +157,9 @@
 			- [[Psalm 63]]
 			- [[Psalm 68]]
 			- [[Psalm 69]]
+			- [[Psalm 72]]
+			- [[Psalm 73]]
+			- [[Psalm 74]]
 			-
 	- Cultuur
 		- [[Te Zien]]
@@ -911,7 +914,6 @@
 		- [[Kerstkaarten]]
 		- [[Verjaardagen]]
 	- query-table:: false
-	  collapsed:: true
 	  #+BEGIN_QUERY
 	  {:title ["Mooie Citaten en Teksten"]
 	    :query [:find (pull ?b [*])
