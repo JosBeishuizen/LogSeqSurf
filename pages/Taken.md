@@ -12,7 +12,7 @@
 - DONE Koken
 - DONE kaart voor Marjolijn
 - DONE Zoom link God en Wij
-- God en Wij
+- DONE God en Wij
   SCHEDULED: <2025-02-17 Mon>
 -
 - Elke dag

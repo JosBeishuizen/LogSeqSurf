@@ -53,6 +53,7 @@
 	- [[Cadeaus]]
 - Activiteiten
 	- Reviews
+	  collapsed:: true
 		- [[D-22-00513]]
 		- [[D-22-00543]]
 		- [[D-22-00834]]
@@ -123,6 +124,7 @@
 - Geheugen
 	- Bijbel
 		- Psalmen
+		  collapsed:: true
 			- [[Psalm 1]]
 			- [[Psalm 2]]
 			- [[Psalm 3]]
@@ -909,7 +911,6 @@
 		- [[Vijfschaft]]
 		- [[Zoete aardappel met feta]]
 	- Sociaal
-	  collapsed:: true
 		- [[Kerstkaarten]]
 		- [[Verjaardagen]]
 	- query-table:: false
