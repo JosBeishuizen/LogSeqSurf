@@ -573,6 +573,7 @@
 			- [[woensdag 27 december 1995]]
 			- [[vrijdag 29 december 1995]]
 		- 1996
+		  collapsed:: true
 			- [[maandag 1 januari 1996]]
 			- [[dinsdag 2 januari 1996]]
 			- [[donderdag 4 januari 1996]]
