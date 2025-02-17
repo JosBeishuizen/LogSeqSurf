@@ -150,6 +150,7 @@
 			- [[Psalm 30]]
 			- [[Psalm 32]]
 			- [[Psalm 33]]
+			- [[Psalm 34]]
 			-
 			-
 	- Cultuur
