@@ -152,7 +152,8 @@
 			- [[Psalm 33]]
 			- [[Psalm 34]]
 			- [[Psalm 42-43]]
-			-
+			- [[Psalm 46]]
+			- [[Psalm 51]]
 			-
 	- Cultuur
 		- [[Te Zien]]
