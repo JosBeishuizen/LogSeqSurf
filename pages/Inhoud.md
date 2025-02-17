@@ -478,7 +478,6 @@
 			- [[zondag 22 augsutus 1993]]
 			- [[maandag 30 augustus 1993]]
 		- 1994
-		  collapsed:: true
 			- [[dinsdag 24 augustus 1994]]
 			- [[donderdag 29 september 1994]]
 			- [[vrijdag 30 september 1994]]
