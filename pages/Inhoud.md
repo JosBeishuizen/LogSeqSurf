@@ -931,6 +931,7 @@
 		- [[20250204 Over Marijn Kruk en zijn analyse van radicaal-rechts]]
 		- [[20241127 Jesse Klaver over hoe rechts de middenklasse bedreigt]]
 		- [[19991011 Trouw over Iris Murdoch]]
+		- [[19990210 Trouw over Iris Murdoch]]
 	- Externe tekstbestanden (pdf etc.)
 	  collapsed:: true
 		- ![easypeasy](../assets/easypeasy.pdf)
