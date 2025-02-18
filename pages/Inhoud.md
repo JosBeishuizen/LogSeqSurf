@@ -914,6 +914,7 @@
 		- [[Kerstkaarten]]
 		- [[Verjaardagen]]
 	- query-table:: false
+	  collapsed:: true
 	  #+BEGIN_QUERY
 	  {:title ["Mooie Citaten en Teksten"]
 	    :query [:find (pull ?b [*])
@@ -932,6 +933,7 @@
 		- [[20241127 Jesse Klaver over hoe rechts de middenklasse bedreigt]]
 		- [[19991011 Trouw over Iris Murdoch]]
 		- [[19990210 Trouw over Iris Murdoch]]
+		-
 	- Externe tekstbestanden (pdf etc.)
 	  collapsed:: true
 		- ![easypeasy](../assets/easypeasy.pdf)
