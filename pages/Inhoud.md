@@ -589,7 +589,7 @@
 			- [[0126 vrijdag 26 januari 1996]]
 			- [[0128 zondag 28 januari 1996]]
 		- 1998
-			-
+			- [[dinsdag 1 december 1998]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
