@@ -934,7 +934,7 @@
 		- [[19991011 Trouw over Iris Murdoch]]
 		- [[19990210 Trouw over Iris Murdoch]]
 		- [[19941210 Het Parool over Jan van Kilsdonk]]
-		-
+		- [[1994011 Jan Blokker over Ien Dales]]
 	- Externe tekstbestanden (pdf etc.)
 	  collapsed:: true
 		- ![easypeasy](../assets/easypeasy.pdf)
