@@ -49,3 +49,9 @@ Cijfer:: 10
   Gezien-op:: begin feb 2025
   Opm:: Een van de eerste films met Maggie Smith. Enthousiaste lerares klassieke talen op meisjesschool. Fascinatie voor Mussolini moeilijk te plaatsen.
   Cijfer:: 7
+- Titel:: Nesjomme 
+  Tags:: Film
+  Gezien-op:: 18 feb 2025 in The Movies
+  Opm:: Prachtig portret van het Joodse leven in Amsterdam tijdens het interbellum 
+  Cijfer:: 9
+-
