@@ -34,8 +34,9 @@
 	- Don't talk politics 
 	  **09:32** [[quick capture]]:  https://open.spotify.com/show/4FLcMkp8wWqLeXXj5tCcyM?si=729XpJf7Q4eQStwpNPi51A
 - Beeldende kunst
-  collapsed:: true
 	- Samuel Hoogstraaten in het Rembrandthuis t/m 4 mei
 	- Jan Mankes Museum Arnhem t/m 22 juni
 	- American Photography Rijksmuseum t/m 9 juni
 	- Koos Breukel in FOAM
+	- Vilhelm Hammershoi
+		-
