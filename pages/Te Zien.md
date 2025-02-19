@@ -39,4 +39,4 @@
 	- American Photography Rijksmuseum t/m 9 juni
 	- Koos Breukel in FOAM
 	- Vilhelm Hammershoi
-		-
+		- https://www.meisterdrucke.nl/artiest/Vilhelm-Hammershoi.html
