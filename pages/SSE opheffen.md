@@ -18,4 +18,10 @@
 		  collapsed:: true
 			- Welke rekeningen?
 				- ABN AMRO
+	- [[Wednesday 19 February 2025]]
+		- Bericht van ABNAMRO:
+			- Rekeningen opgeheven
 - KvK opzeggen
+	- [[Wednesday 19 February 2025]]
+		- Opheffing in gang zetten
+			- Handtekeningen op verslag
