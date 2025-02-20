@@ -593,6 +593,12 @@
 			- [[zondag 28 januari 1996]]
 			- [[0210 zaterdag 10 februari 1996]]
 			- [[0211 zondag 11 februari 1996]]
+			- [[0212 maandag 12 februari 1996]]
+			- [[0221 woensdag 21 februari 1996]]
+			- [[0223 vrijdag 23 februari 1996]]
+			- [[0301 vrijdag 1 maart 1996]]
+			- [[0319 dinsdag 19 maart 1996]]
+			- [[0411 donderdag 11 april 1996]]
 			-
 		- 1998
 			- [[dinsdag 1 december 1998]]
