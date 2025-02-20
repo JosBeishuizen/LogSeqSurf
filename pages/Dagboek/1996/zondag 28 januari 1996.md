@@ -1,0 +1,1 @@
+- 10 km geschaatst bij Ter Aar, de Plassentocht over de drie plassen bij Ter Aar en Langeraar!

@@ -52,6 +52,7 @@
 	- [[Alzheimerlijst]]
 	- [[Cadeaus]]
 - Activiteiten
+  collapsed:: true
 	- Reviews
 	  collapsed:: true
 		- [[D-22-00513]]
@@ -72,6 +73,7 @@
 		- [[D-24-00986]]
 		- [[De vragen van Alexander]]
 	- Studie
+	  collapsed:: true
 		- [[Maleachi]]
 		- Levinas
 		  collapsed:: true
@@ -91,6 +93,7 @@
 				- [[5 Voorbij winst en verlies. Over identiteit en ontwrichting]]
 				- [[6 De onteigende getuige. Over mystiek, taak en getuigenis]]
 		- Veerkamp
+		  collapsed:: true
 			- [[01. In het begin was het boek]]
 			- [[02. Twee zienswijzen, twee ordeningen]]
 			- [[03. Het ontstaan van het Grote Verhaal]]
@@ -117,6 +120,7 @@
 				- [[05 God en ik, wij zijn een]]
 		- [[Berlage]]
 	- Lezen
+	  collapsed:: true
 		- [[Roll]]
 		- [[Het Bureau]]
 		- [[Het Psalmenoproer]]
@@ -162,6 +166,7 @@
 			- [[Psalm 74]]
 			-
 	- Cultuur
+	  collapsed:: true
 		- [[Te Zien]]
 		- [[Gezien]]
 	- Dagboek
@@ -573,20 +578,19 @@
 			- [[woensdag 27 december 1995]]
 			- [[vrijdag 29 december 1995]]
 		- 1996
-		  collapsed:: true
 			- [[maandag 1 januari 1996]]
 			- [[dinsdag 2 januari 1996]]
 			- [[donderdag 4 januari 1996]]
 			- [[vrijdag 5 januari 1996]]
-			- [[0107 zondag 7 januari 1996]]
-			- [[0111 donderdag 11 januari 1996]]
+			- [[zondag 7 januari 1996]]
+			- [[donderdag 11 januari 1996]]
 			- [[maandag 15 januari 1996]]
-			- [[0116 dinsdag 16 januari 1996]]
-			- [[0122 maandag 22 januari 1966]]
-			- [[0123 dinsdag 23 januari 1996]]
-			- [[0124 woensdag 24 januari 1996]]
-			- [[0126 vrijdag 26 januari 1996]]
-			- [[0128 zondag 28 januari 1996]]
+			- [[dinsdag 16 januari 1996]]
+			- [[maandag 22 januari 1966]]
+			- [[dinsdag 23 januari 1996]]
+			- [[woensdag 24 januari 1996]]
+			- [[vrijdag 26 januari 1996]]
+			- [[zondag 28 januari 1996]]
 		- 1998
 			- [[dinsdag 1 december 1998]]
 		- 2024
