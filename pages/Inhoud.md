@@ -599,7 +599,10 @@
 			- [[0301 vrijdag 1 maart 1996]]
 			- [[0319 dinsdag 19 maart 1996]]
 			- [[0411 donderdag 11 april 1996]]
-			-
+			- [[0503 vrijdag 3 mei 1996]]
+			- [[0505 zondag 5 mei 1996]]
+			- [[0510 vrijdag 10 mei 1996]]
+			- [[0519 zondag 19 mei 1996]]
 		- 1998
 			- [[dinsdag 1 december 1998]]
 		- 2024
