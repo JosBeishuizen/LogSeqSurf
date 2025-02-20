@@ -603,6 +603,14 @@
 			- [[0505 zondag 5 mei 1996]]
 			- [[0510 vrijdag 10 mei 1996]]
 			- [[0519 zondag 19 mei 1996]]
+			- [[0605 woensdag 5 juni 1996]]
+			- [[0610 maandag 10 juni 1996]]
+			- [[0612 woensdag 12 juni 1996]]
+			- [[0619 woensdag 19 juni 1996]]
+			- [[0621 vrijdag 21 juni 1996]]
+			- [[0622 zaterdag 22 juni 1996]]
+			- [[0624 woensdag 24 juni 1996]]
+			- [[0626 woensdag 26 juni 1996]]
 		- 1998
 			- [[dinsdag 1 december 1998]]
 		- 2024
