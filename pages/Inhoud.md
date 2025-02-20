@@ -611,6 +611,14 @@
 			- [[0622 zaterdag 22 juni 1996]]
 			- [[0624 woensdag 24 juni 1996]]
 			- [[0626 woensdag 26 juni 1996]]
+			- [[0717 woensdag 17 juli 1996]]
+			- [[0722 maandag 22 juli 1996]]
+			- [[0723 dinsdag 23 juli 1996]]
+			- [[0723 donderdag 23 juli 1996]]
+			- [[0727 zaterdag 27 juli 1996]]
+			- [[0729 maandag 29 juli 1996]]
+			- [[0730 dinsdag 30 juli 1996]]
+			-
 		- 1998
 			- [[dinsdag 1 december 1998]]
 		- 2024
