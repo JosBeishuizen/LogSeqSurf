@@ -483,6 +483,7 @@
 			- [[zondag 22 augsutus 1993]]
 			- [[maandag 30 augustus 1993]]
 		- 1994
+		  collapsed:: true
 			- [[dinsdag 24 augustus 1994]]
 			- [[donderdag 29 september 1994]]
 			- [[vrijdag 30 september 1994]]
@@ -503,11 +504,12 @@
 			- [[maandag 21 november 1994]]
 			- [[woensdag 23 november 1994]]
 			- [[vrijdag 25 november 1994]]
-			- [[dinsdag 29 november 1994]
+			- [[dinsdag 29 november 1994]]
 			- [[vrijdag 9 december 1994]]
 			- [[donderdag 15 december 1994]]
 			- [[maandag 19 december 1994]]
 		- 1995
+		  collapsed:: true
 			- [[zondag 1 januari 1995]]
 			- [[maandag 2 januari 1995]]
 			- [[dinsdag 3 januari 1995]]
@@ -571,9 +573,7 @@
 			- [[woensdag 6 december 1995]]
 			- [[donderdag 7 december 1995]]
 			- [[vrijdag 8 december 1995]]
-			- [[donderdag 15 december 1994]]
 			- [[zondag 17 december 1995]]
-			- [[maandag 19 december 1994]]
 			- [[zaterdag 23 december 1995]]
 			- [[woensdag 27 december 1995]]
 			- [[vrijdag 29 december 1995]]
