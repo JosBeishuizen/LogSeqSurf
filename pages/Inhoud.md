@@ -483,7 +483,6 @@
 			- [[zondag 22 augsutus 1993]]
 			- [[maandag 30 augustus 1993]]
 		- 1994
-		  collapsed:: true
 			- [[dinsdag 24 augustus 1994]]
 			- [[donderdag 29 september 1994]]
 			- [[vrijdag 30 september 1994]]
@@ -497,8 +496,8 @@
 			- [[dinsdag 25 oktober 1994]]
 			- [[vrijdag 28 oktober 1994]]
 			- [[maandag 31 oktober 1994]]
+			- [[dinsdag 29 november 1994]]
 		- 1995
-		  collapsed:: true
 			- [[zondag 1 januari 1995]]
 			- [[maandag 2 januari 1995]]
 			- [[dinsdag 3 januari 1995]]
@@ -564,7 +563,7 @@
 			- [[woensdag 23 november 1994]]
 			- [[vrijdag 25 november 1994]]
 			- [[maandag 27 november 1995]]
-			- [[dinsdag 29 november 1994]]
+			-
 			- [[vrijdag 1 december 1995]]
 			- [[maandag 4 december 1995]]
 			- [[woensdag 6 december 1995]]
@@ -623,6 +622,20 @@
 			- [[0907 zaterdag 7 september 1996]]
 			- [[0908 zaterdag 8 september 1996]]
 			- [[0917 dinsdag 17 september 1996]]
+			- [[1003 dinsdag 3 oktober 1996]]
+			- [[1016 woensdag 16 oktober 1996]]
+			- [[1017 donderdag 17 oktober 1996]]
+			- [[1018 vrijdag 18 oktober 1996]]
+			- [[1019 zaterdag 19 oktober 1996]]
+			- [[1020 zaterdag 20 oktober 1996]]
+			- [[1022 dinsdag 22 oktober 1996]]
+			- [[1023 woensdag 23 oktober 1996]]
+			- [[1026 zaterdag 26 oktober 1996]]
+			- [[1027 zaterdag 27 oktober 1996]]
+			- [[1030 woensdag 30 oktober 1996]]
+			- [[1110 zondag 10 november 1996]]
+			- [[1118 maandag 18 november 1996]]
+			- [[11]]
 		- 1998
 			- [[dinsdag 1 december 1998]]
 		- 2024
