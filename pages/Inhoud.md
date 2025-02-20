@@ -620,6 +620,9 @@
 			- [[0730 dinsdag 30 juli 1996]]
 			- [[0820 dinsdag 20 augustus 1996]]
 			- [[0823 vrijdag 23 augustus 1996]]
+			- [[0907 zaterdag 7 september 1996]]
+			- [[0908 zaterdag 8 september 1996]]
+			- [[0917 dinsdag 17 september 1996]]
 		- 1998
 			- [[dinsdag 1 december 1998]]
 		- 2024
