@@ -1,0 +1,1 @@
+- Het werd natuurlijk een g. De olifantendrol werd een groot succes waarvan juffrouw Miep het hele weekend nog plezier heeft gehad. Intussen is Saar een weekje ziek geweest, hoofdpijn, koorts en buikpijn. Het gaat weer de goede kant op. Anne klaagt over te grote drukte.
