@@ -556,7 +556,7 @@
 			- [[zondag 16 juli 1995]]
 			- [[vrijdag 20 oktober 1995]]
 			- [[woendag 2 november 1994]]
-			- [[donderdag 3 november 1994]]
+				- [[donderdag 3 november 1994]]
 			- [[vrijdag 4 november 1994]]
 			- [[zondag 6 november 1994]]
 			- [[maandag 21 november 1994]]
