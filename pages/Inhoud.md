@@ -52,7 +52,6 @@
 	- [[Alzheimerlijst]]
 	- [[Cadeaus]]
 - Activiteiten
-  collapsed:: true
 	- Reviews
 	  collapsed:: true
 		- [[D-22-00513]]
@@ -120,7 +119,6 @@
 				- [[05 God en ik, wij zijn een]]
 		- [[Berlage]]
 	- Lezen
-	  collapsed:: true
 		- [[Roll]]
 		- [[Het Bureau]]
 		- [[Het Psalmenoproer]]
