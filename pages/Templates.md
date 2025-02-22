@@ -46,4 +46,21 @@
 	  :result-transform (fn [result] [(rand-nth result)] )
 	  }
 	  #+END_QUERY
-	-
+	- - ## Daily note
+	    template:: daily
+	    template-including-parent:: false
+	  	- up:: placeholder
+	  	- **A quote to think about**:
+	  		- {{renderer :interstitial, random, "quote" }}
+	  	- **Note self**:
+	  		- {{renderer :interstitial, yesterday, "NTNDS" }}
+	  	- ## End of day checklist 📝
+	  		- TODO Write ntnds here:
+	  			- Don't forget to write some encouraging words to your tomorrows self [[ntnds]]
+	  		- TODO Today I learned
+	  	- ## Planning
+	  		- TODO vitamins
+	  		- {{renderer :unfinishedBusiness}}
+	  		- TODO What is todays _frog_?
+	  	- ## Journal
+	  		- **9:00** [[BHighlights]]
