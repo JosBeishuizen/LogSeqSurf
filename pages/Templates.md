@@ -46,7 +46,7 @@
 	  :result-transform (fn [result] [(rand-nth result)] )
 	  }
 	  #+END_QUERY
-	- - ## Daily note
+	- - # # Daily note
 	    template:: daily
 	    template-including-parent:: false
 	  	- up:: placeholder
