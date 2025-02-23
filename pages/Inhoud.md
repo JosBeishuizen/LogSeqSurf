@@ -607,7 +607,7 @@
 			- [[woensdag 19 juni 1996]]
 			- [[vrijdag 21 juni 1996]]
 			- [[zaterdag 22 juni 1996]]
-			- [[0624 woensdag 24 juni 1996]]
+			- [[woensdag 24 juni 1996]]
 			- [[0626 woensdag 26 juni 1996]]
 			- [[0717 woensdag 17 juli 1996]]
 			- [[0722 maandag 22 juli 1996]]
