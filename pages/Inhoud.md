@@ -640,7 +640,11 @@
 			- [[zondag 22 december 1996]]
 			- [[maandag 23 december 1996]]
 		- 1997
-			-
+			- [[0103 vrijdag 3 januari 1997]]
+			- [[0105 zondag 5 januari 1997]]
+			- [[0106 maandag 6 januari 1997]]
+			- [[0117 vrijdag 17 januari 1997]]
+			- [[0126 zondag 26 januari 1997]]
 		- 1998
 			- [[dinsdag 1 december 1998]]
 		- 2024
