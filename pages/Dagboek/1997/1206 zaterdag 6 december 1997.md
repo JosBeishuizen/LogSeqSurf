@@ -1,0 +1,2 @@
+# 1206 zaterdag 6 december 1997
+Het is nu 07:06. Een uurtje werken. Anne slaapt nog even, na de Sint van gisteravond. De kinderen hebben ervan genoten. Ik heb natuurlijk weer de verkeerde cadeaus aan Anne gegeven. Mijn “geestige” gedichten werden niet geapprecieerd. Helaas een onvoldoende na twee avonden en een hele dag voorbereiding op het heerlijk avondje. Nu eerst maar even aan de slag.

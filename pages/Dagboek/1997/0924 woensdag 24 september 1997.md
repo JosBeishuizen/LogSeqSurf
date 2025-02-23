@@ -1,0 +1,2 @@
+# 0924 woensdag 24 september 1997
+Het is 09:24 uur. Op weg naar Leiden. Sara zit in de penarie, vanwege het probleem met wie de slaapkamer in Bladel te delen. Meester Pieter hakt de knoop niet door, waardoor met name de meisjes in allerlei dilemma’s verzeild raken. Sara heeft al tegen Hagar gezegd dat ze niet met haar op de kamer wil slapen. Dat gaf natuurlijk de nodige emoties. Ik snap niet dat Pieter de zaak niet gewoon indeelt.

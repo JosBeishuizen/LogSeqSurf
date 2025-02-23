@@ -1,0 +1,2 @@
+# 0323 zondag 23 maart 1997
+Palmzondag 1997. Gisteren de belastingsaangifte per modem naar het belastingskantoor verstuurd! Vandaag een rustige zondag. Berend speelt een basketbalwedstrijd. Anne gaat met de meisjes naar de kerk, een preek van Ton Honig. Ik lees een preek van Huub, maak voor Cathrien een bureaulampje, schrijf een A4 aan mijn artikel over de leercyclus en lees 50 blz. in Voskuil. Maak een planning voor de komende week.

@@ -1,0 +1,2 @@
+# 0317 maandag 17 maart 1997
+Op weg naar Leiden ervaar ik iets lente-achtigs in de lucht. Veertien dagen vooral lezen en schrijven, ik ga ervoor. Vanochtend aan tafel besprak ik met Berend dat jezelf verzorgen een belangrijke handeling is: mond afvegen, plassen als het nodig is, dat alles met aandacht doen. Anne zei toen opeens tegen Sara: dat geldt ook voor jou, jij wast je ook heel vaak niet. Sara was beduusd, begon te huilen en wilde haar boterham niet meer opeten. Ik vind dit geen handige manier van praten van Anne. Toch vanavond nog even bespreken.

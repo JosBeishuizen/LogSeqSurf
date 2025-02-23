@@ -1,0 +1,4 @@
+# 0828 donderdag 28 augustus 1997
+Athene, 08:39 uur. Gisteravond voor het eerst om 12.00 uur in bed. Wat ik zo in Pascal bewonder is dat hij zichzelf blijft. Dat wil ik ook meer gaan doen. Daarom baal ik zo van die lange maaltijden ‘s avonds laat, de verleiding om veel te drinken, zeker in aanwezigheid van de onmatige Marcel Veenman. Gistermiddag even een discussie over de vraag of je elkaar de waarheid moet zeggen, als je vindt dat een ander zichzelf schade doet door zijn levensstijl. Dit naar aanleiding van Marcels onmatigheid. Pascal en Frans vonden eigenlijk van niet, dat is iemands persoonlijke keuze. Ik vind dat je elkaar wel met waarschuwen, en dat je daarin eerlijk moet zijn. 
+
+Gister is Berend 9 jaar geworden! ‘s Ochtends vroeg al gebeld. Iedereen werd net wakker. Gisteravond nog een keer. Hij was erg tevreden met zijn cadeaus. Was met Anne en de meisjes naar het nieuwe NINT geweest. Daarna gegeten met Ferdinand en Willem.

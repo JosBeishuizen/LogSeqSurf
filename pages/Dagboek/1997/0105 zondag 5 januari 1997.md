@@ -1,0 +1,2 @@
+# 0105 zondag 5 januari 1997
+Gisteren de vijftiende Elstedentocht. Van de 16.000 deelnemers zijn er 10.000 aangekomen. De wedstrijd was heel spannend. Van de weeromstuit gaan we vandaag nog een tochtje maken. Wellicht bij Driehuizen. Twee regels vandaag: blijf met jezelf in gesprek en verleen sociale ondersteuning.

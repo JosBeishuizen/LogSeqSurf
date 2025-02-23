@@ -1,0 +1,2 @@
+# 0826 dinsdag 26 augustus 1997
+Athene, 09:00 uur. Gezoem van de airco, een zegen in deze warme stad. Het hotel ligt aan een drukke verkeersader, zeer veel straatrumoer. Deur naar balkon moet dus dicht blijven. Verder een prima hotel, zwembad op het dak!

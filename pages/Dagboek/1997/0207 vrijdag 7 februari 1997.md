@@ -1,0 +1,4 @@
+# 0207 vrijdag 7 februari 1997
+Het is nu 08:15. Op weg naar Leiden. Zo dadelijk het zesde college Onderwijspsychologie. Voor mij in de trein schroeft een medepassagier ontspannen zijn thermoskan open en schenkt zichzelf een geurig kopje koffie in. Een dergelijke ontspannen houding op het juiste moment is begerenswaardig.
+
+Drie keer in korte tijd migraine achter elkaar. Hopelijk geen teken van iets onaagenaams. Deze week een gesprek met een student van wie de vader in december plotseling is overleden. Ze vordert zeer slecht met haar studie en vraagt zich af wat te doen. Ik vertelde het verhaal gisteravond aan tafel. Anne en Gerrie zeiden meteen: een andere studie kiezen. Dat kan je opvatten als de juiste intuïtie, maar ook als typisch beginnersgedrag: meteen naar een ontknoping toe, niet eerst het probleem analyseren.

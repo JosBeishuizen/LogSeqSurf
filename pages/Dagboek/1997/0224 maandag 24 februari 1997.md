@@ -1,0 +1,2 @@
+# 0224 maandag 24 februari 1997
+Het is nu 17:49. Op weg naar Amsterdam na een vruchtbare dag. Het begrip “sense of control” is echt een sleutelbegrip. Hoe herwin ik de sympathie van Dolph Kohnstamm? Hem vertrouwen geven? Liefde die liefde wekt, vuur dat ons loutert. Een groene waas over de velden. Vanavond naar Sipke Fokkema, samen met Emiel Felix. Nog even Corry bellen om haar te feliciteren met haar verjaardag.
