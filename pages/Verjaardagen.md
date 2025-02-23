@@ -34,7 +34,7 @@
   SCHEDULED: <2025-02-17 Mon .+1y>
 - DONE David
   SCHEDULED: <2025-02-20 Thu .+1y>
-- Jeroen
+- DONE Jeroen
   SCHEDULED: <2025-02-22 Sat .+1y>
 - Corry
   SCHEDULED: <2025-02-24 Mon .+1y>
