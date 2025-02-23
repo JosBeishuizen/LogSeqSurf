@@ -36,7 +36,7 @@
   SCHEDULED: <2025-02-20 Thu .+1y>
 - DONE Jeroen
   SCHEDULED: <2025-02-22 Sat .+1y>
-- Corry
+- DONE Corry
   SCHEDULED: <2025-02-24 Mon .+1y>
 - Marie Jeanne
   SCHEDULED: <2025-02-26 Wed .+1y>
