@@ -1,0 +1,1 @@
+- Proberen vanaf heden de computer niet langer te gebruiken voor exploratie.
