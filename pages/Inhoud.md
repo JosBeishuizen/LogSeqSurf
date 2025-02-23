@@ -576,6 +576,7 @@
 			- [[woensdag 27 december 1995]]
 			- [[vrijdag 29 december 1995]]
 		- 1996
+		  collapsed:: true
 			- [[maandag 1 januari 1996]]
 			- [[dinsdag 2 januari 1996]]
 			- [[donderdag 4 januari 1996]]
@@ -634,7 +635,10 @@
 			- [[woensdag 30 oktober 1996]]
 			- [[zondag 10 november 1996]]
 			- [[maandag 18 november 1996]]
-			- [[11]]
+			- [[donderdag 5 december 1996]]
+			- [[maandag 9 december 1996]]
+			- [[zondag 22 december 1996]]
+			- [[maandag 23 december 1996]]
 		- 1998
 			- [[dinsdag 1 december 1998]]
 		- 2024
