@@ -673,7 +673,7 @@
 			- [[0513 dinsdag 13 mei 1997]]
 			- [[0514 woensdag 14 mei 1997]]
 			- [[0517 maandag 17 mei 1997]]
-			- []]
+			- [[05]]
 		- 1998
 			- [[dinsdag 1 december 1998]]
 		- 2024
