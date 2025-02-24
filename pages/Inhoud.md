@@ -677,6 +677,10 @@
 			- [[0519 maandag 19 mei 1997]]
 			- [[0520 dinsdag 20 mei 1997]]
 			- [[0528 woensdag 28 mei 1997]]
+			- [[0607 zaterdag 7 juni 1997]]
+			- [[0609 maandag 9 juni 1997]]
+			- [[0613 vrijdag 13 juni 1997]]
+			- [[0619 donderdag 19 juni 1997]]
 		- 1998
 			- [[dinsdag 1 december 1998]]
 		- 2024
