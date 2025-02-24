@@ -593,6 +593,7 @@
 			- [[zaterdag 10 februari 1996]]
 			- [[zondag 11 februari 1996]]
 			- [[maandag 12 februari 1996]]
+			- [[0219 maandag 19 februari 1996]]
 			- [[woensdag 21 februari 1996]]
 			- [[vrijdag 23 februari 1996]]
 			- [[vrijdag 1 maart 1996]]
@@ -649,7 +650,9 @@
 			- [[0207 vrijdag 7 februari 1997]]
 			- [[0208 zaterdag 8 februari 1997]]
 			- [[0210 maandag 10 februari 1997]]
-			-
+			- [[0218 dinsdag 18 februari 1997]]
+			- [[0221 vrijdag 21 februari 1997]]
+			- [[0224 maandag 24 februari 1997]]
 		- 1998
 			- [[dinsdag 1 december 1998]]
 		- 2024
