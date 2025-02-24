@@ -10,14 +10,10 @@
 - LATER [[D-24-00986]]
 - DONE Boodschappen
 - DONE Koken
-- DONE kaart voor Marjolijn
-- DONE Zoom link God en Wij
-- DONE God en Wij
-  SCHEDULED: <2025-02-17 Mon>
 -
 - Elke dag
 - LATER Veerkamp: [[18. Het Rijk in crisis]]
 - DOING twee artikelen uit Argus
-- DONE piano spelen
-- DONE lopen
+- LATER piano spelen
+- NOW lopen
 - DONE roeien
