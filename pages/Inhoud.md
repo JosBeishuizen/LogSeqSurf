@@ -663,6 +663,9 @@
 			- [[0318 dinsdag 18 maart 1997]]
 			- [[0320 donderdag 20 maart 1997]]
 			- [[0323 zondag 23 maart 1997]]
+			- [[0416 woensdag 16 april 1997]]
+			- [[0427 zondag 27 april 1997]]
+			- [[0428 maandag 28 april 1997]]
 		- 1998
 			- [[dinsdag 1 december 1998]]
 		- 2024
