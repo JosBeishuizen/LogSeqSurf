@@ -670,7 +670,10 @@
 			- [[0502 vrijdag 2 mei 1997]]
 			- [[0504 zondag 4 mei 1997]]
 			- [[0506 dinsdag 6 mei 1997]]
+			- [[0513 dinsdag 13 mei 1997]]
 			- [[0514 woensdag 14 mei 1997]]
+			- [[0517 maandag 17 mei 1997]]
+			- []]
 		- 1998
 			- [[dinsdag 1 december 1998]]
 		- 2024
