@@ -10,6 +10,7 @@
 - LATER [[D-24-00986]]
 - DONE Boodschappen
 - DONE Koken
+- NOW pcloud opslag verplaatsen
 -
 - Elke dag
 - LATER Veerkamp: [[18. Het Rijk in crisis]]
