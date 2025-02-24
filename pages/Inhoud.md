@@ -1037,8 +1037,7 @@
 		- [[19941210 Het Parool over Jan van Kilsdonk]]
 		- [[1994011 Jan Blokker over Ien Dales]]
 	- Externe tekstbestanden (pdf etc.)
-	  collapsed:: true
 		- ![easypeasy](../assets/easypeasy.pdf)
 		- ![EDUREVD2400986](../assets/EDUREVD2400986.pdf)
 		- ![Smart phones and mental health](../assets/smart phone use and mental health.pdf)
--
+		-
