@@ -64,3 +64,8 @@
 	- TODO What is todays _frog_?
 	- ## Journal
 	- **9:00** [[BHighlights]]
+- #Note
+  template:: Note
+  template-including-parent:: false
+	- <% today %>
+	- *Link:* [[]]
