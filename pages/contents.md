@@ -125,7 +125,6 @@
 		- [[Het Bureau]]
 		- [[Het Psalmenoproer]]
 - Geheugen
-  collapsed:: true
 	- Bijbel
 		- Psalmen
 		  collapsed:: true
@@ -721,9 +720,7 @@
 			- [[25]]
 			  collapsed:: true
 	- Digitaal
-	  collapsed:: true
 		- Data
-		  collapsed:: true
 			- [[AC]]
 			- [[ANWB Parkeren]]
 			- [[Cathrien en Jochem]]
@@ -942,7 +939,6 @@
 		- Huub Oosterhuis
 		  collapsed:: true
 			- [[Oosterhuis Huub - Deze dag]]
-			  id:: 6770ddfd-52c5-47aa-a3ec-b1ae00d7cd70
 			- [[Oosterhuis Huub - 20 juni 1943]]
 			- [[Oosterhuis Huub - Lied van Job]]
 			- [[Oosterhuis Huub - Wat ik gewild heb]]
