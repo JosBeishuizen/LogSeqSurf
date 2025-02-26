@@ -10,12 +10,12 @@
 - LATER [[D-24-00986]]
 - DONE Boodschappen
 - DONE Koken
-- NOW pcloud opslag verplaatsen
+- DONE pcloud opslag verplaatsen
 - NOW opgeven Charley
 -
 - Elke dag
 - LATER Veerkamp: [[18. Het Rijk in crisis]]
 - DOING twee artikelen uit Argus
 - LATER piano spelen
-- NOW lopen
+- DONE lopen
 - DONE roeien
