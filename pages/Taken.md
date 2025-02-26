@@ -3,7 +3,7 @@
 - TODO rijbewijs verlengen
 - TODO Ton van der Stap: [[05 God en ik, wij zijn een]]
 - TODO Foto Gerrie
-- TODO levenstestament
+- TODO [[Levenstestament]]
 - LATER afspraak siteur verzetten
 - DONE koor
 - LATER [[Egmond]]
