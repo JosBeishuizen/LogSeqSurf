@@ -11,6 +11,7 @@
 - DONE Boodschappen
 - DONE Koken
 - NOW pcloud opslag verplaatsen
+- NOW opgeven Charley
 -
 - Elke dag
 - LATER Veerkamp: [[18. Het Rijk in crisis]]
