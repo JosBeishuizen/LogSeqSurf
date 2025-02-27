@@ -1,1 +1,2 @@
-- NOW Formulieren uitdraaien
+- DONE Formulieren uitdraaien
+- NOW Formulieren lezen
