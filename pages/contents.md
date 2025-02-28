@@ -1046,4 +1046,4 @@
 		- ![Camus - Caligula](../assets/Camus - Caligula.pdf)
 	- Toespraken
 		- Jan van Kilsdonk
-			-
+			- [[Jan van Kilsdonk - Over Schoonheid 19791014]]
