@@ -1,0 +1,117 @@
+@import url("https://fonts.googleapis.com/css2?family=Bitter:wght@400&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap");
+
+  
+body {
+ font-family: 'Bitter', sans-serif;
+ background-color: #042121;
+}
+
+:root {
+    --ls-page-title-size: 1.5em;
+}
+
+.references.page-unlinked.mt-6.flex-1.flex-row{
+display: none;
+}
+.references.page-linked.flex-1.flex-row{
+display: none;
+}
+
+.light-theme .ls-block h3 {
+ color: black;
+}
+
+.dark-theme .ls-block h2 {: medium;
+font-size: 16px;
+ font-weight: normal;
+ color: #59CCFF;
+ margin-top: 0.0em !important;
+ margin-bottom: 0.0em !important;
+ line-height: 1.3em !important;
+ margin:1px 0px 1px 0px !important;
+ padding: 1px 0px 2px 0px !important;
+}
+
+a.tag {
+  color: #59CCFF;
+}
+
+.dark-theme .ls-block h3 {
+  color: orange !important;
+ }
+
+.editor-inner .uniline-block:is(.h1,.h2), .ls-block :is(h1,h2) {
+    font-size: 16px;
+  	border-bottom: none;
+
+}
+
+
+.cp__sidebar-main-content h1.title {
+    color:#59CCFF;
+
+}
+
+
+.asset-container > img {
+  max-height: 200px;
+  width: auto;
+}
+
+div[data-collapsed] div.block-properties {
+    display: none;
+}
+div
+/* Minimal style for queries --------------------------------- */
+
+/* Tag a block with #minimal-query to hide all query controls */
+
+[data-refs-self*="minimal-query"] .custom-query .fade-link                                  {display: none;}
+
+[data-refs-self*="minimal-query"] .custom-query > .flex > .content                          {display: none;}
+
+[data-refs-self*="minimal-query"] .custom-query .initial > div > .flex.flex-row .ui__toggle {display: none;}
+
+[data-refs-self*="minimal-query"] .custom-query                                             {margin-top: 0;}
+
+[data-refs-self*="minimal-query"] .custom-query .initial>div>.flex.flex-row                 {margin-top: 0;}
+
+/* Hide query builder and "live query" label --------------------- */
+
+[data-refs-self*="minimal-query"] .custom-query > .cp__query-builder                        {display: none;}
+
+[data-refs-self*="minimal-query"] .custom-query > .th                                       {display: none;}
+
+/* To hide the tag use the following or add
+
+hide-dotted-tags.css and add a dot to the tag,
+
+for example #.minimal-query */
+
+a.tag[data-ref*="minimal-query"] {display: none;}
+.block-marker {
+
+  display: none !important;
+
+}
+.block-marker, .page-ref {
+
+  color: #59CCFF;
+
+}
+b.header{
+  color: #59CCFF;
+  font-weight: normal;
+}
+
+
+
+::selection {
+
+  background: #48D;
+
+  color: white;
+
+}
