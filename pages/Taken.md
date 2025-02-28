@@ -8,14 +8,14 @@
 - DONE koor
 - LATER [[Egmond]]
 - LATER [[D-24-00986]]
-- DONE Boodschappen
+- LATER Boodschappen
 - DONE Koken
 - DONE pcloud opslag verplaatsen
-- NOW opgeven Charley
+- DONE opgeven Charley
 -
 - Elke dag
 - LATER Veerkamp: [[18. Het Rijk in crisis]]
 - DOING twee artikelen uit Argus
 - LATER piano spelen
-- DONE lopen
+- LATER lopen
 - DONE roeien
