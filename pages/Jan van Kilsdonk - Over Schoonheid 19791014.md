@@ -1,1 +1,1 @@
-- ![Jan van Kilsdonk 19791014 - Over Schoonheid](../)
+- ![Jan van Kilsdonk 19791014 - Over Schoonheid](../assets/JvK19791014.pdf)
