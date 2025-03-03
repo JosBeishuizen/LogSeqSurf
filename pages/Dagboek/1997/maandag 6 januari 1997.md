@@ -1,0 +1,1 @@
+- Het was gisteren geen tochtje maar een Tocht der Tochten! 45 km in de Waterland boven Amsterdam. Prachtige tocht! Maar wel als een krant gearriveerd.
