@@ -126,6 +126,7 @@
 		- [[Het Psalmenoproer]]
 - Geheugen
 	- Bijbel
+	  collapsed:: true
 		- Psalmen
 		  collapsed:: true
 			- [[Psalm 1]]
@@ -651,8 +652,8 @@
 			- [[vrijdag 17 januari 1997]]
 			- [[zondag 26 januari 1997]]
 			- [[vrijdag 7 februari 1997]]
-			- [[0208 zaterdag 8 februari 1997]]
-			- [[0210 maandag 10 februari 1997]]
+			- [[zaterdag 8 februari 1997]]
+			- [[maandag 10 februari 1997]]
 			- [[0218 dinsdag 18 februari 1997]]
 			- [[0221 vrijdag 21 februari 1997]]
 			- [[0224 maandag 24 februari 1997]]

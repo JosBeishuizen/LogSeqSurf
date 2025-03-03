@@ -1,0 +1,1 @@
+- Op weg naar huis, het is nu 17:17. Regen en storm, het lijken wel maartse buien. Proberen in deze vastentijd elke dag een stukje Thora te consumeren. Dat zouden preken van Nico ter Linden kunnen zijn. Aan het begin van de ochtend en aan het begin van de avond. Twee momenten van verandering waarop het steeds moeilijk is om koers te houden.
