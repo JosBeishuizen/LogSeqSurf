@@ -743,7 +743,6 @@
 			- [[25]]
 			  collapsed:: true
 	- Digitaal
-	  collapsed:: true
 		- Data
 		  collapsed:: true
 			- [[AC]]
