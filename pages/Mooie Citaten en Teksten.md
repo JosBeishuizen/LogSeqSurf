@@ -104,8 +104,9 @@ tags:: ☀️
   [[Meester Eckhart over God in je gemoed hebben]]
 - tags:: ☀️
   [[Meester Eckhart over het bezitten van God]]
-- tags:: ☀️
-  [[Jim van Os over verslaving]]
+- [[Jim van Os over verslaving]]
+  tags:: ☀️
+  id:: 67c4bfab-bea3-4a30-9376-ce6b3ef602fd
 - tags:: ☀️
   [[Psalm 1]]
 - tags:: ☀️
