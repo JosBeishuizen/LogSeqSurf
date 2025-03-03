@@ -650,7 +650,7 @@
 			- [[donderdag 9 januari 1997]]
 			- [[vrijdag 17 januari 1997]]
 			- [[zondag 26 januari 1997]]
-			- [[0207 vrijdag 7 februari 1997]]
+			- [[vrijdag 7 februari 1997]]
 			- [[0208 zaterdag 8 februari 1997]]
 			- [[0210 maandag 10 februari 1997]]
 			- [[0218 dinsdag 18 februari 1997]]
