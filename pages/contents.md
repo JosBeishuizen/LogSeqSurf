@@ -705,6 +705,11 @@
 			- [[0924 woensdag 24 september 1997]]
 			- [[0927 zaterdag 27 september 1997]]
 			- [[1016 donderdag 16 oktober 1997]]
+			- [[1103 maandag 3 november 1997]]
+			- [[1125 dinsdag 25 november 1997]]
+			- [[1206 zaterdag 6 december 1997]]
+			- [[1219 vrijdag 19 december 1997]]
+			- [[1228 zondag 28 december 1997]]
 		- 1998
 			- [[dinsdag 1 december 1998]]
 		- 2024
