@@ -46,6 +46,7 @@
 	- Don't forget to write some encouraging words to your tomorrows self [[ntnds]]
 	- TODO Today I learned
 	- ## Planning
+	  id:: 67c4bfaf-b105-491d-9fcb-f1408a36b983
 	- TODO vitamins
 	- {{renderer :unfinishedBusiness}}
 	- TODO What is todays _frog_?
