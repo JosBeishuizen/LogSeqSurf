@@ -644,8 +644,8 @@
 			- [[zondag 22 december 1996]]
 			- [[maandag 23 december 1996]]
 		- 1997
-			- [[0103 vrijdag 3 januari 1997]]
-			- [[0105 zondag 5 januari 1997]]
+			- [[vrijdag 3 januari 1997]]
+			- [[zondag 5 januari 1997]]
 			- [[0106 maandag 6 januari 1997]]
 			- [[0109 donderdag 9 januari 1997]]
 			- [[0117 vrijdag 17 januari 1997]]
