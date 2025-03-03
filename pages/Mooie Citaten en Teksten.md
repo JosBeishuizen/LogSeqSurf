@@ -116,3 +116,4 @@ tags:: ☀️
 - tags:: ☀️
   [[Martin Buber over geloof en humor]]
 - tags:: ☀️
+  [[Huub Oosterhuis over denken aan je naasten]]

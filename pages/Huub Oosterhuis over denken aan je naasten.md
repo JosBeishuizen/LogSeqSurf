@@ -1,0 +1,2 @@
+- Ga zitten. Je mobielt de wereld door, je moet nog dit en dat. Maar nu zit je. 'Heb liefde tot je naaste die is zoals jij' - aan wie denk je nu? Aan een twee drie mensen binnen je bereik die aandacht, vergeving en van alles nodig hebben. Van jou. Van wie anders? Noem in stilte hun namen, nu. En doe dat, van nu af, iedere dag, 's morgens en 's avonds.
+- Huub Oosterhuis in Deze Geboren Vreemdeling, p. 105
