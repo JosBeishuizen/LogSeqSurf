@@ -654,7 +654,7 @@
 			- [[vrijdag 7 februari 1997]]
 			- [[zaterdag 8 februari 1997]]
 			- [[maandag 10 februari 1997]]
-			- [[0218 dinsdag 18 februari 1997]]
+			- [[dinsdag 18 februari 1997]]
 			- [[0221 vrijdag 21 februari 1997]]
 			- [[0224 maandag 24 februari 1997]]
 			- [[0302 zondag 2 maart 1997]]
