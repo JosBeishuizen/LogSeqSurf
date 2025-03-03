@@ -687,7 +687,10 @@
 			- [[0624 dinsdag 24 juni 1997]]
 			- [[0724 donderdag 24 juli 1997]]
 			- [[0727 zondag 27 juli 1997]]
-			- [[07]]
+			- [[0803 zondag 3 augustus 1997]]
+			- [[0804 maandag 4 augustus 1997]]
+			- [[0806 woensdag 6 augustus 1997]]
+			-
 		- 1998
 			- [[dinsdag 1 december 1998]]
 		- 2024
