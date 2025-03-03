@@ -91,6 +91,7 @@
 				- [[5 Voorbij winst en verlies. Over identiteit en ontwrichting]]
 				- [[6 De onteigende getuige. Over mystiek, taak en getuigenis]]
 		- Veerkamp
+		  collapsed:: true
 			- [[01. In het begin was het boek]]
 			- [[02. Twee zienswijzen, twee ordeningen]]
 			- [[03. Het ontstaan van het Grote Verhaal]]
@@ -168,7 +169,6 @@
 		- [[Te Zien]]
 		- [[Gezien]]
 	- Dagboek
-	  collapsed:: true
 		- 1959
 		  collapsed:: true
 			- [[maandag 25 mei 1959]]
@@ -653,11 +653,11 @@
 			- [[zaterdag 8 februari 1997]]
 			- [[maandag 10 februari 1997]]
 			- [[dinsdag 18 februari 1997]]
-			- [[0221 vrijdag 21 februari 1997]]
-			- [[0224 maandag 24 februari 1997]]
-			- [[0302 zondag 2 maart 1997]]
-			- [[0303 maandag 3 maart 1997]]
-			- [[0307 vrijdag 7 maart 1997]]
+			- [[vrijdag 21 februari 1997]]
+			- [[maandag 24 februari 1997]]
+			- [[zondag 2 maart 1997]]
+			- [[maandag 3 maart 1997]]
+			- [[vrijdag 7 maart 1997]]
 			- [[0310 maandag 10 maart 1997]]
 			- [[0314 vrijdag 14 maart 1979]]
 			- [[0316 zondag 16 maart 1997]]
@@ -740,6 +740,7 @@
 			- [[25]]
 			  collapsed:: true
 	- Digitaal
+	  collapsed:: true
 		- Data
 		  collapsed:: true
 			- [[AC]]
