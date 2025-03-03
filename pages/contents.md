@@ -690,7 +690,11 @@
 			- [[0803 zondag 3 augustus 1997]]
 			- [[0804 maandag 4 augustus 1997]]
 			- [[0806 woensdag 6 augustus 1997]]
-			-
+			- [[0810 zondag 10 augustus 1997]]
+			- [[0811 maandag 11 augustus 1997]]
+			- [[0813 woensdag 13 augustus 1997]]
+			- [[0817 zondag 17 augustus 1997]]
+			- [[0819 dinsdag 19 augustus 1997]]
 		- 1998
 			- [[dinsdag 1 december 1998]]
 		- 2024
