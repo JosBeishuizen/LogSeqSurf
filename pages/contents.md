@@ -701,7 +701,10 @@
 			- [[0903 woensdag 3 september 1997]]
 			- [[0908 maandag 8 september 1997]]
 			- [[0912 vrijdag 12 september 1997]]
-			-
+			- [[0921 zondag 21 september 1997]]
+			- [[0924 woensdag 24 september 1997]]
+			- [[0927 zaterdag 27 september 1997]]
+			- [[1016 donderdag 16 oktober 1997]]
 		- 1998
 			- [[dinsdag 1 december 1998]]
 		- 2024
