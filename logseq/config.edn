@@ -261,8 +261,30 @@
             [(< ?d ?next)]]
     :inputs [:today :7d-after]
     :group-by-page? false
-    :collapsed? false}]
-  }
+    :collapsed? false}
+   {:title [:b.header "Te doen"]
+
+    :query [:find (pull ?h [*])
+
+            :where
+
+            [?h :block/marker ?marker]
+
+            [(contains? #{"NOW" "DOING"} ?marker)]
+
+]
+
+    :result-transform (fn [result]
+
+                        (sort-by (fn [h]
+
+                                   (get h :block/priority "Z")) result))
+
+    :group-by-page? false
+
+    :collapsed? false}
+   ]}
+
 
  ;; Add custom commands to the command palette
  ;; Example usage:
