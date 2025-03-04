@@ -78,27 +78,26 @@ query-properties:: [:page]
       :group-by-page? false
       :collapsed? false}
   #+END_QUERY
-	- collapsed:: true
-	  #+BEGIN_QUERY
-	   {:title "Te doen"
-	      :query [:find (pull ?h [*])
-	              :in $ ?start ?today
-	              :where
-	              [?h :block/marker ?marker]
-	              [(contains? #{"NOW DOING"} ?marker)]
-	              [?h :block/page ?p]
-	              [?p :block/journal? true]
-	              [?p :block/journal-day ?d]
-	              [(>= ?d ?start)]
-	              [(<= ?d ?today)]
-	              ]
-	      :inputs [:14d :today]
-	      :result-transform (fn [result]
-	                          (sort-by (fn [h]
-	                                     (get h :block/priority "Z")) result))
-	      :group-by-page? false
-	      :collapsed? false}
-	  #+END_QUERY
+- #+BEGIN_QUERY
+   {:title ["Te doen"]
+      :query [:find (pull ?h [*])
+              :in $ ?start ?today
+              :where
+              [?h :block/marker ?marker]
+              [(contains? #{"NOW DOING"} ?marker)]
+              [?h :block/page ?p]
+              [?p :block/journal? true]
+              [?p :block/journal-day ?d]
+              [(>= ?d ?start)]
+              [(<= ?d ?today)]
+              ]
+      :inputs [:14d :today]
+      :result-transform (fn [result]
+                          (sort-by (fn [h]
+                                     (get h :block/priority "Z")) result))
+      :group-by-page? false
+      :collapsed? false}
+  #+END_QUERY
 	-
 -
 	-
