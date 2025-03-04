@@ -14,7 +14,8 @@
 - DONE opgeven Charley
 - LATER belastingen
 - LATER fulli
-- NOW testje
+-
+-
 -
 - Elke dag
 - LATER Veerkamp: [[18. Het Rijk in crisis]]

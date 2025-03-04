@@ -2,7 +2,8 @@
   template:: journaltemplate
   template-including-parent:: false
 	- ## ⛅ , °
-	- collapsed:: true
+	- query-table:: false
+	  collapsed:: true
 	  #+BEGIN_QUERY 
 	  {:title [:b.header "Om de dag te beginnen"]
 	   :query [:find (pull ?b [*])
@@ -12,7 +13,22 @@
 	   :result-transform ( fn [result] [(rand-nth result)])
 	  }
 	  #+END_QUERY
-	- collapsed:: true
+	- query-table:: false
+	  collapsed:: true
+	  #+BEGIN_QUERY
+	  {:title [:b.header "Te doen"]
+	      :query [:find (pull ?h [*])
+	              :where
+	              [?h :block/marker ?marker]
+	              [(contains? #{"NOW" "DOING"} ?marker)]
+	  ]
+	      :result-transform (fn [result]
+	                          (sort-by (fn [h]
+	                                     (get h :block/priority "Z")) result))
+	      :group-by-page? false
+	      :collapsed? false}
+	  #+END_QUERY
+	-
 - #Gezien
   template:: Cultuur
   template-including-parent:: false
