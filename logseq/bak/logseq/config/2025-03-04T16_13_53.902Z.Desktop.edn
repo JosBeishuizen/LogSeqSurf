@@ -83,7 +83,7 @@
  ;; Display all scheduled and deadline blocks for the next 14 days:
  ;; :scheduled/future-days 14
  ;; Default value: 7
- :scheduled/future-days 4
+ :scheduled/future-days 3
 
  ;; Specify the first day of the week.
  ;; Available options:
@@ -230,19 +230,18 @@
  ;; The "NEXT" query returns tasks with "NOW", "LATER", or "TODO" status.
  :default-queries
  {:journals
-  [{:title [:h2 "Te doen"]
+  [{:title "Te doen"
     :query [:find (pull ?h [*])
             :in $ ?start ?today
             :where
             [?h :block/marker ?marker]
-            [(contains? #{"NOW" "DOING"} ?marker)]
-  ;;          [?h :block/page ?p]
-  ;;          [?p :block/journal? true]
-  ;;          [?p :block/journal-day ?d]
-  ;;          [(>= ?d ?start)]
-  ;;          [(<= ?d ?today)]
-            ]
-    :inputs [:14d  :today]
+            [(contains? #{"NOW DOING"} ?marker)]
+            [?h :block/page ?p]
+            [?p :block/journal? true]
+            [?p :block/journal-day ?d]
+            [(>= ?d ?start)]
+            [(<= ?d ?today)]]
+    :inputs [:14d :today]
     :result-transform (fn [result]
                         (sort-by (fn [h]
                                    (get h :block/priority "Z")) result))
@@ -367,7 +366,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["Contents" "19. Het nieuwe Romeinse Rijk en zijn religie" "D-24-00986" "Meester Eckhart over het bezitten van God" "Te Zien" "Mooie Citaten en Teksten" "Taken" "Templates"]
+ :favorites ["19. Het nieuwe Romeinse Rijk en zijn religie" "Contents" "Te Zien" "Mandela over onze diepste angst" "Mooie Citaten en Teksten" "Taken" "Templates"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -489,7 +488,7 @@
  :file/name-format :triple-lowbar
  ;;:block-hidden-properties #{:tags}
  :journal/page-title-format "EEEE d MMMM yyyy"
- :ui/show-brackets? false
+ :ui/show-brackets? true
  :feature/enable-timetracking? false
  :feature/enable-journals? true
  :feature/enable-whiteboards? false
