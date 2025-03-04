@@ -79,7 +79,8 @@ query-properties:: [:page]
       :collapsed? false}
   #+END_QUERY
 - #+BEGIN_QUERY
-	- {:title "Te doen"
+	- #+BEGIN_QUERY
+	   {:title "Te doen"
 	      :query [:find (pull ?h [*])
 	              :in $ ?start ?today
 	              :where
