@@ -261,7 +261,8 @@
             [(< ?d ?next)]]
     :inputs [:today :7d-after]
     :group-by-page? false
-    :collapsed? false}]}
+    :collapsed? false}]
+  }
 
  ;; Add custom commands to the command palette
  ;; Example usage:
