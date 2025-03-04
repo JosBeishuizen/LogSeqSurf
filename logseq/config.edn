@@ -230,7 +230,7 @@
  ;; The "NEXT" query returns tasks with "NOW", "LATER", or "TODO" status.
  :default-queries
  {:journals
-  [{:title "Te doen"
+  [{:title ["Te doen"]
     :query [:find (pull ?h [*])
             :in $ ?start ?today
             :where
