@@ -2,9 +2,7 @@
   template:: journaltemplate
   template-including-parent:: false
 	- ## ⛅ , °
-	- {{renderer: interstitional, random, ☀️}}
-	  collapsed:: true
-	-
+	- collapsed:: true
 - #Gezien
   template:: Cultuur
   template-including-parent:: false
