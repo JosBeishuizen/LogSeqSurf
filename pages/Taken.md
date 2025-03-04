@@ -7,7 +7,6 @@
 - LATER afspraak siteur verzetten
 - DONE koor
 - LATER [[Egmond]]
-- LATER [[D-24-00986]]
 - LATER Boodschappen
 - DONE Koken
 - DONE pcloud opslag verplaatsen
