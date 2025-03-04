@@ -79,6 +79,8 @@ query-properties:: [:page]
       :collapsed? false}
   #+END_QUERY
 	-
+-
+	-
 - #+BEGIN_QUERY 
   {:title [:b.header "Om de dag te beginnen"]
    :query [:find (pull ?b [*])
