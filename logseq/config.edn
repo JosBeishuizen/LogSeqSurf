@@ -237,7 +237,7 @@
             [?h :block/marker ?marker]
             [(contains? #{"NOW DOING"} ?marker)]
             [?h :block/page ?p]
-            [?p :block/journal? true]
+           ;; [?p :block/journal? true]
             [?p :block/journal-day ?d]
             [(>= ?d ?start)]
             [(<= ?d ?today)]]
