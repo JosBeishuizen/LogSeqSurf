@@ -78,8 +78,8 @@ query-properties:: [:page]
       :group-by-page? false
       :collapsed? false}
   #+END_QUERY
-- #+BEGIN_QUERY
-	- #+BEGIN_QUERY
+	- collapsed:: true
+	  #+BEGIN_QUERY
 	   {:title "Te doen"
 	      :query [:find (pull ?h [*])
 	              :in $ ?start ?today
@@ -98,6 +98,7 @@ query-properties:: [:page]
 	                                     (get h :block/priority "Z")) result))
 	      :group-by-page? false
 	      :collapsed? false}
+	  #+END_QUERY
 	-
 -
 	-
