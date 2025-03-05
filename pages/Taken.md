@@ -21,7 +21,7 @@
 -
 - Elke dag
 - LATER Veerkamp: [[18. Het Rijk in crisis]]
-- DOING twee artikelen uit Argus
+- DONE twee artikelen uit Argus
 - LATER piano spelen
 - LATER lopen
 - DONE roeien
