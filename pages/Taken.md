@@ -13,7 +13,7 @@
 - DONE opgeven Charley
 - LATER belastingen
 - LATER fulli
--
+- NOW plannen Comenius
 -
 -
 - Elke dag

@@ -112,9 +112,7 @@
 			- [[19. Het nieuwe Romeinse Rijk en zijn religie]]
 			- [[20. Samenvatting]]
 		- Ton van der Stap
-		  collapsed:: true
 			- In een ander licht
-			  collapsed:: true
 				- [[05 God en ik, wij zijn een]]
 		- [[Berlage]]
 	- Lezen
