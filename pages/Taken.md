@@ -13,7 +13,7 @@
 - DONE opgeven Charley
 - LATER belastingen
 - LATER fulli
-- NOW plannen Comenius
+- DONE plannen Comenius
 - NOW verslag Marga
 - LATER Arjan Vader
 -
