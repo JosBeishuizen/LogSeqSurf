@@ -640,7 +640,6 @@
 			- [[zondag 22 december 1996]]
 			- [[maandag 23 december 1996]]
 		- 1997
-		  collapsed:: true
 			- [[vrijdag 3 januari 1997]]
 			- [[zondag 5 januari 1997]]
 			- [[maandag 6 januari 1997]]
@@ -699,14 +698,14 @@
 			- [[maandag 8 september 1997]]
 			- [[vrijdag 12 september 1997]]
 			- [[zondag 21 september 1997]]
-			- [[0924 woensdag 24 september 1997]]
-			- [[0927 zaterdag 27 september 1997]]
-			- [[1016 donderdag 16 oktober 1997]]
-			- [[1103 maandag 3 november 1997]]
-			- [[1125 dinsdag 25 november 1997]]
-			- [[1206 zaterdag 6 december 1997]]
-			- [[1219 vrijdag 19 december 1997]]
-			- [[1228 zondag 28 december 1997]]
+			- [[woensdag 24 september 1997]]
+			- [[zaterdag 27 september 1997]]
+			- [[donderdag 16 oktober 1997]]
+			- [[maandag 3 november 1997]]
+			- [[dinsdag 25 november 1997]]
+			- [[zaterdag 6 december 1997]]
+			- [[vrijdag 19 december 1997]]
+			- [[zondag 28 december 1997]]
 		- 1998
 			- [[dinsdag 1 december 1998]]
 		- 2024
@@ -715,6 +714,7 @@
 			- [[maandag 30 december 2024]]
 			- [[dinsdag 31 december 2024]]
 		- 2025
+		  collapsed:: true
 			- [[woensdag 1 januari 2025]]
 			- [[vrijdag 3 januari 2025]]
 			- [[vrijdag 10 januari 2025]]
