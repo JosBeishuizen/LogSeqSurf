@@ -15,4 +15,5 @@
 	- Hoeft niet via notaris, maar dan is weigering bij de bank mogelijk.
 	- Vertel je naasten dat het levenstestament er ligt.
 	- Handig als getrouwd i.g.g. Anders uitgaven boven € 2500 via rechter
-	- Kosten tussen € 500
+	- Kosten tussen € 500 en € 700
+	- Wat leg
