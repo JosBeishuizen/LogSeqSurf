@@ -8,6 +8,6 @@
 - ## Nieuwe huisje
 -
 - ## Overig
-- NOW Handboek Gerrit Banen lezen
+- DONE Handboek Gerrit Banen lezen
 -
 -
