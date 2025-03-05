@@ -14,6 +14,9 @@
 - LATER belastingen
 - LATER fulli
 - NOW plannen Comenius
+- NOW verslag Marga
+- LATER Arjan Vader
+-
 -
 -
 - Elke dag
