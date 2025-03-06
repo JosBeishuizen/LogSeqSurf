@@ -728,6 +728,10 @@
 			- [[0331 dinsdag 31 maart 1998]]
 			- [[0401 woensdag 1 april 1998]]
 			- [[0405 zondag 5 april 1998]]
+			- [[0408 woensdag 8 april 1998]]
+			- [[0409 donderdag 9 april 1998]]
+			- [[0418 zaterdag 18 april 1998]]
+			- [[0421 dinsdag 21 april 1998]]
 			- [[dinsdag 1 december 1998]]
 		- 2024
 		  collapsed:: true
