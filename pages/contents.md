@@ -724,7 +724,10 @@
 			- [[0320 vrijdag 20 maart 1998]]
 			- [[0324 dinsdag 24 maart 1998]]
 			- [[0325 woensdag 25 maart 1998]]
-			-
+			- [[0329 zondag 29 maart 1998]]
+			- [[0331 dinsdag 31 maart 1998]]
+			- [[0401 woensdag 1 april 1998]]
+			- [[0405 zondag 5 april 1998]]
 			- [[dinsdag 1 december 1998]]
 		- 2024
 		  collapsed:: true
