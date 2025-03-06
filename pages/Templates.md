@@ -13,17 +13,6 @@
 	   :result-transform ( fn [result] [(rand-nth result)])
 	  }
 	  #+END_QUERY
-	- #+BEGIN_QUERY
-	  query-table:: false
-	  collapsed:: true
-	  {:title [:b.header "Te doen"]
-	      :query [:find (pull ?h [*])
-	              :where
-	              [?h :block/marker ?marker]
-	              [(contains? #{"NOW" "DOING"} ?marker)]
-	  ]
-	      :result-transform (fn [result]
-	                          (sort-by (fn [h]
 	-
 - #Gezien
   template:: Cultuur
