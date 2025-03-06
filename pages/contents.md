@@ -745,6 +745,8 @@
 			- [[0528 donderdag 28 mei 1998]]
 			- [[0601 maandag 1 juni 1998]]
 			- [[0607 zondag 7 juni 1998]]
+			- [[0613 zaterdag 13 juni 1998]]
+			-
 			- [[dinsdag 1 december 1998]]
 		- 2024
 		  collapsed:: true
