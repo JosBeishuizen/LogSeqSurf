@@ -1,0 +1,2 @@
+# 0308 zondag 8 maart 1998
+Gister gelezen in een interview met Michel Foucault in Trouw: zorgen voor jezelf, afzien van lusten, daarin de vrijheid ervaren door macht over jezelf uit te oefenen. Dat is geen gebrek aan aandacht voor anderen. Zoiets. Ik moet het nog een keer lezen. Nu zorgen voor mezelf betekent: hard lopen, ontbijten, klus 1 van artikel Evelien. Vanavond klus 2 en stukje TC.

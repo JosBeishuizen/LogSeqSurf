@@ -1,0 +1,2 @@
+# 1203 donderdag 3 december 1998
+16:33 Eigenlijk zou ik al mijn beleidsfuncties moeten neerleggen. Opleidingscommissie, Tout Court, puur om aan onderzoek te kunnen werken. Ach, dit is allemaal gezwets. Ik ga gewoon verder. Elk moment het meest zinvolle doen dat ik kan verzinnen. Nu: Evelien.

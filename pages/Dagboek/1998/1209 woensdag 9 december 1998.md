@@ -1,0 +1,2 @@
+# 1209 woensdag 9 december 1998
+17:31 Op weg naar Amsterdam. Even nagaan of ik gelukkig ben. Hoeveel doelen gesteld? 8. Hoeveel gerealiseerd: 6! Geen slechte score. Even de doelen voor vananvond bepalen. Vijf doelen, waarvan één van hedenmiddag. Is veel. We zullen zien.

@@ -1,0 +1,2 @@
+# 0325 woensdag 25 maart 1998
+05:42. Op weg naar een nieuwe werkdag. Als ik voor onze sectie nu eens consequent het woord kippendrukte in mijn hoofd houd, dan komt het met mij wel goed. Nu aan de slag met het schrijfwerk mijn finest hour, om met Merkelbach te spreken.Dit apparaatje is nog steeds een fantastische hulp.

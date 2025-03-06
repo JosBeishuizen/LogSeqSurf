@@ -1,0 +1,4 @@
+# 0408 woensdag 8 april 1998
+22:54	Cathrien begint aan haar laatste uur vasten ten behoeve van het goede doel. Ze is met haar medevastenden op school en wordt na 12 uur door Karel Sprenger thuisgebracht. Goede actie. Ook wel spannend. Vanavond een mooie avond met de Bijbelclub. Rabbijn Soetendorp gaf de uitleg. Het ging over Exodus 34 tot 38. Mozes op de berg. Het gouden kalf. Mozes die God wil zien. God die voorbij gaat. Mozes die God smeekt en overhaalt om mee te gaan met het volk, ondanks het Gouden Kalf. Volgens Soetendorp bidt God zelf aldus: "Laat mijn mededogen groter zijn dan mijn woede". Verder: op Grote Verzoendag vergeeft God de mens, maar hij maakt niet de schuld die wij aan elkaar hebben, ongedaan. Dat moeten we zelf doen.
+
+Gisteravond met Ton en Eric gezellig gegeten maar teveel gedronken. Vandaag een sombere dag. Nu nog even werken aan afronding artikel.

@@ -1,0 +1,4 @@
+# 0405 zondag 5 april 1998
+Alweer Palmzondag 1998. 15:28 uur in Egmond. Heerlijke zon en frisse wind. Johannes Passion op de walkman. Ton Koopman in het Concertgebouw. Gisteren onze 21-jarige bruiloft gevierd, o.a. pannenkoek/pizza in Duinvermaak. De stemming was goed. Cathrien vindt dat we te snel te hard schreeuwen als we het ergens niet mee eens zijn. 
+
+Het is nu 23:10. Vanavond gebeld met Moeder, zoals elke zondagavond. Ik vind haar de laatste tijd veel matter klinken. Ze lijkt erg moe, zo 's avonds om 21:30 uur. Met Erica Bohnen gebeld om even met haar te praten. Haar moeder stierf eind oktober en haar oma in maart, 92 jaar oud. Ze heeft zich nu ziek gemeld. Deze week met Marcel praten over zijn drankzucht? Vanavond in een nieuwe serie van Jan Blokker (scenario) en Frans Weisz (regie) over politiek: de oude politicus groeit bij tegentand. De jonge lijkt alleen aardige medestanders m zich heen te willen hebben. Wat geldt voor mij?

@@ -1,0 +1,2 @@
+# 0128 woensdag 28 januari 1998
+Hoe is het mogelijk: na twee dagen doodse stilte is Vademecum weer tot leven gekomen! De SCSI-controller had het begeven, volgens Ricardo. Dit probleem heeft zich al eens eerder voorgedaan. Spontaan herstel. Voorlopig maar weer het beste ervan hopen. Nu nog even het gedicht van Willem Elsschot invoeren en het gedicht van Hans Andreus.

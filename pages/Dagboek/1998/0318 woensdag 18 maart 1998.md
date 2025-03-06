@@ -1,0 +1,4 @@
+# 0318 woensdag 18 maart 1998
+Vanochtend het laatste college O&O. Daarna weer het eerste college uit het vaardigheidsblok ITO. Niet klagen maar dragen en bidden om kracht. Desirée krijgt tegenslag op tegenslag te verwerken. Te midden van het drama van Rafael's leukemie kondigt Paul zijn vertrek aan. Zit intussen op een hotelkamer en komt met bossen bloemen op bezoek. Anne ziet veel overeenkomsten met Christiaan Bor. Met Rafael gaat het niet goed. Dat wil zeggen: hij leeft nog, maar aanvaardt zijn huidige condities (o.a. geen smaak onvruchtbaar) niet. Is nu getroffen door gordelroos, wat in zijn geval een vervelende complicatie vormt.
+
+Ik lees, op weg naar huis, op de achterkant van de krant voor mij dat een half uur schrijven over jezelf per dag stressverlagend werkt. Zou schrijven in een organizer daar ook bij horen?

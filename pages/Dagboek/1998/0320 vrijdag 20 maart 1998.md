@@ -1,0 +1,2 @@
+# 0320 vrijdag 20 maart 1998
+8:55. Op weg naar Leiden. Hopelijk een goed geplande dag. Vanavond even bij Meindert langs. Vanochtend aan tafel het verhaal van Jona gelezen (Sara; bij niemand van de kinderen in de klas leest de vader aan tafel voor!). Jona zit onder de plant. God laat de plant door een worm opeten Jona is verontwaardigd. De plant beschermde hem tegen de stekende zon. God: Als je nou al over één zo'n plant bezorgd bent, hoe veel te meer zou je je dan zorgen moeten over de grote stad Ninevé, met al die mensen.

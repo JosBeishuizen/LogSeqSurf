@@ -1,0 +1,2 @@
+# 0514 donderdag 14 mei 1998
+08:55 	Op weg naar Leiden. T.g.v. mijn verjaardag schijnt de zon en rijdt de trein op tijd. Gisteravond besloten om in het vervolg gewoon altijd te gaan werken. Vandaag besloten om, met respect voor anderen, zo veel mogelijk de eenzaamheid te zoeken. Verder emoties zo veel mogelijk te dempen. Drie stuks, als we het hier nu weer eens een weekje mee volhielden. Afstand houden, dat is het parool. Nu verder met planning en stuk van Hanneke Siemens.

@@ -1,0 +1,2 @@
+# 0815 zaterdag 15 augustus 1998
+15:59	Tweede uur van vandaag maken. Als je je gedeprimeerd voelt omdat je een lastige klus nog niet hebt uitgevoerd, dan is er maar een methode om aan de sombere gevoelens het hoofd te bieden: problem focused coping: de taak aanpakken!

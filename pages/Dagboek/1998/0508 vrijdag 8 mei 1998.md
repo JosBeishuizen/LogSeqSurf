@@ -1,0 +1,2 @@
+# 0508 vrijdag 8 mei 1998
+08:51 	laatste vrije dag. Vanochtend werken aan cursus studievaardigheden. Steen in de maag. Weekend met team HvL. Verbouwing die met steeds meer stress gepaard gaat. Als ik nu eens de minste was. Proberen. Proberen.

@@ -1,0 +1,2 @@
+# 1204 vrijdag 4 december 1998
+08:12 Gisteravond een verfrissend interview met Remco Campert gelezen in De Groene. Over de ondraaglijke lichtheid van het bestaan. De mooie jonge vrouw en de mooie lelijke schrijver. Buiten een grauwe ochtendschemer. Vannacht ijzel en regen, een beetje sneeuw. 

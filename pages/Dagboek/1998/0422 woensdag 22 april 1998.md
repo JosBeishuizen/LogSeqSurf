@@ -1,0 +1,4 @@
+# 0422 woensdag 22 april 1998
+18:01	Op weg naar huis. Schitterend weer. Sara hield vandaag haar spreekbeurt over fotografie. Hopelijk heeft ze een g gekregen. Er ging veel strijd aan vooraf. Het is werkelijk ongelofelijk hoe ontspannen deze dag verliep, na de stress en slapeloosheid van vannacht. Een nieuwe lange lijst van klussen gemaakt. Collegevoorbereiding ingepland. Opeens werkt het weer. Het gaat goed als ik alle vrije tijd besteed aan het doorlopen van de lijstjes. En regelmatig kleine klusjes afwerk. Korte besprekingen met scribenten. Vijf minuten voor het begin van een afspraak voorbereiden. 
+
+Gisteravond verweet ik (in mijzelf) Anne dat ze au fond alleen geïnteresseerd is in haar eigen zaken. Maar geldt dat eigenlijk ook niet evenzeer voor mijzelf? Morgenvroeg koop ik bloemen voor Rose en José.

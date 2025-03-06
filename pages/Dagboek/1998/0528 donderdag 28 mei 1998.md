@@ -1,0 +1,2 @@
+# 0528 donderdag 28 mei 1998
+Op het ppmoment van schrijven van de vorige notitie beleefde John Schulte zijn laatste dag. Om vier uur was hij uitgevaren met een neef op zijn schip "Katrijn" voor een tocht op de Wadden. Om zes uur stierf hij, staande aan het roer. Vanmiddag hebben wij hem begraven. Om 11.00 uur een dienst in de Goede Herder Kerk aan de Van Boshuizenstraat. Om 13.00 uur de begrafenis op de begraafplaats in Buitenveldert. Gisteravond hebben we thuis afscheid genomen. Katy was verbijsterd. 

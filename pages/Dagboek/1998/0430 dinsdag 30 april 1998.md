@@ -1,0 +1,2 @@
+# 0430 dinsdag 30 april 1998
+22:08 	in Egmond. Volgens de Volkskrant zegt Ruud Gullitt elke ochtend als hij zichzelf in de spiegel ziet: Hier sta ik. Ik ben tevreden met mijzelf en met mijn omgeving. Even wat zelfvertrouwen opbouwen. Vandaag een rustige Koninginnedag in Amsterdam. De kinderen hebben zelfs nog voor 25 gulden aan spullen verkocht, op de hoek van de straat. Nu nog even lezen, de wekker gaat over 8 uur en 45 minuten.

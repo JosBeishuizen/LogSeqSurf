@@ -1,0 +1,4 @@
+# 0930 woensdag 30 september 1998
+Kijk, een depressieve manager, daar heeft niemand iets aan. Jan Willem zei gisteravond dat Jezus een voorbeeld was van een modern manager. Hij wist dat hij binnen drie jaar dood zou zijn. Zond dus zijn discipelen uit om zieken te genezen, etc.  Deze interpretatie van het Jezusverhaal zul je niet snel bij Kuitert terug vinden. 
+
+Hoe raak ik van mijn depressiviteit af? Door het sense-of-control gevoel te versterken. Hoe versterk je het sense-of-control gevoel? Door meer aandacht aan planning te besteden. En door per dagdeel in ieder geval één klus met jezelf af te spreken die je ook werkelijk wilt doen. En door per dagdeel duidelijk één beloning met jezelf af te spreken. Dit alles impliceert niet dat je het werk beter af krijgt. Daar moet je niet op rekenen. Maar het leidt er wel toe dat je je depressiviteit kwijt raakt. 

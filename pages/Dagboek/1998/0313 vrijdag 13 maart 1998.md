@@ -1,0 +1,2 @@
+# 0313 vrijdag 13 maart 1998
+Even kijken of je dit nieuwe tovermiddel ook zittend op de bank kunt bedienen. Het gaat ongetwijfeld gemakkelijker dan schrijven in dezelfde houding. Ik geloof dat ik erg blij ben met deze Psion. Het heeft vandaag veel tijd gekost maar ik heb nu de meeste functies onder de knie. Nu nog even 10 bladzijden lezen in Möring: In Babylon. Morgenvroeg twee schrijfklussen proberen te realiseren.

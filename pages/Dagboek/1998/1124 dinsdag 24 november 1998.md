@@ -1,0 +1,2 @@
+# 1124 dinsdag 24 november 1998
+08:22 op weg naar Leiden. Nog steeds winter. Moet je humeur prioriteit hebben? Moet je een sombere of narrige stemming zo snel mogelijk de wereld uit helpen of aanvaarden als iets dat je overkomt? Ik ben geneigd de strijd met mijzelf aan te binden. Om twee redenen. 1. Het doet je ook met meer respect omgaan met anderen. 2. God heeft het zo bedoeld. Maar ga je dan niet als een opgewekte Jan Doedel door het leven? Dat is jouw zorg niet.

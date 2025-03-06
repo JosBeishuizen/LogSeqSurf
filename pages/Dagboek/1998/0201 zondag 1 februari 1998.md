@@ -1,0 +1,6 @@
+# 0201 zondag 1 februari 1998
+Een citaat uit *The Quiet American* van Graham Greene: 
+
+“From childhood I had never believed in permanence, and yet I had longed for it. Always I was afraid of losing happiness. This month, next year, Phuong would leave me. If not next year, in three years. Death was the only absolute value in my world. Lose life and one would lose nothing again for ever. I envied those who could believe in a God and I distrusted them. I felt they were keeping their courage up with a fable of the changeless and the permanent. Death was far more certain than God, and with death there would be no longer the daily possibility of love dying. The nightmare of a future of boredom and indifference would lift. I could never be a pacifist. To kill a man was surely to grant him an immeasurable benefit. Oh yes, people always, everywhere, loved their enemies. It was their friends they preserved for pain and vacuity.” 
+
+Dit citaat geeft mijn gevoel van het moment goed weer, zeker nadat Anne Carien me weer eens heeft uitgelegd hoe jammer ze het vindt dat ik te weinig aan het huishouden doe. 
