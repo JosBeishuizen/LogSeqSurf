@@ -1,0 +1,1 @@
+- Vandaag promoveert Ton Klein. Ik hoop op een plezierige bijeenkomst en een gezellige maaltijd. Drie probate middelen tegen stress: enthousiasme, strengheid, en alles wat je doet met aandacht doen. Daar vandaag naar proberen te leven.
