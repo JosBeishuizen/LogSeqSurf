@@ -505,7 +505,6 @@
 			- [[donderdag 15 december 1994]]
 			- [[maandag 19 december 1994]]
 		- 1995
-		  collapsed:: true
 			- [[zondag 1 januari 1995]]
 			- [[maandag 2 januari 1995]]
 			- [[dinsdag 3 januari 1995]]
@@ -564,6 +563,7 @@
 			- [[zondag 16 juli 1995]]
 			- [[vrijdag 20 oktober 1995]]
 			- [[maandag 27 november 1995]]
+			- [[1129 woensdag 29 november 1995]]
 			- [[vrijdag 1 december 1995]]
 			- [[maandag 4 december 1995]]
 			- [[woensdag 6 december 1995]]
@@ -767,7 +767,11 @@
 			- [[0921 maandag 21 september 1998]]
 			- [[0925 vrijdag 25 september 1998]]
 			- [[0930 woensdag 30 september 1998]]
-			-
+			- [[1123 maandag 23 november 1998]]
+			- [[1124 dinsdag 24 november 1998]]
+			- [[1125 woensdag 25 november 1988]]
+			- [[1128 zaterdag 28 november 1998]]
+			- [[11]]
 			- [[dinsdag 1 december 1998]]
 		- 2024
 		  collapsed:: true
