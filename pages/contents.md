@@ -772,6 +772,14 @@
 			- [[1125 woensdag 25 november 1988]]
 			- [[1128 zaterdag 28 november 1998]]
 			- [[dinsdag 1 december 1998]]
+			- [[1203 donderdag 3 december 1998]]
+			- [[1204 vrijdag 4 december 1998]]
+			- [[1208 dinsdag 8 december 1998]]
+			- [[1208 dinsdag 8 december 1998]]
+			- [[1209 woensdag 9 december 1998]]
+			- [[1210 donderdag 10 december 1998]]
+			- [[1211 vrijdag 11 december 1998]]
+			- [[1230 woensdag 30 december 1998]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
