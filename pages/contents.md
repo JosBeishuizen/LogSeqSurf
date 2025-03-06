@@ -771,7 +771,6 @@
 			- [[1124 dinsdag 24 november 1998]]
 			- [[1125 woensdag 25 november 1988]]
 			- [[1128 zaterdag 28 november 1998]]
-			- [[11]]
 			- [[dinsdag 1 december 1998]]
 		- 2024
 		  collapsed:: true
