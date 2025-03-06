@@ -747,6 +747,11 @@
 			- [[0607 zondag 7 juni 1998]]
 			- [[0613 zaterdag 13 juni 1998]]
 			- [[0618 donderdag 18 juni 1998]]
+			- [[0710 vrijdag 10 juli 1998]]
+			- [[0711 zaterdag 11 juli 1998]]
+			- [[0713 maandag 13 juli 1998]]
+			- [[0716 donderdag 16 juli 1998]]
+			- [[0727 maandag 27 juli 1998]]
 			- [[dinsdag 1 december 1998]]
 		- 2024
 		  collapsed:: true
