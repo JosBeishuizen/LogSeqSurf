@@ -750,7 +750,7 @@
 			- [[zondag 7 juni 1998]]
 			- [[zaterdag 13 juni 1998]]
 			- [[donderdag 18 juni 1998]]
-			- [[0710 vrijdag 10 juli 1998]]
+			- [[vrijdag 10 juli 1998]]
 			- [[0711 zaterdag 11 juli 1998]]
 			- [[0713 maandag 13 juli 1998]]
 			- [[0716 donderdag 16 juli 1998]]
