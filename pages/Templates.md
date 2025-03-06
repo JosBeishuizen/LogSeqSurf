@@ -13,9 +13,9 @@
 	   :result-transform ( fn [result] [(rand-nth result)])
 	  }
 	  #+END_QUERY
-	- query-table:: false
+	- #+BEGIN_QUERY
+	  query-table:: false
 	  collapsed:: true
-	  #+BEGIN_QUERY
 	  {:title [:b.header "Te doen"]
 	      :query [:find (pull ?h [*])
 	              :where
@@ -24,10 +24,6 @@
 	  ]
 	      :result-transform (fn [result]
 	                          (sort-by (fn [h]
-	                                     (get h :block/priority "Z")) result))
-	      :group-by-page? false
-	      :collapsed? false}
-	  #+END_QUERY
 	-
 - #Gezien
   template:: Cultuur
