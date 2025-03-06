@@ -23,5 +23,5 @@
 - NOW Veerkamp: [[18. Het Rijk in crisis]]
 - DONE twee artikelen uit Argus
 - NOW piano spelen
-- NOW lopen
+- DONE lopen
 - DONE roeien
