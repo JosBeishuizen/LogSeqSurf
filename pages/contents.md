@@ -1143,4 +1143,4 @@
 		- Jan van Kilsdonk
 			- [[Jan van Kilsdonk - Over Schoonheid 19791014]]
 		- Huub Oosterhuis
-			-
+			- [[Huub Oosterhuis - God is vriend - over Meester Eckhart]]
