@@ -20,8 +20,8 @@
 -
 -
 - Elke dag
-- NOW Veerkamp: [[18. Het Rijk in crisis]]
+- DONE Veerkamp: [[18. Het Rijk in crisis]]
 - DONE twee artikelen uit Argus
-- NOW piano spelen
+- DONE piano spelen
 - DONE lopen
 - DONE roeien

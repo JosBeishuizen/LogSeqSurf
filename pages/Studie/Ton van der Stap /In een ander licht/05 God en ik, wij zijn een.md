@@ -13,7 +13,6 @@
   In de Middeleeuwen nam de mystiek een hoge vlucht. Maar de kerk was altijd sceptisch. De individuele ervaring moet te allen tijde ondergeschikt blijven aan wat men algemeen dient te denken. Zo gaat het door, ook na de Reformatie. De Verlichting bekroont deze ontwikkelingen legt de grondslag voor een geloofsbeleving waarvan onze tijd bewijst dat ze niet meer levensvatbaar is.
 - ### Loslaten van het ego
   Wat is mystiek? Bonaventura: cognitio Dei experimentalis, niet-rationele kennis van God door de rechtstreekse ervaring van Hem. Niet geheimzinnigs of buitennatuurlijks. Geen sensatiezucht. Alles begint en eindigt met het ego, de zelfverloochening. Het criterium voor de geloofwaardigheid  van de mystieke beleving.
--
 - Hunkeren naar een weten dat aan het bestaan een uiteindelijke vervulling geeft. De mystieken zeggen: die vervulling bestaat en wij kunnen je uit ervaring de weg erheen wijzen. Die vervulling, dat is God, de oergrond van onze werkelijkheid.
 - Het wezen van de mystiek is dat een mens die bestaande gegeven eenheid ook werkelijk ervaart, het deel hebben aan het goddelijke in de diepte van het eigen innerlijk. Thuiskomen bij jezelf.
 - Zonder mystiek sterft elke religieuze traditie uit. Tijden en culturen veranderen, opvattingen over dogma en moraal veranderen, maar de laatste werkelijkheid verandert niet. Daarom zijn de middeleeuwse mystieken ons meer nabij dan wij denken. Een der grootsten en betrouwbaarsten onder hen is Meester Eckhart.
@@ -30,8 +29,15 @@
 - Eckhart zegt: de Vader heeft de Zoon voortgebracht... uit mijn ziel. Voor zover die van eeuwigheid in God is.
 - Wij moeten God niet zien als iets buiten onszelf, maar als wat mij eigen is. Een daarom moeten wij niet leven om iets wat buiten ons ligt, zelfs niet om 'God' - als wij Hem alles buiten onszelf beleven. Wij moeten rechtstreeks leven vanuit ons eigen leven, dat goddelijk is.
 - Het hele denken en spreken van Eckhart is een cirkelen rondom deze kerngedachten. Zo ook in de volgende tekst, een paar fragmenten uit de zogeheten _Reden der Unterweisung_, instructies van de kloosteroverste voor zijn medebroeders.
--
 - Altijd alleen willen zijn, is dat het beste? Neen. Wie de juiste houding heeft voelt zich overal en onder alle mensen op zijn plaats. Maar wie niet de juiste houding heeft, voelt zich nergens een bij niemand op zijn plaats. Als iemand God in waarheid bij zich heeft kan niemand hem hinderen
 - Zorg dat God altijd in je gemoed tegenwoordig is. Let erop hoe je op God gericht bent in de kerk. Diezelfde gezindheid moet je bewaren en meedragen onder de mensen en waar onrust heerst en onderscheid. Heb in alle werken en verhouding vertrouwen en een gelijkmatige liefde voor je God en eenzelfde ernst. Werkelijk, als je zo gelijkmoedig zou zijn, zou niemand je belemmeren om je God tegenwoordig te hebben.
 - Het waarachtige bezitten van God is afhankelijk van onze innerlijke houding en van een innig, geestelijk zich wenden tot God en streven naar Hem, en niet van een voortdurend, regelmatig aan Hem denken. Een mens moet geen genoegen nemen met een God in zijn gedachten, want als de gedachte vervliegt, verdwijnt ook God. Maar hij moet een God hebben naar diens wezen, hoog verheven boven de gedachten van de mens en van alle schepselen. Wie God zo heeft, die neemt God goddelijk, en voor hem glanst Hij op in alle dingen, want alle dingen smaken naar hem naar God en God beeld wordt hem uit de dingen zichtbaar.
+- ### God hebben
+- 2 blz za 08-03
+- ### Indifferentia
+- 3 blz zo 09-03
+- ### Theoligica Negativa
+- 1 blz ma 10-03
+- ### In onze cultuur
+- 2 blz ma 10-03
 -
