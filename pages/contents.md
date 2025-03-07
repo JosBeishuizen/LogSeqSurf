@@ -168,6 +168,7 @@
 		- [[Te Zien]]
 		- [[Gezien]]
 	- Dagboek
+	  collapsed:: true
 		- 1959
 		  collapsed:: true
 			- [[maandag 25 mei 1959]]
@@ -1141,3 +1142,5 @@
 	- Toespraken
 		- Jan van Kilsdonk
 			- [[Jan van Kilsdonk - Over Schoonheid 19791014]]
+		- Huub Oosterhuis
+			-
