@@ -52,7 +52,6 @@
 	- [[Alzheimerlijst]]
 	- [[Cadeaus]]
 - Activiteiten
-  collapsed:: true
 	- Reviews
 	  collapsed:: true
 		- [[D-22-00513]]
@@ -92,7 +91,6 @@
 				- [[5 Voorbij winst en verlies. Over identiteit en ontwrichting]]
 				- [[6 De onteigende getuige. Over mystiek, taak en getuigenis]]
 		- Veerkamp
-		  collapsed:: true
 			- [[01. In het begin was het boek]]
 			- [[02. Twee zienswijzen, twee ordeningen]]
 			- [[03. Het ontstaan van het Grote Verhaal]]
@@ -115,9 +113,11 @@
 		- Ton van der Stap
 		  collapsed:: true
 			- In een ander licht
+			  collapsed:: true
 				- [[05 God en ik, wij zijn een]]
 		- [[Berlage]]
 	- Lezen
+	  collapsed:: true
 		- [[Roll]]
 		- [[Het Bureau]]
 		- [[Het Psalmenoproer]]
@@ -814,6 +814,7 @@
 			- [[25]]
 			  collapsed:: true
 	- Digitaal
+	  collapsed:: true
 		- Data
 		  collapsed:: true
 			- [[AC]]
@@ -1140,6 +1141,7 @@
 		- ![Smart phones and mental health](../assets/smart phone use and mental health.pdf)
 		- ![Camus - Caligula](../assets/Camus - Caligula.pdf)
 	- Toespraken
+	  collapsed:: true
 		- Jan van Kilsdonk
 			- [[Jan van Kilsdonk - Over Schoonheid 19791014]]
 		- Huub Oosterhuis
