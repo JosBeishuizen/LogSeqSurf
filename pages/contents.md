@@ -110,7 +110,7 @@
 			- [[18. Het Rijk in crisis]]
 			- [[19. Het nieuwe Romeinse Rijk en zijn religie]]
 			- [[20. Samenvatting]]
-			-
+			- [[Taal opgejaagd - een epiloog]]
 		- Ton van der Stap
 		  collapsed:: true
 			- In een ander licht
