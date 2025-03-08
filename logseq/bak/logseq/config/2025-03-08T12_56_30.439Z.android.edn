@@ -230,7 +230,7 @@
  ;; The "NEXT" query returns tasks with "NOW", "LATER", or "TODO" status.
  :default-queries
  {:journals
-  [{:title "Te doen"
+  [{:title ["Te doen"]
     :query [:find (pull ?h [*])
             :in $ ?start ?today
             :where
@@ -240,7 +240,8 @@
             [?p :block/journal? true]
             [?p :block/journal-day ?d]
             [(>= ?d ?start)]
-            [(<= ?d ?today)]]
+            [(<= ?d ?today)]
+            ]
     :inputs [:14d :today]
     :result-transform (fn [result]
                         (sort-by (fn [h]
@@ -260,7 +261,30 @@
             [(< ?d ?next)]]
     :inputs [:today :7d-after]
     :group-by-page? false
-    :collapsed? false}]}
+    :collapsed? false}
+   {:title [:b.header "Te doen"]
+
+    :query [:find (pull ?h [*])
+
+            :where
+
+            [?h :block/marker ?marker]
+
+            [(contains? #{"NOW" "DOING"} ?marker)]
+
+]
+
+    :result-transform (fn [result]
+
+                        (sort-by (fn [h]
+
+                                   (get h :block/priority "Z")) result))
+
+    :group-by-page? false
+
+    :collapsed? false}
+   ]}
+
 
  ;; Add custom commands to the command palette
  ;; Example usage:
@@ -366,7 +390,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["19. Het nieuwe Romeinse Rijk en zijn religie" "Contents" "Te Zien" "Mandela over onze diepste angst" "Mooie Citaten en Teksten" "Taken" "Templates"]
+ :favorites ["05 god en ik, wij zijn één" "Queries" "20. Samenvatting" "19. Het nieuwe Romeinse Rijk en zijn religie" "Contents" "Te Zien" "Mooie Citaten en Teksten" "Taken" "Templates"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -488,7 +512,7 @@
  :file/name-format :triple-lowbar
  ;;:block-hidden-properties #{:tags}
  :journal/page-title-format "EEEE d MMMM yyyy"
- :ui/show-brackets? true
+ :ui/show-brackets? false
  :feature/enable-timetracking? false
  :feature/enable-journals? true
  :feature/enable-whiteboards? false

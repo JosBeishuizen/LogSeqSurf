@@ -390,7 +390,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["Queries" "20. Samenvatting" "19. Het nieuwe Romeinse Rijk en zijn religie" "Contents" "Te Zien" "Mandela over onze diepste angst" "Mooie Citaten en Teksten" "Taken" "Templates"]
+ :favorites ["05 god en ik, wij zijn één" "05 God en ik, wij zijn een" "Queries" "20. Samenvatting" "19. Het nieuwe Romeinse Rijk en zijn religie" "Contents" "Te Zien" "Mooie Citaten en Teksten" "Taken" "Templates"]
 
  ;; Set flashcards interval.
  ;; Expected value:
