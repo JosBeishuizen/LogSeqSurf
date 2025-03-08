@@ -366,7 +366,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["Contents" "Te Zien" "Mandela over onze diepste angst" "Mooie Citaten en Teksten" "Taken" "Templates"]
+ :favorites ["20. Samenvatting" "19. Het nieuwe Romeinse Rijk en zijn religie" "Contents" "Te Zien" "Mandela over onze diepste angst" "Mooie Citaten en Teksten" "Taken" "Templates"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -488,7 +488,7 @@
  :file/name-format :triple-lowbar
  ;;:block-hidden-properties #{:tags}
  :journal/page-title-format "EEEE d MMMM yyyy"
- :ui/show-brackets? false
+ :ui/show-brackets? true
  :feature/enable-timetracking? false
  :feature/enable-journals? true
  :feature/enable-whiteboards? false

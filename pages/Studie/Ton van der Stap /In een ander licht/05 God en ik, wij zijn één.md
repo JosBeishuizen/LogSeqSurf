@@ -1,0 +1,47 @@
+- Voortgang
+	- Sunday 02 February 2025
+		- 17:24 34
+		- 17:31 35
+		- 17:44 36
+		- 17:58 37
+		- 18:11 38 🛑
+- Inhoud
+- Veel mensen zoeken naar een dieper inzicht in hun bestaan, maar verwachten het antwoord niet meer van de kerken. Hoe zit dat?
+- Secularisatie: We zien God niet meer aanwezig of handelend in onze wereld en geschiedenis. Enerzijds ontwikkeling naar een volwassen godsbesef. Anderzijds religieuze armoede. Hoe zullen wij over God spreken?
+- Nieuwe woorden die wijzen op maatschappelijke en politeke verantwoordelijkheid. Die helpen in bepaalde levenssituaties. Die bevrijden van angsten en onnodige gewetensvragen. Het besef dat men eigenlijk gelukkig en heel verantwoordelijk kan leven zonder kerk, evangelie of God. Maar wat bedoel je dan met 'God'. Die vraag laat zich nooit beantwoorden met een redenering maar alleen vanuit een diepe innerlijke ervaring van God, een ander woord voor mystieke beleving. Die ervaring is uit het Christendom en uit onze cultuur verdwenen.
+- ### Proces van eeuwen
+  In de Middeleeuwen nam de mystiek een hoge vlucht. Maar de kerk was altijd sceptisch. De individuele ervaring moet te allen tijde ondergeschikt blijven aan wat men algemeen dient te denken. Zo gaat het door, ook na de Reformatie. De Verlichting bekroont deze ontwikkelingen legt de grondslag voor een geloofsbeleving waarvan onze tijd bewijst dat ze niet meer levensvatbaar is.
+- ### Loslaten van het ego
+  Wat is mystiek? Bonaventura: cognitio Dei experimentalis, niet-rationele kennis van God door de rechtstreekse ervaring van Hem. Niet geheimzinnigs of buitennatuurlijks. Geen sensatiezucht. Alles begint en eindigt met het ego, de zelfverloochening. Het criterium voor de geloofwaardigheid  van de mystieke beleving.
+- Hunkeren naar een weten dat aan het bestaan een uiteindelijke vervulling geeft. De mystieken zeggen: die vervulling bestaat en wij kunnen je uit ervaring de weg erheen wijzen. Die vervulling, dat is God, de oergrond van onze werkelijkheid.
+- Het wezen van de mystiek is dat een mens die bestaande gegeven eenheid ook werkelijk ervaart, het deel hebben aan het goddelijke in de diepte van het eigen innerlijk. Thuiskomen bij jezelf.
+- Zonder mystiek sterft elke religieuze traditie uit. Tijden en culturen veranderen, opvattingen over dogma en moraal veranderen, maar de laatste werkelijkheid verandert niet. Daarom zijn de middeleeuwse mystieken ons meer nabij dan wij denken. Een der grootsten en betrouwbaarsten onder hen is Meester Eckhart.
+- ### Meester Eckhart
+- Meester Eckhart werd rond 1260 geboren en trad in in de orde van de Dominicanen. Als hoogleraar te Parijs ontwierp hij een groot theologisch werk en stelde delen daarvan op schrift. Op latere leeftijd werd hij belast met de zielzorg en het toezicht op de Zuid-Duitse vrouwenkloosters. In die functie hield hij preken in de volkstaal en deze zijn het, waarin wij de duidelijkste weergave vinden van zijn mystieke leer.
+- Hij wordt beschuldigd van ketterij maar de veroordeling komt na zijn dood. Eckhart spreekt nooit over zijn mystieke ervaring zelf. De eerste wet van de mystiek luidt dat men zich nergens aan hecht dus ook niet aan zijn religieuze ervaringen. De ervaring is ook niet in woorden weer te geven. Eckhart spreekt van "weten". Voor hem gaat de mystiek boven alle andere wegen tot godskennis. Het gaat om een met niets te vergelijken ervaring.
+- Uit de preek "Iusti vivent in aeternum". Wij moeten God niet als buiten onszelf grijpen en beschouwen, maar als wat mij eigen is en wat in een mens is. God en ik, wij zijn één.
+- ### Handelen vanuit je eigenste ik
+- Je leeft omwille van het leven zelf. Wij zouden moeten leren rechtstreeks, spontaan, vanuit onszelf in het moment aanwezig te zijn. Wat uit die  bodem van ons ik oprijst is goed omdat het van God komt. Dat is wel bijna het moeilijkste wat er bestaat. Eckhart wijst ons een weg die een leven lang duurt. Maar de mysticus heeft blijkbaar de tijd.
+- Hoe komt het dat het leven op zich, zonder argument van buitenaf, zo waardevol is? Eckhart: "Gods zijn is mijn leven". "Maar als mijn leven Gods zijn is, dan moet Gods zijn het mijne zijn, en Gods wezen mijn wezen, niet meer en niet minder."
+- Nu zitten we midden in het hart van Eckharts boodschap. In werken is er maar één zijn: Gods wezen, en dat is mijn wezen, mijn leven. Daarom heeft het leven geen verdere verantwoording nodig.
+- God en ik, wij zijn één, het onomstotelijk weten van de mysticus. Geen redenering maar een innerlijk schouwen. Eckhart wil ons duidelijk maken niet wat wij moeten doen, maar wie wij zijn. De mens is in wezen één met God, die ervaring zou ons leven meer een meer moeten doordringen. Want alleen zo vinden wij vrede.
+- "De Vader brengt de Zoon voort in de eeuwigheid". De eeuwigheid, dat is het eeuwige hier en nu. De werkelijkheid in alles wat wij zijn en zien is volgens Eckhart dit: niets anders dan het 'in- en uitademen' van God. De hele werkelijkheid bestaat bij de gratie van een levensproces, en dat proces is een onophoudelijk voortbrengen door God van zichzelf in de Zoon, in de hele schepping. De Zoon, de schepping, ook de ziel van mij, zijn aan God gelijk. Alles is met elkaar verbonden. Onderscheid maken, noodzakelijk in bijvoorbeeld de wetenschap, schept vervreemding van ons werkelijke ik en ook van de wereld.
+- Eckhart zegt: de Vader heeft de Zoon voortgebracht... uit mijn ziel. Voor zover die van eeuwigheid in God is.
+- Wij moeten God niet zien als iets buiten onszelf, maar als wat mij eigen is. Een daarom moeten wij niet leven om iets wat buiten ons ligt, zelfs niet om 'God' - als wij Hem alles buiten onszelf beleven. Wij moeten rechtstreeks leven vanuit ons eigen leven, dat goddelijk is.
+- Het hele denken en spreken van Eckhart is een cirkelen rondom deze kerngedachten. Zo ook in de volgende tekst, een paar fragmenten uit de zogeheten _Reden der Unterweisung_, instructies van de kloosteroverste voor zijn medebroeders.
+- Altijd alleen willen zijn, is dat het beste? Neen. Wie de juiste houding heeft voelt zich overal en onder alle mensen op zijn plaats. Maar wie niet de juiste houding heeft, voelt zich nergens en bij niemand op zijn plaats. Als iemand God in waarheid bij zich heeft kan niemand hem hinderen.
+- Zorg dat God altijd in je gemoed tegenwoordig is. Let erop hoe je op God gericht bent in de kerk. Diezelfde gezindheid moet je bewaren en meedragen onder de mensen en waar onrust heerst en onderscheid. Heb in alle werken en verhouding vertrouwen en een gelijkmatige liefde voor je God en eenzelfde ernst. Werkelijk, als je zo gelijkmoedig zou zijn, zou niemand je belemmeren om je God tegenwoordig te hebben.
+- Het waarachtige bezitten van God is afhankelijk van onze innerlijke houding en van een innig, geestelijk zich wenden tot God en streven naar Hem, en niet van een voortdurend, regelmatig aan Hem denken. Een mens moet geen genoegen nemen met een God in zijn gedachten, want als de gedachte vervliegt, verdwijnt ook God. Maar hij moet een God hebben naar diens wezen, hoog verheven boven de gedachten van de mens en van alle schepselen. Wie God zo heeft, die neemt God goddelijk, en voor hem glanst Hij op in alle dingen, want alle dingen smaken naar hem naar God en Gods` beeld wordt hem uit de dingen zichtbaar.
+- ### God hebben
+- God hebben of God grijpen betekent zoveel als God smaken of God proeven. Het betekent natuurlijk niet God in pacht hebben, God onder de knie krijgen of in zijn greep hebben. Dit grijpen is: het dwars door alle beelden en ideeën heen rechtstreeks, intuïtief, zonder woorden en in het diepste zwijgen, met het hart en met de innerlijke blik aanwezig zijn bij God.
+- De contemplatieve levenshouding dient al ons handelen te vergezellen, waar we ook gaan of staan.
+- Het gevoel dat er iets mis is. We zoeken de oorzaak buiten onszelf. Eckhart zegt: de belemmering zit in onszelf. Ook ons religieuze heil zoeken we buiten onszelf. Wij hebben de neiging God te zoeken waar we hem willen hebben. We zijn blij met schijnbaar duidelijk omschreven inzichten, die ons plotseling van alle problemen lijken te bevrijden. Al gauw blijkt dat we misschien meer weten maar niet veranderd zijn.
+- ### Indifferentia
+-
+- ### Indifferentia
+- 3 blz zo 09-03
+- ### Theoligica Negativa
+- 1 blz ma 10-03
+- ### In onze cultuur
+- 2 blz ma 10-03
+-

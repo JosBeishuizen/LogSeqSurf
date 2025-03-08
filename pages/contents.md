@@ -91,6 +91,7 @@
 				- [[5 Voorbij winst en verlies. Over identiteit en ontwrichting]]
 				- [[6 De onteigende getuige. Over mystiek, taak en getuigenis]]
 		- Veerkamp
+		  collapsed:: true
 			- [[00. Inleiding - Tekstwetenschap]]
 			- [[01. In het begin was het boek]]
 			- [[02. Twee zienswijzen, twee ordeningen]]
@@ -114,7 +115,7 @@
 			- [[Taal opgejaagd - een epiloog]]
 		- Ton van der Stap
 			- In een ander licht
-				- [[05 God en ik, wij zijn een]]
+				- [[05 God en ik, wij zijn één]]
 		- [[Berlage]]
 	- Lezen
 	  collapsed:: true
@@ -122,6 +123,7 @@
 		- [[Het Bureau]]
 		- [[Het Psalmenoproer]]
 - Geheugen
+  collapsed:: true
 	- Bijbel
 	  collapsed:: true
 		- Psalmen

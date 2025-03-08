@@ -1,7 +1,7 @@
 - LATER [[SSE opheffen]]
   collapsed:: true
 - TODO rijbewijs verlengen
-- TODO Ton van der Stap: [[05 God en ik, wij zijn een]]
+- TODO Ton van der Stap: [[05 God en ik, wij zijn één]]
 - TODO Foto Gerrie
 - DONE [[Levenstestament]]
 - LATER afspraak siteur verzetten
