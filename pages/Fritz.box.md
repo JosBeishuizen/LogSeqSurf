@@ -8,4 +8,4 @@
 - IP46
 	- Automatisch, alleen DHCP
 - Beveiliging
-	- uit
+	- uit maar dit werkt helaas nog niet.
