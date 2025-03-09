@@ -113,6 +113,7 @@
 			- [[19. Het nieuwe Romeinse Rijk en zijn religie]]
 			- [[20. Samenvatting]]
 			- [[Taal opgejaagd - een epiloog]]
+			  collapsed:: true
 		- Ton van der Stap
 			- In een ander licht
 				- [[05 God en ik, wij zijn één]]
@@ -815,9 +816,7 @@
 			- [[25]]
 			  collapsed:: true
 	- Digitaal
-	  collapsed:: true
 		- Data
-		  collapsed:: true
 			- [[AC]]
 			- [[ANWB Parkeren]]
 			- [[Cathrien en Jochem]]
@@ -826,6 +825,7 @@
 			- [[Computers]]
 			- [[Digid]]
 			- [[Disney+]]
+			- [[Fritz.box]]
 			- [[Fulli tolbadge]]
 			- [[Geert]]
 			- [[Google]]
@@ -1113,6 +1113,7 @@
 		- [[Kerstkaarten]]
 		- [[Verjaardagen]]
 	- query-table:: false
+	  collapsed:: true
 	  #+BEGIN_QUERY
 	  {:title ["Mooie Citaten en Teksten"]
 	    :query [:find (pull ?b [*])

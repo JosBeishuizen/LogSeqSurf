@@ -1,0 +1,11 @@
+- Inloggen
+	- http://fritz.box
+	- wachtwoord: MerciaFrancaElsAda
+- IPv4 address
+	- 192.168.178.1
+- Subnet mask
+	- 255.255.255.0
+- IP46
+	- Automatisch, alleen DHCP
+- Beveiliging
+	- uit
