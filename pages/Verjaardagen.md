@@ -42,11 +42,11 @@
   SCHEDULED: <2025-02-26 Wed .+1y>
 - DONE Sam
   SCHEDULED: <2025-02-27 Thu .+1y>
-- Kathleen
+- DONE Kathleen
   SCHEDULED: <2025-03-08 Sat .+1y>
-- Jan Klein
+- DONE Jan Klein
   SCHEDULED: <2025-03-10 Mon .+1y>
-- Wouter
+- DONE Wouter
   SCHEDULED: <2025-03-10 Mon .+1y>
 - Meindert 1935
   SCHEDULED: <2025-03-20 Thu .+1y>

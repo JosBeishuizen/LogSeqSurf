@@ -38,8 +38,6 @@
 - Het gevoel dat er iets mis is. We zoeken de oorzaak buiten onszelf. Eckhart zegt: de belemmering zit in onszelf. Ook ons religieuze heil zoeken we buiten onszelf. Wij hebben de neiging God te zoeken waar we hem willen hebben. We zijn blij met schijnbaar duidelijk omschreven inzichten, die ons plotseling van alle problemen lijken te bevrijden. Al gauw blijkt dat we misschien meer weten maar niet veranderd zijn.
 - ### Indifferentia
 -
-- ### Indifferentia
-- 3 blz zo 09-03
 - ### Theoligica Negativa
 - 1 blz ma 10-03
 - ### In onze cultuur
