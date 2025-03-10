@@ -37,7 +37,7 @@
 - De contemplatieve levenshouding dient al ons handelen te vergezellen, waar we ook gaan of staan.
 - Het gevoel dat er iets mis is. We zoeken de oorzaak buiten onszelf. Eckhart zegt: de belemmering zit in onszelf. Ook ons religieuze heil zoeken we buiten onszelf. Wij hebben de neiging God te zoeken waar we hem willen hebben. We zijn blij met schijnbaar duidelijk omschreven inzichten, die ons plotseling van alle problemen lijken te bevrijden. Al gauw blijkt dat we misschien meer weten maar niet veranderd zijn.
 - ### Indifferentia
--
+- Nu is Eckharts waarheid in wezen ook een uiterst eenvoudige: God en ik, wij zijn één. Maar het is voor hem niet voldoende dat wij dat weten. Dat weten moet diep in onze ziel binnendringen en ons van binnenuit veranderen. Die verandering is: leren God te grijpen in alle dingen, en niet alleen maar in bepaalde dingen. En God grijpen in alle dingen leert een mens door af te zien van zijn eigen vooroorde-len, wensen, gehechtheden, kortom, door zich los te maken van zijn ego. En zich losmaken van zijn ego leert een mens door het beoefe-nen van ingekeerd-zijn.
 - ### Theoligica Negativa
 - 1 blz ma 10-03
 - ### In onze cultuur
