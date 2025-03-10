@@ -49,4 +49,4 @@
 - Al onze denkbeelden over God moeten verdwijnen. Hoe gebeurt dat? Daarover spreekt Eckhart in het tweede fragment.
 - Eckhart geeft nooit zoiets als een concrete handleiding tot de mystiek, een meditatietechniek bijvoorbeeld.
 - Eckhart spreekt tot kloosterlingen die aan religieuze oefeningen gewend zijn. "Wat moet ik doen?" klinkt dan ook in de Middeleeuwen anders dan in onze tijd. Onze cultuur heeft praktisch alle vormen van "geestelijke oefening" verbannen. Eckhart zegt: die vormen doen er ook niet toe. Er is een weg die iedereen kan bewandelen, wanneer zo iemand de juiste instelling en de vaste wil daartoe heeft.
-- Een tekst uit het apocriefe bijbelboek Wijsheid: "Toen overal diepe stilte heerste en de nacht het zenit van zijn loop had bereikt daalde uw almachtig woord, God, van de koninklijke troon uit de hemel neer." Volgens Eckhart gaat dit over de
+- Een tekst uit het apocriefe bijbelboek Wijsheid: "Toen overal diepe stilte heerste en de nacht het zenit van zijn loop had bereikt daalde uw almachtig woord, God, van de koninklijke troon uit de hemel neer." Volgens Eckhart gaat dit over de geboorte van (de Zoon van)
