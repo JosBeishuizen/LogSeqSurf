@@ -566,6 +566,7 @@
 			- [[zaterdag 15 juli 1995]]
 			- [[zondag 16 juli 1995]]
 			- [[maandag 17 juli 1995]]
+			- [[woensdag 19 juli 1995]]
 			- [[vrijdag 20 oktober 1995]]
 			- [[maandag 27 november 1995]]
 			- [[1129 woensdag 29 november 1995]]
