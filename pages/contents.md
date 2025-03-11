@@ -119,7 +119,6 @@
 				- [[05 God en ik, wij zijn één]]
 		- [[Berlage]]
 	- Lezen
-	  collapsed:: true
 		- [[Roll]]
 		- [[Het Bureau]]
 		- [[Het Psalmenoproer]]
