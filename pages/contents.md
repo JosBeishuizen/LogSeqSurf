@@ -117,7 +117,7 @@
 		- Ton van der Stap
 			- In een ander licht
 				- [[05 God en ik, wij zijn één]]
-				-
+				- [[06 Het absurde]]
 		- [[Berlage]]
 	- Lezen
 		- [[Roll]]
