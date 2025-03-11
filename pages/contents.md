@@ -170,7 +170,6 @@
 		- [[Te Zien]]
 		- [[Gezien]]
 	- Dagboek
-	  collapsed:: true
 		- 1959
 		  collapsed:: true
 			- [[maandag 25 mei 1959]]
@@ -510,7 +509,6 @@
 			- [[donderdag 15 december 1994]]
 			- [[maandag 19 december 1994]]
 		- 1995
-		  collapsed:: true
 			- [[zondag 1 januari 1995]]
 			- [[maandag 2 januari 1995]]
 			- [[dinsdag 3 januari 1995]]
@@ -567,6 +565,7 @@
 			- [[vrijdag 14 juli 1995]]
 			- [[zaterdag 15 juli 1995]]
 			- [[zondag 16 juli 1995]]
+			- [[maandag 17 juli 1995]]
 			- [[vrijdag 20 oktober 1995]]
 			- [[maandag 27 november 1995]]
 			- [[1129 woensdag 29 november 1995]]
@@ -816,6 +815,7 @@
 			- [[25]]
 			  collapsed:: true
 	- Digitaal
+	  collapsed:: true
 		- Data
 			- [[AC]]
 			- [[ANWB Parkeren]]
