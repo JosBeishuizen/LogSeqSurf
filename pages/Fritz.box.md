@@ -9,3 +9,11 @@
 	- Automatisch, alleen DHCP
 - Beveiliging
 	- uit maar dit werkt helaas nog niet.
+- dLAN 200 AVplus
+	- Adapter in studeerkamer
+		- WVRB-TUYK-FQDH-AKIR
+		- 00:0B:3B:BC:1D:14
+		- IPv4 192.168.178.21
+	- Adapter in logeerkamer
+		- VLAN-GAVO-YQUU-ILMP
+		- BC:F2:AF:38:3A:20
