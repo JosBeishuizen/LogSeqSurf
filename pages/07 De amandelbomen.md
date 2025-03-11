@@ -1,0 +1,5 @@
+- In Algiers staan al in februari de amandelbomen in bloei. De bloesem weerstaat regenbuien en zeewind. Zo'n soort stille kracht zouden mensen ook moeten opbrengen in de crisis van 1940.
+- Ik bewonder de bomen. Ze maken met gelukkig. Maar verder gebeurt er niets. Ik kan niet, zoals Camus, een sprong maken van een natuurproces naar mijn leven. Ik ben niet door de natuur gevormd maar door de geschiedenis.
+- Wij moeten vasthouden aan de absurditeit van de dood. De dood lijft ons in in de natuur. Maar onze dood verschilt van alle door in de natuur door het feit dat wij hem kennen. Wij kunnen de dood hanteren. Zo wordt onze natuur geschiedenis.
+- Toch verheug ik mij in de amandelbomen. De durende, zwijgende aanwezigheid, die er zijn zal zolang ik rondloop. Zomaar. Om niet.
+-
