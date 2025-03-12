@@ -119,6 +119,7 @@
 				- [[05 God en ik, wij zijn één]]
 				- [[06 Het absurde]]
 				- [[07 De amandelbomen]]
+				- [[08 'Sterven' als geboren worden]]
 		- [[Berlage]]
 	- Lezen
 		- [[Roll]]
