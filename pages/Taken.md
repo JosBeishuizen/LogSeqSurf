@@ -16,7 +16,7 @@
 - NOW Verlengsnoer piano
 - NOW Piano monteren
 - NOW [[Piemonte]]
--
+- NOW Alendroninezuur
 -
 - Elke dag
 - DONE Veerkamp: [[18. Het Rijk in crisis]]
