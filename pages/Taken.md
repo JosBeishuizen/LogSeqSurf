@@ -1,9 +1,7 @@
-- LATER [[SSE opheffen]]
-  collapsed:: true
 - TODO rijbewijs verlengen
-- TODO Ton van der Stap: [[05 God en ik, wij zijn één]]
+- NOW Ton van der Stap: [[05 God en ik, wij zijn één]]
 - TODO Foto Gerrie
-- DONE [[Levenstestament]]
+- LATER [[Levenstestament]]
 - LATER afspraak siteur verzetten
 - DONE koor
 - LATER [[Egmond]]
@@ -13,11 +11,10 @@
 - DONE opgeven Charley
 - LATER belastingen
 - LATER fulli
-- DONE plannen Comenius
 - NOW verslag Marga
 - LATER Arjan Vader
--
--
+- NOW Verlengsnoer piano
+- NOW Piano monteren
 -
 - Elke dag
 - DONE Veerkamp: [[18. Het Rijk in crisis]]
