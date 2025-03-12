@@ -1,2 +1,2 @@
 - Casa Rocco
-	- Ligging:
+	- Ligging: 44,5205149, 8,0881795
