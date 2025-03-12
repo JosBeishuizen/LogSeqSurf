@@ -1,5 +1,5 @@
 - TODO rijbewijs verlengen
-- NOW Ton van der Stap: [[05 God en ik, wij zijn één]]
+- NOW Ton van der Stap: [[08 'Sterven' als geboren worden]]
 - TODO Foto Gerrie
 - LATER [[Levenstestament]]
 - LATER afspraak siteur verzetten
@@ -15,7 +15,7 @@
 - LATER Arjan Vader
 - NOW Verlengsnoer piano
 - NOW Piano monteren
-- NOW [[Piemonte]]
+- DONE [[Piemonte]]
 - NOW Alendroninezuur
 -
 - Elke dag
