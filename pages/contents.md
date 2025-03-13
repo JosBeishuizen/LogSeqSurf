@@ -52,6 +52,7 @@
 	- [[Alzheimerlijst]]
 	- [[Cadeaus]]
 - Activiteiten
+  collapsed:: true
 	- Reviews
 	  collapsed:: true
 		- [[D-22-00513]]
@@ -72,6 +73,7 @@
 		- [[D-24-00986]]
 		- [[De vragen van Alexander]]
 	- Studie
+	  collapsed:: true
 		- [[Maleachi]]
 		- Levinas
 		  collapsed:: true
@@ -116,6 +118,7 @@
 			  collapsed:: true
 		- Ton van der Stap
 			- In een ander licht
+			  collapsed:: true
 				- [[05 God en ik, wij zijn één]]
 				- [[06 Het absurde]]
 				- [[07 De amandelbomen]]
@@ -511,6 +514,7 @@
 			- [[donderdag 15 december 1994]]
 			- [[maandag 19 december 1994]]
 		- 1995
+		  collapsed:: true
 			- [[zondag 1 januari 1995]]
 			- [[maandag 2 januari 1995]]
 			- [[dinsdag 3 januari 1995]]
@@ -760,17 +764,17 @@
 			- [[maandag 13 juli 1998]]
 			- [[donderdag 16 juli 1998]]
 			- [[maandag 27 juli 1998]]
-			- [[0815 zaterdag 15 augustus 1998]]
-			- [[0816 zondag 16 augustus 1998]]
-			- [[0818 dinsdag 18 augustus 1998]]
-			- [[0819 woensdag 19 augustus 1998]]
-			- [[0824 maandag 24 augustus 1998]]
-			- [[0825 dinsdag 25 augustus 1998]]
-			- [[0829 zaterdag 29 augustus 1998]]
-			- [[0831 maandag 31 augustus 1998]]
-			- [[0905 zaterdag 5 september 1998]]
-			- [[0909 woensdag 9 september 1998]]
-			- [[0914 maandag 14 september 1998]]
+			- [[zaterdag 15 augustus 1998]]
+			- [[zondag 16 augustus 1998]]
+			- [[dinsdag 18 augustus 1998]]
+			- [[woensdag 19 augustus 1998]]
+			- [[maandag 24 augustus 1998]]
+			- [[dinsdag 25 augustus 1998]]
+			- [[zaterdag 29 augustus 1998]]
+			- [[maandag 31 augustus 1998]]
+			- [[zaterdag 5 september 1998]]
+			- [[woensdag 9 september 1998]]
+			- [[maandag 14 september 1998]]
 			- [[0916 woensdag 16 september 1998]]
 			- [[0921 maandag 21 september 1998]]
 			- [[0925 vrijdag 25 september 1998]]
