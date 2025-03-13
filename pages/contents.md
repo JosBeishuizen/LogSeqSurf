@@ -720,7 +720,6 @@
 			- [[vrijdag 19 december 1997]]
 			- [[zondag 28 december 1997]]
 		- 1998
-		  collapsed:: true
 			- [[zaterdag 3 januari 1998]]
 			- [[zaterdag 10 januari 1998]]
 			- [[zondag 25 januari 1998]]
