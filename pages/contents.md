@@ -817,7 +817,12 @@
 			- [[0515 zaterdag 15 mei 1999]]
 			- [[0516 zondag 16 mei 1999]]
 			- [[0517 maandag 17 mei 1999]]
-			-
+			- [[0525 dinsdag 25 mei 1999]]
+			- [[0527 donderdag 27 mei 1999]]
+			- [[0528 vrijdag 28 mei 1999]]
+			- [[0529 zaterdag 29 mei 1999]]
+			- [[0530 zondag 30 mei 1999]]
+			- [[0531 maandag 31 mei 1999]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
