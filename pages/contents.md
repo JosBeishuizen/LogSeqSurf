@@ -824,7 +824,6 @@
 			- [[25]]
 			  collapsed:: true
 	- Digitaal
-	  collapsed:: true
 		- Data
 			- [[AC]]
 			- [[ANWB Parkeren]]
