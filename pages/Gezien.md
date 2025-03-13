@@ -54,4 +54,8 @@ Cijfer:: 10
   Gezien-op:: 18 feb 2025 in The Movies
   Opm:: Prachtig portret van het Joodse leven in Amsterdam tijdens het interbellum 
   Cijfer:: 9
--
+- Titel::
+  Tags:: 
+  Gezien-op:: 
+  Opm::
+  Cijfer::
