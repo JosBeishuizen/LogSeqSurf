@@ -798,6 +798,9 @@
 			- [[0106 woensdag 6 januari 1999]]
 			- [[0111 maandag 11 januari 1999]]
 			- [[0112 dinsdag 12 januari 1999]]
+			- [[0208 maandag 8 februari 1999]]
+			- [[0211 dinsdag 11 februari 1999]]
+			- [[0218 donderdag 18 februari 1999]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
