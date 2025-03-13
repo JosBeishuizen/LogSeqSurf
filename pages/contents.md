@@ -807,6 +807,9 @@
 			- [[0402 vrijdag 2 april 1999]]
 			- [[0405 maandag 5 april 1999]]
 			- [[0408 donderdag 8 april 1999]]
+			- [[0422 donderdag 22 april 1999]]
+			- [[0425 zondag 25 april 1999]]
+			- [[0430 vrijdag 30 april 1999]]
 			-
 		- 2024
 		  collapsed:: true
