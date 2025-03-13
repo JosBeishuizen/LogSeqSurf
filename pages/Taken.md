@@ -13,8 +13,8 @@
 - LATER fulli
 - NOW verslag Marga
 - LATER Arjan Vader
-- NOW Verlengsnoer piano
-- NOW Piano monteren
+- DONE Verlengsnoer piano
+- DONE Piano monteren
 - DONE [[Piemonte]]
 - NOW Alendroninezuur
 -
