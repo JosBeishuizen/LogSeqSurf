@@ -174,7 +174,6 @@
 		- [[Te Zien]]
 		- [[Gezien]]
 	- Dagboek
-	  collapsed:: true
 		- 1959
 		  collapsed:: true
 			- [[maandag 25 mei 1959]]
@@ -720,6 +719,7 @@
 			- [[vrijdag 19 december 1997]]
 			- [[zondag 28 december 1997]]
 		- 1998
+		  collapsed:: true
 			- [[zaterdag 3 januari 1998]]
 			- [[zaterdag 10 januari 1998]]
 			- [[zondag 25 januari 1998]]
@@ -793,6 +793,7 @@
 			- [[woensdag 30 december 1998]]
 		- 1999
 			- [[0101 vrijdag 1 januari 1999]]
+			-
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
