@@ -793,7 +793,11 @@
 			- [[woensdag 30 december 1998]]
 		- 1999
 			- [[0101 vrijdag 1 januari 1999]]
-			-
+			- [[0104 maandag 4 januari 1999]]
+			- [[0105 dinsdag 5 januari 1999]]
+			- [[0106 woensdag 6 januari 1999]]
+			- [[0111 maandag 11 januari 1999]]
+			- [[0112 dinsdag 12 januari 1999]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
