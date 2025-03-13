@@ -1,0 +1,6 @@
+# 0723 vrijdag 23 juli 1999
+10:55	Op weg naar Parijs, maar op 10 km hoogte. Tot nu toe een zeer rustige vlucht. Ben nog ooit zo opgeruimd vertrokken, mede dankzij de rustige laatste weken. Twee artikelen de deur uit. Wel een bult werk mee, maar eigenlijk alleen maar leuke dingen. Luchtdoop voor Sara en Berend. Spannend of het straks in porto goed gaat met het huren van de auto en het vinden vaan het huis. Waar zouden we vanavond slapen? 
+
+17:47	Aangekomen in Mesao Frio. Dit is wel comfortabel. Vanochtend om kwart voor acht vertrokken, door Alfred naar Schiphol gebracht, en nu al hier op ons terrasje bij het huis. Het is hier zeer warm, zeker 30 graden. We gaan nu boodschappen doen. 
+
+22:12	We zitten op ons terrasje onder de druivenranken. Anne schrijft op een nieuwe bladzijde in het plakboek, Sara schrijft in haar dagboek, ik in mijn Psion, Cathrien en Berend lezen (Kameleons en Feestorkest). Op de achtergrond het geluid van sjirpende krekels, blaffende honden, en vooral auto's op de weg aande overkant van het dal. Het is nog steeds erg warm. Nu binnen warmer dan buiten, terwijl het vanmiddag andersom was. Gezellig gegeten vanavond bij Convivio.

@@ -1,0 +1,2 @@
+# 1025 maandag 25 oktober 1999
+08:11. Dacht aan de groene-gras filosofie: proberen dat wat je doet zo geconcentreerd mogelijk te doen. Je kunt toch niet alles doen. Maakt je kalm en brengt je tot resultaten! Houdt je bovendien bij het hier en nu. Herfstvakantie. Berend in Vinkeveen op zeilkamp. Cathrien en Sara met Richard naar Winterberg. Vanavond eten met Anne. Na moeizaam gesprek gisteren zaak toch weer opgeklaard. Vandaag gaan we de man van Julia begraven, morgen de zus van Wim Thijs. Kanker. Niet fair.

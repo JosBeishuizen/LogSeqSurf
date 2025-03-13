@@ -1,0 +1,3 @@
+# 0422 donderdag 22 april 1999
+Vannacht geslapen van half 1 tot 6 uur. Niet slecht. Slapen vormt op dit moment een groot probleem. Dat komt ongetwijfeld door de emotionele toestanden van dit moment. Ik wil daar proberen wat meer rust in te brengen. Anders gaat mijn werk er onder lijden. Even een paar ordemaatregelen.
+Wat de computers betreft. Ik ga zeulen met de harde schijf Ecodisc. Thuis de Powerbook, Op het werk de PowerPC, zonder virtual memory. Totdat de laptop is gerepareerd en de netwerkkaart aanwezig is. Geen nieuwe dingen doen. Alternatief: thuis de andere PowerPC neerzetten. Ja, want diskdrive en Office 98 beschikbaar. Morgen met de auto en meenemen. Zaterdag tafelblad maken. Dan alleen nog met schijfjes?

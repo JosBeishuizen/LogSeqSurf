@@ -1,0 +1,3 @@
+# 0610 donderdag 10 juni 1999
+09:02	Op weg naar Leiden. Wat te zeggen. Harry maakt vorderingen met zijn date. Eerste conflict in gezoen geëindigd, zijns ondanks. Hij was er via e-mail helemaal euforisch over. Vandaag wordt Sara 12 jaar! wat deed ik vorig jaar op 10 juni? Mei en juni vorig jaar stonden in het teken van de dood, mn die van John Schulte en Raphael Verduijn. Nou ja, vandaag hopelijk een goede werkdag. Even plannen
+17:47	Op weg naar huis. Redelijke werkdag. 

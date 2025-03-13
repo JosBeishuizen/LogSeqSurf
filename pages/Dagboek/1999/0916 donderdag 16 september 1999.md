@@ -1,0 +1,1 @@
+08:44	Vandaag proberen strikt lineair te leven. Bedenken eat de eerstvolgende taak is en de taak daarna. Tijdschrijven. Oriënteren waar nodig. Dat regime moet ook de nachtrust terugbrengen. Het grootste probleem 's nachts is de ongeordendheid van de gedachten. Verder hoop ik snel mijn netwerkkaart te krijgen.

@@ -1,0 +1,11 @@
+# 0808 zondag 8 augustus 1999
+Het is vijf voor half acht. Een mooi vioolmuziekje op de radio. Vandaag aan vijf dingen werken:
+1. genieten
+2. troosten
+3. praten
+4. netheid
+5. relativeren
+Proberen wat aan de aanvraag te doen. Proberen Anne een beetje te troosten en met haar te praten. Gisteravond zeiden Cathrien en Anne allebei dat ze niet zo konden genieten van deze vakantie als ze anders wel konden in Frankrijk. Wat scheelt er aan? De taal, de regen van de afgelopen dagen? Cathrien zei dat ze veel verdriet had om Julia Bobek, van wie de man met een kwaadaardige vorm van prostaatkanker worstelt. Ik zei dat C. J. zou kunnen troosten met het viool spelen. Anne vindt de taalbarrière wel erg hinderlijk. Verder is het huisje ee beetje bouwvallig wat haar hindert. En is de stoelgang verstoord, wat haar erg hindert. 
+Volgens Herman de Coninck is de poëzie van Hans Andreus bij uitstek 'ikloos'. Ikloosheid, daar ben ik goed in.
+
+Waardoor zullen we deze zondag onthouden? In de eerste plaats door de regen. Vannochtend hebben Anne en ik nog even een rondje hard gelopen naar het dorp om brood te halen. Maar daarna begon het snel te regenen en het bleef de hele dag buiïg. Tussen de middag heerlijk geluncht bij Ceu Azul, geit en varkensvlees, lekkere rijst en aardappels. Meloen en druiven toe. Iedereen vond het heerlijk. Veel tijd om te lezen en te stoeien en andere pret te maken. Om vier uur toch nog even een wandeling gemaakt van Tavranca do Monte naar Carvalho do Rei en terug. Twee bergdorpjes waar je je in de Middeleeuwen waant. Mesthopen, onduidelijke griebus binnen en rond de huisjes, gemeenchappelijke wasplaatsen, hetgeen doet vermoeden dat er geen waterleiding in de huisjes is. Daartussendoor ook nieuwe huizen die misschien door geëmigreerde dorpsgenoten zijn gebouwd met het geld dat elders (Frankrijk, België, Zwitserland) is verdiend. Met de dreigende lucht erboven was het allemaal heel indrukwekkend. Een deel van de wandeling liep langs een watergang waar het water in grote vaart naar beneden stroomde. Eenmaal langs een watermolen, die nog in bedrijf was. Al met al een mooie tocht, en helemaal droog gebleven! Thuis broodjes met kaas gemaakt en nog even naar het dorp voor een ijsco en om Wim te bellen. Morgen naar de kust!

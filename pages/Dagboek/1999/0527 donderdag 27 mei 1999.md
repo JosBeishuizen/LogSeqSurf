@@ -1,0 +1,2 @@
+# 0527 donderdag 27 mei 1999
+10:43	Op 11 km hoogte vliegen we met een snelheid van 850 km/uur in de buurt van Compiegne, boven Paris, op weg naar Porto en Lissabon. Vanochtend op Schiphol voor de derde keer binnen een week een migraine-aanval. Proberen nu echt een beetje te ontspannen. Dat moet wel doel nr. 1 zijn, voorlopig. Toch is de strijd om de nieuwe hoogleraar nog niet gestreden. Er volgt een nieuwe vergadering van de benoemingsadviescommissie, op verzoek van Paul Smeets en mij. 

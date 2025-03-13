@@ -1,0 +1,4 @@
+14:41	Fantastisch nazomerweer in Egmond, 23-30 graden. Meisjes bij Karlijn in Schoorl. Wij gaan zo nog even naar het strand.met Beer. 
+
+Tjeerd gaf gisteren een zeer geanimeerd feest in het Zendingscentrum in Oegstgeest tgv zijn 50ste verjaardag. Vrolijke band, prima gedanst tot 11 uur. Heerlijke Surinaamse maaltijd, en natuurlijk aangenaam weerzien met de vrienden: Sam en Marga, Joan en Dick, Eric en Lucia met dochter Sara, Wouter en Sylvia met twee Indische dochtertjes, Henk H. + vrouw, Hans Laarnoes, Hans Lambers. Iedereen was ouder geworden, dat was het eerste wat mij opviel. Na een tijdje praten raakte je dat weer kwijt. Tjeerds moeder en Kathleens vader zag er nog patent uit. De kinderen hielden het ook goed vol tot 11 uur, lekker meegedanst. 
+Uit de krant, gesprek met Konrad: hoe je tegenslagen overwint in het leven, daar gaat het om. Iets om te mailen naar Harry?
