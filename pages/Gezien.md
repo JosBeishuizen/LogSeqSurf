@@ -54,8 +54,9 @@ Cijfer:: 10
   Gezien-op:: 18 feb 2025 in The Movies
   Opm:: Prachtig portret van het Joodse leven in Amsterdam tijdens het interbellum 
   Cijfer:: 9
-- Titel::
-  Tags:: 
-  Gezien-op:: 
-  Opm::
-  Cijfer::
+- Titel:: I'm still here
+  Tags:: Film
+  Gezien-op:: 13 maart 2025 in FC Hyena 
+  Opm:: Beklemmend verhaal over vrolijk gezin in Rio in de jaren 70 tijdens de dictatuur in Brazilië. De vader, voormalig congreslid voor de sociaaldemocraten verdwijnt en komt niet meer terug. De moeder houdt vol, wordt uiteindelijk mensenrechten advocaat. Film heeft Oscar gewonnen: beste buitenlandse film. 
+  Cijfer:: 9
+-
