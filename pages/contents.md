@@ -803,6 +803,10 @@
 			- [[0218 donderdag 18 februari 1999]]
 			- [[0322 maandag 22 maart 1999]]
 			- [[0326 vrijdag 26 maart 1999]]
+			- [[0401 vrijdag 1 april 1999]]
+			- [[0402 vrijdag 2 april 1999]]
+			- [[0405 maandag 5 april 1999]]
+			- [[0408 donderdag 8 april 1999]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
