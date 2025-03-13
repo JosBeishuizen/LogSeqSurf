@@ -11,7 +11,7 @@
 - DONE opgeven Charley
 - LATER belastingen
 - LATER fulli
-- NOW verslag Marga
+- DONE verslag Marga
 - LATER Arjan Vader
 - DONE Verlengsnoer piano
 - DONE Piano monteren
