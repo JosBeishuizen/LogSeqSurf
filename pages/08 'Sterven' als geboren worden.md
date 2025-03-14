@@ -1,0 +1,2 @@
+- 'De mensen zouden niet zoveel moeten nadenken over wat ze moeten doen. Ze zouden moeten nadenken over wat ze zijn ' (Eckhart, Reden der Unterweisung).
+- Eckhart toont weinig belangstelling voor moraal (wat we moeten doen). Wat is nadenken over wat we zijn? Ons wezen is veel groter dan wat we ons ik noemen. Het is uiteindelijk goddelijk. Gods grond is mijn grond, Gods wezen is mijn wezen.
