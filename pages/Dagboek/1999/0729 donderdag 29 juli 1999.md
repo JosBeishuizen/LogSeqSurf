@@ -1,0 +1,4 @@
+# 0729 donderdag 29 juli 1999
+21:43	Vandaag veel kilometers gemaakt. Door het natuurpark Alvoes naar Ermelo en Mondim de Basto en weer terug. Gezocht naar een geschikte zwemplaats en uiteindelijk ook gevonden. Terug naar Amarante en daar gegeten, tot ieders genoegen. Bij het weggaan konden we de N101 niet vinden. Uiteindelijk toch gelukt Iedereen kwam een beetje kachel thuis.
+
+Cathrien is net zo positief als ik vroeger meestal was. Ze somt bij het slapen gaan moeiteloos de leukste momenten van de dag op: Ik geloof dat ik me toch door AC regelmatig uit mijn evenwicht laat brengen. Terwijls ik mezelf toch als positivo beschouw. Sara vond dat wij vaak ruzie maken, althans kattig tegen elkaar doen. Voornemen 1: ik ga me net als Cathrien iets meer richten op mijn eigen genoegens, maak me een beetje losser van AC, met name in minder prettige momenten. Probeer mezelf iets meer te vertrouwen. 

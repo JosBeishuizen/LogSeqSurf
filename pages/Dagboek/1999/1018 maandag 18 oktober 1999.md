@@ -1,0 +1,1 @@
+05:34	Even lekker werken. Zaterdag gezellig moeders verjaardag gevierd in Staverden. Ze wordt wel steeds ouder. Of ze de 90 haalt moet ik nog zien. Gisteren met Berend en zijn vrienden naar Starwars en MacDonalds.

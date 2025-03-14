@@ -1,6 +1,9 @@
 - DONE Formulieren uitdraaien
 - DONE tips lezen
+- NOW Levenstestament: voorbeeld bekijken
+- LATER Levenstestament: eigen lijst maken
 - Inhoud
+  collapsed:: true
 	- Een levenstestament regelt zaken voor je door, een testament na je dood
 	- Zaken die je geregeld wilt hebben, volmacht
 	- Zaakwaarnemer, gemachtigde. Zonder levenstestament kantonrechter en bewindvoerder.

@@ -1,0 +1,2 @@
+# 0430 vrijdag 30 april 1999
+Volle maan in Egmond, 's avonds om 22:47 uur. Sara las uit Feng Sui: stapelbedden zijn slecht voor de energiestromen, de ontwikkeling, het zelfbewustzijn. Hopelijk hebben we niet te laat het stapelbed van de meisje vervangen door een IKEA-combinatie. Vandaag een stralende koninginnedag. Zou het zo blijven?

@@ -1,0 +1,1 @@
+- Henri de Jonge heeft afscheid genomen. Er waren gelukkig toch aardig wat mensen aanwezig. Vriendelijke woorden van Piet van den Broek die meer wist dan ik had kunnen vertellen.

@@ -1,0 +1,2 @@
+# 0111 maandag 11 januari 1999
+09:00 	Op weg naar Leiden na een niet startende auto aan de aandacht van Garage Rens toevertrouwd te hebben. Dromen van een wandeling of schaatstocht door het winterland. Zie nu de zon opgaan boven winterse Haarlemmermeer. Met dat beeld moet het vandaag lukken. Proberen alles rustig te doen, met aandacht en toegewijd aan het hogere

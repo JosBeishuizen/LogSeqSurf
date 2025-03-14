@@ -1,0 +1,2 @@
+# 0425 zondag 25 april 1999
+Anne en de meisjes gaan vandaag naar Egmond. Het is mooi weer. Ik ga met Berend naar zijn laatste basketbal wedstrijd. Verder proberen het artikel af te maken, een stukje voor TC te schrijven en het rapportje van De Gruijter en Zandvliet te lezen.

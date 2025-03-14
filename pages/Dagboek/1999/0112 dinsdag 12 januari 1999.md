@@ -1,0 +1,2 @@
+# 0112 dinsdag 12 januari 1999
+11:55 	In afwachting van aflossing door Marcel Veenman bij het tentamen Onderwijspsychologie. Proberen alles rustig te doen, met aandacht en toewijding aan het hogere. Dat lukt op dit moment aardig. Mits afsluiting van afleidende prikkels uit de omgeving gewaarborgd. 's Avonds eerder dan kwart voor 9 achter je bureau, als je tenminste wilt werken. Kan ook half 9. En niet beneden werken, geeft irritatie.

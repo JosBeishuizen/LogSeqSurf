@@ -1,0 +1,1 @@
+Even een punt op de vroege morgen. Je kan dan wel somber wakker worden maar dat is nog geen reden om je opdracht te verzaken: de harten van andere mensen openmaken. Dat is echt het enige wat telt. De rest is gezeur. Dat geldt ook voor Saar. Ga daar nou eens aan werken vandaag.

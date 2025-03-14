@@ -1,0 +1,2 @@
+# 0614 maandag 14 juni 1999
+05:40	Ook al haat ik dit geklaag over te weinig geld van AC uit de grond van mijn hart, ik zal toch meer opening van zaken moeten geven. Dat werkt beter dan kwaad worden en zwijgen. Die reactie beschouwt zij als een teken van voortgaande overspanning. Niet doen dus.

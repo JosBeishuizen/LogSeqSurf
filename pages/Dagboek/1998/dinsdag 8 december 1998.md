@@ -1,0 +1,1 @@
+- 08:14 Op weg naar Lijden. Geen gezeur. Moed verzamelen en aan de slag. We zijn hersteld!

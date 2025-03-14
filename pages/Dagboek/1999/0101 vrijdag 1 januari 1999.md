@@ -1,0 +1,2 @@
+# 0101 vrijdag 1 januari 1999
+Gisteravond bij Wim en Annet Oud en Nieuw gevierd. Wat waren mijn goede voornemens voor dit jaar? Eigenlijk geen echte voornemens. Wel: de computer alleen voor reken- en schrijfwerk gebruiken, en meer psalmen lezen. Vorig jaar hadden we een nieuwjaarsborrel bij M&M. Dit jaar niet! Misschien proberen ergens in de komende twee maanden een maaltijd te organiseren.

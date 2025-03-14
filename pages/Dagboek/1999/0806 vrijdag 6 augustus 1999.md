@@ -1,0 +1,3 @@
+10:07	Gisteren een heel geslaagde dag in Porto doorgebracht. Mooie stad, op aandringen van Cathrien en Anne veel langer in de Ribeira wijk rondgelopen dan ikzelf wilde. Daardoor nog veel leuker gedeelte ontdekt met schilderachtige trapsteegjes en huizen boven op elkaar. Twee mooie kerken gezien: De San Francisco kerk (zeer barok) en de Sé, de kathedraal. Verder lekker gegeten aan de Douro en mooie oorbellen voor Anne gekocht. 
+
+Het heeft vannacht hard geregend. Het is nog steeds (10.15) bewolkt. De kinderen en Anne gaan naar de markt. Ik wacht ze op bij het café om 12 uur. Nu even werken aan de subsidie-aanvraag (prioriteit 2).

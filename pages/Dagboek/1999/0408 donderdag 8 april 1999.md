@@ -1,0 +1,2 @@
+# 0408 donderdag 8 april 1999
+Wachtend op het verlengde rijbewijs. Opera was heel mooi, niet meeslepend. Jago fluistert Otello in dat Desdemona vreemd gaat met Cassio, quod non. Otello doodt Desdemona, hoort van het bedrog en doodt zichzelf. Mooi koor, eenvoudig decor, heel goed orkest en dirigent. Heerlijke ontspannen avond. Voel me opeens weer een stuk zekerder. 
