@@ -390,7 +390,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["05 god en ik, wij zijn één" "Queries" "20. Samenvatting" "19. Het nieuwe Romeinse Rijk en zijn religie" "Contents" "Te Zien" "Mooie Citaten en Teksten" "Taken" "Templates"]
+ :favorites ["08 'Sterven' als geboren worden" "Queries" "20. Samenvatting" "19. Het nieuwe Romeinse Rijk en zijn religie" "Contents" "Te Zien" "Mooie Citaten en Teksten" "Taken" "Templates"]
 
  ;; Set flashcards interval.
  ;; Expected value:

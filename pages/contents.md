@@ -52,7 +52,6 @@
 	- [[Alzheimerlijst]]
 	- [[Cadeaus]]
 - Activiteiten
-  collapsed:: true
 	- Reviews
 	  collapsed:: true
 		- [[D-22-00513]]
@@ -73,7 +72,6 @@
 		- [[D-24-00986]]
 		- [[De vragen van Alexander]]
 	- Studie
-	  collapsed:: true
 		- [[Maleachi]]
 		- Levinas
 		  collapsed:: true
@@ -118,7 +116,6 @@
 			  collapsed:: true
 		- Ton van der Stap
 			- In een ander licht
-			  collapsed:: true
 				- [[05 God en ik, wij zijn één]]
 				- [[06 Het absurde]]
 				- [[07 De amandelbomen]]
@@ -129,6 +126,7 @@
 		- [[Het Bureau]]
 		- [[Het Psalmenoproer]]
 - Geheugen
+  collapsed:: true
 	- Bijbel
 	  collapsed:: true
 		- Psalmen
@@ -171,6 +169,7 @@
 			- [[Psalm 74]]
 			-
 	- Cultuur
+	  collapsed:: true
 		- [[Te Zien]]
 		- [[Gezien]]
 	- Dagboek
