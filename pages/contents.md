@@ -856,6 +856,10 @@
 			- [[0905 zondag 5 september 1999]]
 			- [[0909 donderdag 9 september 1999]]
 			- [[0910 vrijdag 10 september 1999]]
+			- [[0912 zondag 12 september 1999]]
+			- [[0916 donderdag 16 september 1999]]
+			- [[0923 donderdag 23 september 1999]]
+			- [[0924 vrijdag 24 september 1999]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
