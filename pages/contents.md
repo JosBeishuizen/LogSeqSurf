@@ -651,7 +651,6 @@
 			- [[zondag 22 december 1996]]
 			- [[maandag 23 december 1996]]
 		- 1997
-		  collapsed:: true
 			- [[vrijdag 3 januari 1997]]
 			- [[zondag 5 januari 1997]]
 			- [[maandag 6 januari 1997]]
