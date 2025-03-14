@@ -889,7 +889,7 @@
 			  collapsed:: true
 			- [[zaterdag 15 februari 2025]]
 			- [[woensdag 4 maart 2025]]
-			-
+			- [[vrijdag 14 maart 2025]]
 		- Dagboek voor Wiesje
 		  collapsed:: true
 			- [[240923 maandag 23 september 2024]]
