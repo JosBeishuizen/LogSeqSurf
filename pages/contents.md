@@ -848,7 +848,10 @@
 			- [[0814 zaterdag 14 augustus 1999]]
 			- [[0818 woensdag 18 augustus 1999]]
 			- [[0819 donderdag 19 augustus 1999]]
-			-
+			- [[0820 vrijdag 20 augustus 1999]]
+			- [[0821 zaterdag 21 augustus 1999]]
+			- [[0824 donderdag 24 augustus 1999]]
+			- [[0829 zondag 29 augustus 1999]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
