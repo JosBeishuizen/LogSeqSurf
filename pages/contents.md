@@ -839,6 +839,11 @@
 			- [[0726 maandag 26 juli 1999]]
 			- [[0728 woensdag 28 juli 1999]]
 			- [[0729 donderdag 29 juli 1999]]
+			- [[0802 maandag 2 augustus 1999]]
+			- [[0803 dinsdag 3 augustus 1999]]
+			- [[0804 woensdag 4 augustus 1999]]
+			- [[0806 vrijdag 6 augustus 1999]]
+			- [[0808 zondag 8 augustus 1999]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
