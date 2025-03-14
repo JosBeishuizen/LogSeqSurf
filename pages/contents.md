@@ -719,7 +719,6 @@
 			- [[vrijdag 19 december 1997]]
 			- [[zondag 28 december 1997]]
 		- 1998
-		  collapsed:: true
 			- [[zaterdag 3 januari 1998]]
 			- [[zaterdag 10 januari 1998]]
 			- [[zondag 25 januari 1998]]
@@ -868,7 +867,9 @@
 			- [[1021 donderdag 21 oktober 1999]]
 			- [[1025 maandag 25 oktober 1999]]
 			- [[1029 vrijdag 29 oktober 1999]]
-			-
+			- [[1108 maandag 8 november 1999]]
+			- [[1203 vrijdag 3 december 1999]]
+			- [[1213 maandag 13 december 1999]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
