@@ -4,15 +4,13 @@
 - Eckhart is soms moeilijk te volgen. Amos Oz schrijft: alle wegen leiden naar het lijden. Oz voelt zich niet meer thuis in de bestaande orde. Hij blijft zoeken naar een andere, echte werkelijkheid waar pas werkelijk leven mogelijk is. T.S. Eliot in het gedicht De reis van de drie Koningen:
 -
 - (...) was het doel dat ons dreef
-  
-  geboorte of dood? Wij waren getuigen van een geboorte, zeker, daar is geen twijfel aan. Maar als ik vroeger geboorte of dood
-  
-  zag,
-  
-  dacht ik dat ze tegenstellingen waren. Deze geboorte echter was een onverbiddelijk einde voor ons, een dood, onze dood.
-  
-  Wij keerden terug naar ons land, onze koninkrijken, maar voelden ons niet meer thuis in de oude orde tussen vreemde mensen die hun goden omklemmen.
-  
-  Ik zal blij zijn als ik andermaal sterf.
-  
-  (vertaling: Martinus Nijhoff)
+- geboorte of dood? Wij waren getuigen van een geboorte, zeker, daar is geen twijfel aan. Maar als ik vroeger geboorte of dood zag,
+- dacht ik dat ze tegenstellingen waren. Deze geboorte echter was een onverbiddelijk einde voor ons, een dood, onze dood.
+- Wij keerden terug naar ons land, onze koninkrijken, maar voelden ons niet meer thuis in de oude orde tussen vreemde mensen die hun goden omklemmen.
+- Ik zal blij zijn als ik andermaal sterf.
+- (vertaling: Martinus Nijhoff)
+-
+- Bethlehem heeft hun onthuld dat de bestaande orde op een leugen berust. Mensen omklemmen eigengemaakte goden. Dit inzicht betekent een sterven. Een sterven aan alle vooropgestelde denkbeelden, zeker onze religieuze denkbeelden. Het sterven van het ego. Je moet aan jouw jij-zijn ontzinken, zegt Eckhart.
+- De feitelijke wereld kent een bodemloosheid die ondraaglijk is (Hisamatsu). Dat willen we niet weten. We leven het weg in activiteit. Maar zolang we dat doen, zullen we juist nooit vrede vinden. Alle inzicht begint met de genadeloze conclusie dat we de weg kwijt zijn, en niet weten hoe die terug te vinden is. Maar toch is deze wereld de enige die we hebben. Wat nu te doen?
+- Eerste conclusie: dit besef toelaten. De paradox laten bestaan en er niet voor vluchten. Er bestaat een antwoord maar wij kunnen het niet eigenmachtig veroveren. Soms wordt het obs geopenbaard. Prins Bolkonsky die op het slagveld valt en de hemel boven zich aanschouwt. De hele werkelijkheid wordt doorzichtig en onthult haar eigenlijke wezen dat voor mij verborgen was. 'Sterven'
+-
