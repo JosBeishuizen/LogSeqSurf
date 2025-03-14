@@ -823,7 +823,10 @@
 			- [[0529 zaterdag 29 mei 1999]]
 			- [[0530 zondag 30 mei 1999]]
 			- [[0531 maandag 31 mei 1999]]
-			-
+			- [[0601 dinsdag 1 juni 1999]]
+			- [[0602 woensdag 2 juni 1999]]
+			- [[0609 woensdag 9 juni 1999]]
+			- [[0610 donderdag 10 juni 1999]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
