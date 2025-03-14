@@ -868,6 +868,7 @@
 			- [[1021 donderdag 21 oktober 1999]]
 			- [[1025 maandag 25 oktober 1999]]
 			- [[1029 vrijdag 29 oktober 1999]]
+			-
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
