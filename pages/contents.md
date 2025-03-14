@@ -116,6 +116,7 @@
 			  collapsed:: true
 		- Ton van der Stap
 			- In een ander licht
+			  collapsed:: true
 				- [[05 God en ik, wij zijn één]]
 				- [[06 Het absurde]]
 				- [[07 De amandelbomen]]
@@ -126,7 +127,6 @@
 		- [[Het Bureau]]
 		- [[Het Psalmenoproer]]
 - Geheugen
-  collapsed:: true
 	- Bijbel
 	  collapsed:: true
 		- Psalmen
@@ -650,6 +650,7 @@
 			- [[zondag 22 december 1996]]
 			- [[maandag 23 december 1996]]
 		- 1997
+		  collapsed:: true
 			- [[vrijdag 3 januari 1997]]
 			- [[zondag 5 januari 1997]]
 			- [[maandag 6 januari 1997]]
@@ -717,6 +718,7 @@
 			- [[vrijdag 19 december 1997]]
 			- [[zondag 28 december 1997]]
 		- 1998
+		  collapsed:: true
 			- [[zaterdag 3 januari 1998]]
 			- [[zaterdag 10 januari 1998]]
 			- [[zondag 25 januari 1998]]
@@ -789,6 +791,7 @@
 			- [[vrijdag 11 december 1998]]
 			- [[woensdag 30 december 1998]]
 		- 1999
+		  collapsed:: true
 			- [[0101 vrijdag 1 januari 1999]]
 			- [[0104 maandag 4 januari 1999]]
 			- [[0105 dinsdag 5 januari 1999]]
@@ -874,7 +877,6 @@
 			- [[maandag 30 december 2024]]
 			- [[dinsdag 31 december 2024]]
 		- 2025
-		  collapsed:: true
 			- [[woensdag 1 januari 2025]]
 			- [[vrijdag 3 januari 2025]]
 			- [[vrijdag 10 januari 2025]]
@@ -887,6 +889,7 @@
 			  collapsed:: true
 			- [[zaterdag 15 februari 2025]]
 			- [[woensdag 4 maart 2025]]
+			-
 		- Dagboek voor Wiesje
 		  collapsed:: true
 			- [[240923 maandag 23 september 2024]]
