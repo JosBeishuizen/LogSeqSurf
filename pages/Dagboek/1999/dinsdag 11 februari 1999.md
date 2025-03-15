@@ -1,0 +1,1 @@
+- 09:43 	Op weg naar Leiden door een besneeuwde Haarlemmermeer. Een beetje winter. In de Alpen veel sneeuw, lawines, en doden.

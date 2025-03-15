@@ -52,6 +52,7 @@
 	- [[Alzheimerlijst]]
 	- [[Cadeaus]]
 - Activiteiten
+  collapsed:: true
 	- Reviews
 	  collapsed:: true
 		- [[D-22-00513]]
@@ -116,6 +117,7 @@
 			  collapsed:: true
 		- Ton van der Stap
 			- In een ander licht
+			  collapsed:: true
 				- [[05 God en ik, wij zijn één]]
 				- [[06 Het absurde]]
 				- [[07 De amandelbomen]]
@@ -797,11 +799,11 @@
 			- [[woensdag 6 januari 1999]]
 			- [[maandag 11 januari 1999]]
 			- [[dinsdag 12 januari 1999]]
-			- [[0208 maandag 8 februari 1999]]
-			- [[0211 dinsdag 11 februari 1999]]
-			- [[0218 donderdag 18 februari 1999]]
-			- [[0322 maandag 22 maart 1999]]
-			- [[0326 vrijdag 26 maart 1999]]
+			- [[maandag 8 februari 1999]]
+			- [[dinsdag 11 februari 1999]]
+			- [[donderdag 18 februari 1999]]
+			- [[maandag 22 maart 1999]]
+			- [[vrijdag 26 maart 1999]]
 			- [[0401 vrijdag 1 april 1999]]
 			- [[0402 vrijdag 2 april 1999]]
 			- [[0405 maandag 5 april 1999]]

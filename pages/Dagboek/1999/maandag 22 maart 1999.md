@@ -1,0 +1,1 @@
+- Een week uitblazen na alle ellende van de afgelopen tijd. Zo'n eerste week is nooit de beste. Begonnen met schilderen van halletje in Egmond. Nu nog 15 blz. Murdoch, Bruno's Dream.
