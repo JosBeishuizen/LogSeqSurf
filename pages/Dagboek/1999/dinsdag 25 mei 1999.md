@@ -1,0 +1,1 @@
+- 05:59	Lascia la spina, cogli la rosa. Tu vai cercando il tuo dolor. Vandaag en morgen werken.. Donderdag naar Lissabon. De harde lijn kan ik niet volhouden. Ik ka niet streng naar binnen en aardig naar buiten zijn. Daarin moet evenwicht bestaan. O.K. aan het werk.

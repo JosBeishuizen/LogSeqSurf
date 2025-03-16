@@ -1,0 +1,1 @@
+- 22:00 uur. Een rustige avond, na het bezoek van de fam. Boelens. Nu nog doen: planning voor morgen.

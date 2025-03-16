@@ -1,0 +1,1 @@
+- 22:20	De vriendelijke rust die Hans Wiegel net uitstraalde temidden van zijn Eerste Kamerfractie, die maakte op mij geweldige indruk. Dat werkt toch aanstekelijker dan dat drukke gedraaf van mij. Misschien is dat een goed alternatief op mijn 49e!

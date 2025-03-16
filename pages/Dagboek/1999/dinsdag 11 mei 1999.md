@@ -1,0 +1,1 @@
+- Het gesprek met Paul van den Broek in de benoemingadviescommissie liep gisteren heel erg goed. Opmerkelijk zoals zijn vriendelijkheid opeens als een asset werd beschouwd. Ook in de sectie was iedereen erg over hem  te spreken. Hij staat nu ex aequo met Vaughn. Volgende week in de faculty club moet de doorbraak komen.
