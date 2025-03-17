@@ -174,7 +174,6 @@
 		- [[Te Zien]]
 		- [[Gezien]]
 	- Dagboek
-	  collapsed:: true
 		- 1959
 		  collapsed:: true
 			- [[maandag 25 mei 1959]]
@@ -823,9 +822,9 @@
 			- [[vrijdag 28 mei 1999]]
 			- [[zaterdag 29 mei 1999]]
 			- [[zondag 30 mei 1999]]
-			- [[0531 maandag 31 mei 1999]]
-			- [[0601 dinsdag 1 juni 1999]]
-			- [[0602 woensdag 2 juni 1999]]
+			- [[maandag 31 mei 1999]]
+			- [[dinsdag 1 juni 1999]]
+			- [[woensdag 2 juni 1999]]
 			- [[0609 woensdag 9 juni 1999]]
 			- [[0610 donderdag 10 juni 1999]]
 			- [[0613 zondag 13 juni 1999]]

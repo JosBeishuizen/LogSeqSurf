@@ -1,0 +1,1 @@
+- 09:14	Op weg naar Leiden in een vertraagde trein (nieuwe sporen en nieuwe dienstregeling). Harry mailde dat hij veel had gehad aan mijn mailtje over kanker hebben en kanker zijn. Misschien moet ik het ook eens op mijzelf toepassen.
