@@ -48,5 +48,30 @@
   SCHEDULED: <2025-03-10 Mon .+1y>
 - DONE Wouter
   SCHEDULED: <2025-03-10 Mon .+1y>
+- DONE Ewald
+  id:: 67d99a2e-ae38-44d4-a187-97d1192ab0a8
+  DEADLINE: <2025-03-12 Wed .+1y>
+- DONE Willem Koperdraat
+  SCHEDULED: <2025-03-14 Fri .+1y>
 - Meindert 1935
   SCHEDULED: <2025-03-20 Thu .+1y>
+- Veronique
+  SCHEDULED: <2025-03-25 Tue .+1y>
+- Paultje van Remmen
+  SCHEDULED: <2025-03-26 Wed .+1y>
+- Marjolein Beishuizen
+  SCHEDULED: <2025-04-03 Thu .+1y>
+- Trouwdag
+  SCHEDULED: <2025-04-04 Fri .+1y>
+- Ton
+  SCHEDULED: <2025-04-09 Wed .+1y>
+- Sterfdag Dick 2005
+  SCHEDULED: <2025-04-10 Thu .+1y>
+- Otto
+  SCHEDULED: <2025-04-17 Thu .+1y>
+- Sterfdag Corry
+  SCHEDULED: <2025-04-17 Thu .+1y>
+- Sterfdag Gert 2011
+  SCHEDULED: <2025-04-26 Sat>
+- Wessel 2000
+  SCHEDULED: <2025-04-28 Mon .+1y>

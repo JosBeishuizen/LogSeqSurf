@@ -4,4 +4,4 @@ Gisteravond erg lekker en gezellig gegeten met Anne. Vond haar verpletterend moo
 
 Nu db voorbereiden: Vaughn als gasthoogleraar? Argumenten op een rijtje zetten.
 
-16:56	Boven Denemarken. Hoe staat de zweedse kroon? Honderd zweedse kronen is 25 gulden. Dus alles gewoon door 4 delen en je hebt guldens. O.K. 
+16:56	Boven Denemarken. Hoe staat de zweedse kroon? Honderd zweedse kronen is 25 gulden. Dus alles gewoon door 4 delen en je hebt guldens. O.K.

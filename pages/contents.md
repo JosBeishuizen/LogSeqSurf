@@ -38,6 +38,7 @@
 		- [[Monday 30 December 2024]]
 		- [[Tuesday 31 December 2024]]
 - Planning
+  collapsed:: true
 	- [[Taken]]
 	- [[Reviews]]
 	- [[Financiën]]
@@ -51,6 +52,7 @@
 	- [[Alzheimerlijst]]
 	- [[Cadeaus]]
 - Activiteiten
+  collapsed:: true
 	- Reviews
 	  collapsed:: true
 		- [[D-22-00513]]
@@ -71,6 +73,7 @@
 		- [[D-24-00986]]
 		- [[De vragen van Alexander]]
 	- Studie
+	  collapsed:: true
 		- [[Maleachi]]
 		- Levinas
 		  collapsed:: true
@@ -123,6 +126,7 @@
 				- [[09 God is leegte]]
 		- [[Berlage]]
 	- Lezen
+	  collapsed:: true
 		- [[Roll]]
 		- [[Het Bureau]]
 		- [[Het Psalmenoproer]]
@@ -173,6 +177,7 @@
 		- [[Te Zien]]
 		- [[Gezien]]
 	- Dagboek
+	  collapsed:: true
 		- 1959
 		  collapsed:: true
 			- [[maandag 25 mei 1959]]
@@ -845,14 +850,14 @@
 			- [[zondag 8 augustus 1999]]
 			- [[vrijdag 13 augustus 1999]]
 			- [[zaterdag 14 augustus 1999]]
-			- [[0818 woensdag 18 augustus 1999]]
-			- [[0819 donderdag 19 augustus 1999]]
-			- [[0820 vrijdag 20 augustus 1999]]
-			- [[0821 zaterdag 21 augustus 1999]]
-			- [[0824 donderdag 24 augustus 1999]]
-			- [[0829 zondag 29 augustus 1999]]
-			- [[0904 zaterdag 4 september 1999]]
-			- [[0905 zondag 5 september 1999]]
+			- [[woensdag 18 augustus 1999]]
+			- [[donderdag 19 augustus 1999]]
+			- [[vrijdag 20 augustus 1999]]
+			- [[zaterdag 21 augustus 1999]]
+			- [[donderdag 24 augustus 1999]]
+			- [[zondag 29 augustus 1999]]
+			- [[zaterdag 4 september 1999]]
+			- [[zondag 5 september 1999]]
 			- [[0909 donderdag 9 september 1999]]
 			- [[0910 vrijdag 10 september 1999]]
 			- [[0912 zondag 12 september 1999]]
