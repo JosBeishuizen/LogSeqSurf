@@ -1169,7 +1169,6 @@
 		- Willem Wilmink
 		- Kees Winkler
 	- Recepten
-	  collapsed:: true
 		- [[Aardappelsalade met gerookte forel]]
 		- [[Aardperentaart met peren]]
 		- [[Bietensoep met appel en balsamicoazijn]]
