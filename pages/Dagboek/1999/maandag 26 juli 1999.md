@@ -1,0 +1,1 @@
+- 07:36	Proberen vandaag iets flinker te zijn. Vandaag een wandeling op het programma.

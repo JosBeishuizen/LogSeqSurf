@@ -1,0 +1,1 @@
+- 09:59	Toch weer anders verlopen. Kreeg telefoontje en mail van Paul vdB dat hij afziet van sollicitatie. Waarschijnlijk afgefleurd door Heiser. Grote teleurstelling.
