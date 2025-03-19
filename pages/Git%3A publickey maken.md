@@ -10,4 +10,16 @@
   logseq.order-list-type:: number
 	- cd ~/.ssh
 	  logseq.order-list-type:: number
-	- logseq.order-list-type:: number
+	- cat mykey.pub
+	  logseq.order-list-type:: number
+	- Copierr sleutel
+	  logseq.order-list-type:: number
+	- Ga na github website en login met Authenticator
+	  logseq.order-list-type:: number
+	- Ga naar settings>SSH and GPG keys
+	  logseq.order-list-type:: number
+	- New SSH key
+	  logseq.order-list-type:: number
+	- Copieer sleutel
+	  logseq.order-list-type:: number
+- logseq.order-list-type:: number
