@@ -1,0 +1,2 @@
+- Vanmiddag op Mercia en Franca gepast. Gezellig en ontspannen, zeker door het Kolonisten spel aan het eind van de middag. Mercia speelt dat helemaal zelfstandig en denkt na over elke stap. Leuk om te spelen
+-

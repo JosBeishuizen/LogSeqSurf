@@ -175,7 +175,6 @@
 		- [[Te Zien]]
 		- [[Gezien]]
 	- Dagboek
-	  collapsed:: true
 		- 1959
 		  collapsed:: true
 			- [[maandag 25 mei 1959]]
@@ -794,6 +793,7 @@
 			- [[vrijdag 11 december 1998]]
 			- [[woensdag 30 december 1998]]
 		- 1999
+		  collapsed:: true
 			- [[vrijdag 1 januari 1999]]
 			- [[maandag 4 januari 1999]]
 			- [[dinsdag 5 januari 1999]]
@@ -879,7 +879,6 @@
 			- [[maandag 30 december 2024]]
 			- [[dinsdag 31 december 2024]]
 		- 2025
-		  collapsed:: true
 			- [[woensdag 1 januari 2025]]
 			- [[vrijdag 3 januari 2025]]
 			- [[vrijdag 10 januari 2025]]
@@ -893,6 +892,7 @@
 			- [[zaterdag 15 februari 2025]]
 			- [[woensdag 4 maart 2025]]
 			- [[vrijdag 14 maart 2025]]
+			- [[woensdag 19 maart 2025]]
 		- Dagboek voor Wiesje
 		  collapsed:: true
 			- [[240923 maandag 23 september 2024]]
@@ -904,6 +904,7 @@
 			- [[25]]
 			  collapsed:: true
 	- Digitaal
+	  collapsed:: true
 		- Data
 		  collapsed:: true
 			- [[AC]]
