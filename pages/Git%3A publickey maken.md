@@ -32,5 +32,5 @@
   logseq.order-list-type:: number
 	- git config --global user.name "JosBeishuizen"
 	  logseq.order-list-type:: number
-	- git config --global user.email "josbeishuizen@kpnmail.nl"
+	- git config --global user.email "josbeishuizen@gmail.com"
 	  logseq.order-list-type:: number
