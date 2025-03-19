@@ -52,4 +52,7 @@
   logseq.order-list-type:: number
 	- cd ~/Documents
 	  logseq.order-list-type:: number
-	- logseq.order-list-type:: number
+	- git clone git@github.com:JosBeishuizen/LogSeqSurf.git
+	  logseq.order-list-type:: number
+- Repo openen met LogSeq en klaar!
+  logseq.order-list-type:: number
