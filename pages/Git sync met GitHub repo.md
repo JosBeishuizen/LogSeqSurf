@@ -1,5 +1,9 @@
 - Maak een launcher
 	- #!/usr/bin/env xdg-open
 -
-	- [
+	- [Desktop Entry]
+	- Version=1.0
+	- Type=Application
+	- Terminal=true
+	- Exec=/home/jos/Documents/LogSeqSurf/
 -
