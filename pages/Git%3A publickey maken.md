@@ -6,4 +6,8 @@
   logseq.order-list-type:: number
 - ssh-add ~/.ssh/mykey
   logseq.order-list-type:: number
-- logseq.order-list-type:: number
+- Voeg nieuwe sleutel toe aan github account.
+  logseq.order-list-type:: number
+	- cd ~/.ssh
+	  logseq.order-list-type:: number
+	- logseq.order-list-type:: number
