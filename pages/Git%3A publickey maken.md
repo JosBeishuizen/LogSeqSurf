@@ -22,5 +22,7 @@
 	  logseq.order-list-type:: number
 	- Copieer sleutel
 	  logseq.order-list-type:: number
-- Check: ssh
+- Check: 
   logseq.order-list-type:: number
+	- ssh -T git@github.com
+	  logseq.order-list-type:: number
