@@ -26,5 +26,6 @@
   logseq.order-list-type:: number
 	- ssh -T git@github.com
 	  logseq.order-list-type:: number
-	- ssh-add -l -
+	- ssh-add -l -E sha256
 	  logseq.order-list-type:: number
+	- logseq.order-list-type:: number
