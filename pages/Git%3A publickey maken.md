@@ -48,3 +48,8 @@
 	  Test if it worked using command
 		- ssh -T github.com
 		  logseq.order-list-type:: number
+- Repo clonen
+  logseq.order-list-type:: number
+	- cd ~/Documents
+	  logseq.order-list-type:: number
+	- logseq.order-list-type:: number
