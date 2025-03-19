@@ -4,4 +4,5 @@
   logseq.order-list-type:: number
 - $ eval "$(ssh-agent -s)"
   logseq.order-list-type:: number
-- logseq.order-list-type:: number
+- ssh-add ~/.ssh/
+  logseq.order-list-type:: number
