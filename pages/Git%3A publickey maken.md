@@ -28,4 +28,4 @@
 	  logseq.order-list-type:: number
 	- ssh-add -l -E sha256
 	  logseq.order-list-type:: number
-	- logseq.order-list-type:: number
+- logseq.order-list-type:: number
