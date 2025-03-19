@@ -950,7 +950,7 @@
 				- If you are writing your query and press Enter:
 				- you start a new block in editing mode (moving over any characters after where the position of your cursor when you pressed Enter).
 		- [[Git: publickey maken]]
-		-
+		- [[Git sync met GitHub repo]]
 		- [[Queries]]
 		- [[Templates]]
 	- Poëzie
