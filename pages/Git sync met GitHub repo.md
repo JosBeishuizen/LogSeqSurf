@@ -5,5 +5,7 @@
 	- Version=1.0
 	- Type=Application
 	- Terminal=true
-	- Exec=/home/jos/Documents/LogSeqSurf/
+	- Exec=sh /home/jos/Documents/LogSeqSurf/syn_logseq.sh
+	- Name=Sync Github
+	- Icon=/home/jos/Pictures/Git-Icon-White png
 -
