@@ -46,3 +46,4 @@
 	      ServerAliveInterval 300
 	      ServerAliveCountMax 10
 	  Test if it worked using command
+	- logseq.order-list-type:: number
