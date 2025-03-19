@@ -22,4 +22,5 @@
 	  logseq.order-list-type:: number
 	- Copieer sleutel
 	  logseq.order-list-type:: number
-- logseq.order-list-type:: number
+- Check: ssh
+  logseq.order-list-type:: number
