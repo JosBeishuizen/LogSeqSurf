@@ -52,7 +52,6 @@
 	- [[Alzheimerlijst]]
 	- [[Cadeaus]]
 - Activiteiten
-  collapsed:: true
 	- Reviews
 	  collapsed:: true
 		- [[D-22-00513]]
@@ -126,7 +125,6 @@
 				- [[09 God is leegte]]
 		- [[Berlage]]
 	- Lezen
-	  collapsed:: true
 		- [[Roll]]
 		- [[Het Bureau]]
 		- [[Het Psalmenoproer]]
@@ -1169,6 +1167,7 @@
 		- Willem Wilmink
 		- Kees Winkler
 	- Recepten
+	  collapsed:: true
 		- [[Aardappelsalade met gerookte forel]]
 		- [[Aardperentaart met peren]]
 		- [[Bietensoep met appel en balsamicoazijn]]
