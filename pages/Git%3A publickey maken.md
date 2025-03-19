@@ -32,4 +32,27 @@
   logseq.order-list-type:: number
 	- git config --global user.name "JosBeishuizen"
 	  logseq.order-list-type:: number
-	- logseq.order-list-type:: number
+	- git config --global user.email "josbeishuizen@gmail.com"
+	  logseq.order-list-type:: number
+	- Add a file named config (without any extension) under ~/.ssh
+	  logseq.order-list-type:: number
+	  Edit it using your preferred text editor, add following text into the file
+	  # github
+	  Host github.com
+	      User git
+	      HostName github.com
+	      PreferredAuthentications publickey
+	      IdentityFile <path to your private key file>
+	      ServerAliveInterval 300
+	      ServerAliveCountMax 10
+	  Test if it worked using command
+		- ssh -T github.com
+		  logseq.order-list-type:: number
+- Repo clonen
+  logseq.order-list-type:: number
+	- cd ~/Documents
+	  logseq.order-list-type:: number
+	- git clone git@github.com:JosBeishuizen/LogSeqSurf.git
+	  logseq.order-list-type:: number
+- Repo openen met LogSeq en klaar!
+  logseq.order-list-type:: number

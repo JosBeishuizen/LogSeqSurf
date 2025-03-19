@@ -1,0 +1,11 @@
+- Maak een launcher
+	- #!/usr/bin/env xdg-open
+-
+	- [Desktop Entry]
+	- Version=1.0
+	- Type=Application
+	- Terminal=true
+	- Exec=sh /home/jos/Documents/LogSeqSurf/syn_logseq.sh
+	- Name=Sync Github
+	- Icon=/home/jos/Pictures/Git-Icon-White png
+-
