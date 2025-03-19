@@ -1,2 +1,5 @@
 - Maak een launcher
-	-
+	- #!/usr/bin/env xdg-open
+-
+	- [
+-
