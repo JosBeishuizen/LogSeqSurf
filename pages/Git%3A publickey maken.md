@@ -28,4 +28,8 @@
 	  logseq.order-list-type:: number
 	- ssh-add -l -E sha256
 	  logseq.order-list-type:: number
-- logseq.order-list-type:: number
+- Git opzetten
+  logseq.order-list-type:: number
+	- git config --global user.name "JosBeishuizen"
+	  logseq.order-list-type:: number
+	- logseq.order-list-type:: number
