@@ -6,3 +6,4 @@
   logseq.order-list-type:: number
 - ssh-add ~/.ssh/mykey
   logseq.order-list-type:: number
+- logseq.order-list-type:: number
