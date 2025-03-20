@@ -172,10 +172,10 @@
 			- [[Psalm 74]]
 			-
 	- Cultuur
+	  collapsed:: true
 		- [[Te Zien]]
 		- [[Gezien]]
 	- Dagboek
-	  collapsed:: true
 		- 1959
 		  collapsed:: true
 			- [[maandag 25 mei 1959]]
@@ -794,7 +794,6 @@
 			- [[vrijdag 11 december 1998]]
 			- [[woensdag 30 december 1998]]
 		- 1999
-		  collapsed:: true
 			- [[vrijdag 1 januari 1999]]
 			- [[maandag 4 januari 1999]]
 			- [[dinsdag 5 januari 1999]]
@@ -857,17 +856,17 @@
 			- [[zondag 29 augustus 1999]]
 			- [[zaterdag 4 september 1999]]
 			- [[zondag 5 september 1999]]
-			- [[0909 donderdag 9 september 1999]]
-			- [[0910 vrijdag 10 september 1999]]
-			- [[0912 zondag 12 september 1999]]
-			- [[0916 donderdag 16 september 1999]]
-			- [[0923 donderdag 23 september 1999]]
-			- [[0924 vrijdag 24 september 1999]]
-			- [[0929 woensdag 29 september 1999]]
-			- [[1002 zaterdag 2 oktober 1999]]
-			- [[1003 zondag 3 oktober 1999]]
-			- [[1018 maandag 18 oktober 1999]]
-			- [[1020 woensdag 20 oktober 1999]]
+			- [[donderdag 9 september 1999]]
+			- [[vrijdag 10 september 1999]]
+			- [[zondag 12 september 1999]]
+			- [[donderdag 16 september 1999]]
+			- [[donderdag 23 september 1999]]
+			- [[vrijdag 24 september 1999]]
+			- [[woensdag 29 september 1999]]
+			- [[zaterdag 2 oktober 1999]]
+			- [[zondag 3 oktober 1999]]
+			- [[maandag 18 oktober 1999]]
+			- [[woensdag 20 oktober 1999]]
 			- [[1021 donderdag 21 oktober 1999]]
 			- [[1025 maandag 25 oktober 1999]]
 			- [[1029 vrijdag 29 oktober 1999]]
@@ -905,7 +904,9 @@
 			- [[25]]
 			  collapsed:: true
 	- Digitaal
+	  collapsed:: true
 		- Data
+		  collapsed:: true
 			- [[AC]]
 			- [[ANWB Parkeren]]
 			- [[Cathrien en Jochem]]

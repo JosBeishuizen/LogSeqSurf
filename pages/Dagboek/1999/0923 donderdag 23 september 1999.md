@@ -1,1 +1,0 @@
-17:27	The bloody limit: de hele sectie, exclusief mijn eigen groepje en Harrie valt over mij heen: hij praat alleen met 'de studenten' en ritselt alles achter de schermen. Fleur Prinsen meldt dat een week of vier geleden haar vriend is overleden.

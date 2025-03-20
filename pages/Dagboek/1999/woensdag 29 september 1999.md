@@ -1,0 +1,1 @@
+18:05	Op weg naar Amsterdam na een uiterst productief dagje. Vanochtend uitgeroepen tot themacoördinator van het Speciale Thema van de Onderwijsresearchdagen 2000. Verder met de dames van het ICLON een bevredigende deal gemaakt. Tenslotte met Plug alles geregeld. Scriptievoorstellen bekeken. Verzin nog eens wat leuks. Misschien moet ik mijn oude ziel weer wat meer ruimte geven.
