@@ -176,6 +176,7 @@
 		- [[Te Zien]]
 		- [[Gezien]]
 	- Dagboek
+	  collapsed:: true
 		- 1959
 		  collapsed:: true
 			- [[maandag 25 mei 1959]]
@@ -964,7 +965,6 @@
 			- [[25]]
 			  collapsed:: true
 	- Digitaal
-	  collapsed:: true
 		- Data
 		  collapsed:: true
 			- [[AC]]
@@ -1010,6 +1010,7 @@
 			  When you press Esc, you exit the editing mode and switch to viewing mode.
 				- If you are writing your query and press Enter:
 				- you start a new block in editing mode (moving over any characters after where the position of your cursor when you pressed Enter).
+		- [[Python scripts draaien]]
 		- [[Git: publickey maken]]
 		- [[Git sync met GitHub repo]]
 		- [[Queries]]

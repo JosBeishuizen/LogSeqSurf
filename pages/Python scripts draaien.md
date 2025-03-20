@@ -1,0 +1,9 @@
+- pip installeren:
+	- sudo apt update
+	- sudo apt install python3-pip
+- pynput installeren
+	- sudo apt install python3-pynput
+- sudo apt install xclip xsel -y
+- scripts copiëren uit pcloud/Python naar /home/jos/Python
+- Een script runnen: python3 /home/jos/Python/mh7.py
+- shortcut maken in Settings - Keyboard
