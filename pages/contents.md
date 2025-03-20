@@ -908,7 +908,10 @@
 			- [[0428 vrijdag 28 april 2000]]
 			- [[0430 zondag 30 april 2000]]
 			- [[0501 maandag 1 mei 2000]]
-			- 0
+			- [[0504 donderdag 4 mei 2000]]
+			- [[0505 vrijdag 5 mei 2000]]
+			- [[0507 zondag 7 mei 2000]]
+			- [[0512 vrijdag 12 mei 2000]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
