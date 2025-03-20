@@ -887,6 +887,7 @@
 			- [[0201 dinsdag 1 februari 2000]]
 			- [[0206 zondag 6 februari 2000]]
 			- [[0207 maandag 7 februari 2009]]
+			- [[0208 dinsdag 8 februari 2000]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
