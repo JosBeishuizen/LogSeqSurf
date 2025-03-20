@@ -888,6 +888,10 @@
 			- [[0206 zondag 6 februari 2000]]
 			- [[0207 maandag 7 februari 2009]]
 			- [[0208 dinsdag 8 februari 2000]]
+			- [[0214 maandag 14 februari 2000]]
+			- [[0216 woensdag 16 februari 2000]]
+			- [[0221 maandag 21 februari 2000]]
+			- [[0226 zaterdag 26 februari 2000]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
