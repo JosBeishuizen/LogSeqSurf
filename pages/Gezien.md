@@ -59,4 +59,8 @@ Cijfer:: 10
   Gezien-op:: 13 maart 2025 in FC Hyena 
   Opm:: Beklemmend verhaal over vrolijk gezin in Rio in de jaren 70 tijdens de dictatuur in Brazilië. De vader, voormalig congreslid voor de sociaaldemocraten verdwijnt en komt niet meer terug. De moeder houdt vol, wordt uiteindelijk mensenrechten advocaat. Film heeft Oscar gewonnen: beste buitenlandse film. 
   Cijfer:: 9
--
+- Titel:: Maria
+  Tags:: Film
+  Gezien-op:: 18 maart 2025in FC Hyena
+  Opm:: Laatste week van Maria Callas. Beetje Hollywood verhaal van een diva in haar laatste glorie. Prachtige muziek en decors.
+  Cijfer:: 7

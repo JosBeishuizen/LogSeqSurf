@@ -125,6 +125,7 @@
 				- [[09 God is leegte]]
 		- [[Berlage]]
 	- Lezen
+	  collapsed:: true
 		- [[Roll]]
 		- [[Het Bureau]]
 		- [[Het Psalmenoproer]]
@@ -171,10 +172,10 @@
 			- [[Psalm 74]]
 			-
 	- Cultuur
-	  collapsed:: true
 		- [[Te Zien]]
 		- [[Gezien]]
 	- Dagboek
+	  collapsed:: true
 		- 1959
 		  collapsed:: true
 			- [[maandag 25 mei 1959]]

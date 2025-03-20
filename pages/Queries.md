@@ -78,28 +78,8 @@ query-properties:: [:page]
       :group-by-page? false
       :collapsed? false}
   #+END_QUERY
-- collapsed:: true
-  #+BEGIN_QUERY
-   {:title ["Te doen"]
-      :query [:find (pull ?h [*])
-              :in $ ?start ?today
-              :where
-              [?h :block/name "taken"] 
-              [?h :block/refs ?p]
-              [?h :block/marker ?marker]
-              [(contains? #{"NOW DOING"} ?marker)]
-              ]
-      :inputs [:14d :today]
-      :result-transform (fn [result]
-                          (sort-by (fn [h]
-                                     (get h :block/priority "Z")) result))
-      :group-by-page? false
-      :collapsed? false}
-  #+END_QUERY
-	-
-- collapsed:: true
-	-
-- #+BEGIN_QUERY 
+- query-table:: true
+  #+BEGIN_QUERY 
   {:title [:b.header "Om de dag te beginnen"]
    :query [:find (pull ?b [*])
      :where 
@@ -109,18 +89,4 @@ query-properties:: [:page]
   :collapsed? false
   }
   #+END_QUERY
-- #+BEGIN_QUERY
-   {:title ["Te doen"]
-      :query [:find (pull ?h [*])
-              :in $ ?start ?today
-              :where
-              [?h :block/name "taken"]
-              [?h :block/marker ?marker]
-              [(contains? #{"NOW DOING"} ?marker)]
-              ]
-      :result-transform (fn [result]
-                          (sort-by (fn [h]
-                                     (get h :block/priority "Z")) result))
-      :group-by-page? false
-      :collapsed? false}
-  #+END_QUERY
+-
