@@ -905,9 +905,7 @@
 			- [[25]]
 			  collapsed:: true
 	- Digitaal
-	  collapsed:: true
 		- Data
-		  collapsed:: true
 			- [[AC]]
 			- [[ANWB Parkeren]]
 			- [[Cathrien en Jochem]]
