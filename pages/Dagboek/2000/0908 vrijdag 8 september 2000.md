@@ -1,0 +1,2 @@
+# 0908 vrijdag 8 september 2000
+Vrijdagochtend om 9:19 in Egmond. Sabbatical! Bevalt me nog steeds heel erg goed. Hoewel de dames in Leiden vreesden dat ik hier gek zou worden, omdat ik volgens hen leef voor de sociale contacten. De vrienden verwachtten dit overigens niet.

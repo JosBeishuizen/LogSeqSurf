@@ -1,0 +1,2 @@
+# 0420 donderdag 20 april 2000
+Gisteren een paar mooie zinnen in The Apprentice van Iris Murdoch gelezen: Schuldgevoelens kunnen slecht uitwerken omdat ze verlammend werken. Terwijl er zoveel werk te doen is. Probeer alles wat je doet goed te doen, iets beter te doen. Dat vandaag maar eens proberen.

@@ -1,0 +1,2 @@
+# 0524 woensdag 24 mei 2000
+09:21	Laatste dag in Bladel. Rijd vanavond met Leonhard Oudshoorn mee naar huis. Vandaag speurtocht in het bos en vanmiddag bezoek aan Bladel. Ik ben niet echt een kamptype, maar toch wel veel plezier gehad deze dagen. Dit is in ieder geval mijn laatste Bladelweekje. Overigens hebben de anderen vermoedelijk in meer of mindere mate hetzelfde gevoel. Steeds minder aan het werk gedacht. Ik geloof dat ik mij als leerkracht toch te veel aan sommige leerlingen zou binden. 

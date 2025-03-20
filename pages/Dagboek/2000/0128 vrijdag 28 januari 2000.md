@@ -1,0 +1,2 @@
+# 0128 vrijdag 28 januari 2000
+17:23	Even melden dat we in Florence zitten voor een Mediakids meeting. De vergadering loopt weer eens gruwelijk uit de hand, de vraag of de cd-rom die we maken, een prototype of een volledig product is. 

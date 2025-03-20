@@ -1,0 +1,5 @@
+# 1017 dinsdag 17 oktober 2000
+12:36	Het afgelopen weekend moeders 90ste verjaardag gevierd. Brievenboek gemaakt met veel leuke bijdragen. Zaterdag brunch in Kasteel Staverden. Moeder natuurlijk het stralende middelpunt. Maandagochtend koffie gedronken in De Dillenburg, aan moeders tafel, samen met Janny & Jan. Moeder is de jongste aan die tafel: mevr Luijendijk is 95, mevr. Scholten is 93, mevr. van der Meer is 102! De dames zijn nog erg kwiek. Mevr. L. is de presidente. Moeder is een beetje bang voor haar maar kan ook aardig de draak met haar steken. Bij Janny en Jan bleek dat M&M en JW&T niet zo'n succesvolle reis door Israël hadden gemaakt (afgezien van de politieke spanningen van het moment).
+
+18:11	Op weg naar huis, na een zeer ontspannen middagje op de faculteit. Gezellig met Hanneke thee gedronken. Ze gaat wrsch. 30 oktober onder het mes. Verder nog even teruggeblikt op het turbulente afgelopen jaar. Hanneke heeft er uiteindelijk wel van genoten. Frans heeft een baan in Heerlen!
+

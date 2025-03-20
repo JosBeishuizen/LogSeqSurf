@@ -1,0 +1,6 @@
+# 0703 maandag 3 juli 2000
+07:52	Nederland heeft weer eens gruwelijk de halve finale van het EK voetbal verloren, dit keer door tijdens de wedstrijd 2 strafschoppen te verliezen en bij het strafschoppen nemen (0-0) nog eens 4! Italië is uiteindelijk door Frankrijk verslagen, na tot en met de 89e minuut met 1-0 voorgestaan te hebben. 
+
+Gisteren Cathriens 15e verjaardag gevierd! Ze had har vriendinnen Laura en Julia uitgenodigd. Julia emigreert binnenkort naar de VS. Theo wordt hgl aan de Univ. van Chicago. Cathrien genoot erg van haar verjaardag met de vriendinnen. 's Ochtends uitgebreid ontbijt, daarna koffie en wandelen met de vriendinnen. Gerrie, AC en ik hebben zelf een tocht langs het strand gemaakt. Daan kwam ook nog. 's Middags geborreld en thuis lekker gegeten: zalm met kappertjes en citroen. 's Avonds na de voetbalwedstrijd nog een video gezien. Ze was zeer content met de dag en de cadeaus. Vandaag gaat ze haar haar groen verven voor het schoolfeest. Volgens Gerrie is Abel wel zeer gesteld op Cathrien, maar Cathrien niet op hem. Niet spectaculair genoeg. 
+
+Ik voel mu opgelucht dat ik weer eens over gewone dingen kan schrijven. De werkdruk wordt ook substantieel minder.  C. en S. hebben vakantie, na en inspannende proefwerkweek. Mooi werk.

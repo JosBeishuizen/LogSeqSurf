@@ -1,0 +1,2 @@
+# 0207 maandag 7 februari 2009
+08:03	Op weg naar Leiden. Gisteren in Deventer de jongste nicht bewonderd: Roosje. Mooi, gezellig, teveel gegeten. Gaat nu echt iets aan gebeuren. Ik wil proberen mijn plannen voor deze maand op te schrijven. Er zijn drie toestanden. 1. Emotioneel positief, 2. emotioneel negatief. 3. vriendschappelijk. Ik pendel veel tussen 1 en 2, terwijl ik aan 3 de voorkeur geef. De zon is opgekomen (8:24). Ik kies voor 3 en wil er niet verder over zeuren. 

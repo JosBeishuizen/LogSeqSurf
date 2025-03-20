@@ -1,0 +1,2 @@
+# 1022 zondag 22 oktober 2000
+09:00	Het was gistermidddag wel echt zaterdagmiddag toen ik door Beverwijk en Heemskerk fietste, van Amsterdam naar Egmond. Iedereen in tuin of op het erf de boel netjes aan het maken. Prachtige tocht! Om half 2 vertrokken en om 6 uur hier. In Santpoort een lekke band gekregen. Moest naar Haarlem voor een fietsenmaker. Daar band geplakt en gauw weer verder. Afstand viel tegen. Echt hard doorgefietst en toch 4,5 uur ondrweg, incl. 50 minuten vertraging door lekke band. Eens kijken hoe het dinsdag gaat.

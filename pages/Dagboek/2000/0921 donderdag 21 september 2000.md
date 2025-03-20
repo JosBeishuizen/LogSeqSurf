@@ -1,0 +1,2 @@
+# 0921 donderdag 21 september 2000
+11:11	Of,10:11? Op weg naar Ednburgh voor de ECER conferentie. Gisteren het afstuderen van Hanneke, Samantha en Jessica. Alle drie cum laude. Toespraakjes vielen bij de familie in de smaak. 's Avonds borrels bij Samantha, Jessica en Hanneke. Tussendoor gezellig gegeten met Frans en Pascal. Toch belangrijk om me een beetje als Sipke Fokkema door het afscheid van H.  en J. heen te slaan. Ik heb een metafoor nodig, een model om mij staande te houden. Ook tegenover Anne. Moet haar straks even bellen als ik in het hotel ben aangekomen.

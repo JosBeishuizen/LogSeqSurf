@@ -1,0 +1,2 @@
+# 0313 maandag 13 maart 2000
+10:40	O.K. even een technisch probleem. Hoe ga je om met momenten waarop alles tegelijk op je af komt en je niet weet wat je aan moet pakken. Met anderen gaan praten, dingen gaan regelen is dan een optie, maar de verkeerde. Een concentratie-oefening, dat is dan essentieel. Bedenken wat de eerstvolgende twee taken moeten worden. Die taken, niet te groot, hardop denkend gaan uitvoeren. Kijken of je zo weer de flow te pakken krijgt. De flow, daar gaat het om. Indrukken van buiten af zo veel mogellijk weren. Ook weer door hardop denken.

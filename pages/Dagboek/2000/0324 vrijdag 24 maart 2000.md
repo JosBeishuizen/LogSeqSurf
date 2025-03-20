@@ -1,0 +1,2 @@
+# 0324 vrijdag 24 maart 2000
+08:08	Op weg naar Leiden. Zacht weer maar bewolkt en nevelig. Wel echt lente de afgelopen dagen. Gister een zeer pittige migraine-aanval. Nu nog een beetje naweeën, mar ook de grote rust die daarbij hoort. Deze week druk geweest voor Ig: boekje voor Orkestival in elkaar gezet en tijdens mr discussie over extra eerste klas in goede banen geleid. Vandaag proberen een actieve dag te maken.

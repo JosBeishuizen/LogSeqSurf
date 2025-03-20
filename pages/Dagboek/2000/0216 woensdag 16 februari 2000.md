@@ -1,0 +1,2 @@
+# 0216 woensdag 16 februari 2000
+08:08	Bewolkt en koud, nog bepaald geen voorjaar. Cathrien herstelt zich uitstekend. Vannacht weliswaar niet geslapen, maar wel tot het heldere inzicht gekomen dat ik leef om Anne-Carien, Cathrien, Sara en Berend gelukkig te maken. Dat is mijn doel.

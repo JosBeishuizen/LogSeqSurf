@@ -1,0 +1,4 @@
+# 1020 vrijdag 20 oktober 2000
+09:03	De donderdag is wel goed verlopen. Zij het dat de middagpauze erg uitliep. Vandaag een vrije dag met Anne. Naar een tentoonstelling in de Nieuwe Kerk.
+
+Waar ik mij veel zorgen over maak: dat ik een soort Meindert word waarbij Anne de rol van Mieke op zich neemt. Alles regelen, alles bepalen, terwijl ik mij steeds verder terugtrek. Jan Willem en Titia vonden in Israel dat Meindert de indruk van een geslagen hond maakte. Dat is niet goed. Ik merk nu hoe dicht Anne op mijn  huid zit. Ook in haar zogenaamd afstand bewaren. Ze praat erg denigrerend over mij in gesprek met anderen. Nou ja, ik weet niet of ik al deze zaken vandaag aan de orde ga stellen. Ik ga voorlopig maar eens vooral aan mezelf werken. Misschien kan ik daardoor Anne ook wat beter accepteren. Ik wil in ieder geval niet zo worden als Meindert!

@@ -1,0 +1,2 @@
+# 1205 dinsdag 5 december 2000
+08:49	Het gevoel van controle ben ik op het ogenblik weer kwijt. Maand november college gegeven. Probeer nu de zaak onder controle te houden door per half uur 1 doel te stellen en steeds drie activiteiten in het hoofd te houden. Verder niet te blijven hangen in bijv. computerwerk of andere verslaving. Laatste is hett moeilijkste. Vandaag wordt het surprise maken en gedichten schrijven. 

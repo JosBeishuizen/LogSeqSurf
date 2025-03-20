@@ -1,0 +1,2 @@
+# 0610 zaterdag 10 juni 2000
+09:18	Sara 13 jaar! Ze was blij met haar cadeautjes. Veel sieraden, een t-shirt, een paars kralengordijn voor haar kamer. Cathrien heeft gisteravond een heerlijke pizza gemaakt, en de afgelopen week ook al een keer gekookt. Wat een talenten. We gaan er een gezellige en spraakzame dag van maken. Ben benieuwd of ik nog een uurtje schrijf, een uurtje lees en nog even piano ga spelen. Gerrie en Daan komen gezellig hier op bezoek.

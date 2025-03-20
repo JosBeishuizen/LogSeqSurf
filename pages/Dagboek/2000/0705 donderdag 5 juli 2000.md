@@ -1,0 +1,2 @@
+# 0705 donderdag 5 juli 2000
+In psalm 43 staat: Geef mij iedere dag een teken van liefde. Aan wie zou ik iedere dag een teken van liefde willen geven? In ieder geval aan AC, C, S en B. Misschien moet ik het daartoe beperken. What about Pascal, Hanneke, Jessica, Evelien? Niet noodzakelijk iedere dag. In ieder geval verwacht ik van hen geen teken van liefde. Zeker niet iedere dag. AC is eigenlijk de enige van wie ik dat echt verwacht. En die het ook echt geeft. Het is een teken van stabiliteit als je daartoe in staat bent. 
