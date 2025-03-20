@@ -922,6 +922,10 @@
 			- [[0612 maandag 12 juni 2000]]
 			- [[0614 woensdag 14 juni 2000]]
 			- [[0616 vrijdag 16 juni 2000]]
+			- [[0628 woensdag 28 juni 2000]]
+			- [[0703 maandag 3 juli 2000]]
+			- [[0705 donderdag 5 juli 2000]]
+			- [[0706 vrijdag 6 juli 2000]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
