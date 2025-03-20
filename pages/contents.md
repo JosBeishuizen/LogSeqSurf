@@ -876,6 +876,9 @@
 			- [[maandag 13 december 1999]]
 		- 2000
 			- [[0102 zondag 2 januari 2000]]
+			- [[0103 maandag 3 januari 2000]]
+			- [[0105 woensdag 5 januari 2000]]
+			- [[0110 maandag 10 januari 2000]]
 			-
 		- 2024
 		  collapsed:: true
