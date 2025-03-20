@@ -867,7 +867,7 @@
 			- [[zondag 3 oktober 1999]]
 			- [[maandag 18 oktober 1999]]
 			- [[woensdag 20 oktober 1999]]
-			- [[1021 donderdag 21 oktober 1999]]
+			- [[donderdag 21 oktober 1999]]
 			- [[1025 maandag 25 oktober 1999]]
 			- [[1029 vrijdag 29 oktober 1999]]
 			- [[1108 maandag 8 november 1999]]
