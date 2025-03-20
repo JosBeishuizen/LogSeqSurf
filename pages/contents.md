@@ -928,6 +928,8 @@
 			- [[0706 vrijdag 6 juli 2000]]
 			- [[0707 zaterdag 7 juli 2000]]
 			- [[0713 vrijdag 13 juli 2000]]
+			- [[0724 maandag 24 juli 200]]
+			- [[0725 dinsdag 25 juli 2000]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
