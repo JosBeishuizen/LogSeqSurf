@@ -879,6 +879,11 @@
 			- [[0103 maandag 3 januari 2000]]
 			- [[0105 woensdag 5 januari 2000]]
 			- [[0110 maandag 10 januari 2000]]
+			- [[0112 woensdag 12 januari 2000]]
+			- [[0114 vrijdag 14 januari 2000]]
+			- [[0115 zaterdag 15 januari 2000]]
+			- [[0128 vrijdag 28 januari 2000]]
+			- [[0129 zaterdag 29 januari 2000]]
 			-
 		- 2024
 		  collapsed:: true
