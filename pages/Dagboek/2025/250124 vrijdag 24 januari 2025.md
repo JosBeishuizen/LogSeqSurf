@@ -1,4 +1,4 @@
-- Hoi Wies, even bijpraten. Vandaag wordt je vader 38 jaar! Gelukkig is hij gezond en opgewekt als altijd. Je boft wel met zulke lieve ouders en zulke lieve zusje en broer.
+- Hoi Wies, even bijpraten. Vandaag wordt je vader 38 jaar! Gelukkig is hij gezond en opgewekt als altijd. Je boft wel met zulke lieve ouders en zulke lieve zusjes en broer.
 - Gisteren hebben oma en ik weer bij jullie opgepast. Was weer heel gezellig.
 - ![2025-01-24-19-22-40.jpeg](../assets/2025-01-24-19-22-40.jpeg)
 - ![2025-01-24-21-36-03.jpeg](../assets/2025-01-24-21-36-03.jpeg)
