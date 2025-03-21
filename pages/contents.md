@@ -893,7 +893,7 @@
 			- [[woensdag 16 februari 2000]]
 			- [[maandag 21 februari 2000]]
 			- [[zaterdag 26 februari 2000]]
-			- [[0301 woensdag 1 maart 2000]]
+			- [[woensdag 1 maart 2000]]
 			- [[0306 maandag 6 maart 2000]]
 			- [[0309 donderdag 9 maart 2000]]
 			- [[0313 maandag 13 maart 2000]]
