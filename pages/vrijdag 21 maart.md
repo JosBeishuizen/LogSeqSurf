@@ -1,3 +1,4 @@
 - Begin van de lente. Prachtig weer. Fijne wandeling door het Vliegenbos gemaakt.
 - ![2025-03-21-23-33-28.jpeg](../assets/2025-03-21-23-33-28.jpeg)
--
+- Vanochtend twee plekjes laten verwijderen door de dermatoloog. Allemaal niet levensbedreigend maar moest wel weg.
+- Vanavond koorrepetitie. We zingen weer in de consistorie. Bassen blèren te hard in de relatief kleine ruimte.
