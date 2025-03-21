@@ -878,7 +878,7 @@
 		- 2000
 			- [[zondag 2 januari 2000]]
 			- [[maandag 3 januari 2000]]
-			- [[0105 woensdag 5 januari 2000]]
+			- [[woensdag 5 januari 2000]]
 			- [[0110 maandag 10 januari 2000]]
 			- [[0112 woensdag 12 januari 2000]]
 			- [[0114 vrijdag 14 januari 2000]]
