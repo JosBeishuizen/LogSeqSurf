@@ -1,2 +1,3 @@
 - Begin van de lente. Prachtig weer. Fijne wandeling door het Vliegenbos gemaakt.
+- ![2025-03-21-23-33-28.jpeg](../assets/2025-03-21-23-33-28.jpeg)
 -
