@@ -876,6 +876,7 @@
 			- [[vrijdag 3 december 1999]]
 			- [[maandag 13 december 1999]]
 		- 2000
+		  collapsed:: true
 			- [[zondag 2 januari 2000]]
 			- [[maandag 3 januari 2000]]
 			- [[woensdag 5 januari 2000]]
@@ -967,7 +968,6 @@
 			- [[maandag 30 december 2024]]
 			- [[dinsdag 31 december 2024]]
 		- 2025
-		  collapsed:: true
 			- [[woensdag 1 januari 2025]]
 			- [[vrijdag 3 januari 2025]]
 			- [[vrijdag 10 januari 2025]]
@@ -982,6 +982,7 @@
 			- [[woensdag 4 maart 2025]]
 			- [[vrijdag 14 maart 2025]]
 			- [[woensdag 19 maart 2025]]
+			- [[vrijdag 21 maart]]
 		- Dagboek voor Wiesje
 		  collapsed:: true
 			- [[240923 maandag 23 september 2024]]
