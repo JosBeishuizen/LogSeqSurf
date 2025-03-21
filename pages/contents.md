@@ -52,6 +52,7 @@
 	- [[Alzheimerlijst]]
 	- [[Cadeaus]]
 - Activiteiten
+  collapsed:: true
 	- Reviews
 	  collapsed:: true
 		- [[D-22-00513]]
@@ -125,6 +126,7 @@
 				- [[09 God is leegte]]
 		- [[Berlage]]
 	- Lezen
+	  collapsed:: true
 		- [[Roll]]
 		- [[Het Bureau]]
 		- [[Het Psalmenoproer]]
@@ -175,7 +177,6 @@
 		- [[Te Zien]]
 		- [[Gezien]]
 	- Dagboek
-	  collapsed:: true
 		- 1959
 		  collapsed:: true
 			- [[maandag 25 mei 1959]]
@@ -875,8 +876,8 @@
 			- [[vrijdag 3 december 1999]]
 			- [[maandag 13 december 1999]]
 		- 2000
-			- [[0102 zondag 2 januari 2000]]
-			- [[0103 maandag 3 januari 2000]]
+			- [[zondag 2 januari 2000]]
+			- [[maandag 3 januari 2000]]
 			- [[0105 woensdag 5 januari 2000]]
 			- [[0110 maandag 10 januari 2000]]
 			- [[0112 woensdag 12 januari 2000]]
@@ -934,6 +935,32 @@
 			- [[0730 zondag 30 juli 2000]]
 			- [[0801 dinsdag 1 augustus 2000]]
 			- [[0809 woensdag 9 augustus 2000]]
+			- [[0814 woensdag 14 augustus 2000]]
+			- [[0820 zondag 20 augustus 2000]]
+			- [[0824 donderdag 24 augustus 2000]]
+			- [[0902 zondag 2 september 2000]]
+			- [[0908 vrijdag 8 september 2000]]
+			- [[0911 maandag 11 september 2000]]
+			- [[0918 maandag 18 september 2000]]
+			- [[0919 dinsdag 19 september 2000]]
+			- [[0921 donderdag 21 september 2000]]
+			- [[0929 vrijdag 29 september 2000]]
+			- [[1001 zondag 1 oktober 2000]]
+			- [[1017 dinsdag 17 oktober 2000]]
+			- [[1019 donderdag 19 oktober 2000]]
+			- [[1020 vrijdag 20 oktober 2000]]
+			- [[1022 zondag 22 oktober 2000]]
+			- [[1023 zondag 23 oktober 2000]]
+			- [[1030 maandag 30 oktober 2000]]
+			- [[1105 zondag 5 november 2000]]
+			- [[1108 woensdag 8 november 2000]]
+			- [[1205 dinsdag 5 december 2000]]
+			- [[1210 zondag 10 december 2000]]
+			- [[1215 vrijdag 15 december 2000]]
+			- [[1218 maandag 18 december 2000]]
+			- [[1223 zaterdag 23 december 2000]]
+			- [[1224 zondag 24 december 2000]]
+			- [[1230 zaterdag 30 december 2009]]
 		- 2024
 		  collapsed:: true
 			- [[zondag 29 december 2024]]
