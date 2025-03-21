@@ -125,7 +125,6 @@
 				- [[09 God is leegte]]
 		- [[Berlage]]
 	- Lezen
-	  collapsed:: true
 		- [[Roll]]
 		- [[Het Bureau]]
 		- [[Het Psalmenoproer]]
@@ -967,6 +966,7 @@
 			- [[25]]
 			  collapsed:: true
 	- Digitaal
+	  collapsed:: true
 		- Data
 		  collapsed:: true
 			- [[AC]]
