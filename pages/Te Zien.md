@@ -22,7 +22,8 @@
 		- **18:25** [[quick capture]]:  [The Seed of the Sacred Fig - VPRO Cinema - VPRO Gids](https://www.vprogids.nl/cinema/films/film~15789238~the-seed-of-the-sacred-fig~.html)
 	- Fiore Mio op Picl
 	- The Brutalist in de bioscoop
-	- Sujo op
+	- Sujo op Picl
+		- **18:31** [[quick capture]]:  [Sujo - VPRO Cinema - VPRO Gids](https://www.vprogids.nl/cinema/films/film~15782708~sujo~.html)
 - Muziek
 	- Benjamin Britten - Vioolconcert
 	- Jacques Loussier plays Bach
