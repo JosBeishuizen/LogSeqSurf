@@ -24,6 +24,7 @@
 	- The Brutalist in de bioscoop
 	- Sujo op Picl
 		- **18:31** [[quick capture]]:  [Sujo - VPRO Cinema - VPRO Gids](https://www.vprogids.nl/cinema/films/film~15782708~sujo~.html)
+	- The Order
 - Muziek
 	- Benjamin Britten - Vioolconcert
 	- Jacques Loussier plays Bach
