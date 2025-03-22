@@ -25,7 +25,7 @@
 	- Sujo op Picl
 		- **18:31** [[quick capture]]:  [Sujo - VPRO Cinema - VPRO Gids](https://www.vprogids.nl/cinema/films/film~15782708~sujo~.html)
 	- The Order op Netflix
-		-
+		- **18:33** [[quick capture]]:  [The Order: sfeervolle thriller met griezelig actuele thematiek - VPRO Cinema - VPRO Gids](https://www.vprogids.nl/cinema/lees/artikelen/specials/2024/The-Order--sfeervolle-thriller-met-griezelig-actuele-thematiek.html)
 - Muziek
 	- Benjamin Britten - Vioolconcert
 	- Jacques Loussier plays Bach
